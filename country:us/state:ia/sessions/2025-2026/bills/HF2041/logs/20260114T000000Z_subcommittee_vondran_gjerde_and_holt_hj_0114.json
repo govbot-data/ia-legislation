@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Vondran, Gjerde and Holt. H.J. 01/14.",
+    "date": "2026-01-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2041"
+}
