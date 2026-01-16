@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Education. H.J. 01/15.",
+    "date": "2026-01-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 2092"
+}
