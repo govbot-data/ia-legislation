@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Gehlbach, Bradley and Gosa. H.J. 01/21.",
+    "date": "2026-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 2124"
+}
