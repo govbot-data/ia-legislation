@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Public Safety. H.J. 01/26.",
+    "date": "2026-01-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 2158"
+}
