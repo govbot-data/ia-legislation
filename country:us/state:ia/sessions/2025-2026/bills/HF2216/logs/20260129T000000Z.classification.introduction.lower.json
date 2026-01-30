@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced, placed on calendar. H.J. 01/29.",
+    "date": "2026-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 2216"
+}
