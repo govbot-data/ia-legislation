@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Judiciary.",
+    "date": "2026-02-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 2172"
+}
