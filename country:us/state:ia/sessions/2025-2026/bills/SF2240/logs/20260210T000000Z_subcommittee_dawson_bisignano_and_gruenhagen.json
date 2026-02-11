@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Dawson, Bisignano, and Gruenhagen.",
+    "date": "2026-02-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 2240"
+}
