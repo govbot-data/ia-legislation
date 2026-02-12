@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Driscoll, Zimmer, and Zumbach.",
+    "date": "2026-02-11",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 2276"
+}
