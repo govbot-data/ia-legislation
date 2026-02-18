@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Schultz, Blake, and Bousselot.",
+    "date": "2026-02-17",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 2353"
+}
