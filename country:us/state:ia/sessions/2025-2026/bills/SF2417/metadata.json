@@ -1,0 +1,91 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SF 2417",
+  "title": "A bill for an act establishing requirements and guidelines for conversational AI services, and providing civil penalties, and including applicability provisions.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "artificial intelligence",
+    "civil liability",
+    "computers and software",
+    "minors",
+    "sexual exploitation"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced, placed on calendar.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:53:37Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-20T12:53:37Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "COMMITTEE ON TECHNOLOGY",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"COMMITTEE ON TECHNOLOGY\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/SF2417.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/SF2417.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 2417&ga=91",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-02-20T12:53:37Z"
+  }
+}
