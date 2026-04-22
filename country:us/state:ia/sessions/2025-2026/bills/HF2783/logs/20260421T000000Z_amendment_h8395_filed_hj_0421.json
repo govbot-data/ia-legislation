@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-8395 filed. H.J. 04/21.",
+    "date": "2026-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 2783"
+}
