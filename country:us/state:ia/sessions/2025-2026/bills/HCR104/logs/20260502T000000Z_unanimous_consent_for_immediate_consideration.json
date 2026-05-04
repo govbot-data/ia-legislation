@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Unanimous consent for immediate consideration.",
+    "date": "2026-05-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR 104"
+}
