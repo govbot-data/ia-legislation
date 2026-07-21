@@ -1,0 +1,19 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-1005
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Resolution 5
+H-1005
+1 Amend House Resolution 5 as follows:
+2 1. Page 36, by striking line 1 and inserting:
+3 <12. Postpone indefinitely.>
+4 2. Page 36, by striking line 3 and inserting <time, or to
+5 refer or commit, or to postpone indefinitely a>
+______________________________
+SIEGRIST of Pottawattamie
+HR 5.161 (1) 91
+-1- tm/jh 1/1
