@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Senate, yeas 39, nays 6.",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 711&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 711"
+}

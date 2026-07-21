@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Subcommittee recommends passage.",
+    "occurred_at": "2025-04-14",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SSB 1226&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SSB 1226"
+}

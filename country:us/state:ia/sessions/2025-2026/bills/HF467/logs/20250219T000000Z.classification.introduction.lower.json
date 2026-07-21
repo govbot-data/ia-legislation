@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced, referred to Local Government.",
+    "occurred_at": "2025-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 467&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 467"
+}

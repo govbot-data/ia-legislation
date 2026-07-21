@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced, referred to Ways and Means. H.J. 03/02.",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 2728&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 2728"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee: Vondran, Gjerde and Holt. H.J. 01/14.",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 2041&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 2041"
+}

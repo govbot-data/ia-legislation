@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recorded vote on adoption: yeas 76, nays 10",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HR 3&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 3"
+}

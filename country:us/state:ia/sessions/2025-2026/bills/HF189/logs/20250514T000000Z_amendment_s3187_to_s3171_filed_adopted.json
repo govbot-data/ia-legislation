@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment S-3187 to S-3171 filed, adopted.",
+    "occurred_at": "2025-05-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 189&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 189"
+}

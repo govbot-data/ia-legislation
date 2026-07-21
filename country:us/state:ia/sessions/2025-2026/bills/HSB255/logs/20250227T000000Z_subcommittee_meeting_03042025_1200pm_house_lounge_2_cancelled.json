@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 03/04/2025 12:00PM House Lounge 2 (Cancelled).",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HSB 255&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HSB 255"
+}

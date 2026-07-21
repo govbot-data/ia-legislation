@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee: Taylor, Campbell, and Donahue.",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 522&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 522"
+}

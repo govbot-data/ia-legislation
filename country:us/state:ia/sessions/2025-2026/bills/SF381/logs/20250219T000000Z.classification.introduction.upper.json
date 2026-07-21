@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced, referred to Workforce.",
+    "occurred_at": "2025-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 381&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 381"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee: Gruenhagen, Bennett, and De Witt.",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SSB 1043&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SSB 1043"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Amendment S-3047 filed, adopted.",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 473&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 473"
+}

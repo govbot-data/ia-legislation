@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 03/26/2025 8:00AM House Lounge.",
+    "occurred_at": "2025-03-25",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 695&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 695"
+}

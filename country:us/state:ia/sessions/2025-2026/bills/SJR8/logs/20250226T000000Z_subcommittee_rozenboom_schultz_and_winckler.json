@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee: Rozenboom, Schultz, and Winckler.",
+    "occurred_at": "2025-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SJR 8&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 8"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Amendment H-1273 to amendment H-1233 adopted.",
+    "occurred_at": "2025-04-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 986&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 986"
+}

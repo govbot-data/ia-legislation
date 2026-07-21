@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 02/05/2025 2:30PM House Lounge 2.",
+    "occurred_at": "2025-02-03",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 124&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 124"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee: Salmon, Campbell, and Staed.",
+    "occurred_at": "2025-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 82&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 82"
+}

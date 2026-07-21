@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Motion to suspend rules for immediate consideration of amendment H-1181, yeas 32, nays 63.",
+    "occurred_at": "2025-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 970&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 970"
+}

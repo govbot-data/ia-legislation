@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced, referred to Transportation.",
+    "occurred_at": "2025-02-18",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SSB 1139&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SSB 1139"
+}

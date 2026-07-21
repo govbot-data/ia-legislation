@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 03/20/2025 8:00AM RM 102 (Cancelled).",
+    "occurred_at": "2025-03-20",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 393&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF 393"
+}
