@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-1120
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 766
+H-1120
+1 Amend House File 766 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 147.77, subsection 1, paragraph k, Code
+4 2025, is amended by striking the paragraph.>
+5 2. Page 1, by striking lines 18 through 21 and inserting:
+6 <b. This subsection Paragraph “a” does not apply to a any
+7 of the following:
+8 (1) A person who operates a motor vehicle owned or leased
+9 by a federal, state, or local law enforcement agency if the
+10 operation is part of the person’s official duties.
+11 (2) A person who operates a motor vehicle in compliance with
+12 this subparagraph while possessing, or transporting a passenger
+13 who possesses, an affidavit signed by a physician licensed
+14 under chapter 148, a chiropractor licensed under chapter 151,
+15 or an optometrist licensed under chapter 154 stating that the
+16 person or passenger has a medical condition involving extreme
+17 sensitivity to light that makes it necessary for a motor
+18 vehicle to be equipped with a front windshield, side window, or
+19 sidewing that does not meet the minimum measurable standard of
+20 transparency established in paragraph “a”.
+21 (a) The person or passenger shall carry a copy of the
+22 affidavit in the motor vehicle at all times.
+23 (b) The person shall not operate on the highway a motor
+24 vehicle equipped with a front windshield, a side window to the
+25 immediate right or left of the driver, or a sidewing forward
+26 of and to the left or right of the driver which does not meet a
+27 minimum standard of transparency of thirty-five percent light
+28 transmittance.>
+29 3. By renumbering as necessary.
+______________________________
+GOSA of Scott
+HF 766.839 (2) 91
+-1- th/ns 1/1
