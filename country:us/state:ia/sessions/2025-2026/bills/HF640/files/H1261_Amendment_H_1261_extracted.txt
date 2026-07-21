@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-1261
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 640
+H-1261
+1 Amend House File 640, as passed by the House, as follows:
+2 1. Page 1, line 22, after <default> by inserting <for a
+3 reason other than nonpayment of rent,>
+HF 640.1657.S (1) 91
+-1- mb 1/1
