@@ -1,0 +1,214 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8432
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2788
+H-8432
+1 Amend House File 2788 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 ABORTION —— DEFINED
+6 Section 1. Section 146B.1, subsection 1, Code 2026, is
+7 amended to read as follows:
+8 1. “Abortion” means the termination of a human pregnancy
+9 with the intent other than to produce a live birth or to remove
+10 a dead fetus. “Abortion” does not include any of the following:
+11 a. Treatment of a spontaneous termination of pregnancy,
+12 commonly known as a miscarriage.
+13 b. Removal of the products of conception after an incomplete
+14 or inevitable loss of a pregnancy.
+15 c. Treatment of an ectopic pregnancy.
+16 Sec. 2. Section 146E.1, subsection 1, Code 2026, is amended
+17 to read as follows:
+18 1. “Abortion” means the termination of a human pregnancy
+19 with the intent other than to produce a live birth or to remove
+20 a dead fetus same as defined in section 146B.1.
+21 DIVISION II
+22 INFORMED CONSENT
+23 Sec. 3. Section 146A.1, Code 2026, is amended by adding the
+24 following new subsection:
+25 NEW SUBSECTION. 1A. Prior to performing an abortion,
+26 a physician shall perform an in-person examination of the
+27 pregnant woman including screening for indicia of coercion or
+28 abuse. A physician shall, if necessary, refer the woman to an
+29 appropriate health care provider for treatment consistent with
+30 the examination results.
+31 Sec. 4. Section 146A.1, subsection 6, Code 2026, is amended
+32 by adding the following new paragraphs:
+33 NEW PARAGRAPH. 0a. “Abortion” means the same as defined in
+34 section 146B.1.
+35 NEW PARAGRAPH. 00a. “Health care provider” means a
+HF 2788.4337 (1) 91
+-1- ak/ko 1/6
+
+1 person who is licensed, certified, or otherwise authorized or
+2 permitted by the laws of this state to administer health care
+3 in the ordinary course of business or in the practice of a
+4 profession.
+5 NEW PARAGRAPH. 0b. “Physician” means the same as defined
+6 in section 146B.1.
+7 Sec. 5. NEW SECTION. 146A.2 Prerequisites for dispensing
+8 abortion-inducing drugs —— licensee discipline.
+9 1. As used in this section, unless the context otherwise
+10 requires:
+11 a. “Abortion-inducing drug” means the same as defined in
+12 section 146F.1.
+13 b. “Chemical abortion” means the same as defined in section
+14 146F.1.
+15 c. “Dispense” means the same as defined in section 146F.1.
+16 d. “Medical emergency” means the same as defined in section
+17 146A.1.
+18 e. “Pregnant” or “pregnancy” means the human female
+19 reproductive condition of having a living unborn child within
+20 the pregnant woman’s body throughout every stage of the unborn
+21 child’s life and development, from fertilization to full
+22 gestation and childbirth.
+23 2. A physician who is performing or attempting to perform
+24 a chemical abortion shall do all of the following prior to
+25 prescribing or dispensing an abortion-inducing drug to a
+26 pregnant woman:
+27 a. Obtain the signature of the woman on the United States
+28 food and drug administration patient agreement form required
+29 for each abortion-inducing drug authorized to be manufactured
+30 or sold in the United States.
+31 b. Obtain written confirmation from the woman that the woman
+32 has been informed of all of the following information:
+33 (1) The gestational age-specific risks of abortion-inducing
+34 drugs.
+35 (2) The risks related to the specific abortion-inducing
+HF 2788.4337 (1) 91
+-2- ak/ko 2/6
+
+1 drug or drugs to be used, including hemorrhage, failure to
+2 remove all tissue of the unborn child, sepsis, sterility, and
+3 possible continuation of the pregnancy.
+4 (3) That the United States federal food and drug
+5 administration recommends that the pregnant woman follow up
+6 with the woman’s health care provider approximately seven
+7 to fourteen calendar days after the administration of an
+8 abortion-inducing drug to confirm complete termination of
+9 pregnancy has occurred and to evaluate the degree of bleeding.
+10 (4) That women using abortion-inducing drugs have suffered
+11 trauma from seeing the remains of the unborn child in the
+12 process of a chemical abortion.
+13 c. Advise the pregnant woman how to access emergency
+14 surgical intervention in case of an incomplete abortion, severe
+15 bleeding, or other medical complications.
+16 3. Subsection 2 shall not apply to a chemical abortion
+17 performed in response to a medical emergency.
+18 4. This section shall not be construed to impose civil or
+19 criminal liability on a woman upon whom a chemical abortion has
+20 been performed.
+21 5. A physician who fails to comply with this section is
+22 subject to licensee discipline under chapter 148.
+23 6. The board of medicine shall adopt rules pursuant to
+24 chapter 17A to administer this section.
+25 DIVISION III
+26 DISPENSING ABORTION-INDUCING DRUGS
+27 Sec. 6. NEW SECTION. 146F.1 Definitions.
+28 As used in this chapter, unless the context otherwise
+29 requires:
+30 1. “Abortion-inducing drug” means any drug, chemical,
+31 or other substance that is prescribed or administered with
+32 the intent of performing an abortion. “Abortion-inducing
+33 drug” includes the off-label use of drugs that are prescribed
+34 or administered with the intent of performing an abortion.
+35 “Abortion-inducing drug” does not include a drug, chemical,
+HF 2788.4337 (1) 91
+-3- ak/ko 3/6
+
+1 or other substance that is prescribed or administered for a
+2 purpose other than to perform an abortion, even if the drug may
+3 be known to cause an abortion.
+4 2. “Chemical abortion” means an abortion performed by the
+5 administration or use of an abortion-inducing drug.
+6 3. “Dispense” means to distribute, administer, or send an
+7 abortion-inducing drug to the ultimate user.
+8 4. “Health care setting” means a pharmacy, clinic, medical
+9 office, or hospital.
+10 5. “Hospital” means the same as defined in section 135B.1.
+11 6. “Interested party” means any of the following persons:
+12 a. A woman upon whom a chemical abortion was performed or
+13 attempted.
+14 b. The personal representative of a woman upon whom a
+15 chemical abortion was performed or attempted.
+16 7. “Medical emergency” means the same as defined in section
+17 146A.1.
+18 8. “Personal representative” means an administrator or
+19 an executor, or if there is no such personal representative
+20 appointed, then a person legally authorized to perform
+21 substantially the same functions.
+22 Sec. 7. NEW SECTION. 146F.2 Dispensing of abortion-inducing
+23 drugs —— restrictions.
+24 1. A person shall not dispense an abortion-inducing drug in
+25 this state unless all of the following criteria are met:
+26 a. The drug is dispensed in a health care setting directly
+27 to the woman prescribed the drug.
+28 b. The person dispensing the drug is authorized to do so
+29 pursuant to section 147.107.
+30 2. Subsection 1 does not apply to the dispensing of an
+31 abortion-inducing drug in response to a medical emergency.
+32 Sec. 8. NEW SECTION. 146F.4 Private cause of action ——
+33 civil liability.
+34 1. A person who dispenses an abortion-inducing drug
+35 in violation of section 146F.2 shall be civilly liable
+HF 2788.4337 (1) 91
+-4- ak/ko 4/6
+
+1 to any interested party for all damages caused by the
+2 abortion-inducing drug. A person who is subject to licensee
+3 discipline under chapter 148 or 155A shall be immune from civil
+4 liability under this section.
+5 2. In addition to compensatory or punitive damages, a
+6 prevailing plaintiff who brings an action under this section is
+7 entitled to court costs and reasonable attorney fees.
+8 3. In an action brought under this section, the name and
+9 other identifying characteristics of a woman who sought or
+10 obtained an abortion-inducing drug shall be redacted without
+11 a court order from all pleadings and documents filed in the
+12 action. The court may make further orders as necessary to
+13 protect the identity and privacy of the woman who sought or
+14 obtained an abortion-inducing drug.
+15 4. This section shall not be construed to impose civil or
+16 criminal liability on a woman upon whom a chemical abortion is
+17 performed.
+18 Sec. 9. NEW SECTION. 146F.5 Licensee discipline.
+19 A licensee who fails to comply with this chapter is subject
+20 to licensee discipline under chapter 148 or 155A.
+21 DIVISION IV
+22 ABORTION-RELATED PROVISIONS
+23 Sec. 10. Section 144.29A, subsection 1, paragraph k, Code
+24 2026, is amended to read as follows:
+25 k. The method used for an induced termination, including
+26 whether mifepristone or misoprostol was used.
+27 Sec. 11. Section 144.29A, subsection 1, Code 2026, is
+28 amended by adding the following new paragraph:
+29 NEW PARAGRAPH. l. If a spontaneous termination of
+30 pregnancy, whether the patient ingested mifepristone or
+31 misoprostol within fourteen calendar days prior to the date of
+32 the spontaneous termination of pregnancy.
+33 Sec. 12. Section 144.29A, subsection 7, paragraph c, Code
+34 2026, is amended to read as follows:
+35 c. “Spontaneous termination of pregnancy”, commonly known
+HF 2788.4337 (1) 91
+-5- ak/ko 5/6
+
+1 as a miscarriage, means the occurrence of an unintended
+2 termination of pregnancy at any time during the period from
+3 conception to twenty weeks gestation and which is not a
+4 spontaneous termination of pregnancy at any time during the
+5 period from twenty weeks or greater which is reported to the
+6 department as a fetal death under this chapter.>
+7 2. Title page, by striking lines 1 through 3 and inserting
+8 <An Act relating to abortions including definitions, informed
+9 consent, dispensing of abortion-inducing drugs, and other
+10 abortion-related provisions.>
+______________________________
+WOOD of Taylor
+HF 2788.4337 (1) 91
+-6- ak/ko 6/6
