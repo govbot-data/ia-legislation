@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8395
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2783
+H-8395
+1 Amend House File 2783 as follows:
+2 1. Page 19, after line 16 by inserting:
+3 <Sec. ___. Section 256.183, subsection 1, unnumbered
+4 paragraph 1, Code 2026, is amended to read as follows:
+5 “Accredited private institution” means an institution of
+6 higher learning located in Iowa which is operated privately
+7 and not controlled or administered by any state agency or
+8 any subdivision of the state and which meets the criteria in
+9 paragraphs “a” and “b” and all of the criteria in paragraphs “d”
+10 through “k” “l”, except that institutions defined in paragraph
+11 “c” of this subsection are exempt from the requirements of
+12 paragraphs “a” and “b”:
+13 Sec. ___. Section 256.183, subsection 1, Code 2026, is
+14 amended by adding the following new paragraph:
+15 NEW PARAGRAPH. l. Does not offer an academic program that
+16 results in the conferring of an associate degree.>
+17 2. Page 23, after line 6 by inserting:
+18 <Sec. ___. LEGISLATIVE FINDING AND INTENT. The general
+19 assembly finds and declares all of the following:
+20 1. Accredited private institutions, as defined in section
+21 256.183, have expressed a desire to avoid competition in the
+22 area of higher education.
+23 2. Under Iowa law, accredited private institutions may
+24 offer academic programs that result in the conferring of an
+25 associate degree.
+26 3. Under Iowa law, community colleges established under
+27 chapter 260C are not authorized to offer academic programs that
+28 result in the conferring of a bachelor’s degree.
+29 4. The general assembly appropriates millions of dollars
+30 each year to the Iowa tuition grants program, which provides
+31 tuition grants to students who attend accredited private
+32 institutions.
+33 5. It is the intent of the general assembly that the
+34 provisions of this division of this Act amending the definition
+35 of accredited private institution in section 256.183 be
+HF 2783.4128 (1) 91
+-1- jda/jh 1/2
+
+1 interpreted to effect the desire of the accredited private
+2 institutions to avoid competition in the area of higher
+3 education by ensuring that accredited private institutions do
+4 not use taxpayer dollars appropriated under the Iowa tuition
+5 grants program to compete with community colleges by offering
+6 academic programs that result in the conferring of an associate
+7 degree.>
+8 3. By renumbering as necessary.
+______________________________
+COLLINS of Des Moines
+______________________________
+SIEGRIST of Pottawattamie
+HF 2783.4128 (1) 91
+-2- jda/jh 2/2
