@@ -1,0 +1,19 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5179
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 512
+S-5179
+1 Amend Senate File 512, as passed by the Senate, as follows:
+2 1. Page 1, line 2, by striking <2025> and inserting <2026>
+3 2. Page 1, line 3, before <Actions> by inserting <Nothing
+4 in this section shall be construed to alter the law governing
+5 when a cause of action accrues, including the discovery rule
+6 and related doctrines, as recognized by statute or common law.>
+SF 512.3996.H (1) 91
+-1- md 1/1

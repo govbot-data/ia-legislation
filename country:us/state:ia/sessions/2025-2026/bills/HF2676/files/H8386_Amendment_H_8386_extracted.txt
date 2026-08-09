@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8386
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2676
+H-8386
+1 Amend the Senate amendment, H-8335, to House File 2676, as
+2 amended, passed, and reprinted by the House, as follows:
+3 1. By striking page 1, line 5, through page 48, line 10, and
+4 inserting:
+5 <Sec. ___. NEW SECTION. 135.196 Iowa benefit exchange fund
+6 —— enhanced premium credits —— appropriation.
+7 1. As used in this section, “enhanced premium tax credit”
+8 means the advanced premium tax credit under 26 U.S.C.
+9 §36B(3)(A).
+10 2. The department and the department of insurance and
+11 financial services shall cooperate and develop an internet
+12 site to be located on the internet site of the department to
+13 effectuate this section.
+14 3. An Iowa benefit exchange fund is created in the state
+15 treasury under the control of the department. Moneys in the
+16 fund are to be used for the sole purpose of providing subsidies
+17 to persons whose applications have been approved pursuant to
+18 this section. Moneys in the fund are not subject to section
+19 8.33. Notwithstanding section 12C.7, subsection 2, interest or
+20 earnings on moneys in the fund shall be credited to the fund.
+21 4. The purpose of the fund is to provide funding for the
+22 establishment of a state-based health insurance subsidy to
+23 mitigate the impact of the reduction in the enhanced federal
+24 advanced premium tax credits after the 2025 tax year.
+25 5. For the fiscal year beginning July 1, 2026, and ending
+26 June 30, 2027, there is appropriated from the general fund of
+27 the state to the department to be credited to the Iowa benefit
+28 exchange fund, an amount sufficient to implement this section
+29 until such time that the enhanced federal advanced premium
+30 tax credits are restored to a level equaling or exceeding the
+31 amount of the enhanced premium tax credit available to persons
+32 during the 2025 tax year.
+33 6. Beginning July 1, 2026, in order to qualify for a subsidy
+34 to mitigate the impact of the reduction in enhanced federal
+35 advanced premium tax credits, a person who is a resident may
+H 8335.4109 (2) 91
+-1- ss/ko 1/2
+
+1 submit an application to the department in a manner specified
+2 by the department. The application shall include identical
+3 information submitted by a person as if applying for health
+4 insurance coverage under the federal Patient Protection and
+5 Affordable Care Act, Pub. L. No. 111-148, including personal
+6 information, household income, immigration status, and any
+7 current or available health insurance coverage.
+8 7. a. For the tax year beginning on or after January 1,
+9 2026, but before January 1, 2027, and upon approval of the
+10 application by the department, an amount equal to the enhanced
+11 premium tax credit the person would have received as if the
+12 enhanced premium tax credit did not expire shall be provided to
+13 the person to offset the cost of the health insurance coverage.
+14 b. The amount provided shall be based upon the calculation
+15 for the enhanced premium tax credits during the 2025 tax year.
+16 c. The amount provided may be retroactive to January 1,
+17 2026, if the person qualified for such credits, or to the
+18 date the person would have qualified for enhanced premium tax
+19 credits in 2026, whichever is earlier.
+20 8. The department shall adopt rules pursuant to chapter 17A
+21 to administer this section.
+22 ___. Title page, by striking lines 1 through 3 and inserting
+23 <An Act establishing a state-based health insurance subsidy,
+24 and making an appropriation.>>
+25 2. By renumbering as necessary.
+______________________________
+McBURNEY of Polk
+H 8335.4109 (2) 91
+-2- ss/ko 2/2

@@ -1,0 +1,492 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8384
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2422
+H-8384
+1 Amend Senate File 2422, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <DIVISION I
+6 PUBLIC ASSISTANCE PROGRAMS —— ELIGIBILITY
+7 Section 1. NEW SECTION. 234.6A Program eligibility ——
+8 residency.
+9 1. As used in this section, “public assistance program”
+10 means any of the following:
+11 a. The state child care assistance program under section
+12 237A.13.
+13 b. The family investment program under chapter 239B.
+14 c. The medical assistance program under chapter 249A.
+15 d. The supplemental nutrition assistance program
+16 administered by the state pursuant to 7 C.F.R. pts. 270 – 283,
+17 as amended.
+18 e. The special supplemental nutrition program for women,
+19 infants, and children as provided in 42 U.S.C. §1786 et seq.
+20 2. a. Unless prohibited under federal law, the department
+21 may require from an applicant to a public assistance program
+22 proof of at least twelve months of continuous residency within
+23 the state including any of the following:
+24 (1) A statement from the applicant attesting to the
+25 applicant’s reasons for being in the state and length of
+26 residency within the state.
+27 (2) A statement from the applicant’s employer confirming
+28 the applicant’s employment in the state.
+29 (3) Any other statement from other persons with knowledge
+30 who can attest to the applicant’s reasons for being in the
+31 state and length of residency within the state.
+32 (4) A copy of the applicant’s most recently filed Iowa state
+33 income tax return.
+34 b. Paragraph “a” shall not apply to applicants who receive
+35 benefits under the federal Social Security Act, 42 U.S.C. §423
+SF 2422.4100 (2) 91
+-1- ak/ko 1/13
+
+1 et seq.
+2 Sec. 2. Section 239.6, subsection 1, paragraph a,
+3 subparagraph (4), Code 2026, is amended to read as follows:
+4 (4) Information maintained by the United States citizenship
+5 and immigration services of the United States department of
+6 homeland security, including but not limited to information
+7 accessible through the systematic alien verification for
+8 entitlements online service.
+9 Sec. 3. Section 239.6, subsection 2, Code 2026, is amended
+10 by adding the following new paragraph:
+11 NEW PARAGRAPH. g. The systematic alien verification for
+12 entitlements online service maintained by the United States
+13 citizenship and immigration services of the United States
+14 department of homeland security or other accessible sources to
+15 verify immigration and United States citizenship information.
+16 DIVISION II
+17 SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM —— ELIGIBILITY
+18 Sec. 4. Section 239.1, Code 2026, is amended by adding the
+19 following new subsection:
+20 NEW SUBSECTION. 01. “Alien” means any person not a citizen
+21 or national of the United States.
+22 Sec. 5. Section 239.2, Code 2026, is amended to read as
+23 follows:
+24 239.2 Supplemental nutrition assistance program —— income
+25 eligibility.
+26 1. a. The department shall establish the gross countable
+27 monthly income threshold for the supplemental nutrition
+28 assistance program at less than or equal to one hundred sixty
+29 percent of the federal poverty level for the household size.
+30 b. (1) The department shall consider the income and
+31 financial resources of all household members in determining
+32 the eligibility and benefit allotment of the household,
+33 including all household members determined to be ineligible
+34 to participate in SNAP under this section or pursuant to 7
+35 U.S.C. §2015(f). Notwithstanding 7 C.F.R. §273.11(c)(3), the
+SF 2422.4100 (2) 91
+-2- ak/ko 2/13
+
+1 individual’s income, deductible expenses, and resources shall
+2 be counted, and none shall be prorated.
+3 (2) (a) Notwithstanding subparagraph (1), the department
+4 shall exclude the earned income of household members who are
+5 between the ages of eighteen and twenty-two in determining
+6 the eligibility and benefit allotment of the household upon
+7 approval of the waiver submitted by the department under 2026
+8 Iowa Acts, Senate File 2422, or successor legislation to
+9 provide that for purposes of state administration of SNAP, the
+10 earned income under 7 C.F.R. §273.9(c)(7) of household members
+11 that meet all the following criteria shall be excluded from
+12 household income:
+13 (i) Less than twenty-two years of age.
+14 (ii) Enrolled in an elementary or secondary school.
+15 (iii) Resides with a natural parent, adoptive parent,
+16 stepparent, or other household member who exercises parental
+17 control over the household member described in subparagraph
+18 subdivisions (i) and (ii).
+19 (b) The director of health and human services shall
+20 notify the Iowa Code editor upon approval of the waiver under
+21 subparagraph division (a).
+22 c. Pursuant to 7 U.S.C. §2015(f), an individual shall be
+23 ineligible to participate in SNAP unless the individual is a
+24 resident of the United States and meets at least one of the
+25 following criteria:
+26 (1) The individual is a citizen or national of the United
+27 States.
+28 (2) The individual is an alien lawfully admitted for
+29 permanent residence as an immigrant, as defined in 8 U.S.C.
+30 §1101(a)(15) and 1101(a)(20), excluding alien visitors,
+31 tourists, diplomats, students, or other individuals admitted
+32 temporarily with no intention of abandoning their residence in
+33 a foreign country.
+34 (3) The individual is an alien who has been granted the
+35 status of Cuban and Haitian entrant, as defined in section
+SF 2422.4100 (2) 91
+-3- ak/ko 3/13
+
+1 501(e) of the federal Refugee Education Assistance Act of 1980,
+2 Pub. L. No. 96-422.
+3 (4) The individual lawfully resides in the United States in
+4 accordance with a compact of free association referred to in 8
+5 U.S.C. §1612(b)(2)(G).
+6 2. The department shall comply with federal reporting
+7 requirements relating to a household member who is determined
+8 to be ineligible to participate in SNAP pursuant to 7 C.F.R.
+9 §273.4(b).
+10 DIVISION III
+11 MEDICAID AND IOWA HEALTH AND WELLNESS PLAN —— RETROACTIVE
+12 ELIGIBILITY
+13 Sec. 6. NEW SECTION. 249A.3B Medicaid —— retroactive
+14 eligibility.
+15 1. Notwithstanding any provision of state law to the
+16 contrary, effective January 1, 2027, in compliance with section
+17 71112 of Pub. L. No. 119-21, commonly referred to as the One
+18 Big Beautiful Bill Act, the department shall adopt rules to
+19 provide that the eligibility of a individual who is a pregnant
+20 woman, a child, or a resident of a nursing facility licensed
+21 under chapter 135C shall be applied retroactively for no more
+22 than two months prior to the month in which the individual
+23 submits a completed medical assistance program application.
+24 2. The department shall not adopt rules, or submit a
+25 request for a waiver or state plan amendment to the centers for
+26 Medicare and Medicaid services of the United States department
+27 of health and human services, to permit the department to
+28 provide medical assistance program eligibility retroactively to
+29 any other adult individual except as provided in subsection 1.
+30 Sec. 7. Section 249N.4, subsection 5, Code 2026, is amended
+31 to read as follows:
+32 5. A member is eligible for coverage effective the first day
+33 of the month following the month of application for enrollment.
+34 The department shall not adopt rules or submit a request for
+35 a waiver or state plan amendment to the centers for Medicare
+SF 2422.4100 (2) 91
+-4- ak/ko 4/13
+
+1 and Medicaid services of the United States department of health
+2 and human services to permit the department to provide program
+3 eligibility prior to the month in which the individual submits
+4 a completed application for enrollment.
+5 Sec. 8. 2017 Iowa Acts, chapter 174, section 12, subsection
+6 15, paragraph a, subparagraph (7), as amended by 2018 Iowa
+7 Acts, chapter 1165, section 107, is amended by striking the
+8 subparagraph.
+9 Sec. 9. MEDICAID RETROACTIVE ELIGIBILITY —— WAIVER. The
+10 department of health and human services shall submit a
+11 request for a section 1115 demonstration waiver to the centers
+12 for Medicare and Medicaid services of the United States
+13 department of health and human services for approval to
+14 allow, for purposes of state administration of Medicaid, for
+15 implementation by the department of no retroactive eligibility
+16 for any adult individual who is not a pregnant woman, a child,
+17 or a resident of a nursing facility licensed under chapter
+18 135C, upon the submission of a completed Medicaid application,
+19 instead of three months as required under 42 C.F.R. §435.915.
+20 The department shall implement the waiver upon receipt of
+21 approval of the waiver by the centers for Medicare and Medicaid
+22 services of the United States department of health and human
+23 services.
+24 DIVISION IV
+25 SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM —— ERROR RATE REPORT
+26 AND WAIVERS
+27 Sec. 10. NEW SECTION. 135.16E Supplemental nutrition
+28 assistance program error rate —— report.
+29 Beginning with the fiscal quarter that starts on October
+30 1, 2026, and every fiscal quarter thereafter, within thirty
+31 calendar days of transmission of data to the food and nutrition
+32 services of the United States department of agriculture, the
+33 department shall submit a report to the general assembly
+34 detailing payment error rates associated with the supplemental
+35 nutrition assistance program for the immediately preceding
+SF 2422.4100 (2) 91
+-5- ak/ko 5/13
+
+1 fiscal quarter. For the purposes of this section, “supplemental
+2 nutrition assistance program” has the same meaning as defined
+3 in section 239.1.
+4 Sec. 11. FEDERAL SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+5 —— WAIVER OF EARNED INCOME RULES.
+6 1. The department of health and human services shall
+7 request a waiver from the food and nutrition services of the
+8 United States department of agriculture to provide that,
+9 for purposes of state administration of the supplemental
+10 nutrition assistance program, the earned income under 7
+11 C.F.R. §273.9(c)(7) of household members that meet all of the
+12 following criteria shall be excluded from household income:
+13 a. Less than twenty-two years of age.
+14 b. Enrolled in an elementary or secondary school.
+15 c. Resides with a natural parent, adoptive parent,
+16 stepparent, or other household member who exercises parental
+17 control over the household member described in paragraphs “a”
+18 and “b”.
+19 2. The department of health and human services shall
+20 implement the waiver upon receipt of approval of the waiver
+21 from the United States department of agriculture.
+22 Sec. 12. FEDERAL SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+23 —— WAIVER OF ELIGIBILITY VERIFICATION RULES.
+24 1. The department of health and human services shall
+25 request a waiver from the food and nutrition services of the
+26 United States department of agriculture to provide that, for
+27 purposes of state administration of the supplemental nutrition
+28 assistance program, information from the following automated
+29 sources be considered verified upon receipt for purposes
+30 of 7 C.F.R. §272.12(c):
+31 a. The national directory of new hires maintained by the
+32 office of child support services of the United States office
+33 for the administration of children and families.
+34 b. The unemployment insurance benefits data released by the
+35 Iowa department of workforce development.
+SF 2422.4100 (2) 91
+-6- ak/ko 6/13
+
+1 c. The United States social security administration
+2 benefits, death, social security number, and citizenship
+3 records.
+4 d. The residency and identity data released by the United
+5 States department of transportation.
+6 e. The state incarceration data released by the Iowa
+7 department of corrections.
+8 f. The automated employment verification service known as
+9 work number, or equivalent third-party income verification
+10 platforms.
+11 2. The department of health and human services shall
+12 implement the waiver upon receipt of approval of the waiver
+13 from the United States department of agriculture.
+14 Sec. 13. FEDERAL SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+15 —— WAIVER OF EXPUNGEMENT RULES.
+16 1. The department of health and human services shall
+17 request a waiver from the food and nutrition services of the
+18 United States department of agriculture to provide that, for
+19 purposes of state administration of the supplemental nutrition
+20 assistance program, expungement of benefits on a household’s
+21 electronic benefit account under 7 C.F.R. §274.2(i) be
+22 permitted after three months or ninety-one days of inactivity,
+23 or of benefits remaining, on the electronic benefit account.
+24 2. The department of health and human services shall
+25 implement the waiver upon receipt of approval of the waiver
+26 from the United States department of agriculture.
+27 Sec. 14. FEDERAL SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
+28 —— WAIVER OF PAYMENT QUALITY CONTROL SAMPLING PROCEDURES.
+29 1. The department of health and human services shall
+30 request a waiver from the food and nutrition services of the
+31 United States department of agriculture to provide that, for
+32 purposes of state administration of the supplemental nutrition
+33 assistance program, when reporting the state’s payment error
+34 rate as outlined by 7 C.F.R. §275.14, and food and nutrition
+35 services handbooks 310 and 311, the department of health and
+SF 2422.4100 (2) 91
+-7- ak/ko 7/13
+
+1 human services be permitted to report the payment error rate
+2 based only on errors directly attributable to the department.
+3 2. The department of health and human services shall
+4 implement the waiver upon receipt of approval of the waiver
+5 from the United States department of agriculture.
+6 DIVISION V
+7 MEDICAID —— EMPLOYED PERSONS WITH DISABILITIES AND EXCEPTIONS
+8 TO POLICY REVIEW
+9 Sec. 15. Section 249A.3, subsection 2, paragraph a,
+10 subparagraph (1), Code 2026, is amended to read as follows:
+11 (1) (a) As allowed under 42 U.S.C.
+12 §1396a(a)(10)(A)(ii)(XIII), individuals with disabilities,
+13 who are less than sixty-five years of age, who are members of
+14 families whose income is less than two hundred fifty three
+15 hundred percent of the most recently revised official poverty
+16 guidelines published by the United States department of health
+17 and human services for the family, who have earned income
+18 and who are eligible for mandatory medical assistance or
+19 optional medical assistance under this section if earnings are
+20 disregarded.
+21 (b) As allowed by 42 U.S.C. §1396a(r)(2), unearned income
+22 shall also be disregarded in determining whether an individual
+23 is eligible for assistance under this subparagraph.
+24 (c) For the purposes of determining the amount of an
+25 individual’s resources under this subparagraph and as allowed
+26 by 42 U.S.C. §1396a(r)(2), a maximum of ten thousand dollars
+27 of available resources for an individual, and twenty-one
+28 thousand dollars of available resources for a couple shall be
+29 disregarded, and any additional resources held in a retirement
+30 account, in a medical savings account, or in any other account
+31 approved under rules adopted by the department shall also be
+32 disregarded.
+33 (b) (d) Individuals eligible for assistance under this
+34 subparagraph, whose individual income exceeds one hundred
+35 fifty percent of the official poverty guidelines published
+SF 2422.4100 (2) 91
+-8- ak/ko 8/13
+
+1 by the United States department of health and human services
+2 for an individual, shall pay a premium. The amount of the
+3 premium shall be based on a sliding fee schedule adopted by
+4 rule of the department and shall be based on a percentage of
+5 the individual’s income. The maximum premium payable by an
+6 individual whose income exceeds one hundred fifty percent of
+7 the official poverty guidelines shall be commensurate with
+8 the cost of state employees’ group health insurance in this
+9 state. The payment to and acceptance by an automated case
+10 management system or the department of the premium required
+11 under this subparagraph shall not automatically confer initial
+12 or continuing program eligibility on an individual. The
+13 department shall maintain a page on the department’s internet
+14 site where individuals can electronically pay any premium owed
+15 by an individual to the department. A premium paid to and
+16 accepted by the department’s premium payment process that is
+17 subsequently determined to be untimely or to have been paid on
+18 behalf of an individual ineligible for the program shall be
+19 refunded to the remitter in accordance with rules adopted by
+20 the department. Any unpaid premium shall be a debt owed to the
+21 department.
+22 Sec. 16. Section 249A.4, Code 2026, is amended by adding the
+23 following new subsections:
+24 NEW SUBSECTION. 15. Submit a report to the general
+25 assembly, including the official payment error rate and
+26 a summary of the data submitted in the payment error rate
+27 measurement report, within thirty calendar days of receipt by
+28 the department of the annual official payment error rate from
+29 the centers for Medicare and Medicaid services of the United
+30 States department of health and human services.
+31 NEW SUBSECTION. 16. Submit an annual report to the general
+32 assembly on or before October 1 on petitions for a waiver, also
+33 referred to by the department as exceptions to policy, of rules
+34 governing the Medicaid program filed pursuant to the rules of
+35 the department. The report must include all the following for
+SF 2422.4100 (2) 91
+-9- ak/ko 9/13
+
+1 the immediately preceding fiscal year:
+2 a. The total number of exceptions to policy granted.
+3 b. The cumulative cost of the exceptions to policy that were
+4 granted.
+5 c. The types of exceptions to policy that were granted.
+6 d. Identifiable trends noted by the department including any
+7 of the following:
+8 (1) The number of exceptions to policy granted in a
+9 particular geographic location.
+10 (2) The types of Medicaid services that were the basis for
+11 exceptions to policy.
+12 (3) The Medicaid program eligibility classification of
+13 individuals granted exceptions to policy.
+14 Sec. 17. MEDICAID EXCEPTIONS TO POLICY REVIEW —— REPORT
+15 TO GENERAL ASSEMBLY. The department of health and human
+16 services shall conduct a review of petitions for a waiver,
+17 also referred to by the department as exceptions to policy, of
+18 rules governing the Medicaid program granted by the department
+19 between January 1, 2020, and January 1, 2026, and shall submit
+20 a report on or before December 15, 2026, of the findings of the
+21 review. The report shall include all of the following:
+22 1. The total number of exceptions to policy granted.
+23 2. The cumulative cost of the exceptions to policy that were
+24 granted.
+25 3. The types of exceptions to policy that were granted.
+26 4. Identifiable trends noted by the department including
+27 any of the following:
+28 a. The number of exceptions to policy granted in a
+29 particular geographic location.
+30 b. The types of Medicaid services that were the basis for
+31 exceptions to policy.
+32 c. The Medicaid program classification of individuals
+33 granted exceptions to policy.
+34 Sec. 18. CONTINGENT EFFECTIVE DATE. The following takes
+35 effect contingent upon receipt of federal approval by the
+SF 2422.4100 (2) 91
+-10- ak/ko 10/13
+
+1 department of health and human services from the centers for
+2 Medicare and Medicaid services of the United States department
+3 of health and human services:
+4 The section of this division of this Act amending section
+5 249A.3, subsection 2, paragraph “a”, subparagraph (1), Code
+6 2026, relating to Medicaid eligibility for employed individuals
+7 with disabilities.
+8 DIVISION VI
+9 MEDICAID REIMBURSEMENT RATE —— SPECIAL POPULATION NURSING
+10 FACILITIES
+11 Sec. 19. Section 249A.2, Code 2026, is amended by adding the
+12 following new subsection:
+13 NEW SUBSECTION. 15. “Special population nursing facility”
+14 refers to a nursing facility that serves one of the following
+15 populations and has been designated as a special population
+16 nursing facility by the department:
+17 a. One hundred percent of the residents served are aged
+18 thirty and under and require a skilled level of care.
+19 b. Seventy percent of the residents served require a skilled
+20 level of care for neurological disorders.
+21 c. One hundred percent of the residents require care from a
+22 facility licensed by the department of inspections, appeals,
+23 and licensing as an intermediate care facility for persons with
+24 mental illness.
+25 d. One hundred percent of the residents require care from a
+26 facility licensed by the department of inspections, appeals,
+27 and licensing as an intermediate care facility for persons with
+28 medical complexity.
+29 Sec. 20. NEW SECTION. 249A.38C Medicaid reimbursement rate
+30 —— special population nursing facilities.
+31 The provider reimbursement rate for each special population
+32 nursing facility must be the special population nursing
+33 facility’s average allowable per diem costs as adjusted in
+34 compliance with applicable federal laws and regulations,
+35 including the upper payment limits specified in 42 C.F.R.
+SF 2422.4100 (2) 91
+-11- ak/ko 11/13
+
+1 §447.272(b). If a special population nursing facility subject
+2 to this section increases the special population nursing
+3 facility’s number of beds or expands to provide additional
+4 services on or after July 1, 2026, the reimbursement rate in
+5 this section shall apply to such additional beds or services.
+6 DIVISION VII
+7 MEDICAID —— EXPENDITURE NEUTRALITY
+8 Sec. 21. NEW SECTION. 249A.32C Medicaid waivers and state
+9 plan amendments —— expenditure neutrality.
+10 1. For purposes of this section, unless the context
+11 otherwise requires, “expenditure neutral” means that the cost
+12 of a federally approved change to an existing, or new request
+13 for a, Medicaid waiver or state plan amendment will not result
+14 in a net increase in expenditures from the general fund of the
+15 state, as certified by an independent actuary retained by the
+16 department and confirmed by the legislative services agency.
+17 2. The department shall not implement a change to a Medicaid
+18 waiver or state plan amendment approved by the centers for
+19 Medicare and Medicaid services of the United States department
+20 of health and human services if the change is not expenditure
+21 neutral, unless expressly approved by the general assembly
+22 through legislation prior to the implementation of the change.
+23 3. This section shall not apply when the department
+24 implements a federally approved change to, or submits a new
+25 request for, a Medicaid waiver or state plan amendment that
+26 meets any of the following requirements:
+27 a. The change or new request was submitted for federal
+28 approval prior to July 1, 2026, regardless of whether federal
+29 approval has been received by the department by July 1, 2026.
+30 b. The change or new request has previously been approved
+31 by the general assembly through legislation, or is necessary
+32 to administer legislation enacted prior to the department
+33 implementing the change or submitting a new request.
+34 c. The change or new request is required by federal law
+35 or regulation, or is necessary to comply with federal law or
+SF 2422.4100 (2) 91
+-12- ak/ko 12/13
+
+1 regulation.
+2 d. The change or new request is necessary to comply with a
+3 settlement agreement, consent decree, or other resolution of a
+4 state violation of the federal Medicaid program. A change or
+5 new request initiated under this paragraph shall be reported
+6 to the general assembly, with an estimate of the fiscal impact
+7 of the change or new request to the extent it is known, within
+8 thirty days of the date of the settlement agreement, consent
+9 decree, or other resolution of a state violation of the federal
+10 Medicaid program.
+11 e. The change or new request involves the development or
+12 implementation of actuarially sound capitation rates consistent
+13 with 42 C.F.R. §438.4.
+14 4. The department may adopt rules pursuant to chapter 17A to
+15 administer this section.>
+16 2. Title page, by striking lines 1 through 5 and inserting
+17 <An Act relating to public assistance programs under the
+18 purview of the department of health and human services,
+19 including the supplemental nutrition assistance program,
+20 Medicaid, the Iowa health and wellness plan, and Medicaid for
+21 unemployed persons with disabilities, and including effective
+22 date provisions.>
+______________________________
+HARRIS of Appanoose
+SF 2422.4100 (2) 91
+-13- ak/ko 13/13

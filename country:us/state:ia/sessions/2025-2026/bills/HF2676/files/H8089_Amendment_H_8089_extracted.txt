@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8089
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2676
+H-8089
+1 Amend House File 2676 as follows:
+2 1. Page 7, after line 23 by inserting:
+<DIVISION
+3 SCHOOLS —— DRINKING WATER
+4 Sec. ___. Section 256E.7, subsection 2, Code 2026, is
+5 amended by adding the following new paragraph:
+6 NEW PARAGRAPH. 00t. Be subject to and comply with the
+7 requirements of section 280.32A relating to drinking water
+8 nitrate-nitrogen concentrations in the same manner as a school
+9 district.
+10 Sec. ___. Section 256F.4, subsection 2, Code 2026, is
+11 amended by adding the following new paragraph:
+12 NEW PARAGRAPH. w. Be subject to and comply with the
+13 requirements of section 280.32A relating to drinking water
+14 nitrate-nitrogen concentrations in the same manner as a school
+15 district.
+16 Sec. ___. NEW SECTION. 280.32A Drinking water —— nitrate
+17 and nitrogen concentrations.
+18 The board of directors of each school district shall
+19 ensure the provision of the drinking water at schools with
+20 nitrate-nitrogen concentrations of no higher than three
+21 milligrams per liter.
+22 Sec. ___. SCHOOLS —— DRINKING WATER. There is appropriated
+23 from the general fund of the state to the department of
+24 education for the fiscal year beginning July 1, 2026, and
+25 ending June 30, 2027, the following amount, or so much thereof
+26 as is necessary, to be used for the provision of drinking water
+27 at schools with nitrate-nitrogen concentrations of no higher
+28 than three milligrams per liter:
+29 ................................................. $ 10,000,000>
+30 2. Title page, line 2, after <medication,> by inserting <and
+31 education, making appropriations>
+32 3. By renumbering as necessary.
+HF 2676.3067 (2) 91
+-1- ss/ko 1/2
+
+______________________________
+BAETH of Polk
+HF 2676.3067 (2) 91
+-2- ss/ko 2/2

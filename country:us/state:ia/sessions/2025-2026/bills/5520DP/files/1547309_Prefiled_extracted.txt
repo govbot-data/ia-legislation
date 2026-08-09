@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED UTILITIES
+COMMISSION BILL)
+A BILL FOR
+1 An Act relating to utility disconnections of gas and
+2 electricity services during severe weather.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5520DP (1) 91
+sb/js
+
+S.F. _____ H.F. _____
+1 Section 1. Section 476.20, subsection 3, Code 2026, is
+2 amended by adding the following new paragraph:
+3 NEW PARAGRAPH. d. The rules adopted by the commission shall
+4 provide that a public utility furnishing gas or electricity
+5 shall not disconnect service to a residence in the event of
+6 severe cold weather or severe hot weather, as defined by such
+7 rules.
+8 EXPLANATION
+9 The inclusion of this explanation does not constitute agreement with
+10 the explanation’s substance by the members of the general assembly.
+11 This bill relates to utility disconnections of gas and
+12 electricity services during severe weather.
+13 The bill adds a requirement for the Iowa utilities
+14 commission (commission) to adopt rules that prohibit the
+15 disconnection of gas or electric service to a residence during
+16 periods of severe cold weather or severe hot weather, as
+17 defined by such rules. The commission currently has rules to
+18 prohibit the disconnection of gas or electric service under
+19 certain conditions relating to severe cold weather.
+LSB 5520DP (1) 91
+-1- sb/js 1/1

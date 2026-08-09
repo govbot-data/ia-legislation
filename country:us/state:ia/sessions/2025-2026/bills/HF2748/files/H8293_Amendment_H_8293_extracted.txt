@@ -1,0 +1,145 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8293
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2748
+H-8293
+1 Amend House File 2748 as follows:
+2 1. Page 27, after line 2 by inserting:
+3 <DIVISION ___
+4 PROPRIETARY TREATMENT SYSTEMS
+5 Sec. ___. NEW SECTION. 455B.241 Definitions.
+6 As used in this part 3 of subchapter III, unless the context
+7 otherwise requires:
+8 1. “Certified technician” means a person who is certified
+9 in accordance with the manufacturer to monitor, maintain, and
+10 inspect proprietary treatment systems.
+11 2. a. “Class A proprietary treatment system” means a
+12 media-based or passive secondary treatment system that is
+13 certified by an accreditation body, including a certification
+14 meeting national sanitation foundation standard 40 class I.
+15 b. “Class A proprietary treatment system” includes but is
+16 not limited to a peat moss biofilter, coconut fiber filter,
+17 synthetic foam filter, polystyrene bead media filter, or
+18 textile filter.
+19 3. “Class B proprietary treatment system” means a secondary
+20 treatment system that relies on mechanical aeration that is
+21 certified by an accreditation body, including a certification
+22 meeting national sanitation foundation standard 40 class I.
+23 4. “Proprietary treatment system” or “system” means either
+24 a class A proprietary treatment system or class B proprietary
+25 treatment system.
+26 Sec. ___. NEW SECTION. 455B.242 Monitoring and maintenance
+27 requirements.
+28 1. Prior to the installation of a proprietary treatment
+29 system, the system owner and a certified technician shall enter
+30 into a contract for monitoring and maintenance of the system.
+31 The contract shall be required for the life of the system, and
+32 a copy of the contract shall be provided to the applicable
+33 administrative authority.
+34 2. A proprietary treatment system shall be inspected,
+35 monitored, and maintained by the certified technician in
+HF 2748.3808 (1) 91
+-1- da/js 1/4
+
+1 accordance with the manufacturer’s specifications. A class
+2 A proprietary treatment system shall be maintained at least
+3 annually. A class B proprietary treatment system shall be
+4 maintained at least twice per year or more frequently if
+5 required by the manufacturer’s specifications.
+6 3. Any maintenance and visual inspection of a proprietary
+7 treatment system shall be performed by a certified technician.
+8 A certified technician shall report results, as provided in
+9 section 455B.243, to the system owner and to the applicable
+10 administrative authority within thirty days following the
+11 inspection. The certified technician shall also report any
+12 discontinuance or proprietary treatment system maintenance to
+13 the applicable administrative authority.
+14 4. A proprietary treatment system may be used when the
+15 applicable administrative authority determines the site is
+16 unacceptable for a conventional subsurface soil absorption
+17 system. Preference shall be given to the use of a class A
+18 proprietary treatment system due to the operating principle
+19 being similar to that of intermittent subsurface sand filter
+20 beds. A class B proprietary treatment system shall not be
+21 used on a vacation home, church, or event facility, or other
+22 seasonal or infrequent use facility.
+23 Sec. ___. NEW SECTION. 455B.243 Reporting.
+24 1. A maintenance and visual inspection report for a class A
+25 proprietary treatment system or class B proprietary treatment
+26 system, as required under section 455B.242, shall record at
+27 least the following information:
+28 a. The date of the inspection.
+29 b. The type of proprietary treatment system.
+30 c. Whether the proprietary treatment system is functioning
+31 correctly or functioning incorrectly.
+32 d. Any sign of equipment malfunction, the cause of the
+33 malfunction, and the corrective action taken.
+34 e. Results of water testing if the proprietary treatment
+35 system is subject to national pollution discharge elimination
+HF 2748.3808 (1) 91
+-2- da/js 2/4
+
+1 system general permit number four.
+2 f. If the proprietary treatment system is functioning
+3 incorrectly, the primary reason for the deficiency, including
+4 but not limited to:
+5 (1) Improper installation.
+6 (2) Lack of required maintenance.
+7 (3) Improper operation or malfunction.
+8 (4) Other damages or conditions contributing to the
+9 malfunction.
+10 2. The completed report shall be submitted to the department
+11 by the certified technician in the form and manner prescribed
+12 by the department.
+13 3. The department shall compile the information and
+14 shall maintain a publicly accessible database summarizing
+15 inspection outcomes. The database shall not include personally
+16 identifiable information.
+17 4. The department shall not assess any fees associated with
+18 the receipt, collection, or analysis of reports required under
+19 this section.
+20 Sec. ___. NEW SECTION. 455B.244 Rulemaking authority.
+21 The department may adopt rules as necessary to administer
+22 this part.
+23 Sec. ___. DEPARTMENT OF NATURAL RESOURCES —— PROPRIETARY
+24 TREATMENT SYSTEM STUDY.
+25 1. The department of natural resources shall conduct a
+26 study utilizing the information regarding proprietary treatment
+27 systems reported to the department pursuant to section
+28 455B.243, as enacted by this Act.
+29 2. In conducting the study, the department shall review
+30 the information submitted in annual inspection and maintenance
+31 reports, including proprietary treatment system functionality,
+32 causes of deficiencies, and maintenance practices. The
+33 department shall also review any other data the department
+34 determines relevant to evaluating system performance.
+35 3. The study shall include analysis of inspection,
+HF 2748.3808 (1) 91
+-3- da/js 3/4
+
+1 monitoring, and maintenance data collected from July 1,
+2 2026, to December 1, 2027, for purposes of evaluating the
+3 performance, reliability, maintenance needs, and common causes
+4 of malfunction of proprietary treatment systems.
+5 4. The department shall submit to the general assembly on or
+6 before January 10, 2028, a report detailing the department’s
+7 findings and recommendations.
+8 Sec. ___. APPLICABILITY. This division of this Act applies
+9 to the inspection, monitoring, and maintenance of proprietary
+10 treatment systems, as defined in section 455B.241, as enacted
+11 by this Act, performed on or after July 1, 2026.>
+12 2. Title page, by striking lines 1 through 4 and inserting
+13 <An Act relating to resources of the state, including by
+14 providing for the promotion and regulation of agricultural
+15 commodities and products; the regulation of the>
+16 3. Title page, line 6, by striking <agricultural>
+17 4. By renumbering as necessary.
+______________________________
+MOMMSEN of Clinton
+HF 2748.3808 (1) 91
+-4- da/js 4/4

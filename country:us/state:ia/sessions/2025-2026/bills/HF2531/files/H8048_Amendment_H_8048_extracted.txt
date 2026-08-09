@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8048
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2531
+H-8048
+1 Amend the amendment, H-8033, to House File 2531, as follows:
+2 1. Page 2, line 19, before <owner> by inserting <surface>
+3 2. Page 4, line 10, by striking <in coal> and inserting <in
+4 coal>
+5 3. Page 5, line 16, by striking <sold> and inserting <solid>
+6 4. Page 6, line 3, by striking <in coal> and inserting <in
+7 coal>
+______________________________
+HARRIS of Appanoose
+H 8033.2899 (1) 91
+-1- ms/js 1/1

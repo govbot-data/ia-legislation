@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8434
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2787
+H-8434
+1 Amend House File 2787 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 804.32 Warrant resolution
+5 programs —— requirements.
+6 1. If an entity or organization conducts a warrant
+7 resolution program, the following requirements shall be
+8 followed:
+9 a. Courts shall have access to criminal background
+10 information, including national crime information center data.
+11 b. A county attorney shall have access to criminal
+12 background information, including national crime information
+13 center data.
+14 c. Law enforcement shall be present.
+15 2. A person is not eligible to participate in the warrant
+16 resolution program if the person’s warrant is for any of the
+17 following, based upon a criminal background check:
+18 a. A sex offense.
+19 b. A probation violation.
+20 c. A parole violation.
+21 d. A felony warrant.
+22 e. A domestic violence or abuse violation.
+23 f. A violent misdemeanor.>
+24 2. Title page, by striking lines 1 through 3 and inserting
+25 <An Act relating to warrant resolution programs.>
+______________________________
+RAMIREZ of Linn
+HF 2787.4366 (1) 91
+-1- as/js 1/1

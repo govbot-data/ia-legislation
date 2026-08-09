@@ -1,0 +1,336 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8469
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2465
+H-8469
+1 Amend Senate File 2465, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 13, after line 29 by inserting:
+4 <Sec. ___. Section 203.1, subsection 3, Code 2026, is
+5 amended by striking the subsection and inserting in lieu
+6 thereof the following:
+7 3. “Credit-sale contract” means a contract for the sale of
+8 grain pursuant to which the sale price is to be paid more than
+9 thirty days after the delivery of the grain to the buyer, or a
+10 contract which is titled as a credit-sale contract, including
+11 but not limited to those contracts commonly referred to as
+12 deferred-payment contracts, deferred-pricing contracts, and
+13 price-later contracts.
+14 Sec. ___. Section 203.1, subsections 5 and 6, Code 2026, are
+15 amended by striking the subsections.>
+16 2. Page 15, by striking lines 17 through 32 and inserting:
+17 <Sec. ___. Section 203.8, subsection 1, Code 2026, is
+18 amended by striking the subsection and inserting in lieu
+19 thereof the following:
+20 1. a. A grain dealer licensed or required to be licensed
+21 pursuant to section 203.3 shall pay the purchase price to the
+22 seller for grain upon delivery or demand by the seller, but
+23 not later than thirty days after delivery by the seller unless
+24 in accordance with the terms of a credit-sale contract that
+25 satisfies the requirements of this chapter. The department
+26 shall adopt rules for payment by check and electronic funds
+27 transfer.
+28 b. A grain dealer licensed or required to be licensed
+29 pursuant to section 203.3 shall not hold a check for the
+30 purchase of grain more than five days after the grain dealer
+31 issues a check to the seller. After that date, the grain
+32 dealer shall deliver the check in person or by mail to the
+33 seller’s last known address.>
+34 3. By striking page 16, line 23, through page 18, line 7,
+35 and inserting:
+SF 2465.4375 (3) 91
+-1- da/js 1/9
+
+1 <Sec. ___. Section 203.15, subsections 1, 3, 4, and 6, Code
+2 2026, are amended by striking the subsections and inserting in
+3 lieu thereof the following:
+4 1. The grain dealer shall be licensed pursuant to section
+5 203.3. All of the following shall apply to a grain dealer
+6 required to be licensed under that section who purchases grain
+7 by credit-sale contract:
+8 a. The grain dealer shall give written notice to the
+9 department prior to engaging in the purchase of grain by
+10 credit-sale contract. The notice shall contain information
+11 required by the department.
+12 b. All credit-sale contract forms in the possession of the
+13 grain dealer shall have been permanently and consecutively
+14 numbered at the time of printing of the forms. The grain
+15 dealer shall maintain an accurate record of all credit-sale
+16 contract forms and numbers obtained by that dealer. The record
+17 shall include the disposition of each numbered form, whether by
+18 execution, destruction, or otherwise.
+19 c. The grain dealer who purchases grain by credit-sale
+20 contract shall maintain records as required by the department
+21 in compliance with this section.
+22 3. Title to all grain sold by a credit-sale contract is
+23 in the purchasing grain dealer as of the time the contract is
+24 executed, unless the contract provides otherwise. The contract
+25 must be signed and dated by both parties and executed in
+26 duplicate. One copy shall be retained by the grain dealer and
+27 one copy shall be delivered to the seller. Upon the cessation
+28 of the grain dealer’s license by revocation, cancellation, or
+29 expiration, the payment date for all credit-sale contracts
+30 shall be advanced to a date not later than thirty days after
+31 the effective date of the cessation, and the purchase price for
+32 all unpriced grain shall be determined as of the effective date
+33 of the cessation in accordance with all other provisions of the
+34 contract. However, if the business of the grain dealer is sold
+35 to another licensed grain dealer, credit-sale contracts may be
+SF 2465.4375 (3) 91
+-2- da/js 2/9
+
+1 assigned to the purchaser of the business.
+2 4. a. A grain dealer shall not purchase grain on
+3 credit-sale contract during any time period in which the grain
+4 dealer fails to maintain fifty cents of net worth for each
+5 outstanding bushel of grain purchased under credit. The grain
+6 dealer may maintain a deficiency bond or an irrevocable letter
+7 of credit in the amount of two thousand dollars for each one
+8 thousand dollars or fraction thereof of deficiency in net
+9 worth.
+10 b. A grain dealer who is also a warehouse operator licensed
+11 by the department under chapter 203C or the United States
+12 department of agriculture under the United States Warehouse
+13 Act, and who does not have a sufficient quantity or quality
+14 of grain to satisfy the warehouse operator’s obligations
+15 based on an examination by the department or the United
+16 States department of agriculture shall not purchase grain on
+17 credit-sale contract to correct the shortage of grain.
+18 c. (1) A grain dealer must meet at least either of the
+19 following conditions:
+20 (a) The grain dealer’s last financial statement required
+21 to be submitted to the department pursuant to section 203.3
+22 is accompanied by an unqualified opinion based upon an audit
+23 performed by a certified public accountant licensed in this
+24 state.
+25 (b) The grain dealer files a bond with the department in
+26 the amount of one hundred thousand dollars payable to the
+27 department.
+28 (2) (a) The bond filed with the department under this
+29 paragraph shall be used to indemnify sellers for losses
+30 resulting from a breach of a credit-sale contract as provided
+31 by rules adopted by the department. The rules shall include
+32 but are not limited to procedures and criteria for providing
+33 notice, filing claims, valuing losses, and paying claims. The
+34 bond provided in this paragraph shall be in addition to any
+35 other bond required in this chapter.
+SF 2465.4375 (3) 91
+-3- da/js 3/9
+
+1 (b) The bond shall not be canceled by the issuer on less
+2 than ninety days’ notice by certified mail to the department
+3 and the principal. However, if an adequate replacement bond
+4 is filed with the department, the department may authorize
+5 the cancellation of the original bond before the end of the
+6 ninety-day period.
+7 (c) If an adequate replacement bond is not received by the
+8 department within sixty days of the issuance of the notice of
+9 cancellation, the department shall suspend the grain dealer’s
+10 license. The department shall cause an inspection of the
+11 licensed grain dealer immediately at the end of the sixty-day
+12 period. If a replacement bond is not filed within another
+13 thirty days following the suspension, the department shall
+14 revoke the grain dealer’s license.
+15 (3) When a license is revoked, the department shall provide
+16 notice of the revocation by ordinary mail to the last known
+17 address of each holder of an outstanding credit-sale contract
+18 and all known sellers.
+19 6. A grain dealer who purchases grain by credit-sale
+20 contract shall obtain from the seller a signed acknowledgment
+21 stating that the seller has received notice that grain
+22 purchased by credit-sale contract is not protected by the
+23 grain depositors and sellers indemnity fund. The form for the
+24 acknowledgment shall be prescribed by the department, and the
+25 licensed grain dealer and the seller shall each be provided a
+26 copy.>
+27 4. By striking page 19, line 33, through page 20, line 16,
+28 and inserting:
+29 <Sec. ___. Section 203D.1, subsections 3 and 4, Code 2026,
+30 are amended by striking the subsections.
+31 Sec. ___. Section 203D.1, subsections 17 and 20, Code 2026,
+32 are amended by striking the subsections and inserting in lieu
+33 thereof the following:
+34 17. a. “Purchased grain” means grain entered in the
+35 company-owned paid position as evidenced on the grain dealer’s
+SF 2465.4375 (3) 91
+-4- da/js 4/9
+
+1 daily position record.
+2 b. “Purchased grain” does not include grain that is subject
+3 to an exempt transaction based on documentation satisfactory
+4 to the department showing that the grain dealer did any of the
+5 following:
+6 (1) Purchased the grain from the United States government or
+7 any of its subdivisions or agencies.
+8 (2) Purchased the grain from a person licensed as a grain
+9 dealer in any jurisdiction.
+10 (3) Purchased the grain under a credit-sale contract.
+11 (4) Entered the grain in the company-owned paid position as
+12 a cancellation of a collateral warehouse receipt.
+13 (5) Entered the grain in the company-owned paid position as
+14 an intra-company location transfer.
+15 20. “Seller” means a person who sells grain which the
+16 person has produced or caused to be produced to a licensed
+17 grain dealer, but excludes a person who executes a credit-sale
+18 contract as a seller as provided in section 203.15. However,
+19 “seller” does not include any of the following:
+20 a. A person licensed as a grain dealer in any jurisdiction
+21 who sells grain to a licensed grain dealer.
+22 b. A person who sells grain that is not produced in this
+23 state unless such grain is delivered to a licensed grain dealer
+24 at a location in this state as the first point of sale.
+25 Sec. ___. Section 203D.5, subsection 4, unnumbered
+26 paragraph 1, Code 2026, is amended to read as follows:
+27 If on the last date of the fund’s assessment year as provided
+28 in section 203D.3 the assets of the fund exceed sixteen eight
+29 million dollars, less any encumbered balances or pending or
+30 unsettled claims, all of the following apply:
+31 Sec. ___. Section 203D.5, subsection 5, Code 2026, is
+32 amended to read as follows:
+33 5. The board shall reinstate the indemnity fees as
+34 provided in this section if the assets of the fund, less any
+35 unencumbered balances or pending or unsettled claims, are eight
+SF 2465.4375 (3) 91
+-5- da/js 5/9
+
+1 three million dollars or less.
+2 Sec. ___. Section 203D.6, subsection 4, paragraph d, Code
+3 2026, is amended to read as follows:
+4 d. (1) That the claim derives from a covered transaction.
+5 For purposes of this paragraph, a claim derives from a covered
+6 transaction if the claimant incurred a dollar value loss as any
+7 of the following:
+8 (a) (1) A depositor who delivered the grain to a licensed
+9 warehouse operator.
+10 (b) (i) (2) A seller who transferred title to the grain to
+11 a licensed grain dealer, other than by credit-sale contract,
+12 within six months of the incurrence date for a claim period as
+13 provided in subsection 2.
+14 (ii) (3) A seller described in subparagraph subdivision
+15 (i) who incurred a repayment loss against a grain dealer as
+16 provided in section 203D.6A.
+17 (2) The dollar value losses incurred by a depositor
+18 or seller described in subparagraph (1) for all eligible
+19 claims are subject to the indemnification limit described in
+20 subsection 8.
+21 (a) The department shall segregate that part of a claim
+22 that includes a dollar value loss incurred by a seller
+23 who sold grain to a licensed grain dealer pursuant to a
+24 credit-sale contract, including by deferred-pricing contract
+25 and deferred-payment contract.
+26 (b) The part of the segregated claim that includes a
+27 dollar value loss incurred by a seller who sold grain to a
+28 licensed grain dealer pursuant to a deferred-payment contract
+29 is ineligible for indemnification.
+30 Sec. ___. Section 203D.6, subsection 8, paragraphs a, b, c,
+31 and d, Code 2026, are amended to read as follows:
+32 a. Upon a determination by the board that an eligible
+33 claim satisfies the requirements in subsection 4, the board
+34 shall indemnify the claimant as a depositor under subsection
+35 5, and a seller under subsection 6. Upon a determination by
+SF 2465.4375 (3) 91
+-6- da/js 6/9
+
+1 the board that an eligible repayment claim was filed by that
+2 seller under section 203D.6A, derives from the same covered
+3 transaction during the claim period, and the repayment loss
+4 incurred for that claim, the board shall indemnify the claimant
+5 as a seller subject to the requirements of this section and
+6 section 203D.6A.
+7 b. Subject to the indemnification limit described in
+8 paragraph “c”, the board shall indemnify a claimant ninety
+9 percent of the combined dollar value losses, including any
+10 repayment loss, incurred by the claimant as described in
+11 paragraph “a”, except for a segregated dollar value loss
+12 incurred from the sale of grain by credit-sale contract. The
+13 board shall indemnify the seller seventy-five percent of the
+14 dollar value loss, including any repayment loss, incurred from
+15 the sale of grain by deferred-pricing contract and zero percent
+16 of the dollar value loss for the sale of grain, including
+17 any repayment loss, by deferred-payment contract. The full
+18 indemnity amount paid to a claimant shall be calculated as the
+19 sum of the following:
+20 (1) Ninety cents for each dollar value loss, including any
+21 repayment loss, incurred by the claimant other than a dollar
+22 value loss for the sale of grain by credit-sale contract.
+23 (2) For the sale of grain by credit-sale contract, all of
+24 the following:
+25 (a) Seventy-five cents for each dollar value loss,
+26 including any repayment loss, incurred by the claimant
+27 other than a dollar value loss for the sale of grain by
+28 deferred-pricing contract.
+29 (b) Zero cents for each dollar value loss incurred by the
+30 claimant by deferred-payment contract.
+31 c. The board shall not indemnify any claimant for more than
+32 four three hundred thousand dollars for an eligible claim for
+33 all dollar value losses described in paragraphs “a” and “b”,
+34 including any repayment loss.
+35 d. (1) If at any time the board determines that there
+SF 2465.4375 (3) 91
+-7- da/js 7/9
+
+1 are insufficient moneys in the fund to fully indemnify all
+2 eligible claims, the board shall order that the eligible claims
+3 be indemnified according to the following order: may order
+4 that payment be deferred on specified claims. The department,
+5 upon the board’s instruction, shall hold those claims for
+6 payment until the board determines that the fund again contains
+7 sufficient assets.
+8 (a) First, by indemnifying all claims for dollar value
+9 losses other than segregated dollar value losses arising from
+10 the sale of grain by credit-sale contract as provided in
+11 subsection 4.
+12 (b) Second, by indemnifying all claims for segregated
+13 dollar value losses arising from the sale of grain by
+14 deferred-pricing contract as provided in subsection 4.
+15 (2) The board may establish one or more eligible claim
+16 indemnification periods required to fully indemnify all
+17 eligible claims. The department shall hold those claims that
+18 have not been fully indemnified until a later period or periods
+19 for the full indemnification of those claims as moneys in the
+20 fund are available.>
+21 5. Page 20, after line 28 by inserting:
+22 <Sec. ___. Section 203D.6A, subsection 4, paragraph c, Code
+23 2026, is amended to read as follows:
+24 c. The repayment claim derives from a covered transaction.
+25 For purposes of this paragraph, a repayment claim derives
+26 from a covered transaction if the claimant is a seller who
+27 transferred title to the grain, other than by credit-sale
+28 contract, to a licensed grain dealer within six months of the
+29 incurrence date as provided in section 203D.6, subsection 2.>
+30 6. Page 20, line 30, by striking <EFFECTIVE DATE> and
+31 inserting <MISCELLANEOUS PROVISIONS>
+32 7. Page 20, after line 30 by inserting:
+33 <Sec. ___. REPEAL. 2025 Iowa Acts, chapter 105, section 24,
+34 is repealed.
+35 Sec. ___. EMERGENCY RULES. The department of agriculture
+SF 2465.4375 (3) 91
+-8- da/js 8/9
+
+1 and land stewardship shall adopt emergency rules under section
+2 17A.4, subsection 3, and section 17A.5, subsection 2, paragraph
+3 “b”, to implement the provisions of this division of this
+4 Act within thirty business days of the effective date of
+5 this division of this Act and shall submit such rules to the
+6 administrative rules coordinator and the administrative code
+7 editor pursuant to section 17A.5, subsection 1, within the same
+8 period. The rules shall be effective immediately upon filing
+9 unless a later date is specified in the rules. Any rules
+10 adopted in accordance with this section shall also be published
+11 as a notice of intended action as provided in section 17A.4.>
+12 8. Page 20, after line 32 by inserting:
+13 <Sec. ___. APPLICABILITY. A claim for the indemnification
+14 of a loss filed with the department of agriculture and land
+15 stewardship under chapter 203D prior to the effective date of
+16 this division of this Act, shall be governed by the provisions
+17 of chapters 203, 203C, and 203D Code 2026.>
+18 9. By renumbering as necessary.
+______________________________
+MOMMSEN of Clinton
+SF 2465.4375 (3) 91
+-9- da/js 9/9

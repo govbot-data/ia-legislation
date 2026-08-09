@@ -1,0 +1,184 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5134
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2618
+S-5134
+1 Amend House File 2618, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 18B.1, Code 2026, is amended to read as
+5 follows:
+6 18B.1 Iowa smart planning principles.
+7 State The general assembly finds that it has a duty to
+8 maintain healthy oversight over planning, zoning, development,
+9 and resource management decisions made by state agencies,
+10 local governments, and other public entities to ensure
+11 the protection of individual rights and proper stewardship
+12 of taxpayer dollars. Therefore, state agencies, local
+13 governments, and other public entities shall consider and
+14 may apply the following principles during deliberation of
+15 all appropriate planning, zoning, development, and resource
+16 management decisions, except that nothing in this section shall
+17 be construed to expand the eminent domain authority of a state
+18 agency, local government, or other public entity beyond that
+19 which is authorized under chapter 6A or 6B:
+20 1. Collaboration Investment. Governmental, community,
+21 private sector entity, and individual stakeholders, including
+22 those outside the jurisdiction of the entity, are encouraged
+23 to be involved in and provide comment during deliberation
+24 of planning, zoning, development, and resource management
+25 decisions and during implementation of such decisions. The
+26 state agency, local government, or other public entity is
+27 encouraged to develop and implement a strategy to facilitate
+28 such participation increase nongovernmental investment and
+29 development to provide residents with safe, cost-effective, and
+30 high-quality housing, jobs, amenities, and communities.
+31 2. Efficiency, transparency, and consistency cost savings,
+32 and tax relief. Planning, zoning, development, and resource
+33 management should be undertaken to provide efficient,
+34 and transparent, and consistent outcomes. Individuals,
+35 communities, regions, and governmental entities should share
+HF 2618.3559 (3) 91
+-1- sc/ns 1/5
+
+1 in the responsibility to promote the equitable distribution of
+2 development benefits and costs governmental processes, reduce
+3 government spending, and decrease taxpayer burdens for those
+4 who live in, work in, and visit the community. Governmental
+5 entities should consider consolidation to reduce duplicative
+6 services and improve efficiency.
+7 3. Clean, renewable, and efficient energy Energy
+8 production. Planning, zoning, development, and resource
+9 management should be undertaken to promote clean and renewable
+10 energy use and increased energy efficiency production that
+11 results in lower consumer costs.
+12 4. Occupational diversity Business, employment, and
+13 entrepreneurial growth. Planning, zoning, development,
+14 and resource management should promote increased diversity
+15 of employment and business opportunities, promote access
+16 to education and training, and expand entrepreneurial
+17 opportunities, and promote the establishment of businesses
+18 in locations near existing housing, infrastructure, and
+19 transportation. Governmental entities should eliminate land
+20 development regulations that create barriers to starting or
+21 operating a business and obtaining employment.
+22 5. Revitalization Public safety. Planning, zoning,
+23 development, and resource management should facilitate the
+24 revitalization of established town centers and neighborhoods
+25 by promoting development that conserves land, protects
+26 historic resources, promotes pedestrian accessibility, and
+27 integrates different uses of property. Remediation and reuse
+28 of existing sites, structures, and infrastructure is preferred
+29 over new construction in undeveloped areas promote quick
+30 emergency response times, active local business districts,
+31 and investments into commercial and residential property that
+32 increase public safety. Governmental entities should adopt
+33 other policies to increase public safety, including maintaining
+34 residential areas and vital infrastructure, adequately funding
+35 and supporting law enforcement and first responders, and
+HF 2618.3559 (3) 91
+-2- sc/ns 2/5
+
+1 collaborating with state and federal law enforcement agencies.
+2 6. Housing diversity supply and affordability. Planning,
+3 zoning, development, and resource management should expand new
+4 housing opportunities, encourage diversity in the types of
+5 available housing, including but not limited to market rate
+6 housing, workforce housing, starter homes, multifamily housing,
+7 accessory dwelling units, manufactured housing, townhomes, and
+8 apartments, and support the rehabilitation of existing housing,
+9 and promote the location of housing near public transportation
+10 and employment centers. Governmental entities should eliminate
+11 regulatory barriers to housing expansion, promote policies that
+12 decrease housing costs, and encourage creative, efficient, and
+13 cost-effective land use for housing purposes.
+14 7. Community character Property rights. Planning, zoning,
+15 development, and resource management should promote activities
+16 and development that are consistent with the character and
+17 architectural style of the community and should respond to
+18 local values regarding the physical character of the community
+19 property rights, including a property owner’s right to maintain
+20 and improve property without unnecessary and burdensome
+21 governmental or community interference.
+22 8. Natural resources, water quality, and agricultural
+23 protection. Planning, zoning, development, and resource
+24 management should emphasize protection, preservation, and
+25 restoration the conservation and improvement of natural
+26 resources, water quality, while also supporting agricultural
+27 land, and cultural and historic landscapes, and should increase
+28 the availability of open spaces and recreational facilities and
+29 the responsible use of Iowa’s natural resources.
+30 9. Sustainable design development. Planning, zoning,
+31 development, and resource management should promote
+32 developments, buildings, and infrastructure that utilize
+33 sustainable design and construction standards and conserve
+34 natural resources by reducing waste and pollution through
+35 efficient use of land, energy, water, air, and materials that
+HF 2618.3559 (3) 91
+-3- sc/ns 3/5
+
+1 expand on prior developments and offer the community continued
+2 reinvestment opportunities, including through housing,
+3 employment, or amenities within or near the community that
+4 prioritize population growth.
+5 10. Transportation diversity. Planning, zoning,
+6 development, and resource management should promote expanded
+7 safe and economical transportation options systems for
+8 residents of the community. Consideration should be given to
+9 transportation options policies that maximize mobility, reduce
+10 congestion, conserve fuel, and improve air quality reduce
+11 transportation costs, prioritize methods of transportation
+12 used by the community, and remove unnecessary land development
+13 regulations that limit transportation access and parking
+14 availability.
+15 Sec. 2. Section 18B.2, subsection 2, paragraphs a, f, h, and
+16 i, Code 2026, are amended to read as follows:
+17 a. Information relating to public nongovernmental
+18 participation during the creation of the comprehensive plan or
+19 land development regulations, including documentation of the
+20 public nongovernmental participation process, a compilation
+21 of objectives, policies, and goals identified in the public
+22 comment received, and identification of the groups or
+23 individuals comprising any work groups or committees that were
+24 created to assist the planning and zoning commission or other
+25 appropriate decision-making body of the municipality.
+26 f. Objectives, policies, and programs to guide the future
+27 development of a safe, convenient, efficient, and economical
+28 transportation system. Plans for such a transportation system
+29 may be coordinated with state and regional transportation
+30 plans and take into consideration the need for diverse modes
+31 of transportation, accessibility, improved air quality, and
+32 interconnectivity of the various modes of transportation.
+33 However, a municipality shall give first priority to safe and
+34 economical transportation options.
+35 h. Objectives, policies, and programs addressing
+HF 2618.3559 (3) 91
+-4- sc/ns 4/5
+
+1 preservation and protection improving water quality and
+2 conserving and promoting the responsible use of agricultural
+3 and natural resources.
+4 i. Objectives, policies, and programs to assist future
+5 development of educational facilities, cemeteries, health
+6 care facilities, child care facilities, law enforcement and
+7 fire protection facilities, libraries, and other governmental
+8 facilities that are necessary or desirable to meet the
+9 projected needs of the municipality.
+10 Sec. 3. Section 18B.2, Code 2026, is amended by adding the
+11 following new subsection:
+12 NEW SUBSECTION. 4. A municipality’s comprehensive plan
+13 developed using the guidelines under this section shall
+14 prioritize expanding housing supply, growing economic and
+15 business opportunities, and reducing tax burdens.>
+16 2. Title page, line 1, by striking <eliminating> and
+17 inserting <relating to>
+______________________________
+COMMITTEE ON LOCAL GOVERNMENT
+SCOTT WEBSTER, CHAIRPERSON
+HF 2618.3559 (3) 91
+-5- sc/ns 5/5

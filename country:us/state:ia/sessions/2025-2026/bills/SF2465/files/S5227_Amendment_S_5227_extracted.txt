@@ -1,0 +1,277 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5227
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2465
+S-5227
+1 Amend Senate File 2465 as follows:
+2 1. By striking page 13, line 30, through page 15, line 24,
+3 and inserting:
+4 <Sec. ___. Section 203.3, subsection 4, paragraph b, Code
+5 2026, is amended by striking the paragraph and inserting in
+6 lieu thereof the following:
+7 b. The grain dealer shall submit, as required by the
+8 department, a financial statement that is accompanied by
+9 an unqualified opinion based upon an audit performed by a
+10 certified public accountant licensed in this state. However,
+11 the department may accept a qualification in an opinion that
+12 is unavoidable by any audit procedure that is permitted under
+13 generally accepted accounting principles. An opinion that
+14 is qualified because of a limited audit procedure or because
+15 the scope of an audit is limited shall not be accepted by
+16 the department. The department shall not require that a
+17 grain dealer submit more than one such unqualified opinion
+18 per year. The grain dealer, except as provided in section
+19 203.15, may elect to submit a financial statement that is
+20 accompanied by the report of a certified public accountant
+21 licensed in this state that is based upon a review performed
+22 by the certified public accountant in lieu of the audited
+23 financial statement specified in this paragraph. However, at
+24 any time the department may require a financial statement that
+25 is accompanied by the report of a certified public accountant
+26 licensed in this state that is based upon a review performed
+27 by a certified public accountant if the department has good
+28 cause. A grain dealer shall submit financial statements to
+29 the department in addition to those required in this paragraph
+30 if the department determines that it is necessary to verify
+31 the grain dealer’s financial status or compliance with this
+32 subsection.
+33 Sec. ___. Section 203.3, subsection 5, paragraph b, Code
+34 2026, is amended by striking the paragraph and inserting in
+35 lieu thereof the following:
+SF 2465.4289 (2) 91
+-1- da/js 1/8
+
+1 b. The grain dealer shall submit, as required by the
+2 department, a financial statement that is accompanied by
+3 an unqualified opinion based upon an audit performed by a
+4 certified public accountant licensed in this state. However,
+5 the department may accept a qualification in an opinion that
+6 is unavoidable by any audit procedure that is permitted under
+7 generally accepted accounting principles. An opinion that
+8 is qualified because of a limited audit procedure or because
+9 the scope of an audit is limited shall not be accepted by the
+10 department. The department shall not require that a grain
+11 dealer submit more than one such unqualified opinion per year.
+12 The grain dealer may elect, however, to submit a financial
+13 statement that is accompanied by the report of a certified
+14 public accountant licensed in this state that is based upon
+15 a review performed by the certified public accountant in
+16 lieu of the audited financial statement specified in this
+17 paragraph. However, at any time the department may require
+18 a financial statement that is accompanied by the report of a
+19 certified public accountant licensed in this state that is
+20 based upon a review performed by a certified public accountant
+21 if the department has good cause. A grain dealer shall submit
+22 financial statements to the department in addition to those
+23 required in this paragraph if the department determines that it
+24 is necessary to verify the grain dealer’s financial status or
+25 compliance with this section.>
+26 2. Page 16, after line 30 by inserting:
+27 <Sec. ___. Section 203.15, subsection 4, Code 2026, is
+28 amended by striking the subsection and inserting in lieu
+29 thereof the following:
+30 4. a. A grain dealer shall not purchase grain on
+31 credit-sale contract during any time period in which the grain
+32 dealer fails to maintain fifty cents of net worth for each
+33 outstanding bushel of grain purchased under credit. The grain
+34 dealer may maintain a deficiency bond or an irrevocable letter
+35 of credit in the amount of two thousand dollars for each one
+SF 2465.4289 (2) 91
+-2- da/js 2/8
+
+1 thousand dollars or fraction thereof of deficiency in net
+2 worth.
+3 b. A grain dealer who is also a warehouse operator licensed
+4 by the department under chapter 203C or the United States
+5 department of agriculture under the United States Warehouse
+6 Act, and who does not have a sufficient quantity or quality
+7 of grain to satisfy the warehouse operator’s obligations
+8 based on an examination by the department or the United
+9 States department of agriculture shall not purchase grain on
+10 credit-sale contract to correct the shortage of grain.
+11 c. (1) A grain dealer must meet at least either of the
+12 following conditions:
+13 (a) The grain dealer’s last financial statement required
+14 to be submitted to the department pursuant to section 203.3
+15 is accompanied by an unqualified opinion based upon an audit
+16 performed by a certified public accountant licensed in this
+17 state.
+18 (b) The grain dealer files a bond with the department in
+19 the amount of one hundred thousand dollars payable to the
+20 department.
+21 (2) (a) The bond filed with the department under this
+22 paragraph shall be used to indemnify sellers for losses
+23 resulting from a breach of a credit-sale contract as provided
+24 by rules adopted by the department. The rules shall include
+25 but are not limited to procedures and criteria for providing
+26 notice, filing claims, valuing losses, and paying claims. The
+27 bond provided in this paragraph shall be in addition to any
+28 other bond required in this chapter.
+29 (b) The bond shall not be canceled by the issuer on less
+30 than ninety days’ notice by certified mail to the department
+31 and the principal. However, if an adequate replacement bond
+32 is filed with the department, the department may authorize
+33 the cancellation of the original bond before the end of the
+34 ninety-day period.
+35 (c) If an adequate replacement bond is not received by the
+SF 2465.4289 (2) 91
+-3- da/js 3/8
+
+1 department within sixty days of the issuance of the notice of
+2 cancellation, the department shall suspend the grain dealer’s
+3 license. The department shall cause an inspection of the
+4 licensed grain dealer immediately at the end of the sixty-day
+5 period. If a replacement bond is not filed within another
+6 thirty days following the suspension, the department shall
+7 revoke the grain dealer’s license.
+8 (3) When a license is revoked, the department shall provide
+9 notice of the revocation by ordinary mail to the last known
+10 address of each holder of an outstanding credit-sale contract
+11 and all known sellers.>
+12 3. By striking page 16, line 33, through page 20, line 1,
+13 and inserting:
+14 <Sec. ___. Section 203C.6, subsection 4, paragraph b, Code
+15 2026, is amended by striking the paragraph and inserting in
+16 lieu thereof the following:
+17 b. The warehouse operator shall submit, as required by
+18 the department, a financial statement that is accompanied by
+19 an unqualified opinion based upon an audit performed by a
+20 certified public accountant licensed in this state. However,
+21 the department may accept a qualification in an opinion that
+22 is unavoidable by any audit procedure that is permitted under
+23 generally accepted accounting principles. An opinion that
+24 is qualified because of a limited audit procedure or because
+25 the scope of an audit is limited shall not be accepted by the
+26 department. The department shall not require that a warehouse
+27 operator submit more than one such unqualified opinion per
+28 year. The warehouse operator may elect, however, to submit
+29 a financial statement that is accompanied by the report of
+30 a certified public accountant licensed in this state that
+31 is based upon a review performed by the certified public
+32 accountant in lieu of the audited financial statement specified
+33 in this paragraph. However, at any time the department may
+34 require a financial statement that is accompanied by the report
+35 of a certified public accountant licensed in this state that is
+SF 2465.4289 (2) 91
+-4- da/js 4/8
+
+1 based upon a review performed by a certified public accountant
+2 if the department has good cause. A warehouse operator shall
+3 submit financial statements to the department in addition to
+4 those required in this paragraph if the department determines
+5 that it is necessary to verify the warehouse operator’s
+6 financial status or compliance with this subsection.
+7 Sec. ___. Section 203C.6, subsection 5, paragraph b, Code
+8 2026, is amended by striking the paragraph and inserting in
+9 lieu thereof the following:
+10 b. The warehouse operator shall submit, as required by
+11 the department, a financial statement that is accompanied by
+12 an unqualified opinion based upon an audit performed by a
+13 certified public accountant licensed in this state. However,
+14 the department may accept a qualification in an opinion that
+15 is unavoidable by any audit procedure that is permitted under
+16 generally accepted accounting principles. An opinion that
+17 is qualified because of a limited audit procedure or because
+18 the scope of an audit is limited shall not be accepted by the
+19 department. The department shall not require that a warehouse
+20 operator submit more than one such unqualified opinion per
+21 year. The warehouse operator may elect, however, to submit
+22 a financial statement that is accompanied by the report of
+23 a certified public accountant licensed in this state that
+24 is based upon a review performed by the certified public
+25 accountant in lieu of the audited financial statement specified
+26 in this paragraph. However, at any time the department may
+27 require a financial statement that is accompanied by the report
+28 of a certified public accountant licensed in this state that is
+29 based upon a review performed by a certified public accountant
+30 if the department has good cause. A warehouse operator shall
+31 submit financial statements to the department in addition to
+32 those required in this paragraph if the department determines
+33 that it is necessary to verify the warehouse operator’s
+34 financial status or compliance with this subsection.>
+35 4. Page 20, after line 34 by inserting:
+SF 2465.4289 (2) 91
+-5- da/js 5/8
+
+1 PART___
+2 EFFECTIVE DATE
+3 <Sec. ___. EFFECTIVE DATE. This division of this Act, being
+4 deemed of immediate importance, takes effect upon enactment.>
+5 5. By striking page 20, line 35, through page 21, line 19,
+6 and inserting:
+7 <DIVISION ___
+8 DEPARTMENT OF TRANSPORTATION —— IMPLEMENTS OF HUSBANDRY>
+9 6. Page 23, after line 33 by inserting:
+10 <DIVISION ___
+11 HONEYBEES —— SALES AND USE TAX EXEMPTION
+12 Sec. ___. Section 423.3, Code 2026, is amended by adding the
+13 following new subsection:
+14 NEW SUBSECTION. 111. The sales price of honeybees.
+15 DIVISION ___
+16 VETERINARY PRACTICE
+17 PART A
+18 RURAL VETERINARIAN LOAN REPAYMENT PROGRAM
+19 Sec. ___. Section 256.226, subsection 4, paragraph c, Code
+20 2026, is amended to read as follows:
+21 c. (1) Secure Subject to subparagraph (2), secure an
+22 offer of employment or establish and maintain a practice in a
+23 veterinary shortage situation or rural service commitment area
+24 and engage in the full-time practice of veterinary medicine
+25 for a period of four consecutive years after entering into the
+26 agreement in the veterinary shortage area or rural service
+27 commitment area, unless the loan repayment recipient receives.
+28 (2) (a) The loan repayment recipient may notify the
+29 commission that the loan repayment recipient will complete the
+30 years of full-time practice required under the agreement by
+31 securing new employment, or establishing and maintaining a new
+32 practice, in the same veterinary shortage area or rural service
+33 commitment area, according to rules adopted by the commission.
+34 (b) The commission may grant the loan repayment recipient a
+35 waiver from the commission to complete the years of full-time
+SF 2465.4289 (2) 91
+-6- da/js 6/8
+
+1 practice required under the agreement in another veterinary
+2 shortage area or rural service commitment area pursuant to
+3 subsection 7.
+4 PART B
+5 INCOME TAX EXEMPTION
+6 Sec. ___. Section 422.7, Code 2026, is amended by adding the
+7 following new subsection:
+8 NEW SUBSECTION. 46. a. Subtract, to the extent included,
+9 loan repayments received under a program agreement entered into
+10 by a taxpayer who is a loan repayment recipient and the Iowa
+11 college student aid commission pursuant to section 256.226, if
+12 the taxpayer fulfills the obligation to engage in the practice
+13 of veterinary medicine according to terms of that section and
+14 the program agreement.
+15 b. The amount subtracted in paragraph “a” shall not exceed
+16 the following limits:
+17 (1) For any tax year, fifteen thousand dollars.
+18 (2) For the aggregate of all tax years, sixty thousand
+19 dollars.
+20 (3) In any case, the amount of the outstanding eligible
+21 loan.
+22 Sec. ___. EFFECTIVE DATE. This part of this division of
+23 this Act takes effect January 1, 2027.
+24 Sec. ___. APPLICABILITY. This part of this division of
+25 this Act applies to tax years beginning on or after January 1,
+26 2027.>
+27 7. Title page, by striking lines 5 through 7 and inserting
+28 <transportation of agricultural items, the use of agricultural
+29 land, sales and use taxes, and veterinary practice and income
+30 taxes, making penalties applicable, and including effective
+31 date and applicability provisions.>
+32 8. By renumbering as necessary.
+SF 2465.4289 (2) 91
+-7- da/js 7/8
+
+______________________________
+TOM SHIPLEY
+SF 2465.4289 (2) 91
+-8- da/js 8/8

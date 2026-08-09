@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8183
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2624
+H-8183
+1 Amend House File 2624 as follows:
+2 1. Page 1, line 12, before <aggravated> by inserting
+3 <violent>
+4 2. Page 1, line 15, before <aggravated> by inserting
+5 <violent>
+6 3. Page 2, line 15, before <aggravated> by inserting
+7 <violent>
+8 4. Page 2, line 16, before <aggravated> by inserting
+9 <violent>
+______________________________
+GUSTOFF of Polk
+HF 2624.3291 (1) 91
+-1- as/js 1/1

@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5040
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2433
+S-5040
+1 Amend Senate File 2433 as follows:
+2 1. Page 1, line 1, by striking <103.1> and inserting
+3 <103A.3>
+4 2. Page 1, line 3, by striking <12A.> and inserting <16A.>
+5 3. By striking page 1, line 6, through page 2, line 1, and
+6 inserting:
+7 <Sec. ___. Section 103A.8A, Code 2026, is amended to read
+8 as follows:
+9 103A.8A Energy conservation requirements.
+10 The state building code commissioner shall adopt as
+11 a part of the state building code a requirement that new
+12 single-family or two-family residential construction shall
+13 comply with energy conservation requirements. The requirements
+14 adopted by the commissioner shall be based upon a nationally
+15 recognized standard or code for energy conservation the
+16 national energy code. The requirements shall only apply to
+17 single-family or two-family residential construction commenced
+18 after the adoption of the requirements. Notwithstanding any
+19 other provision of this chapter to the contrary, the energy
+20 conservation requirements adopted by the commissioner and
+21 approved by the council shall apply to new single-family or
+22 two-family residential construction commenced on or after July
+23 January 1, 2008 2027, and shall supersede and replace any
+24 minimum requirements for energy conservation adopted or enacted
+25 by a governmental subdivision prior to that date applicable to
+26 such construction. The state building code commissioner may
+27 provide training to builders, contractors, and other interested
+28 persons on the adopted energy conservation requirements.
+29 Sec. ___. NEW SECTION. 103A.8E Energy code —— amendments
+30 —— limitations.
+31 Prior to adopting any changes to the national energy code
+32 pursuant to section 103A.8A, the commissioner shall conduct
+33 an analysis of the change in the total cost of the average
+34 home built after January 1, 2027, due to any changes to the
+35 national energy code. The analysis shall be submitted to the
+SF 2433.2831 (1) 91
+-1- ss/ns 1/2
+
+1 administrative rules coordinator and the administrative code
+2 editor for publication in the Iowa administrative bulletin
+3 along with the notice of intended action.
+4 Sec. ___. NEW SECTION. 103A.8F International energy
+5 conservation code —— notice.
+6 A single-family dwelling constructed on or after January 1,
+7 2027, shall include a notice posted in writing on the circuit
+8 breaker box if the dwelling does not comply with the standards
+9 of the international energy conservation code, 2024 edition,
+10 published by the international code council.>
+11 4. Title page, line 1, by striking <electrical> and
+12 inserting <energy>
+13 5. By renumbering as necessary.
+______________________________
+SCOTT WEBSTER
+SF 2433.2831 (1) 91
+-2- ss/ns 2/2

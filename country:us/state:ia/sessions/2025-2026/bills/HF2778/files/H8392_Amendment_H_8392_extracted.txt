@@ -1,0 +1,146 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8392
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2778
+H-8392
+1 Amend House File 2778 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 EMERGENCY MEDICAL SERVICES PERSONNEL>
+5 2. Page 1, line 7, by striking <Act> and inserting <division
+6 of this Act>
+7 3. Page 1, after line 9 by inserting:
+8 <DIVISION ___
+9 ASSAULTS ON PILOTS —— ENHANCED PENALTIES
+10 Sec. ___. Section 708.3A, subsections 1, 2, 3, and 4, Code
+11 2026, are amended to read as follows:
+12 1. A person who commits an assault, as defined in section
+13 708.1, against a peace officer, jailer, correctional or
+14 juvenile detention staff, member or employee of the board of
+15 parole, pilot, health care provider, employee of the department
+16 of health and human services, employee of the department of
+17 inspections, appeals, and licensing who conducts investigations
+18 or inspections, employee of the department of revenue, national
+19 guard member engaged in national guard duty or state active
+20 duty, civilian employee of a law enforcement agency, civilian
+21 employee of a fire department, or fire fighter, whether paid or
+22 volunteer, with the knowledge that the person against whom the
+23 assault is committed is a peace officer, jailer, correctional
+24 or juvenile detention staff, member or employee of the board of
+25 parole, pilot, health care provider, employee of the department
+26 of health and human services, employee of the department of
+27 inspections, appeals, and licensing who conducts investigations
+28 or inspections, employee of the department of revenue, national
+29 guard member engaged in national guard duty or state active
+30 duty, civilian employee of a law enforcement agency, civilian
+31 employee of a fire department, or fire fighter and with the
+32 intent to inflict a serious injury upon the peace officer,
+33 jailer, correctional or juvenile detention staff, member or
+34 employee of the board of parole, pilot, health care provider,
+35 employee of the department of health and human services,
+HF 2778.4125 (2) 91
+-1- jm/jh 1/4
+
+1 employee of the department of inspections, appeals, and
+2 licensing who conducts investigations or inspections, employee
+3 of the department of revenue, national guard member engaged in
+4 national guard duty or state active duty, civilian employee
+5 of a law enforcement agency, civilian employee of a fire
+6 department, or fire fighter, is guilty of a class “C” felony.
+7 2. A person who commits an assault, as defined in section
+8 708.1, against a peace officer, jailer, correctional or
+9 juvenile detention staff, member or employee of the board of
+10 parole, pilot, health care provider, employee of the department
+11 of health and human services, employee of the department of
+12 inspections, appeals, and licensing who conducts investigations
+13 or inspections, employee of the department of revenue, national
+14 guard member engaged in national guard duty or state active
+15 duty, civilian employee of a law enforcement agency, civilian
+16 employee of a fire department, or fire fighter, whether paid or
+17 volunteer, who knows that the person against whom the assault
+18 is committed is a peace officer, jailer, correctional or
+19 juvenile detention staff, member or employee of the board of
+20 parole, pilot, health care provider, employee of the department
+21 of health and human services, employee of the department of
+22 inspections, appeals, and licensing who conducts investigations
+23 or inspections, employee of the department of revenue, national
+24 guard member engaged in national guard duty or state active
+25 duty, civilian employee of a law enforcement agency, civilian
+26 employee of a fire department, or fire fighter and who uses or
+27 displays a dangerous weapon in connection with the assault, is
+28 guilty of a class “C” felony.
+29 3. A person who commits an assault, as defined in section
+30 708.1, against a peace officer, jailer, correctional or
+31 juvenile detention staff, member or employee of the board of
+32 parole, pilot, health care provider, employee of the department
+33 of health and human services, employee of the department of
+34 inspections, appeals, and licensing who conducts investigations
+35 or inspections, employee of the department of revenue, national
+HF 2778.4125 (2) 91
+-2- jm/jh 2/4
+
+1 guard member engaged in national guard duty or state active
+2 duty, civilian employee of a law enforcement agency, civilian
+3 employee of a fire department, or fire fighter, whether paid or
+4 volunteer, who knows that the person against whom the assault
+5 is committed is a peace officer, jailer, correctional or
+6 juvenile detention staff, member or employee of the board of
+7 parole, pilot, health care provider, employee of the department
+8 of health and human services, employee of the department of
+9 inspections, appeals, and licensing who conducts investigations
+10 or inspections, employee of the department of revenue, national
+11 guard member engaged in national guard duty or state active
+12 duty, civilian employee of a law enforcement agency, civilian
+13 employee of a fire department, or fire fighter, and who causes
+14 bodily injury or mental illness, is guilty of a class “D”
+15 felony.
+16 4. Any other assault, as defined in section 708.1, including
+17 an assault causing another to come into contact with saliva by
+18 throwing, tossing, spitting, or expelling the fluid, committed
+19 against a peace officer, jailer, correctional or juvenile
+20 detention staff, member or employee of the board of parole,
+21 pilot, health care provider, employee of the department of
+22 health and human services, employee of the department of
+23 inspections, appeals, and licensing who conducts investigations
+24 or inspections, employee of the department of revenue, national
+25 guard member engaged in national guard duty or state active
+26 duty, civilian employee of a law enforcement agency, civilian
+27 employee of a fire department, or fire fighter, whether paid
+28 or volunteer, by a person who knows that the person against
+29 whom the assault is committed is a peace officer, jailer,
+30 correctional or juvenile detention staff, member or employee of
+31 the board of parole, pilot, health care provider, employee of
+32 the department of health and human services, employee of the
+33 department of inspections, appeals, and licensing who conducts
+34 investigations or inspections, employee of the department of
+35 revenue, national guard member engaged in national guard duty
+HF 2778.4125 (2) 91
+-3- jm/jh 3/4
+
+1 or state active duty, civilian employee of a law enforcement
+2 agency, civilian employee of a fire department, or fire
+3 fighter, is an aggravated misdemeanor. A person convicted of
+4 violating this subsection shall serve a minimum term of seven
+5 days of the sentence imposed by law, and shall not be eligible
+6 for suspension of the minimum sentence.
+7 Sec. ___. Section 708.3A, subsection 5, Code 2026, is
+8 amended by adding the following new paragraph:
+9 NEW PARAGRAPH. 0h. “Pilot” means a person in the act of
+10 operating a commercial, private, or recreational aircraft that
+11 is not a remotely piloted aircraft.>
+12 4. Title page, by striking line 1 and inserting <An Act
+13 relating to operating emergency vehicles or aircraft by
+14 modifying the individual income tax credit for emergency>
+15 5. Title page, line 3, after <drivers,> by inserting
+16 <enhancing penalties for assaults on pilots operating
+17 aircraft,>
+18 6. By renumbering as necessary.
+______________________________
+GJERDE of Linn
+HF 2778.4125 (2) 91
+-4- jm/jh 4/4

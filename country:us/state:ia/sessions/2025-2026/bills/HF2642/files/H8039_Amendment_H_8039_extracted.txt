@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8039
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2642
+H-8039
+1 Amend House File 2642 as follows:
+2 1. Page 2, after line 12 by inserting:
+3 <Sec. ___. Section 455B.267, subsection 4, Code 2026, is
+4 amended to read as follows:
+5 4. A permit to divert, store, or withdraw water shall not
+6 be issued or continued if it will unreasonably impair the
+7 long-term availability of water from a surface or groundwater
+8 source in terms of quantity or quality, or otherwise adversely
+9 affect the public health or welfare.>
+10 2. By renumbering as necessary.
+______________________________
+MOMMSEN of Clinton
+HF 2642.2851 (1) 91
+-1- sb/js 1/1

@@ -1,0 +1,249 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8033
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2531
+H-8033
+1 Amend House File 2531 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 331.310 Mineral interests.
+5 1. For purposes of this section:
+6 a. “Mineral interests” means any real property interest
+7 in one or more natural resources or minerals underlying the
+8 surface of a tract of land, which can be owned separately from
+9 the surface estate.
+10 b. “Minerals” means coal, any naturally occurring gas, oil,
+11 or other gaseous, liquid, or solid hydrocarbons; oil shale;
+12 gemstones; metals; fissionable or nonfissionable ore; or steam
+13 or other geothermal resources.
+14 2. A county shall divest itself of any mineral interest
+15 owned or controlled by the county and shall convey such mineral
+16 interest to the surface owner of the land to which the mineral
+17 interest pertains except when the county is the fee simple
+18 surface owner of the land. A conveyance under this section
+19 shall be made without consideration and shall be without cost
+20 to the surface owner of the land.
+21 3. A county shall complete all conveyances required under
+22 this section no later than five years after the effective date
+23 of this Act. Conveyances pursuant to section 458A.20 shall
+24 be completed within one hundred fifty days of service of the
+25 required notice. Any interest in minerals acquired by the
+26 county after the effective date of this Act shall be conveyed
+27 as required under this section within ninety days.
+28 Sec. 2. NEW SECTION. 364.26 Mineral interests.
+29 1. For purposes of this section:
+30 a. “Mineral interests” means any real property interest
+31 in one or more natural resources or minerals underlying the
+32 surface of a tract of land, which can be owned separately from
+33 the surface estate.
+34 b. “Minerals” means coal, any naturally occurring gas, oil,
+35 or other gaseous, liquid, or solid hydrocarbons; oil shale;
+HF 2531.2866 (1) 91
+-1- ms/js 1/7
+
+1 gemstones; metals; fissionable or nonfissionable ore; or steam
+2 or other geothermal resources.
+3 2. A city shall divest itself of any mineral interests
+4 owned or controlled by the city and shall convey such mineral
+5 interests to the surface owner of the land to which the mineral
+6 interest pertains except when the city is the surface owner
+7 of the land. A conveyance under this section shall be made
+8 without consideration and shall be without cost to the surface
+9 owner of the land.
+10 3. A city shall complete all conveyances required under this
+11 section no later than five years after the effective date of
+12 this Act. Any mineral interest acquired by the city after the
+13 effective date of this Act shall be conveyed as required under
+14 this section within ninety days.
+15 Sec. 3. Section 446.7, Code 2026, is amended by adding the
+16 following new subsection:
+17 NEW SUBSECTION. 3. The county shall not offer mineral
+18 interests, as defined in section 331.310, for sale. If the
+19 taxes on any mineral interests not owned by the owner of the
+20 land are delinquent, the county shall proceed in accordance
+21 with section 458A.20.
+22 Sec. 4. Section 458A.18, Code 2026, is amended to read as
+23 follows:
+24 458A.18 Mineral rights taxed separately.
+25 All rights and interests in or to oil, gas, or other minerals
+26 underlying land, whether created by or arising under deed,
+27 lease, reservation of rights, or otherwise, which rights or
+28 interests are owned by any person other than the surface owner
+29 of the land, shall be assessed and taxed separately to the
+30 owner of such rights or interests in the same manner as other
+31 real estate. The taxes on such rights or interests that are
+32 not owned by the surface owner of the land shall not be a lien
+33 on the land.
+34 Sec. 5. Section 458A.19, Code 2026, is amended to read as
+35 follows:
+HF 2531.2866 (1) 91
+-2- ms/js 2/7
+
+1 458A.19 Rate.
+2 In order to pay the costs of assessment and collection and
+3 provide a reasonable minimum standard of taxation, the taxes on
+4 any mineral rights or interests not owned by the surface owner
+5 of the land shall be not less than five cents per acre.
+6 Sec. 6. Section 458A.20, Code 2026, is amended to read as
+7 follows:
+8 458A.20 Tax sale —— redemption by owner.
+9 1. When If the taxes on any mineral rights or interests
+10 not owned by the surface owner of the land are sold at tax
+11 sale, and when delinquent, the county treasurer shall send a
+12 statement of delinquent taxes and a notice that the mineral
+13 rights or interests will be conveyed to the owner of the
+14 associated surface tract unless the owner of those mineral
+15 rights or interests does not redeem under the provisions of
+16 chapter 447 pays the total amount of the delinquent taxes,
+17 interest, and costs to the county treasurer within ninety days
+18 after the tax sale, the owner of the land shall thereafter have
+19 the same right of redemption as the owner of the mineral rights
+20 or interests has, and redemption by the notice is served.
+21 The county treasurer shall serve the notice by sending it by
+22 regular first class mail to the person’s last known address and
+23 to the address of the person’s registered agent listed with the
+24 secretary of state, applicable.
+25 2. When the owner of those mineral rights or interests does
+26 not pay the total amount due by the deadline, the county shall
+27 convey the mineral rights or interests pursuant to section
+28 331.310 to the surface owner of the land. Such conveyance
+29 shall terminate any right of redemption of the owner of the
+30 mineral rights or interests.
+31 3. a. The county may collect the total amount due by
+32 converting the amount due to a personal judgment against the
+33 owner of the delinquent mineral interest pursuant to sections
+34 445.3 and 446.20, notwithstanding the absence of a tax sale or
+35 tax sale certificate.
+HF 2531.2866 (1) 91
+-3- ms/js 3/7
+
+1 b. If the treasurer determines that it is impractical to
+2 pursue collection of the total amount due and the personal
+3 judgment remedies, the treasurer shall make a written
+4 recommendation to the board of supervisors to abate the amount
+5 due. The board of supervisors shall abate, by resolution, the
+6 amount due and direct the treasurer to strike the amount due
+7 from the county system.
+8 Sec. 7. Section 557C.1, Code 2026, is amended to read as
+9 follows:
+10 557C.1 Lapse of mineral interests in coal —— prevention.
+11 A mineral interest in coal shall be extinguished is
+12 abandoned if it has not been active in accordance with section
+13 557C.2A for a period of twenty years after its creation,
+14 transfer, or preservation, unless a statement of claim is
+15 filed in accordance with section 557C.3, and the ownership
+16 shall revert to the person who was then the owner of the
+17 interest from which the mineral interest in coal was created,
+18 transferred, or preserved. Title to an abandoned mineral
+19 interest vests in the owner of the surface estate in the land
+20 in, or under, which the mineral interest is located on the date
+21 of abandonment. Upon the filing of a statement of claim within
+22 the specified period, the mineral interest shall be deemed to
+23 have been preserved for an additional period of twenty years,
+24 or a shorter period as may be specified in the instrument
+25 creating the interest.
+26 Sec. 8. Section 557C.2, subsection 2, Code 2026, is amended
+27 to read as follows:
+28 2. “Mineral Severed mineral interest in coal” means an
+29 interest created by an instrument which that creates or
+30 transfers, either by grant, assignment, reservation, or
+31 otherwise, an interest of any kind in coal, as described in
+32 chapter 207, without limitation on the manner of mining the
+33 coal any naturally occurring gases, oil, or other gaseous,
+34 liquid, or solid hydrocarbons; oil shale; gemstones; metals;
+35 fissionable or nonfissionable ore; or steam or other geothermal
+HF 2531.2866 (1) 91
+-4- ms/js 4/7
+
+1 resources.
+2 Sec. 9. NEW SECTION. 557C.2A Active mineral interests.
+3 A severed mineral interest is active when any one of the
+4 following conditions exists:
+5 1. Minerals are produced or explored by the record owner
+6 of the mineral interest, or the rightful assignees or lessees
+7 of the record owner of the severed mineral interest, or
+8 pursuant to a pooling order issued by the department of natural
+9 resources pursuant to chapter 458A.
+10 2. Operations are conducted for extraction, withdrawal,
+11 injection, storage, or disposal of water, gas, or other fluid
+12 substances to produce or enhance the production of minerals
+13 by or with the express permission of the record holder of the
+14 mineral interest, or pursuant to a pooling order issued by the
+15 department of natural resources pursuant to chapter 458A.
+16 3. For sold minerals, there is a production from a well or
+17 a common vein or seam with the express permission, including
+18 such permission as provided for in an instrument of lease or
+19 other form of assignment, of the record owner of the severed
+20 mineral interest, or pursuant to a pooling order issued by the
+21 department of natural resources pursuant to chapter 458A.
+22 4. Any valid conveyance, lease, mortgage, assignment,
+23 private distribution, termination of joint tenancy interest
+24 affidavit, termination of life estate affidavit, or any
+25 judgment or decree that makes specific references to the record
+26 owner’s severed mineral interest is recorded within the last
+27 twenty years in the recorder’s office for the county in which
+28 the severed mineral interest is located.
+29 5. The severed mineral interest is subject to a written
+30 agreement or pooling order issued by the department of natural
+31 resources pursuant to chapter 458A.
+32 6. A statement of claim is filed in accordance with section
+33 557C.3.
+34 Sec. 10. Section 557C.3, Code 2026, is amended to read as
+35 follows:
+HF 2531.2866 (1) 91
+-5- ms/js 5/7
+
+1 557C.3 Statement of claim —— filing requirement.
+2 The statement of claim provided in section 557C.1 shall be
+3 filed by the owner of the severed mineral interest in coal
+4 prior to the end of the twenty-year period set forth in section
+5 557C.1 or by July 1, 1994, whichever is later. The statement
+6 of claim shall contain the name and address of the owner of
+7 the severed mineral interest in coal, and a description of the
+8 real estate on, or under, which the severed mineral interest in
+9 coal is located. The statement of claim shall be filed in the
+10 office of the recorder in the county in which the real estate
+11 is located.
+12 Sec. 11. Section 557C.4, Code 2026, is amended to read as
+13 follows:
+14 557C.4 Statement of claim —— recorder’s duty.
+15 Upon the filing of the statement of claim provided for
+16 in section 557C.3 in the recorder’s office for the county
+17 where the real estate on, or under, which the severed mineral
+18 interest in coal exists, is located, the recorder shall record
+19 the statement of claim and index the entries required to be
+20 made pursuant to section 557C.3 and any applicable entries
+21 specified in sections 558.49 and 558.52.
+22 Sec. 12. Section 557C.5, Code 2026, is amended to read as
+23 follows:
+24 557C.5 Reservation in other conveyance.
+25 A reservation of a mineral interest in coal or an exception
+26 of a mineral interest in coal, contained in a conveyance of
+27 the interest out of which it is carved, by a nonowner of the
+28 mineral interest in coal shall not be deemed to satisfy the
+29 requirements of this chapter or as a revival of a severed
+30 mineral interest in coal otherwise extinguished under this
+31 chapter.
+32 Sec. 13. Section 557C.6, Code 2026, is amended to read as
+33 follows:
+34 557C.6 Exemption.
+35 The filing of the statement of claim required under section
+HF 2531.2866 (1) 91
+-6- ms/js 6/7
+
+1 557C.3 to preserve the severed mineral interest in coal shall
+2 not be required of an owner if the severed mineral interest was
+3 separately taxed for real estate tax purposes at any time after
+4 July 1, 1971, the tax was paid, the mineral interest has not
+5 been subject to a tax sale, and the severed mineral interest
+6 has not been conveyed to the owner of the surface estate
+7 pursuant to sections 331.310 or 458A.20.>
+______________________________
+HARRIS of Appanoose
+HF 2531.2866 (1) 91
+-7- ms/js 7/7

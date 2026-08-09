@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8068
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2676
+H-8068
+1 Amend House File 2676 as follows:
+2 1. Page 5, before line 28 by inserting:
+3 <Sec. ___. Section 256.183, subsection 1, Code 2026, is
+4 amended by adding the following new paragraph:
+5 NEW PARAGRAPH. l. Adopts a policy prohibiting ingredients
+6 in meals provided to students in compliance with chapter 261M.>
+7 2. Page 6, after line 10 by inserting:
+8 <Sec. ___. NEW SECTION. 261M.1 Definition.
+9 As used in this chapter, “institution of higher education”
+10 means an institution of higher education governed by the state
+11 board of regents, a community college, or an accredited private
+12 institution as defined in section 256.183.
+13 Sec. ___. NEW SECTION. 261M.2 Food and beverages provided
+14 to students —— prohibited ingredients.
+15 1. An institution of higher education shall not serve a meal
+16 to students that contains any of the following ingredients:
+17 a. Blue dye 1.
+18 b. Blue dye 2.
+19 c. Green dye 3.
+20 d. Potassium bromate.
+21 e. Propylparaben.
+22 f. Red dye 40.
+23 g. Yellow dye 5.
+24 h. Yellow dye 6.
+25 2. An employee or contracted vendor of an institution of
+26 higher education shall not provide any food or beverages that
+27 contain an ingredient described in subsection 1 to a student
+28 enrolled in the institution on the campus of the institution.
+29 3. An institution of higher education shall not permit
+30 the sale to students of any foods or beverages that contain
+31 an ingredient described in subsection 1 on the campus of the
+32 institution.>
+33 3. Page 7, line 23, after <school> by inserting <or
+34 academic>
+35 4. By renumbering as necessary.
+HF 2676.3040 (1) 91
+-1- je/ko 1/2
+
+______________________________
+HARRIS of Appanoose
+HF 2676.3040 (1) 91
+-2- je/ko 2/2

@@ -1,0 +1,348 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5125
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2464
+S-5125
+1 Amend Senate File 2464 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 HEALTH MAINTENANCE ORGANIZATION TAXATION
+6 Section 1. Section 249A.13, subsection 1, Code 2026, is
+7 amended to read as follows:
+8 1. A Medicaid managed care organization premiums health
+9 care tax fund is created in the state treasury under the
+10 authority of the department of health and human services.
+11 Moneys collected by the director of the department of revenue
+12 as taxes on premiums pursuant to section 432.1B 432B.2 shall be
+13 deposited in the fund.
+14 Sec. 2. Section 432.1, unnumbered paragraph 1, Code 2026,
+15 is amended to read as follows:
+16 Every insurance company or association of whatever kind or
+17 character, not including fraternal beneficiary associations,
+18 health maintenance organizations, and nonprofit hospital and
+19 medical service corporations, shall, as required by law, pay to
+20 the director of the department of revenue, or to a depository
+21 designated by the director, as taxes, an amount equal to the
+22 following, except that the premium tax applicable to county
+23 mutual insurance associations shall be governed by section
+24 518.18:
+25 Sec. 3. Section 432.1, subsection 2, unnumbered paragraph
+26 1, Code 2026, is amended to read as follows:
+27 The “applicable percent” for purposes of subsection 1 of this
+28 section, section 432.1B, and section 432.2 is the following:
+29 Sec. 4. NEW SECTION. 432B.1 Definitions.
+30 As used in this chapter:
+31 1. “Commissioner” means the commissioner of insurance.
+32 2. “Health maintenance organization” means the same as
+33 defined in section 514B.1. “Health maintenance organization”
+34 includes a health maintenance organization contracting with
+35 the department of health and human services to administer the
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-1- jm/jh 1/9
+
+1 medical assistance program under chapter 249A.
+2 3. a. “Taxable funds” means all of the following:
+3 (1) Payments received by the health maintenance
+4 organization for health care services, insurance, indemnity,
+5 or other benefits to which an enrollee is entitled through a
+6 health maintenance organization.
+7 (2) Payments made by the health maintenance organization
+8 to providers for health care services, to insurers, or to
+9 corporations authorized under chapter 514 for insurance,
+10 indemnity, or other authorized service benefits, except
+11 a payment made by a health maintenance organization that
+12 qualifies both as a payment received under subparagraph (1) and
+13 a payment made under this subparagraph, shall be considered
+14 taxable funds under subparagraph (1).
+15 b. “Taxable funds” does not include payments made to a
+16 health maintenance organization by the United States secretary
+17 of health and human services under a contract issued under
+18 section 1833 or 1876 of the federal Social Security Act, or
+19 under section 4015 of the federal Omnibus Budget Reconciliation
+20 Act of 1987.
+21 Sec. 5. NEW SECTION. 432B.2 Imposition of health
+22 care-related tax.
+23 1. Commencing with the calendar year beginning January
+24 1, 2026, and for subsequent calendar years, each health
+25 maintenance organization transacting business in this state
+26 shall be subject to a health care-related tax payable to
+27 the director of revenue in an amount equal to ninety-five
+28 hundredths of one percent of the applicable percentage of
+29 taxable funds.
+30 2. The amounts received by the director of revenue from the
+31 imposition of the tax shall be deposited in the health care tax
+32 fund created in section 249A.13.
+33 Sec. 6. NEW SECTION. 432B.3 Date tax due —— method of
+34 payment —— statute of limitations.
+35 1. Except as provided in subsection 2, the tax imposed
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-2- jm/jh 2/9
+
+1 under this chapter shall be paid on or before March 1 of the
+2 year following the calendar year for which the tax is due. The
+3 commissioner may suspend or revoke the license of a health
+4 maintenance organization subject to the health care-related tax
+5 in this chapter that fails to pay the health care-related tax
+6 on or before the due date.
+7 2. a. Each health maintenance organization transacting
+8 business in this state that is subject to the tax in section
+9 432B.2 shall remit on or before June 1, on a prepayment basis,
+10 an amount equal to one-half of the product of the rate in
+11 section 432B.2 and the taxable funds in the prior calendar
+12 year.
+13 b. In addition to the prepayment amount in paragraph “a”,
+14 each health maintenance organization subject to the tax in this
+15 chapter shall remit on or before August 15, on a prepayment
+16 basis, an additional amount equal to one-half of the product of
+17 the rate in section 432B.2 and the taxable funds in the prior
+18 calendar year.
+19 c. (1) The sums prepaid by a health maintenance
+20 organization under paragraphs “a” and “b” shall be allowed
+21 as credits against the health maintenance organization’s
+22 health care-related tax liability for the calendar year during
+23 which the payments are made. If a prepayment made under this
+24 subsection exceeds the health maintenance organization’s annual
+25 health care-related tax liability, the excess shall be allowed
+26 as a credit against the health maintenance organization’s
+27 subsequent prepayment or tax liabilities under this chapter.
+28 The commissioner shall authorize the department of revenue
+29 to make a cash refund to a health maintenance organization,
+30 in lieu of a credit against subsequent prepayment or tax
+31 liabilities under this section, if the health maintenance
+32 organization demonstrates the inability to recoup the funds
+33 paid via a credit.
+34 (2) The commissioner shall adopt rules establishing a
+35 health maintenance organization’s eligibility for a cash
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-3- jm/jh 3/9
+
+1 refund, and the process for the department of revenue to make a
+2 cash refund to an eligible health maintenance organization from
+3 the Medicaid managed care organization health care tax fund
+4 created in section 249A.13. The commissioner may suspend or
+5 revoke the license of a health maintenance organization that
+6 fails to make a prepayment on or before the due date under this
+7 subsection.
+8 3. The commissioner shall determine whether or not the tax
+9 remitted is correct. If the tax remitted is not sufficient,
+10 the commissioner shall notify the delinquent company of the
+11 amount of such delinquency and certify the amount to the
+12 department of revenue which shall proceed to collect the
+13 delinquency.
+14 4. Within five years after the tax return is filed or within
+15 five years after the tax return became due, whichever is later,
+16 the commissioner shall examine the return and determine the
+17 tax. An assessment or a claim for credit must be made within
+18 five calendar years after the annual tax filing is made. For
+19 a five-year period preceding the current calendar year, a
+20 company may apply for a credit, or the commissioner may make
+21 an assessment, as appropriate. The period of examination and
+22 determination of the correct amount of tax is unlimited in the
+23 case of a false or fraudulent return made with the intent to
+24 evade tax or in the case of a failure to file a return.
+25 Sec. 7. Section 508C.19, Code 2026, is amended to read as
+26 follows:
+27 508C.19 Credits for assessments paid.
+28 1. An insurer may offset an assessment made pursuant to
+29 section 508C.9 against its premium tax liability pursuant to
+30 chapter 432 or health care-related tax liability pursuant to
+31 chapter 432B to the extent of twenty percent of the amount of
+32 the assessment for each of the five calendar years following
+33 the year in which the assessment was paid. If an insurer
+34 ceases doing business, all uncredited assessments may be
+35 credited against its premium or health care-related tax
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-4- jm/jh 4/9
+
+1 liability for the year it ceases doing business.
+2 2. Sums acquired by refund from the association which have
+3 been written off by contributing insurers and offset against
+4 premium taxes or health care-related taxes as provided in
+5 subsection 1 and are not then needed for purposes of this
+6 chapter shall be paid by the association to the commissioner.
+7 The commissioner shall remit the moneys to the treasurer of
+8 state to deposit in the state general fund.
+9 Sec. 8. Section 514B.31, Code 2026, is amended by striking
+10 the section and inserting in lieu thereof the following:
+11 514B.31 Health maintenance organization health care-related
+12 taxation.
+13 Every health maintenance organization and including health
+14 maintenance organizations contracting with the department of
+15 health and human services to administer the medical assistance
+16 program under chapter 249A shall be subject to taxation under
+17 chapter 432B.
+18 Sec. 9. Section 514E.1, subsection 3, Code 2026, is amended
+19 to read as follows:
+20 3. “Carrier” means an insurer providing accident and
+21 sickness insurance under chapter 509, 514, 514A and includes a
+22 health maintenance organization established under chapter 514B
+23 if payments received by the health maintenance organization
+24 are considered premiums pursuant to section 514B.31 and are
+25 taxed under chapter 432 subject to the health care-related
+26 tax under chapter 432B. “Carrier” also includes a corporation
+27 which becomes a mutual insurer pursuant to section 514.23 and
+28 any other person as defined in section 4.1, subsection 20, who
+29 is or may become liable for the tax imposed by chapter 432 or
+30 432B.
+31 Sec. 10. Section 514E.2, subsection 13, Code 2026, is
+32 amended to read as follows:
+33 13. An insurer may offset an assessment made pursuant to
+34 this chapter against its premium tax liability pursuant to
+35 chapter 432 or against its health care-related tax liability
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-5- jm/jh 5/9
+
+1 pursuant to chapter 432B, as applicable, to the extent of
+2 twenty percent of the amount of the assessment for each
+3 of the five calendar years following the year in which the
+4 assessment was paid. If an insurer ceases doing business, all
+5 uncredited assessments may be credited against its premium or
+6 health care-related tax liability for the year it ceases doing
+7 business.
+8 Sec. 11. REPEAL. Section 432.1B, Code 2026, is repealed.
+9 Sec. 12. PREMIUM TAX —— HEALTH MAINTENANCE
+10 ORGANIZATION. For purposes of imposing the premium tax
+11 under section 432.1, beginning with calendar year 2026, and
+12 subsequent calendar years, a health maintenance organization
+13 is not subject to the premium tax under section 432.1, if the
+14 health maintenance organization is subject to the imposition
+15 of the health care-related tax under chapter 432B, if enacted
+16 by this division of this Act.
+17 Sec. 13. TEMPORARY PROVISIONS FOR THE HEALTH CARE-RELATED
+18 TAX AND PREPAYMENTS FOR CALENDAR YEAR 2026. Notwithstanding
+19 section 432B.2, subsection 1, if enacted by this division
+20 of this Act, each health care maintenance organization
+21 transacting business in this state shall be subject to a health
+22 care-related tax payable to the director of revenue in an
+23 amount equal to three and one-half percent of the applicable
+24 percentage of taxable funds as defined in section 432B.1,
+25 if enacted by this division of this Act, for the period in
+26 calendar year beginning January 1, 2026, and ending September
+27 30, 2026. The difference between the amount of taxes collected
+28 pursuant to this section and the amount of tax that would be
+29 collected by imposing the rate under section 432B.2, subsection
+30 1, if enacted by this division of this Act, shall not be
+31 subject to prepayment under section 432B.3, subsection 1, if
+32 enacted by this division of this Act.
+33 Sec. 14. CONTINGENT EFFECTIVE DATE. The following takes
+34 effect upon the date the department of health and human
+35 services notifies the general assembly and the Code editor of
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-6- jm/jh 6/9
+
+1 the approval by the federal centers for Medicare and Medicaid
+2 services of the United States department of health and human
+3 services of the method of taxation upon a health maintenance
+4 organization imposed pursuant to this division of the Act:
+5 The section of this division of this Act enacting the
+6 temporary provisions for the health care-related tax and
+7 prepayments for calendar year 2026.
+8 Sec. 15. EFFECTIVE DATE. Unless otherwise provided, this
+9 division of this Act, being deemed of immediate importance,
+10 takes effect upon enactment.
+11 Sec. 16. RETROACTIVE APPLICABILITY. This division of this
+12 Act applies retroactively to January 1, 2026, for tax years
+13 beginning on or after that date.
+14 DIVISION II
+15 TAXPAYER RELIEF FUND TRANSFERS —— SUPPLEMENTAL APPROPRIATIONS
+16 Sec. 17. Section 8.54, subsection 5, paragraph b, Code 2026,
+17 is amended to read as follows:
+18 b. (1) For fiscal years in which it is anticipated that
+19 moneys will be transferred from the taxpayer relief fund to
+20 the general fund of the state in accordance with section
+21 8.57E, subsection 2, paragraph “b”, the original state general
+22 fund expenditure limitation amount provided for in subsection
+23 3 shall not be readjusted to include the amount of moneys
+24 anticipated to be so transferred. This paragraph subparagraph
+25 is repealed July 1, 2029 2027.
+26 (2) For the fiscal year beginning July 1, 2027, and each
+27 fiscal year thereafter, in which it is anticipated that moneys
+28 will be transferred from the taxpayer relief fund to the
+29 general fund of the state in accordance with section 8.57E,
+30 subsection 2, paragraph “b”, the original state general fund
+31 expenditure limitation amount provided for in subsection 3
+32 shall be readjusted to include the amount of moneys anticipated
+33 to be so transferred.
+34 (3) This paragraph is repealed July 1, 2029.
+35 Sec. 18. Section 8.57E, subsection 2, paragraph b, Code
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-7- jm/jh 7/9
+
+1 2026, is amended by adding the following new subparagraph:
+2 NEW SUBPARAGRAPH. (02) (a) For the fiscal year beginning
+3 July 1, 2027, the transfer pursuant to this paragraph shall not
+4 exceed fifty percent of the difference between the adjusted
+5 revenue estimate, as defined in section 8.54, for the fiscal
+6 year and the net general fund appropriation for the fiscal
+7 year.
+8 (b) For the fiscal year beginning July 1, 2028, the transfer
+9 pursuant to this paragraph shall not exceed fifty percent
+10 of the difference between the adjusted revenue estimate, as
+11 defined in section 8.54, for the fiscal year and the net
+12 general fund appropriation for the fiscal year.
+13 Sec. 19. TAXPAYER RELIEF FUND TRANSFER —— FEDERAL TAX LAW
+14 CHANGES.
+15 1. On the effective date of this division of this Act, there
+16 is transferred from the taxpayer relief fund created in section
+17 8.57E to the general fund of the state, the following amount:
+18 .................................................. $347,013,889
+19 2. The transfer under this section is made in accordance
+20 with section 8.57E, subsection 2, paragraph “a”, for state tax
+21 relief based on the reduction in state revenue for the fiscal
+22 year beginning July 1, 2025, associated with 2025 federal tax
+23 law changes pursuant to section 422.3, subsection 5, paragraph
+24 “b”, including but not limited to the allowance of income tax
+25 deductions for qualified tips, overtime compensation, and
+26 qualified passenger vehicle loan interest under the federal
+27 Internal Revenue Code, as amended by Pub. L. No. 119-21,
+28 commonly referred to as the One Big Beautiful Bill Act.
+29 3. Notwithstanding section 8.54, the state general fund
+30 expenditure limitation amount calculated for the fiscal year
+31 beginning July 1, 2026, shall be readjusted to include one
+32 hundred percent of the moneys transferred under this section.
+33 Sec. 20. DEPARTMENT OF HEALTH AND HUMAN SERVICES ——
+34 SUPPLEMENTAL APPROPRIATION. There is appropriated from the
+35 general fund of the state to the department of health and human
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-8- jm/jh 8/9
+
+1 services for the fiscal year beginning July 1, 2025, and ending
+2 June 30, 2026, the following amount, or so much thereof as is
+3 necessary, to be used for the purposes designated:
+4 To supplement the appropriation made for medical assistance
+5 program reimbursement and associated costs in 2025 Iowa Acts,
+6 chapter 169, section 9, unnumbered paragraph 2:
+7 .................................................. $ 89,000,000
+8 Notwithstanding section 8.33, moneys appropriated in this
+9 section that remain unencumbered or unobligated at the close of
+10 the fiscal year shall not revert but shall remain available for
+11 expenditure for the purposes designated until the close of the
+12 succeeding fiscal year.
+13 Sec. 21. EFFECTIVE DATE. This division of this Act, being
+14 deemed of immediate importance, takes effect upon enactment.>
+15 2. Title page, by striking lines 1 through 6 and inserting
+16 <An Act relating to state finances by modifying the taxes
+17 imposed on health maintenance organizations, making transfers
+18 from the taxpayer relief fund, making and supplementing
+19 appropriations to the department of health and human services,
+20 and including effective date, contingent effective date, and
+21 retroactive applicability provisions.>
+______________________________
+MARK COSTELLO
+SF 2464.3610 (1) 91
+(amending this SF 2464 to CONFORM to HF 2739)
+-9- jm/jh 9/9

@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8188
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2716
+H-8188
+1 Amend House File 2716 as follows:
+2 1. By striking page 3, line 30, through page 4, line 6, and
+3 inserting: <disregarded.
+4 (b) As allowed by 42 U.S.C. §1396a(r)(2), unearned income
+5 shall also be disregarded in determining whether an individual
+6 is eligible for assistance under this subparagraph.
+7 (c) For the purposes of determining the amount of an
+8 individual’s resources under this subparagraph and as allowed
+9 by 42 U.S.C. §1396a(r)(2), a maximum of ten thousand dollars of
+10 available resources for an individual, and twenty-one thousand
+11 dollars of available resources for a couple as defined in 20
+12 C.F.R. §416.1101, shall be disregarded. The earned income of
+13 an individual’s spouse as defined in 20 C.F.R. §416.1101, one
+14 motor vehicle per household, and any additional resources held
+15 in a retirement account, in a pension account, in a medical
+16 savings account, or in any other account approved under rules
+17 adopted by the department shall also be disregarded.>
+18 2. Page 4, line 7, by striking <(b)> and inserting <(b)(d)>
+19 3. Page 8, line 26, before <The> by inserting <1.>
+20 4. Page 8, after line 30 by inserting:
+21 <2. An infant or child who is a citizen or qualified alien
+22 and who is otherwise eligible for the special supplemental
+23 nutrition program for women, infants, and children shall be
+24 eligible regardless of whether the infant’s or child’s parent
+25 is a citizen or qualified alien.>
+26 5. Page 9, by striking lines 13 and 14 and inserting
+27 <benefits exchanges under the Affordable Care Act, as amended
+28 by Pub. L. No. 119-21, commonly referred to as the One Big
+29 Beautiful Bill Act. Contributions Monthly>
+30 6. By renumbering as necessary.
+______________________________
+HARRIS of Appanoose
+HF 2716.3286 (2) 91
+-1- ak/ko 1/1

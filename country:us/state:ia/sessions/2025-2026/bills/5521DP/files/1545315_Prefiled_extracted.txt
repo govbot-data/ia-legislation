@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+INSPECTIONS, APPEALS, AND
+LICENSING BILL)
+A BILL FOR
+1 An Act relating to controlled substances schedules and
+2 precursor substances reporting requirements, making
+3 penalties applicable, and including effective date
+4 provisions.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5521DP (5) 91
+as/js
+
+S.F. _____ H.F. _____
+1 Section 1. Section 124.204, subsection 2, Code 2026, is
+2 amended by adding the following new paragraphs:
+3 NEW PARAGRAPH. dd. 2-(2-(4-butoxybenzyl)-5-nitro-
+4 1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine. Other name:
+5 Butonitazene.
+6 NEW PARAGRAPH. de. N,N-diethyl-2-(2-(4-fluorobenzyl)-
+7 5-nitro-1H-benzimidazol-1-yl)ethan-1-amine. Other name:
+8 Flunitazene.
+9 NEW PARAGRAPH. df. N,N-diethyl-2-(2-(4-
+10 methyoxybenzyl)-1H-benzimidazol-1-yl)ethan-1-amine. Other
+11 name: Metodesnitazene.
+12 NEW PARAGRAPH. dg. N-phenyl-N-(1-(2-
+13 phenylpropyl)piperidin-4-yl)acetamide. Other name:
+14 beta-methylacetyl fentanyl.
+15 NEW PARAGRAPH. dh. N-(3-fluorophenyl)-N-(1-
+16 phenethylpiperidin-4-yl)furan-20carboxamide. Other name:
+17 meta-fluorofuranyl fentanyl.
+18 NEW PARAGRAPH. di. N-(2-chlorophenyl)-N-(1-
+19 phenethylpiperidin-4-yl)propionamide. Other name:
+20 ortho-chlorofentanyl.
+21 NEW PARAGRAPH. dj. N-(2-methylphenyl)-N-(1-
+22 phenethylpiperidin-4-yl)cyclopropanecarboxamide. Other
+23 name: ortho-methylcyclopropyl fentanyl.
+24 NEW PARAGRAPH. dk. N-(4-chlorophenyl)-N-(1-
+25 phenethylpiperidin-4-yl)propionamide. Other name:
+26 para-chlorofentanyl.
+27 NEW PARAGRAPH. dl. N-(4-fluorophenyl)-N-(1-
+28 phenethylpiperidin-4-yl)pentanamide. Other name: para-fluoro
+29 valeryl fentanyl.
+30 NEW PARAGRAPH. dm. N-(1-phenethylpiperidin-4-yl)-
+31 N-phenyltetrahydrothiophene-2-carboxamide. Other names:
+32 tetrahydrothiofuranyl fentanyl; tetrahydrothiophene fentanyl.
+33 Sec. 2. Section 124.204, subsection 4, Code 2026, is amended
+34 by adding the following new paragraph:
+35 NEW PARAGRAPH. cq. 1-(1,3-benzodioxol-5-yl)-2-
+LSB 5521DP (5) 91
+-1- as/js 1/3
+
+S.F. _____ H.F. _____
+1 (dimethylamino)pentan-1-one. Other names: dipentylone;
+2 N,N-dimethylpentylone.
+3 Sec. 3. Section 124.204, subsection 6, Code 2026, is amended
+4 by adding the following new paragraph:
+5 NEW PARAGRAPH. m. ethyl 2-phenyl-2-(piperidin-2-
+6 yl)acetate. Other name: ethylphenidate.
+7 Sec. 4. Section 124.204, subsection 9, Code 2026, is amended
+8 by adding the following new paragraphs:
+9 NEW PARAGRAPH. w. 2-(4-methoxybenzyl)-5-nitro-1-(2-
+10 (pyrrolidin-1-yl)ethyl)-1H-benzimidazole, its isomers, esters,
+11 ethers, salts, and salts of isomers, esters, and ethers. Other
+12 names: N-pyrrolidino metonitazene; metonitazepyne.
+13 NEW PARAGRAPH. x. 5-nitro-2-(4-propoxybenzyl)-1-(2-
+14 (pyrrolidin-1-yl)ethyl)-1H-benzimidazole, its isomers, esters,
+15 ethers, salts, and salts of isomers, esters, and ethers. Other
+16 names: N-pyrrolidino protonitazene; protonitazepyne.
+17 Sec. 5. Section 124.204, subsection 9, paragraphs c, e, and
+18 f, Code 2026, are amended by striking the paragraphs.
+19 Sec. 6. EFFECTIVE DATE. This Act, being deemed of immediate
+20 importance, takes effect upon enactment.
+21 EXPLANATION
+22 The inclusion of this explanation does not constitute agreement with
+23 the explanation’s substance by the members of the general assembly.
+24 This bill relates to controlled substances, including
+25 certain controlled substances schedules.
+26 The bill makes changes to the controlled substances schedule
+27 I in Iowa’s uniform controlled substances Act (Code chapter
+28 124) to conform to the specific chemical designations of
+29 the substances contained in Title 21 of the Code of Federal
+30 Regulations, part 1308.
+31 A violation involving a controlled substance included in the
+32 bill may result in a class “B” felony, and in addition to the
+33 25-year mandatory minimum term of imprisonment for class “B”
+34 felons, a fine of not less than $5,000 nor more than $100,000;
+35 a class “C” felony punishable by imprisonment up to 10 years
+LSB 5521DP (5) 91
+-2- as/js 2/3
+
+S.F. _____ H.F. _____
+1 and a fine of not less than $1,000 nor more than $50,000; or an
+2 aggravated misdemeanor punishable by imprisonment up to 2 years
+3 and a fine of at least $855 but not more than $8,540.
+4 The bill takes effect upon enactment.
+LSB 5521DP (5) 91
+-3- as/js 3/3

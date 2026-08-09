@@ -1,0 +1,104 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8070
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2676
+H-8070
+1 Amend House File 2676 as follows:
+2 1. Page 7, after line 23 by inserting:
+3 <DIVISION ___
+4 STUDENT INSTRUCTIONAL TECHNOLOGY STANDARDS
+5 Sec. ___. Section 256E.7, subsection 2, Code 2026, is
+6 amended by adding the following new paragraph:
+7 NEW PARAGRAPH. 0s. Be subject to and comply with
+8 the requirements of section 279.89 relating to student
+9 instructional technology standards in the same manner as a
+10 school district.
+11 Sec. ___. Section 256F.4, subsection 2, Code 2026, is
+12 amended by adding the following new paragraph:
+13 NEW PARAGRAPH. w. Be subject to and comply with
+14 the requirements of section 279.89 relating to student
+15 instructional technology standards in the same manner as a
+16 school district.
+17 Sec. ___. NEW SECTION. 279.89 Student instructional
+18 technology standards.
+19 1. As used in this section, unless the context otherwise
+20 requires:
+21 a. “Digital instruction” means lessons, assignments,
+22 assessments, or instructional activities delivered through
+23 instructional technology.
+24 b. “Instructional technology” means a laptop, tablet,
+25 computer, smart device, software platform, or other similar
+26 device or platform used for student learning.
+27 c. “One-to-one digital device program” means a program
+28 through which a school district provides or assigns a digital
+29 device to each student for instructional use.
+30 2. a. For students enrolled in grades kindergarten through
+31 five, digital instruction shall not exceed sixty minutes per
+32 school day.
+33 b. The following uses shall not count toward the daily
+34 limit:
+35 (1) Use required pursuant to an individualized education
+HF 2676.3024 (1) 91
+-1- ss/ko 1/3
+
+1 program or a plan developed pursuant to section 504 of the
+2 federal Rehabilitation Act of 1973.
+3 (2) Assistive or adaptive technology necessary to provide a
+4 student access to instruction.
+5 (3) Teacher-directed demonstrations using a projector,
+6 smartboard, or similar display device when students are not
+7 individually operating a digital device.
+8 (4) State assessments and progress monitoring that requires
+9 the use of a one-to-one digital device.
+10 (5) Dedicated computer science and technology curriculum.
+11 3. a. The board of directors of each school district shall
+12 adopt a written technology use policy applicable to grades
+13 kindergarten through five.
+14 b. The policy shall include all of the following:
+15 (1) The district’s daily digital instruction limits.
+16 (2) A list of digital platforms and applications used for
+17 instruction.
+18 (3) Notice of a parent’s or guardian’s right to request
+19 additional reductions in the parent’s or guardian’s child’s
+20 digital instruction.
+21 (4) A statement that instructional technology shall
+22 support, and not supplant, foundational learning.
+23 (5) A prohibition on the use of digital devices during
+24 recess.
+25 c. The policy shall be published on each elementary school’s
+26 internet site.
+27 4. a. Prior to adopting or renewing a one-to-one digital
+28 device program for any grade level, the board of directors of a
+29 school district shall complete a technology adoption checklist
+30 that documents consideration of all of the following:
+31 (1) The instructional purpose of the device.
+32 (2) Age appropriateness of the device and associated
+33 software.
+34 (3) Content-filtering limitations and the district’s
+35 capacity to mitigate those limitations.
+HF 2676.3024 (1) 91
+-2- ss/ko 2/3
+
+1 (4) Whether student data is collected, stored, or shared,
+2 and the nature of such data practices.
+3 b. The checklist shall be retained by the board and made
+4 available to the department of education upon request for audit
+5 or compliance purposes.
+6 c. Each school district shall make publicly available on the
+7 district’s internet site a list of one-to-one digital device
+8 programs in use, and information regarding opt-out options for
+9 parents who decline participation in digital instruction.
+10 5. This section shall not apply to students enrolled in an
+11 online learning program operating pursuant to section 256.43.>
+12 2. Title page, line 2, after <medication,> by inserting <and
+13 education,>
+14 3. By renumbering as necessary.
+______________________________
+HARRIS of Appanoose
+HF 2676.3024 (1) 91
+-3- ss/ko 3/3

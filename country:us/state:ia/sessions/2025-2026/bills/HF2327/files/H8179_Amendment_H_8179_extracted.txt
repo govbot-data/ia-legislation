@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8179
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2327
+H-8179
+1 Amend House File 2327 as follows:
+2 1. Page 6, line 27, by striking <may> and inserting <shall>
+3 2. Page 8, after line 23 by inserting:
+4 <DIVISION ___
+5 UNEMPLOYMENT COMPENSATION RESERVE FUND —— TRANSFER TO
+6 UNEMPLOYMENT TRUST FUND
+7 Sec. ___. 2024 Iowa Acts, chapter 1162, section 21, is
+8 amended to read as follows:
+9 SEC. 21. UNEMPLOYMENT COMPENSATION RESERVE FUND —— TRANSFER
+10 TO WORKFORCE OPPORTUNITY UNEMPLOYMENT TRUST FUND.
+11 1. Any moneys appropriated to the department of workforce
+12 development for purposes of present in the unemployment
+13 compensation reserve fund established pursuant to section
+14 96.9, Code 2024, that remain unencumbered or unobligated as of
+15 July 1, 2024 2026, but not more than thirty million dollars,
+16 shall be deposited in the workforce opportunity fund created
+17 in section 84A.20, if enacted by this division of this Act
+18 transferred to the account of this state in the unemployment
+19 trust fund, established and maintained pursuant to section
+20 904 of the federal Social Security Act as amended; provided,
+21 however, that any interest earned on moneys in the unemployment
+22 compensation reserve fund shall be transferred to the special
+23 employment security contingency fund established pursuant to
+24 section 96.13, subsection 3.
+25 2. Any moneys remaining in the unemployment compensation
+26 reserve fund after the deposit described in subsection 1 shall
+27 be transferred to the account of this state in the unemployment
+28 trust fund; provided, however, that any interest earned on
+29 moneys remaining in the unemployment compensation reserve
+30 fund after the deposit described in subsection 1 shall be
+31 transferred to the special employment security contingency
+32 fund.>
+33 3. By renumbering as necessary.
+HF 2327.3297 (1) 91
+(amending this HF 2327 to CONFORM to SF 2168)
+-1- je/js 1/2
+
+______________________________
+BRADLEY of Jones
+HF 2327.3297 (1) 91
+(amending this HF 2327 to CONFORM to SF 2168)
+-2- je/js 2/2

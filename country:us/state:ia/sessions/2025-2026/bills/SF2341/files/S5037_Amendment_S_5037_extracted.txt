@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5037
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2341
+S-5037
+1 Amend Senate File 2341 as follows:
+2 1. Page 1, line 14, by striking <immediately> and inserting
+3 <immediately>
+4 2. Page 1, line 15, by striking <the adjournment of the
+5 meeting> and inserting <the adjournment of the meeting the
+6 proceedings are approved at the next board of supervisors
+7 meeting>
+8 3. Page 1, by striking lines 16 through 21 and inserting:
+9 <b. All proceedings must be approved by the board of
+10 supervisors before publication. Approval must occur at the
+11 next board of supervisors meeting following the meeting for
+12 which the proceedings are to be published.>
+______________________________
+SCOTT WEBSTER
+SF 2341.2807 (1) 91
+-1- ms/js 1/1

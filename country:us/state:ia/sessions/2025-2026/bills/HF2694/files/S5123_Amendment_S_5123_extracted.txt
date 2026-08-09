@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5123
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2694
+S-5123
+1 Amend House File 2694, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, before line 1 by inserting:
+4 <Section 1. NEW SECTION. 2.12C Continuing appropriations.
+5 1. Annual appropriations not enacted.
+6 a. (1) This section applies to any fiscal year for
+7 which one or more line item appropriations, standing limited
+8 appropriations, or standing unlimited appropriations otherwise
+9 limited by law for the immediately preceding fiscal year have
+10 not been enacted in an identical provision for the fiscal year
+11 to which this section applies on or before July 1 of the fiscal
+12 year.
+13 (2) If, on or after July 1 of the fiscal year, a line item
+14 appropriation, standing limited appropriation, or standing
+15 unlimited appropriation otherwise limited by law for the
+16 immediately preceding fiscal year is enacted in an identical
+17 provision for the fiscal year to which this section applies,
+18 this section shall cease to apply for purposes of that
+19 appropriation. The amount of moneys already expended under
+20 subsection 3 for the appropriation shall supplant a like amount
+21 under the appropriation enacted for the fiscal year.
+22 (3) For purposes of this paragraph, an appropriation
+23 for the immediately preceding fiscal year is identical to an
+24 appropriation enacted for the fiscal year to which this section
+25 applies if there are no differences between the two provisions
+26 other than reference to the fiscal year, references to the
+27 legislation’s subunit hierarchy, or differences in amounts
+28 for the appropriation, allocations, or full-time equivalent
+29 positions.
+30 b. For purposes of this subsection, “enacted” means the bill
+31 or joint resolution that includes the appropriation has been
+32 passed by the general assembly, presented to the governor, and
+33 one of the following occurs under Article III, section 16, of
+34 the Constitution of the State of Iowa:
+35 (1) The governor signs the bill or joint resolution without
+HF 2694.3538 (3) 91
+-1- ns/jh 1/5
+
+1 disapproving the appropriations item.
+2 (2) The bill or joint resolution becomes law as described
+3 in section 3.5.
+4 (3) The bill or joint resolution becomes law
+5 notwithstanding the governor’s objections by a majority of two
+6 thirds of the members of each chamber of the general assembly.
+7 2. Prior fiscal year appropriations determined.
+8 a. For all line item appropriations, standing limited
+9 appropriations, and standing unlimited appropriations otherwise
+10 limited by law, including appropriations from federal and
+11 nonstate funds, the department of management, in consultation
+12 with the legislative services agency, shall determine the
+13 amount of such line item appropriations, standing limited
+14 appropriations, and standing unlimited appropriations otherwise
+15 limited by law, including appropriations from federal and
+16 nonstate funds, made for the immediately preceding fiscal year
+17 by taking into consideration all of the following:
+18 (1) All Acts appropriating moneys for that immediately
+19 preceding fiscal year.
+20 (2) All interdepartmental and intradepartmental transfers
+21 made pursuant to section 8.39 and other provisions of law for
+22 that immediately preceding fiscal year.
+23 (3) Other relevant provisions of law.
+24 b. The department of management, in consultation with the
+25 legislative services agency, shall also identify the entities
+26 to which such appropriations were made, or the entities’
+27 successors.
+28 3. Continuing appropriation. There is appropriated from the
+29 appropriate state fund or account to the entities identified
+30 pursuant to subsection 2, for the fiscal year to which this
+31 section applies, amounts, or so much thereof as is necessary,
+32 equal to the amounts of all line item appropriations, standing
+33 limited appropriations, and standing unlimited appropriations
+34 otherwise limited by law, including federal and nonstate funds,
+35 made for the immediately preceding fiscal year, as determined
+HF 2694.3538 (3) 91
+-2- ns/jh 2/5
+
+1 pursuant to subsection 2.
+2 4. Duplicative standing appropriations supplanted. The
+3 amounts appropriated under subsection 3 shall supplant any
+4 duplicative standing appropriation for the fiscal year to which
+5 this section applies.
+6 5. Miscellaneous provisions applicable. Powers, duties,
+7 limitations, or requirements, including reporting requirements,
+8 set forth for appropriations applicable to the immediately
+9 preceding fiscal year are applicable for the fiscal year to
+10 which this section applies for appropriations under subsection
+11 3, and any specified date contained therein shall apply one
+12 year later than specified.
+13 6. Allocation amounts. For any line item appropriation,
+14 standing limited appropriation, or standing unlimited
+15 appropriation otherwise limited by law identified pursuant to
+16 subsection 2, which is subject to an allocation amount for the
+17 immediately preceding fiscal year, the amount appropriated
+18 under subsection 3 based on the appropriation shall be subject
+19 to the same allocation amount for the fiscal year to which this
+20 section applies.
+21 7. Nonreversion. For any line item appropriation, standing
+22 limited appropriation, or standing unlimited appropriation
+23 otherwise limited by law identified pursuant to subsection 2
+24 that is subject to a specified nonreversion provision, whether
+25 for a limited or unlimited period, the amount appropriated
+26 under subsection 3 based on the appropriation shall be subject
+27 to the same specified nonreversion provision, and in the case
+28 of a specified nonreversion provision for a limited period,
+29 the period shall be considered to be one fiscal year longer
+30 than specified for the appropriation identified pursuant to
+31 subsection 2.
+32 8. Full-time equivalent positions. The amounts appropriated
+33 under subsection 3 to an entity identified pursuant to
+34 subsection 2 may be used by the entity for a number of
+35 full-time equivalent positions for the fiscal year to which
+HF 2694.3538 (3) 91
+-3- ns/jh 3/5
+
+1 this section applies, equal to the number of full-time
+2 equivalent positions authorized for the entity for the
+3 immediately preceding fiscal year.
+4 9. Exclusions.
+5 a. This section does not apply to appropriations identified
+6 under subsection 2 that the department of management, in
+7 consultation with the legislative services agency, determines
+8 to be one-time appropriations. For purposes of this paragraph,
+9 “one-time appropriation” may include but is not limited to an
+10 appropriation from the rebuild Iowa infrastructure fund created
+11 in section 8.57 or the technology reinvestment fund created in
+12 section 8.57C, or a similar appropriation from any state fund
+13 or account for an infrastructure project, technology project,
+14 or temporary or pilot project or program.
+15 b. This section does not apply to appropriations for
+16 which the general assembly has indicated by law the general
+17 assembly’s explicit intent that the appropriation not be
+18 subject to subsection 3, including but not limited to by
+19 passing an appropriation bill applicable for the fiscal year to
+20 which this section applies that is substantially similar to an
+21 Act appropriating moneys for the immediately preceding fiscal
+22 year but that does not include the appropriation.
+23 c. This section does not apply to an appropriation
+24 identified under subsection 2 if the general assembly passed
+25 and presented to the governor an identical provision, as
+26 described in subsection 1, paragraph “a”, subparagraph (3),
+27 applicable for the fiscal year to which this section applies
+28 but the item was disapproved by the governor under Article III,
+29 section 16, of the Constitution of the State of Iowa.
+30 10. Adjustment for expenditure limitation. If appropriations
+31 made from the general fund of the state pursuant to subsection
+32 3 would not comply with the general fund expenditure
+33 limitation under section 8.54, the department of management,
+34 in consultation with the legislative services agency, shall
+35 reduce appropriations made from the general fund of the
+HF 2694.3538 (3) 91
+-4- ns/jh 4/5
+
+1 state pursuant to subsection 3, each by the same percentage,
+2 such that appropriations made from the general fund of the
+3 state pursuant to subsection 3 comply with the general fund
+4 expenditure limitation under section 8.54.>
+5 2. Title page, by striking lines 1 and 2 and inserting <An
+6 Act relating to state government, including the regulation of
+7 certain places and activities by the governor and continuing
+8 appropriations in fiscal years for which annual appropriations
+9 have not been enacted.>
+10 3. By renumbering as necessary.
+______________________________
+COMMITTEE ON STATE GOVERNMENT
+KEN ROZENBOOM, CHAIRPERSON
+HF 2694.3538 (3) 91
+-5- ns/jh 5/5

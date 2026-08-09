@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5043
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2146
+S-5043
+1 Amend Senate File 2146 as follows:
+2 1. By striking page 1, line 34, through page 2, line 7, and
+3 inserting:
+4 <e. If the abutting property owner does not perform an
+5 action required under this subsection within a reasonable
+6 time, a city may perform the required action and assess the
+7 material costs, direct labor costs, and an administrative fee
+8 not to exceed twenty dollars against the abutting property
+9 owner for collection in the same manner as a property tax.
+10 A city shall not assess a fine against an abutting property
+11 owner for failure to comply with paragraph “b” or “c”. A city
+12 shall not assess costs or fees under this paragraph unless
+13 the city has provided the abutting property owner with notice
+14 of the violation and an opportunity to appeal or demonstrate
+15 hardship pursuant to a process established by ordinance. This
+16 power paragraph does not relieve the abutting property owner of
+17 liability imposed under paragraph “b” or “c”.>
+______________________________
+SCOTT WEBSTER
+SF 2146.2991 (1) 91
+-1- ms/js 1/1

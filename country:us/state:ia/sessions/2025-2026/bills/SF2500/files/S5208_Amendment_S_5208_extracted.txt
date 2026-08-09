@@ -1,0 +1,329 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5208
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2500
+S-5208
+1 Amend Senate File 2500 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 TOWNSHIP GOVERNANCE
+6 Section 1. Section 39.22, unnumbered paragraph 1, Code
+7 2026, is amended to read as follows:
+8 The This section applies only to the election or appointment
+9 of township officers in townships not subject to the provisions
+10 of section 359.11, subsection 1. The appointment of township
+11 officers in townships subject to the provisions of section
+12 359.11, subsection 1, shall occur only as provided in that
+13 subsection. Otherwise, the offices of township trustee and
+14 township clerk shall be filled by appointment or election as
+15 follows:
+16 Sec. 2. Section 64.1A, subsection 5, Code 2026, is amended
+17 to read as follows:
+18 5. Township trustees and, if appointed pursuant to section
+19 359.11, subsection 1, township clerks.
+20 Sec. 3. Section 69.8, subsection 5, Code 2026, is amended
+21 to read as follows:
+22 5. Elected township offices.
+23 a. When a vacancy occurs in the office of township clerk
+24 or township trustee in a township that is not subject to the
+25 provisions of section 359.11, subsection 1, the vacancy shall
+26 be filled by appointment by the trustees. All appointments to
+27 fill vacancies in township offices shall be until a successor
+28 is elected at the next general election and qualifies by taking
+29 the oath of office. If the term of office in which the vacancy
+30 exists will expire within seventy days after the next general
+31 election, the person elected to the office for the succeeding
+32 term shall qualify by taking the oath of office within ten days
+33 after the election and shall serve for the remainder of the
+34 unexpired term, as well as for the next four-year term.
+35 b. However, if the offices of two trustees are vacant in
+SF 2500.4155 (2) 91
+-1- js/jh 1/9
+
+1 a township that is not subject to the provisions of section
+2 359.11, subsection 1, the county board of supervisors shall
+3 fill the vacancies by appointment. If the offices of three
+4 trustees are vacant in a township that is not subject to the
+5 provisions of section 359.11, subsection 1, the board may
+6 fill the vacancies by appointment, or the board may adopt a
+7 resolution stating that the board will exercise all powers and
+8 duties assigned by law to the trustees of the township in which
+9 the vacancies exist until the vacancies are filled at the next
+10 general election. If a township office vacancy is not filled
+11 by the trustees within thirty days after the vacancy occurs,
+12 the board of supervisors may appoint a successor to fill the
+13 vacancy until the vacancy can be filled at the next general
+14 election.
+15 c. When a vacancy occurs in the office of township trustee
+16 or township clerk in a township that is subject to the
+17 provisions of section 359.11, subsection 1, the vacancy shall
+18 be filled pursuant to that subsection.
+19 Sec. 4. Section 331.502, subsection 24, Code 2026, is
+20 amended to read as follows:
+21 24. Carry out duties related to posting financial
+22 information of a township as provided in sections 359.23 and
+23 359.49 and 359.51A.
+24 Sec. 5. Section 331.512, subsection 1, paragraph i, Code
+25 2026, is amended to read as follows:
+26 i. The levy of taxes certified by the board of trustees of a
+27 township as provided in chapters chapter 359 and 360.
+28 Sec. 6. Section 359.10, Code 2026, is amended to read as
+29 follows:
+30 359.10 New township —— first election Initial township
+31 elections.
+32 When a new township is formed and is not subject to the
+33 provisions of section 359.11, subsection 1, or when a township
+34 ceases to be subject to the provisions of section 359.11,
+35 subsection 1, in which and township officers are to be
+SF 2500.4155 (2) 91
+-2- js/jh 2/9
+
+1 elected, the board of supervisors shall call the first township
+2 election, to be held at such place as it may designate, on the
+3 day of the next general election. If at any time a new township
+4 has been created in a year in which no general election is
+5 held, the board may call a special election for the election of
+6 the township officers of the new township, who shall continue
+7 in office until their successors are elected and qualified.
+8 There shall be elected two trustees for a term of two years,
+9 whose successors shall serve terms of four years, one trustee
+10 for a term of four years, and one clerk for a term of four
+11 years.
+12 Sec. 7. Section 359.11, Code 2026, is amended by striking
+13 the section and inserting in lieu thereof the following:
+14 359.11 Appointment of trustees and clerks —— training.
+15 1. a. This subsection applies only to townships located in
+16 a county with a population of less than seventy-five thousand
+17 according to the most recent federal decennial census, except
+18 this subsection does not apply to any township with a taxable
+19 valuation for property tax purposes of two hundred fifty
+20 million dollars or more.
+21 b. Prior to January 1, 2027, the board of supervisors shall
+22 appoint three registered voters of each township to serve on
+23 the board of trustees in each township, whose terms shall begin
+24 January 1, 2027. The initial terms of the board of trustees
+25 shall be staggered. One appointee under this paragraph shall
+26 serve a term of one year, one appointee under this paragraph
+27 shall serve a term of two years, and one appointee under this
+28 paragraph shall serve a term of three years. This paragraph is
+29 repealed January 1, 2031.
+30 c. A board of trustees in each township shall consist
+31 of three registered voters of the township appointed by the
+32 board of supervisors to serve three-year terms staggered so
+33 that one term expires on January 1 of each year. Prior to
+34 the expiration of the term of an appointee to the board of
+35 trustees, the board of supervisors shall appoint a registered
+SF 2500.4155 (2) 91
+-3- js/jh 3/9
+
+1 voter of the township to serve a term of three years beginning
+2 January 1.
+3 d. The board of supervisors shall appoint a township clerk
+4 to serve a term of four years beginning January 1.
+5 2. A township that has appointed officers pursuant to
+6 subsection 1 that is no longer subject to subsection 1 due to
+7 the township being located in a county with a population of
+8 at least seventy-five thousand according to the most recent
+9 federal decennial census or the taxable valuation of the
+10 township for property tax purposes reaching or exceeding two
+11 hundred fifty million dollars shall arrange for the election of
+12 township officers pursuant to section 359.10.
+13 3. The board of supervisors may remove a person appointed
+14 under subsection 1 at any time for neglect of duty or
+15 maladministration.
+16 4. A vacancy on the board of trustees or of the position
+17 of township clerk shall be filled for the unexpired portion of
+18 the regular term in the same manner as regular appointments are
+19 made pursuant to subsection 1 or as provided in section 69.8,
+20 if applicable.
+21 5. a. Prior to initially taking office as a township
+22 trustee or township clerk, the appointee or officer-elect
+23 shall attend training on township budgets, duties, and
+24 responsibilities, including but not limited to a trustee’s role
+25 as a fence viewer under chapter 359A. The training shall be
+26 offered by the county agriculture extension council created
+27 pursuant to section 176A.5. If multiple county agricultural
+28 extension councils exist in the same county, the county
+29 agricultural extension councils shall coordinate to offer the
+30 required training. County agricultural extension councils may
+31 collaborate with the department of management and organizations
+32 representing county and city governments in producing the
+33 content for and presenting the required training. The county
+34 agricultural extension council shall notify the board of
+35 supervisors when an appointee or officer-elect has attended the
+SF 2500.4155 (2) 91
+-4- js/jh 4/9
+
+1 required training.
+2 b. If an appointee under subsection 1 fails to attend the
+3 required training, the board of supervisors shall make a new
+4 appointment for the position and the new appointee shall attend
+5 the required training prior to taking office.
+6 Sec. 8. NEW SECTION. 359.51A Annual reports.
+7 Each township clerk shall prepare and submit to the
+8 department of management and the county board of supervisors,
+9 on or before July 31 of each year, a report in writing,
+10 showing all receipts of money and disbursements in the clerk’s
+11 office for each separate tax levy authorized by law for the
+12 preceding fiscal year, showing the current public debt of the
+13 township, showing the balance as of June 30 of all separate
+14 reserve accounts held by the township, and providing an
+15 itemized statement and any other information the department of
+16 management deems relevant, which shall be certified as correct
+17 by the trustees of the township. The report shall be in a form
+18 prescribed by the department of management in consultation with
+19 the county finance committee. Each township clerk shall send a
+20 copy of this written report to the department of management,
+21 county board of supervisors, and county auditor. The county
+22 auditor shall post the report or a summary of the report in
+23 a prominent place in the building where the auditor’s office
+24 is located. The department of management shall post all
+25 reports received pursuant to this section on the department of
+26 management’s internet site and a county shall post all reports
+27 received pursuant to this section on the county’s internet
+28 site. The county treasurer shall withhold disbursement of
+29 township taxes until the report is filed with the county board
+30 of supervisors and the county auditor. The county auditor
+31 shall notify the county treasurer if taxes are to be withheld.
+32 Sec. 9. NEW SECTION. 359.61 Intergovernmental agreements.
+33 1. Any legal or contractual agreement or obligation to which
+34 a township is subject in effect prior to the township becoming
+35 subject to the provisions of section 359.11, subsection 1,
+SF 2500.4155 (2) 91
+-5- js/jh 5/9
+
+1 shall remain in effect until the expiration of the legal or
+2 contractual agreement or obligation.
+3 2. Any agreement entered into under chapter 28E to which a
+4 township is a party is invalid and unenforceable on and after
+5 January 1, 2027, if the agreement has not been filed with the
+6 secretary of state by that date pursuant to section 28E.8.
+7 This subsection does not prohibit a township from entering a
+8 new agreement under chapter 28E as long as the agreement is
+9 filed pursuant to section 28E.8.
+10 Sec. 10. NEW SECTION. 384.12A Rural fire protection fund.
+11 1. A city that provides fire protection and emergency
+12 medical services to a township pursuant to a contract shall
+13 establish a rural fire protection fund under the control of the
+14 city’s fire department.
+15 2. A city that receives payment from a township pursuant
+16 to a township’s levy for fire protection or emergency medical
+17 services pursuant to section 359.43 shall deposit such payments
+18 into the city’s rural fire protection fund. The city shall use
+19 moneys in the rural fire protection fund only for purposes of
+20 providing fire protection and emergency medical services.
+21 3. By June 30, 2026, and by June 30 of each year thereafter,
+22 a city that deposits payments from a township into the city’s
+23 rural fire protection fund pursuant to subsection 2 shall
+24 share with the township board of trustees and, if the township
+25 is subject to the provisions of section 359.11, subsection
+26 1, with the county board of supervisors an itemized list of
+27 expenditures from the fund.
+28 4. Moneys remaining in a city’s rural fire protection fund
+29 at the close of the city’s fiscal year shall remain available
+30 for expenditure for the purposes of fire protection and
+31 emergency medical services.
+32 Sec. 11. REPEAL. Sections 359.23, 359.38, and 359.39, Code
+33 2026, are repealed.
+34 Sec. 12. REPEAL. Chapter 360, Code 2026, is repealed.
+35 Sec. 13. TRANSITION —— ELECTED TOWNSHIP OFFICIALS. The
+SF 2500.4155 (2) 91
+-6- js/jh 6/9
+
+1 term of all elected township officials in all townships subject
+2 to the provisions of section 359.11, subsection 1, as enacted
+3 by this division of this Act, shall terminate on January 1,
+4 2027. A person serving as a township trustee or township clerk
+5 pursuant to chapter 359, Code 2026, may continue serving in
+6 that role until January 1, 2027.
+7 Sec. 14. TRANSITION —— TRANSFER OF MONEYS. On or before
+8 September 1, 2026, any moneys collected by a township pursuant
+9 to taxes levied under chapter 360, Code 2026, and under control
+10 of the township clerk shall be transferred by the township
+11 clerk to the general fund of a school district or districts pro
+12 rata in which the moneys were raised.
+13 Sec. 15. EFFECTIVE DATE. This division of this Act, being
+14 deemed of immediate importance, takes effect upon enactment.
+15 DIVISION II
+16 TOWNSHIP BUDGETS
+17 Sec. 16. Section 359.49, Code 2026, is amended by adding the
+18 following new subsection:
+19 NEW SUBSECTION. 1A. a. Prior to adoption and certification
+20 of the budget proposed pursuant to this section, the board of
+21 trustees shall provide the proposed budget to the board of
+22 supervisors.
+23 b. The board of supervisors shall have the option to approve
+24 or reject the proposed budget of a township subject to section
+25 359.11, subsection 1. The board of supervisors shall approve
+26 or reject the proposed budget of a township subject to section
+27 359.11, subsection 1, and direct changes to be made in a timely
+28 manner so as to not delay the duties of the board of trustees to
+29 adopt a budget and certify taxes by the deadlines provided in
+30 this section.
+31 c. The board of supervisors shall not direct or allocate
+32 any moneys collected pursuant to a levy in one township for
+33 use in another township. This paragraph does not prohibit
+34 cost-sharing agreements entered into between two or more
+35 townships.
+SF 2500.4155 (2) 91
+-7- js/jh 7/9
+
+1 d. All approved budgets, whether approved by the board
+2 of trustees or by the board of supervisors as required under
+3 paragraph “b”, shall be itemized and presented at hearings and
+4 meetings for the review or consideration of the county budget
+5 or a county levy.
+6 Sec. 17. Section 359.49, subsections 4 and 7, Code 2026, are
+7 amended to read as follows:
+8 4. The board of trustees shall transmit a copy of the
+9 proposed budget and a notice of the meeting set as required by
+10 subsection 5 to the county auditor for posting. The county
+11 auditor shall post the notice and the proposed budget in an
+12 area of the courthouse where notices to the public are commonly
+13 posted. The county auditor shall also post the notice and
+14 proposed budget on the county’s internet site.
+15 7. After the meeting on the proposed budget, the board of
+16 trustees shall adopt by resolution a budget for at least the
+17 next fiscal year, and the clerk shall certify the necessary
+18 tax levy for the next fiscal year to the county auditor and
+19 the county board of supervisors by April 30. The tax levy
+20 certified may be less than but shall not be more than the
+21 amount estimated in the proposed budget submitted at the
+22 meeting. Two copies each of the detailed budget as adopted
+23 and of the certified tax levy must be transmitted to the
+24 county auditor by April 30. The county auditor shall post the
+25 detailed budget on the county’s internet site.
+26 Sec. 18. Section 359.50, subsection 1, Code 2026, is amended
+27 to read as follows:
+28 1. A township budget as finally adopted for the following
+29 fiscal year becomes effective July 1. A township budget for
+30 the current fiscal year may be amended, with the approval of
+31 the board of supervisors if approval is required under section
+32 359.49, subsection 1A, paragraph “b”, for any of the following
+33 purposes:
+34 a. To permit the expenditure of unexpended, unencumbered
+35 cash balances on hand at the end of the preceding fiscal year
+SF 2500.4155 (2) 91
+-8- js/jh 8/9
+
+1 which that had not been anticipated in the budget.
+2 b. To permit the expenditure of amounts anticipated to be
+3 available from sources other than property taxation, and which
+4 that had not been anticipated in the budget.
+5 Sec. 19. EFFECTIVE DATE. This division of this Act takes
+6 effect January 1, 2027.>
+7 2. Title page, by striking lines 1 through 3 and inserting
+8 <An Act relating to townships, including the appointment
+9 and duties of township officers, township budgets, and the
+10 provision of fire protection and emergency medical services to
+11 townships by cities, and including effective date provisions.>
+______________________________
+DAWN DRISCOLL
+SF 2500.4155 (2) 91
+-9- js/jh 9/9

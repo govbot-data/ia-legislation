@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED ETHICS AND
+CAMPAIGN DISCLOSURE BOARD
+BILL)
+A BILL FOR
+1 An Act relating to the use of synthetic media in campaign
+2 materials, and making penalties applicable.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5522DP (2) 91
+ss/ns
+
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 68A.407 Synthetic media ——
+2 disclosure.
+3 1. For purposes of this section:
+4 a. “Synthetic media” means an image, audio recording, or
+5 video recording of an individual’s appearance, speech, or
+6 conduct that has been intentionally manipulated with the use
+7 of any form of digital technology in a manner to create a
+8 realistic but false image, audio recording, or video recording
+9 that produces any of the following:
+10 (1) A depiction of an individual in appearance, speech, or
+11 conduct that a reasonable individual would believe depicts a
+12 real individual.
+13 (2) A materially different understanding or impression than
+14 a reasonable individual would have from the unaltered, original
+15 version of the image, audio recording, or video recording.
+16 b. “Synthetic media” does not include content created
+17 using digital technology solely for text generation, grammar
+18 correction, spelling checks, stylistic editing, or enhancing
+19 existing content without creating a new impersonation of a
+20 human likeness or voice.
+21 2. Published material, as defined in section 68A.405, that
+22 contains synthetic media must prominently include the words
+23 “THIS CONTENT GENERATED USING SYNTHETIC MEDIA”. The person
+24 who is responsible for the published material has the sole
+25 responsibility and liability for inclusion of the disclosure
+26 required by this subsection.
+27 3. The inclusion of the disclosure required by this section
+28 does not preclude a person from pursuing any other remedies
+29 under law for the publication of synthetic media.
+30 4. The board shall adopt rules pursuant to chapter 17A to
+31 implement this section.
+32 EXPLANATION
+33 The inclusion of this explanation does not constitute agreement with
+34 the explanation’s substance by the members of the general assembly.
+35 This bill relates to the use of synthetic media in campaign
+LSB 5522DP (2) 91
+-1- ss/ns 1/2
+
+S.F. _____ H.F. _____
+1 materials. The bill requires published material (newspaper,
+2 magazine, shopper, outdoor advertising facility, poster, direct
+3 mailing, brochure, internet site, campaign sign, or other form
+4 of printed or electronic general public political advertising,
+5 including television, video, or motion picture advertising)
+6 that contains synthetic media, defined in the bill, to include
+7 a disclosure. The inclusion of the disclosure required by
+8 the bill does not preclude a person from pursuing any other
+9 remedies under law for the publication of synthetic media.
+10 The bill requires the Iowa ethics and campaign disclosure
+11 board to adopt rules to implement the bill. By operation of
+12 law, a person who willfully violates a provision of the bill
+13 is guilty of a serious misdemeanor. A serious misdemeanor is
+14 punishable by confinement for no more than one year and a fine
+15 of at least $430 but not more than $2,560.
+LSB 5522DP (2) 91
+-2- ss/ns 2/2

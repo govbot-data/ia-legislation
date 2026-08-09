@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8192
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2624
+H-8192
+1 Amend the amendment, H-8183, to House File 2624, as follows:
+2 1. Page 1, by striking lines 4 through 9 and inserting:
+3 <___. Page 1, line 16, after <section 81.4.> by inserting
+4 <For purposes of this section, only a person arrested for a
+5 felony or a violent aggravated misdemeanor shall be required to
+6 submit a DNA sample upon arrest.>>
+______________________________
+GUSTOFF of Polk
+H 8183.3320 (1) 91
+-1- as/js 1/1

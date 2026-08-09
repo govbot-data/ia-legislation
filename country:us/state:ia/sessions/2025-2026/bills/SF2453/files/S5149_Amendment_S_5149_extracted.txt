@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5149
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 2453
+S-5149
+1 Amend Senate File 2453, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. By striking page 1, line 32, through page 2, line 6, and
+4 inserting:
+5 <1. “Endowment assets” means all unrestricted pooled,
+6 long-term investment assets held by or for the benefit of
+7 an institution, including foundation-managed endowments,
+8 quasi-endowments, and long-term investment pools, as such
+9 assets are reported in the foundation’s audited financial
+10 statements. “Endowment assets” does not include assets not
+11 treated as endowment funds under applicable fiduciary and
+12 accounting standards.
+13 2. “Innovation fund” means the same as defined in section
+14 15E.52.
+15 3. “Institution” means a regents institution specified in
+16 section 262.7, subsections 1 through 3.>
+17 2. Page 2, by striking lines 8 through 29 and inserting:
+18 <1. By July 1, 2027, each foundation affiliated with an
+19 institution shall ensure that no less than one percent of its
+20 total endowment assets are invested in one or more innovation
+21 funds. The one percent allocation shall be calculated based on
+22 the average quarterly market value of endowment assets for the
+23 most recently completed fiscal year.
+24 2. A foundation affiliated with an institution may
+25 determine which innovation funds to invest in, the timing of
+26 such investments, and the structure of investment commitments,
+27 provided the foundation remains responsible for compliance with
+28 this chapter.
+29 3. A foundation affiliated with an institution may
+30 implement investments required under this chapter through
+31 direct commitments, reallocation of existing assets, or rolling
+32 commitments as capital is called, subject to compliance with
+33 subsection 1. If the percentage of allocation falls below the
+34 amount required by subsection 1 after that date, the foundation
+35 shall increase its investment in one or more innovation funds
+SF 2453.3705.H (1) 91
+-1- md 1/2
+
+1 as provided in this chapter as necessary in order to meet the
+2 required percentage of allocation.>
+3 3. By striking page 2, line 33, through page 3, line 14, and
+4 inserting:
+5 <Sec. ___. NEW SECTION. 262C.4 Waiver.
+6 1. A foundation board may grant a foundation a one-year
+7 waiver from the requirements of this chapter if adequate
+8 innovation fund capacity is not available or market conditions
+9 would materially impair prudent investment.
+10 2. A foundation board shall not grant a waiver under this
+11 section unless the foundation submits an explanation for its
+12 waiver request and a plan for coming into compliance with the
+13 requirements of this chapter in writing to the state board of
+14 regents and provides a copy to the foundation board.
+15 3. If a foundation is granted two consecutive waivers by a
+16 foundation board, the foundation shall submit written notice
+17 to that effect to the state board of regents when the second
+18 consecutive waiver is granted. The state board shall provide
+19 such notice in a report to the general assembly.>
+20 4. Page 3, line 17, by striking <board> and inserting <state
+21 board of regents>
+22 5. Page 3, by striking lines 21 through 24.
+23 6. Page 3, line 25, before <board> by inserting <state>
+24 7. Page 4, lines 4 and 5, by striking <an institution> and
+25 inserting <a foundation>
+26 8. Page 4, line 6, by striking <the board> and inserting
+27 <each foundation>
+28 9. Page 4, by striking lines 17 and 18 and inserting:
+29 <Sec. ___. EFFECTIVE DATE. This Act takes effect December
+30 31, 2026.>
+31 10. By renumbering as necessary.
+SF 2453.3705.H (1) 91
+-2- md 2/2

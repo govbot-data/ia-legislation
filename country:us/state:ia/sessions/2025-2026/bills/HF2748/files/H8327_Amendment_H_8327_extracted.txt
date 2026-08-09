@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8327
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2748
+H-8327
+1 Amend House File 2748 as follows:
+2 1. Page 22, line 4, by striking <TOURISM> and inserting
+3 <PROMOTION>
+4 2. Page 22, after line 4 by inserting:
+5 <Sec. ___. Section 204.2, subsection 2, paragraph e, Code
+6 2026, is amended to read as follows:
+7 e. “Consumable hemp product” does not include a hemp any of
+8 the following:
+9 (1) A hemp product if the intended use of the hemp
+10 product is introduction into the human body by any method of
+11 inhalation, as prohibited under section 204.14A.
+12 (2) Minimally processed hemp as defined in section 204A.2.
+13 Sec. ___. Section 204A.2, Code 2026, is amended by adding
+14 the following new subsection:
+15 NEW SUBSECTION. 9A. a. “Minimally processed hemp” means
+16 all of the following:
+17 (1) Hemp that is in a form attributable to harvesting,
+18 drying, curing, trimming, packaging, or customary post-harvest
+19 handling.
+20 (2) Hemp that has not been subject to alteration by any
+21 means, including but not limited to any of the following:
+22 (a) A chemical conversion.
+23 (b) An added nonbotanical substance.
+24 b. “Minimally processed hemp” includes hemp that has been
+25 subject to a process of combining or blending the hemp with
+26 one or more plant-based substances, if the resulting material
+27 remains in an unadulterated form.
+28 c. “Minimally processed hemp” does not include a consumable
+29 hemp product as regulated under chapter 204.
+30 Sec. ___. NEW SECTION. 204A.8A Agricultural commodity.
+31 1. a. Hemp that is produced in compliance with the federal
+32 hemp law shall be considered as an agricultural commodity
+33 regulated by the department as an article under this subtitle.
+34 b. Minimally processed hemp derived from hemp produced in
+35 compliance with the federal hemp law shall be considered as
+HF 2748.3886 (3) 91
+-1- da/js 1/2
+
+1 an agricultural commodity regulated by the department as an
+2 article under this subtitle.
+3 2. This section does not authorize the use of hemp or a hemp
+4 product as otherwise prohibited by law.>
+5 3. Page 22, by striking lines 15 through 28 and inserting:
+6 <9. “Farm crop” means a any of the following:
+7 a. A plant used for food, animal feed, fiber, or oil,
+8 energy, or decoration, including any of the following:
+9 a. (1) A forage or cereal plant, including but not limited
+10 to alfalfa, barley, buckwheat, corn, flax, forage, millet,
+11 oats, popcorn, rye, sorghum, soybeans, sunflowers, wheat, and
+12 grasses used for forage or silage.
+13 b. (2) Edible or ornamental produce, including but not
+14 limited to fruit such as apples, cherries, peaches, pears,
+15 berries, and grapes; vegetables such as asparagus, broccoli,
+16 and carrots; lentils; tubers; squashes and pumpkins; gourds;
+17 nuts; maple syrup; Christmas trees; and flowers.
+18 b. Mushrooms.
+19 c. Honey.
+20 d. Hemp or minimally processed hemp as defined in section
+21 204.2.>
+22 4. By renumbering as necessary.
+______________________________
+SORENSEN of Adair
+HF 2748.3886 (3) 91
+-2- da/js 2/2

@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8212
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2690
+H-8212
+1 Amend the amendment, H-8205, to House File 2690, as follows:
+2 1. Page 1, after line 3 by inserting:
+3 <Section 1. Section 422.20, subsection 3, paragraph a, Code
+4 2026, is amended to read as follows:
+5 a. Unless otherwise expressly permitted by section 8G.4,
+6 section 11.41, section 96.11, subsection 6, section 421.17,
+7 subsections 22, 23, and 26, section 421.17, subsection 27,
+8 paragraph “k”, section 421.17, subsection 31, section 252B.9,
+9 section 321.40, subsection 6, sections 321.120, 421.19, 421.28,
+10 421.59, 421.65, 422.72, section 423.3, subsections 92, 93,
+11 and 95, section 423.4, subsections 7 and 8, section 452A.63,
+12 and 556.19, subsection 2, this section, or another provision
+13 of law, a tax return, return information, or investigative
+14 or audit information shall not be divulged to any person
+15 or entity, other than the taxpayer, the department, or
+16 internal revenue service for use in a matter unrelated to tax
+17 administration.
+18 Sec. ___. Section 423.3, subsection 92, paragraph b,
+19 subparagraph (5), Code 2026, is amended to read as follows:
+20 (5) (a) The web search portal business shall register
+21 with the department as a web search portal. To maintain its
+22 registration, the web search portal business shall file an
+23 annual report with the department, by January 31, 2026, and by
+24 each January 31 thereafter. The annual report shall describe
+25 the aggregate sales price amount of backup power generation
+26 fuel and electricity purchased and the amount used in the
+27 previous calendar year for the purposes described in paragraph
+28 “a”, subparagraphs (2) and (3), and any other information the
+29 department requires.
+30 (b) Beginning with an annual report due on or after January
+31 31, 2027, the annual report shall also contain the aggregate
+32 sales price amount of exempt property purchased under paragraph
+33 “a”, subparagraph (1).
+34 (c) (i) For annual reports due on or after January 31,
+35 2027, the department of revenue shall estimate the amount of
+H 8205.3398 (2) 91
+-1- sb/js 1/5
+
+1 tax saved under this subchapter by the business solely based
+2 upon the aggregate sales price amounts disclosed in the annual
+3 report.
+4 (ii) The name of the web search portal business filing
+5 the annual report and the amount of estimated tax saved that
+6 is described in this subparagraph division shall be a public
+7 record on or after January 31, 2027.
+8 Sec. ___. Section 423.3, subsection 93, paragraph b,
+9 subparagraph (5), Code 2026, is amended to read as follows:
+10 (5) (a) The web search portal business shall register with
+11 the department as a web search portal business. To maintain
+12 its registration, the web search portal business shall file an
+13 annual report with the department, by January 31, 2026, and by
+14 each January 31 thereafter. The annual report shall describe
+15 the aggregate sales price amount of backup power generation
+16 fuel and electricity purchased and the amount used in the
+17 previous calendar year for the purposes described in paragraph
+18 “a”, subparagraphs (2) and (3), and any other information the
+19 department requires.
+20 (b) Beginning with an annual report due on or after January
+21 31, 2027, the annual report shall contain the aggregate sales
+22 price amount of exempt property purchased under paragraph “a”,
+23 subparagraph (1).
+24 (c) (i) For annual reports due on or after January 31,
+25 2027, the department of revenue shall estimate the amount of
+26 tax saved under this subchapter by the business solely based
+27 upon the aggregate sales price amounts disclosed in the annual
+28 report.
+29 (ii) The name of the web search portal business filing
+30 the annual report and the amount of estimated tax saved that
+31 is described in this subparagraph division shall be a public
+32 record on or after January 31, 2027.>
+33 2. Page 1, line 6, after <(5)> by inserting <(a)>
+34 3. Page 1, lines 9 and 10, by striking <, by January 31,
+35 2026, and by each January March 31 thereafter each year> and
+H 8205.3398 (2) 91
+-2- sb/js 2/5
+
+1 inserting <, by January 31, 2026, and by each January 31
+2 thereafter>
+3 4. Page 1, line 11, after <describe the> by inserting
+4 <aggregate sale price amount of>
+5 5. Page 1, after line 16 by inserting:
+6 <(b) Beginning with an annual report due on or after January
+7 31, 2027, the annual report shall also contain the aggregate
+8 sales price amount of exempt property purchased under paragraph
+9 “a”, subparagraph (1).
+10 (c) (i) For annual reports due on or after January 31,
+11 2027, the department of revenue shall estimate the amount of
+12 tax saved under this subchapter by the business solely based
+13 upon the aggregate sales price amounts disclosed in the annual
+14 report.
+15 (ii) The name of the data center business filing the annual
+16 report and the amount of estimated tax saved that is described
+17 in this subparagraph division shall be a public record on or
+18 after January 31, 2027.>
+19 6. Page 1, after line 24 by inserting:
+20 <Sec. ___. Section 423.4, subsection 7, Code 2026, is
+21 amended by adding the following new paragraph:
+22 NEW PARAGRAPH. 0g. The name of the owner of a data center
+23 business and the annual amount of sales and use tax refunds
+24 that are provided to the data center business under this
+25 subsection shall be considered a public record on or after
+26 January 1, 2027.
+27 Sec. ___. Section 423.4, subsection 8, Code 2026, is amended
+28 by adding the following new paragraph:
+29 NEW PARAGRAPH. 0h. The name of the owner of a data center
+30 business and the annual amount of sales and use tax refunds
+31 that are provided to the data center business under this
+32 subsection shall be considered a public record on or after
+33 January 1, 2027.
+34 Sec. ___. 2025 Iowa Acts, chapter 155, section 4, is amended
+35 to read as follows:
+H 8205.3398 (2) 91
+-3- sb/js 3/5
+
+1 SEC. 4. FINANCIAL ASSISTANCE REPORTING —— ECONOMIC
+2 DEVELOPMENT AUTHORITY.
+3 1. The economic development authority shall submit an
+4 annual report to the general assembly no later than November 1,
+5 2025, that details the amount of every direct loan, forgivable
+6 loan, tax credit, tax exemption, tax refund, grant, or any
+7 other financial assistance awarded to a person during the prior
+8 fiscal year by the authority under an economic development
+9 program administered by the authority. The report shall
+10 identify the county where the project associated with each such
+11 award is located.
+12 2. Notwithstanding any other Code provision to the
+13 contrary, the tax incentives described in subsection 1 that
+14 are provided to a web search portal business or a data center
+15 business shall be posted and maintained on the economic
+16 development authority’s internet site in a searchable database
+17 for public viewing within thirty days of the effective date of
+18 this subsection of this section of this Act. The searchable
+19 database shall include the name of the web search portal
+20 business or data center business and the aggregate amount
+21 of tax incentives received by such a business disclosed in
+22 the report. For purposes of this subsection, “web search
+23 portal business” means the same as defined in section 423.3,
+24 subsection 92 or 93, and “data center business” means the same
+25 as defined in section 423.3, subsection 95.
+26 Sec. ___. EFFECTIVE DATE. The following, being deemed of
+27 immediate importance, takes effect upon enactment:
+28 The section of this Act amending 2025 Iowa Acts, chapter 155,
+29 section 4.>
+30 7. Page 1, by striking lines 26 and 27 and inserting <<An
+31 Act relating to web search portal businesses and data center
+32 businesses, including the disclosure of tax incentives provided
+33 to web search portal businesses and data center businesses and
+34 annual reporting requirements for data center businesses, and
+35 including effective date provisions.>>
+H 8205.3398 (2) 91
+-4- sb/js 4/5
+
+______________________________
+ZABNER of Johnson
+H 8205.3398 (2) 91
+-5- sb/js 5/5

@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8476
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2490
+H-8476
+1 Amend Senate File 2490, as passed by the Senate, as follows:
+2 1. Page 6, line 15, after <subsection 1,> by inserting <and
+3 only if the producer has identified pools of existing natural
+4 hydrogen within the spacing unit,>
+______________________________
+FISHER of Tama
+SF 2490.4492 (1) 91
+-1- sb/js 1/1

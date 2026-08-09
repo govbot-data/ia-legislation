@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8151
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2295
+H-8151
+1 Amend House File 2295 as follows:
+2 1. Page 1, after line 13 by inserting:
+3 <3. The state or a political subdivision may continue to
+4 operate an unmanned aerial vehicle that is manufactured, in
+5 whole or in part, by a company listed on the covered list
+6 developed pursuant to 47 C.F.R. §1.50002 and published by the
+7 public safety and homeland security bureau of the federal
+8 communications commission if the unmanned aerial vehicle was
+9 lawfully purchased or acquired prior to December 23, 2025.>
+______________________________
+VONDRAN of Scott
+HF 2295.3184 (2) 91
+-1- as/js 1/1

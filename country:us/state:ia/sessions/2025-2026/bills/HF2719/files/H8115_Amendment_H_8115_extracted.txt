@@ -1,0 +1,203 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8115
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2719
+H-8115
+1 Amend House File 2719 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 46.26 Judicial officer
+5 performance information.
+6 1. The state commissioner of elections shall collect
+7 and publish objective, data-driven information, expressed as
+8 unadjusted numbers and adjusted percentile ranks, related to
+9 each district court judge including district associate judges,
+10 full-time associate juvenile judges, and full-time associate
+11 probate judges.
+12 a. The information must include all of the following:
+13 (1) The percentage of cases in which the judge set a bond
+14 amount lower than the bond schedule promulgated pursuant to
+15 section 804.21, subsection 5, categorized by offense class.
+16 (2) The frequency with which a person is released on
+17 the person’s own recognizance by the judge when the person
+18 is arrested for a violent offense compared to a nonviolent
+19 offense, categorized by offense class.
+20 (3) The frequency with which the judge’s final sentence is
+21 lower than the statutory recommendation or the prosecutor’s
+22 recommendation, categorized by offense class.
+23 (4) The number of times the judge grants a deferred
+24 judgment, deferred sentence, or suspended sentence.
+25 (5) The number of times the judge’s rulings are reversed
+26 by the court of appeals or the supreme court due to abuse of
+27 discretion or error of law, including the percentage of the
+28 total number of the judge’s opinions or orders appealed in the
+29 same time period, with the total number of appeals displayed as
+30 the denominator, categorized by issue type.
+31 (6) The average time from the filing of a motion or
+32 submission of a case for ruling to the judge’s final ruling on
+33 the motion or case.
+34 (7) The number of cases the judge has disposed of compared
+35 to the number of outstanding cases remain on the judge’s docket
+HF 2719.3077 (2) 91
+-1- lh/ns 1/6
+
+1 each year.
+2 b. Beginning five years after the effective date of this
+3 Act, each metric must include a five-year rolling trend line.
+4 c. The information collected under this subsection
+5 must be available for public download in an electronic,
+6 machine-readable open format. All data and adjusted metrics
+7 must be equally prominent and equally accessible.
+8 2. a. The judicial branch shall provide the state
+9 commissioner of elections with read-only access to all publicly
+10 available information on the Iowa court information system
+11 within one year of the effective date of this Act.
+12 b. The state court administrator shall annually certify the
+13 accuracy and completeness of the information made available
+14 under paragraph “a” during the period beginning November 1 and
+15 ending December 31.
+16 c. The state court administrator shall report any material
+17 discrepancies in the information to the general assembly.
+18 3. Within eighteen months of the effective date of this Act,
+19 the state commissioner of elections shall submit a methodology
+20 report to the general assembly that contains all of the
+21 following:
+22 a. A case complexity index assigning weighted scores to
+23 each case type based on objective criteria including statutory
+24 penalty range, number of parties, number of hearings, length of
+25 the trial or contested hearing, and whether the case involved a
+26 constitutional challenge or question of first impression.
+27 b. The method for assigning judges to peer groups of
+28 comparable docket composition.
+29 c. The mathematical formula for each adjusted metric
+30 including expression of the adjusted metric as a percentile
+31 rank within the judge’s peer group and judicial district.
+32 d. The minimum case volume threshold for statistical
+33 confidence under subsection 4.
+34 e. The criteria for distinguishing required opinions and
+35 orders under subsection 5, paragraph “a”.
+HF 2719.3077 (2) 91
+-2- lh/ns 2/6
+
+1 4. Any metric based on fewer cases than the ninety percent
+2 statistical confidence at one standard deviation must display,
+3 in boldface type, the following phrase immediately adjacent to
+4 the metric:
+5 RELIABILITY WARNING: This figure is based on a small number
+6 of cases and may not accurately reflect this judge’s typical
+7 performance.
+8 5. a. The state commissioner of elections shall maintain
+9 an online searchable public repository of all written opinions
+10 and orders that disclose a judge’s reasoning, legal analysis,
+11 factual findings, or conclusions of law for each judge’s
+12 current term and the six preceding years to the extent
+13 available. In cases of ambiguity, the state commissioner of
+14 elections shall err on the side of inclusion.
+15 b. Beginning one year after the effective date of this Act,
+16 the state court administrator shall provide the opinions and
+17 orders required under paragraph “a” electronically each month
+18 to the state commissioner of elections.
+19 c. The state commissioner of elections shall publish the
+20 opinions and orders as searchable documents with redactions
+21 consistent with Iowa court rules. The redacted documents
+22 must note the category of information redacted. Documents
+23 subject to a protective order, that are sealed, or that are
+24 otherwise confidential under law shall not be posted. The
+25 state commissioner of elections shall provide a notice in place
+26 of the document identifying the date the document was issued,
+27 the general subject matter to the extent disclosable, and the
+28 reason for nonproduction.
+29 d. The online searchable public repository shall support
+30 full-text search by keyword, date range, case type, and party
+31 type.
+32 6. The state commissioner of elections shall maintain an
+33 internet site that includes all of the following:
+34 a. A search by judicial district, county, and judge name.
+35 b. (1) A profile page for each judge displaying the
+HF 2719.3077 (2) 91
+-3- lh/ns 3/6
+
+1 unadjusted numbers and adjusted metrics required under
+2 subsection 1, with peer group and judicial district
+3 comparisons, and trend lines where applicable, and a link to
+4 the online searchable public repository under subsection 5.
+5 (2) The state commissioner of elections shall not add
+6 narrative interpretation or editorial commentary to any judge’s
+7 profile page beyond what this section expressly authorizes and
+8 shall not filter or selectively present information in the
+9 online searchable public repository.
+10 c. (1) A space for each judge’s personal statement on
+11 judicial philosophy or data trends, not to exceed two thousand
+12 words.
+13 (2) The state commissioner of elections shall not edit the
+14 judge’s personal statement except to enforce the word limit or
+15 remove verifiably false content after providing notice and an
+16 opportunity to revise the personal statement to the judge.
+17 d. The methodology report under subsection 3.
+18 e. An annual report, to also be submitted to the general
+19 assembly, on data collected, documents posted, anomalies,
+20 deviations from methodology, and disclaimer acknowledgment
+21 statistics.
+22 7. a. The state commissioner of elections shall create a
+23 standalone internet page for a person to acknowledge the notice
+24 under paragraph “b” prior to accessing a judge’s profile page.
+25 b. The standalone internet page shall require a person to
+26 check a box to acknowledge the following statement:
+27 IMPORTANT NOTICE —— PLEASE READ BEFORE PROCEEDING
+28 This information is published by the Iowa secretary of state
+29 to assist voters in judicial retention elections. Statistics
+30 reflect caseload composition as much as judicial performance
+31 and do not measure whether a judge reached the correct result.
+32 Reversal rates cover only appealed cases. Sentencing and bond
+33 departures may be legally appropriate exercises of judicial
+34 discretion. Written opinions reflect judicial reasoning
+35 but not the full underlying record. Metrics flagged with a
+HF 2719.3077 (2) 91
+-4- lh/ns 4/6
+
+1 reliability warning should be given little or no weight. In
+2 reviewing this information, the reader will please remember
+3 that every lawsuit is different, with different parties,
+4 different facts, and different applicable legal principles.
+5 Accordingly, any attempt, such as the information presented
+6 on the following page, to reduce such complexity to mere
+7 statistics is inherently imperfect.
+8 [ ] I understand and wish to proceed.
+9 8. This section does not authorize the state commissioner of
+10 elections to supervise, direct, or regulate any judge.
+11 9. a. The state commissioner of elections may adopt rules
+12 pursuant to chapter 17A to administer this section. A rule
+13 adopted by the state commissioner of elections pursuant to
+14 chapter 17A for purposes of this section shall not become
+15 effective until it is ratified by the general assembly by
+16 passage of a joint resolution subject to approval of the
+17 governor.
+18 b. If the state commissioner of elections determines that
+19 such a rule must become effective while the general assembly is
+20 not in session, the state commissioner of elections may request
+21 temporary approval of the rule by the legislative council.
+22 The rule shall become effective upon temporary approval by
+23 the legislative council. A rule temporarily approved by the
+24 legislative council shall cease to be effective upon the
+25 adjournment of the next regular session of the general assembly
+26 following the effective date of the rule unless the general
+27 assembly ratifies the rule before adjournment.
+28 c. The administrative code editor shall publish a notice in
+29 the Iowa administrative bulletin if such a rule is ratified,
+30 temporarily approved, or ceases to be effective. If such a
+31 rule ceases to be effective, the administrative code editor
+32 shall remove the rule from the Iowa administrative code as
+33 soon as practicable, but no sooner than two weeks after such
+34 publication.>
+HF 2719.3077 (2) 91
+-5- lh/ns 5/6
+
+______________________________
+THOMSON of Floyd
+HF 2719.3077 (2) 91
+-6- lh/ns 6/6

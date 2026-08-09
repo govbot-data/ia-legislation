@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8001
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 413
+H-8001
+1 Amend Senate File 413, as passed by the Senate, as follows:
+2 1. Page 1, line 1, by striking <2025> and inserting <2026>
+3 2. Page 1, line 8, by striking <2025> and inserting <2026>
+4 3. Page 1, line 10, by striking <nine> and inserting <nine
+5 six>
+6 4. Page 1, line 14, after <year.> by inserting <A board of
+7 directors may be required to hold additional regular meetings
+8 as deemed necessary by the superintendent.>
+9 5. Page 1, after line 20 by inserting:
+10 <Sec. ___. Section 524.802A, subsection 2, Code 2026, is
+11 amended by striking the subsection.
+12 Sec. ___. Section 524.802A, subsection 4, Code 2026, is
+13 amended to read as follows:
+14 4. The superintendent may adopt rules pursuant to chapter
+15 17A to implement the provisions of this section, including
+16 but not limited to application procedures, identifying the
+17 systems, processes, and technologies a state bank must maintain
+18 in order to engage in certain new or innovative electronic
+19 activities, and determining that additional new or innovative
+20 electronic activities are authorized for state banks without
+21 prior approval.>
+22 6. Title page, by striking line 2 and inserting <the board
+23 of directors of a state bank, and electronic activities of a
+24 state bank.>
+25 7. By renumbering as necessary.
+______________________________
+COMMITTEE ON COMMERCE
+YOUNG of Dallas, Chairperson
+SF 413.2156 (5) 91
+-1- nls/ko 1/1

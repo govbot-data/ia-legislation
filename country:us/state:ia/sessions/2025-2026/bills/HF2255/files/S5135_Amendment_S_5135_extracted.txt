@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5135
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2255
+S-5135
+1 Amend House File 2255, as passed by the House, as follows:
+2 1. Page 1, by striking lines 3 through 11 and inserting:
+3 <(1) Upon request by a peace officer, as defined in section
+4 801.4, civilian employee of a law enforcement agency, or state
+5 or federal judicial officer or state or federal prosecutor,
+6 United States senator, representative to Congress, statewide
+7 elected official, member of the general assembly, member of
+8 a county board of supervisors, member of a city council,
+9 or member of a school board, the county assessor or the
+10 county assessor’s staff, or the county recorder or the county
+11 recorder’s staff, shall redact the requestor’s name and all
+12 references to the requestor’s address and the address of any
+13 business owned in whole or in part by the requestor contained
+14 in electronic documents that are displayed for public access
+15 through an internet site, whether retrievable by searching the
+16 requestor’s full or partial name, by searching the requestor’s
+17 address or the requestor’s business’s address, or by searching
+18 through other means that would normally reveal the address of
+19 the requestor or the requestor’s business’s address, including
+20 but not limited to searching by the name of the requestor’s
+21 spouse. An electronic search of a requestor’s name shall
+22 result in no search results. The county assessor or the
+23 county assessor’s staff, or the county recorder or the county
+24 recorder’s staff, may require reasonable documentation that
+25 proves the requestor owns the business in whole or in part when
+26 requesting the redaction of the business’s address.>
+______________________________
+COMMITTEE ON LOCAL GOVERNMENT
+SCOTT WEBSTER, CHAIRPERSON
+HF 2255.3544 (2) 91
+-1- ms/js 1/1

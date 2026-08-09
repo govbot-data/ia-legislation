@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8150
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2673
+H-8150
+1 Amend House File 2673 as follows:
+2 1. Page 1, after line 26 by inserting:
+3 <Sec. ___. NEW SECTION. 321.515A Civil liability ——
+4 exceptions.
+5 1. The owner of a driverless-capable vehicle is deemed to
+6 be operating the vehicle while the automated driving system
+7 is engaged and shall be liable for personal injury, death, or
+8 property damage that results in connection with the operation
+9 of the vehicle.
+10 2. An owner’s liability under subsection 1 does not preclude
+11 a person injured by a driverless-capable vehicle, while the
+12 automated driving system was engaged, from bringing an action
+13 against the manufacturer of the driverless-capable vehicle
+14 and any person who installed the vehicle’s automated driving
+15 system if the driverless-capable vehicle malfunctioned or if
+16 the automated driving system malfunctioned.
+17 3. Subsection 1 does not apply to a driverless-capable
+18 vehicle owned by a college, university, or research facility if
+19 the vehicle is operating for educational or research purposes.>
+20 2. Title page, lines 1 and 2, by striking <vehicles
+21 transporting hazardous materials,> and inserting <vehicles,
+22 including associated civil liability and the use of such
+23 vehicles to transport hazardous materials,>
+24 3. By renumbering as necessary.
+______________________________
+WOOD of Taylor
+HF 2673.3195 (1) 91
+-1- th/ns 1/1

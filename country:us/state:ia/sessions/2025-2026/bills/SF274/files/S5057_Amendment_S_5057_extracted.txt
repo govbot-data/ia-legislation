@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5057
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 274
+S-5057
+1 Amend Senate File 274, as passed by the Senate, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 280.13H Extracurricular
+5 interscholastic athletic contests or competitions —— acceptance
+6 of legal tender required.
+7 1. For purposes of this section, “organization” means the
+8 same as defined in section 280.13.
+9 2. A public school shall accept legal tender as a form of
+10 payment for entry into any extracurricular interscholastic
+11 athletic contest or competition sponsored by an organization.
+12 As a condition of registration with the department of education
+13 under section 280.13, an organization shall accept legal
+14 tender as a form of payment for entry into any extracurricular
+15 interscholastic athletic contest or competition sponsored by
+16 the organization.
+17 3. This section shall not apply to extracurricular
+18 interscholastic athletic contests or competitions that take
+19 place at schools that are not members of an organization.>
+SF 274.3100.H (1) 91
+-1- md 1/1

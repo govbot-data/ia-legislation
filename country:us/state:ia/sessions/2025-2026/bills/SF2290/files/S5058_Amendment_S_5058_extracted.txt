@@ -1,0 +1,351 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5058
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2290
+S-5058
+1 Amend Senate File 2290 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 537C.1 Short title.
+5 This chapter shall be known and may be cited as the
+6 “Peer-to-Peer Car Sharing Program Act”.
+7 Sec. 2. NEW SECTION. 537C.2 Definitions.
+8 As used in this chapter, unless the context otherwise
+9 requires:
+10 1. “Car sharing” means the authorized use of a vehicle
+11 by an individual other than the vehicle’s owner through a
+12 peer-to-peer car sharing program.
+13 2. “Car sharing delivery period” means the time period in
+14 which a shared vehicle is being delivered to the location of a
+15 car sharing start time pursuant to a program agreement.
+16 3. “Car sharing period” means the period of time commencing
+17 with either the car sharing delivery period, or, if there is no
+18 car sharing delivery period, the car sharing start time, and
+19 ending at the car sharing termination time as established in a
+20 program agreement.
+21 4. “Car sharing start time” means the time at which a
+22 shared vehicle becomes subject to the control of the shared
+23 vehicle driver at or after a reservation of a shared vehicle is
+24 scheduled to begin pursuant to a program agreement.
+25 5. “Car sharing termination time” means the earliest of any
+26 of the following events:
+27 a. The expiration of the period of time established by the
+28 program agreement for the use of a shared vehicle by a shared
+29 vehicle driver, if the shared vehicle driver delivers the
+30 shared vehicle at the time and to the location agreed upon in
+31 the program agreement.
+32 b. The time when the shared vehicle owner retakes possession
+33 or control of the shared vehicle from a shared vehicle driver.
+34 c. The time when the shared vehicle is returned to an
+35 alternate location as agreed upon by the shared vehicle owner
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-1- nls/ko 1/9
+
+1 and shared vehicle driver and incorporated into the program
+2 agreement.
+3 6. “Peer-to-peer car sharing program” or “program” means
+4 a business platform that connects shared vehicle owners with
+5 shared vehicle drivers for financial consideration pursuant
+6 to a program agreement. “Peer-to-peer car sharing program” or
+7 “program” does not include a rental car company as defined by
+8 section 516D.3.
+9 7. “Program agreement” means a contract executed by a shared
+10 vehicle owner and a shared vehicle driver that contains the
+11 terms and conditions for the use of a shared vehicle through a
+12 peer-to-peer car sharing program. “Program agreement” does not
+13 include a rental agreement as defined by section 516D.3.
+14 8. “Shared vehicle” means a vehicle that is available for
+15 sharing through a peer-to-peer car sharing program. “Shared
+16 vehicle” does not include a rental vehicle as that term is
+17 defined in section 516D.3.
+18 9. “Shared vehicle driver” means an individual authorized to
+19 drive a shared vehicle pursuant to a program agreement.
+20 10. “Shared vehicle owner” means a registered owner, or the
+21 registered owner’s designee, of a vehicle made available for
+22 car sharing.
+23 11. “Vehicle” means any self-propelled motor vehicle subject
+24 to registration under chapter 321, or under the laws of another
+25 state, that is designed primarily for carrying no more than
+26 nine passengers at any one time. “Vehicle” does not include a
+27 motorcycle or motorized bicycle.
+28 Sec. 3. NEW SECTION. 537C.3 Program —— assumption of
+29 liability.
+30 1. Except as provided in subsection 2, a program shall
+31 assume liability for a shared vehicle owner for all bodily
+32 injuries or property damage to a third party during a car
+33 sharing period involving the shared vehicle owner’s vehicle
+34 in the liability amount stated in the applicable program
+35 agreement, but not less than the liability amounts under
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-2- nls/ko 2/9
+
+1 section 321A.21. Notwithstanding the definition of “car sharing
+2 termination time” in section 537C.2, the assumption of liability
+3 shall apply to bodily injury and property damage losses by a
+4 damaged third party as required under section 321A.21.
+5 2. The assumption of liability by a program pursuant to
+6 subsection 1 shall not apply to a shared vehicle owner if,
+7 prior to or during a car sharing period described in subsection
+8 1, the shared vehicle owner does any of the following:
+9 a. Makes an intentional or fraudulent material
+10 misrepresentation or omission to the program.
+11 b. Acts in concert with the shared vehicle driver to have
+12 the shared vehicle driver fail to return the shared vehicle
+13 according to the terms of the program agreement.
+14 3. Notwithstanding any other provision of law to the
+15 contrary, a program and a shared vehicle owner shall not be
+16 liable under any state or local law that imposes liability
+17 based on vehicle ownership consistent with the provisions of
+18 49 U.S.C. §30106.
+19 Sec. 4. NEW SECTION. 537C.4 Motor vehicle liability
+20 insurance requirements —— claims.
+21 1. a. A program shall ensure that, during a car sharing
+22 period, a shared vehicle owner and a shared vehicle driver are
+23 insured under a motor vehicle liability insurance policy that
+24 provides insurance coverage in an amount not less than the
+25 minimum amounts set forth in section 321A.21.
+26 b. The liability policy under paragraph “a” must meet either
+27 of the following requirements:
+28 (1) The liability policy recognizes that the vehicle
+29 covered by the liability policy is made available and used
+30 through a peer-to-peer car sharing program.
+31 (2) The liability policy does not expressly prohibit the
+32 use of the vehicle covered by the liability policy as a shared
+33 vehicle.
+34 2. The liability insurance coverage requirements under
+35 this section may be satisfied by any of the following, or a
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-3- nls/ko 3/9
+
+1 combination of any of the following:
+2 a. A liability policy maintained by the shared vehicle
+3 owner.
+4 b. A liability policy maintained by the shared vehicle
+5 driver.
+6 c. A liability policy maintained by the program.
+7 3. The motor vehicle liability insurance policy under
+8 subsection 1, paragraph “a”, shall be primary during each
+9 car sharing period and if during the car sharing period a
+10 claim occurs in another state that requires minimum financial
+11 responsibility limits higher than the minimum limits required
+12 by subsection 1, paragraph “a”, the coverage maintained under
+13 this section shall satisfy the difference in the required
+14 minimum coverage amounts, up to the applicable policy limit.
+15 4. An insurer or program providing coverage under
+16 subsection 2 shall assume primary liability for a claim under
+17 the liability policy in all of the following circumstances:
+18 a. There is a dispute as to the individual in control of
+19 the shared vehicle at the time of an event giving rise to a
+20 claim and the program is unable to comply with section 537C.12,
+21 subsection 2.
+22 b. There is a dispute as to whether the shared vehicle was
+23 returned to the agreed location at the car sharing termination
+24 time pursuant to section 537C.2, subsection 5, paragraph “c”.
+25 5. If, at the time of a claim, the liability policy
+26 maintained by a shared vehicle owner or a shared vehicle driver
+27 has lapsed or does not provide the required coverage, the
+28 liability policy maintained by the program shall provide the
+29 required coverage beginning with the first dollar of the claim
+30 and the program shall defend such claim under the program’s
+31 liability policy, not including a claim under section 537C.3,
+32 subsection 2.
+33 6. Notwithstanding any other provision of law to the
+34 contrary, a program shall have an insurable interest in a
+35 shared vehicle during the car sharing period.
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-4- nls/ko 4/9
+
+1 7. A program may own and maintain, as the named insured, one
+2 or more motor vehicle liability policies that provide coverage
+3 for any of the following:
+4 a. Liabilities assumed by the program under a car sharing
+5 agreement.
+6 b. Liability of a shared vehicle owner or a shared vehicle
+7 driver.
+8 c. Any damage to, or loss of, a shared vehicle.
+9 8. Coverage under a liability insurance policy maintained
+10 by a program shall not be dependent on another insurer or
+11 another liability insurance policy first denying a claim.
+12 9. This section shall not be construed to create liability
+13 on a program to maintain a liability insurance policy.
+14 10. This section shall not be construed to limit the
+15 liability of a program for an act or omission of the program
+16 that results in injury to a person as a result of the use of a
+17 shared vehicle through a program.
+18 11. This section shall not be construed to limit the ability
+19 of a program to contractually seek indemnification from a
+20 shared vehicle owner or a shared vehicle driver for economic
+21 loss sustained by the program resulting from a breach of the
+22 terms and conditions of the program agreement.
+23 Sec. 5. NEW SECTION. 537C.5 Liability policy —— exclusions.
+24 1. A motor vehicle liability policy may exclude coverage
+25 for, and the duty to defend or indemnify, a shared vehicle
+26 owner for any claims arising out of the shared vehicle owner’s
+27 participation in a program, including but not limited to the
+28 following:
+29 a. Liability coverage for bodily injury and property damage.
+30 b. Personal accident coverage.
+31 c. Uninsured and underinsured motorist coverage.
+32 d. Medical payments coverage.
+33 e. Comprehensive physical damage coverage.
+34 f. Collision physical damage coverage.
+35 2. This chapter shall not be construed to invalidate, limit,
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-5- nls/ko 5/9
+
+1 or restrict an exclusion in a liability policy, including an
+2 exclusion of coverage for vehicles made available for rent,
+3 sharing, hire, or any business use.
+4 3. This chapter shall not be construed to invalidate, limit,
+5 or restrict an insurance carrier’s ability to underwrite an
+6 insurance policy, or to cancel or to not renew an insurance
+7 policy.
+8 Sec. 6. NEW SECTION. 537C.6 Contribution against
+9 indemnification.
+10 If an insurance carrier that issued a liability policy
+11 defends or indemnifies a claim against a shared vehicle owner
+12 or a shared vehicle driver for a loss or injury that occurs
+13 during a car sharing period, and the claim is excluded under
+14 the terms of the liability policy, the insurance carrier may
+15 seek recovery against the program’s liability policy.
+16 Sec. 7. NEW SECTION. 537C.7 Responsibility for physical
+17 equipment.
+18 A program shall be exclusively responsible for any
+19 equipment, including a global positioning system or other
+20 special equipment, used to monitor or facilitate a car sharing
+21 transaction. A program shall agree to indemnify, and shall not
+22 hold responsible, a shared vehicle owner for any damage to,
+23 or theft of, any equipment placed in or on a shared vehicle
+24 during the car sharing period unless the damage to, or theft
+25 of, the equipment is the fault of the shared vehicle owner.
+26 The program may seek indemnity from the shared vehicle driver
+27 for loss or damage to such equipment that occurs during the car
+28 sharing period.
+29 Sec. 8. NEW SECTION. 537C.8 Program agreements.
+30 1. A program agreement shall disclose to a shared vehicle
+31 owner and shared vehicle driver all of the following:
+32 a. That a shared vehicle owner’s or the shared vehicle
+33 driver’s motor vehicle liability insurance policy does not
+34 provide a defense or indemnification for a claim asserted by
+35 the program.
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-6- nls/ko 6/9
+
+1 b. Any right the program has to seek indemnification from
+2 the shared vehicle owner or the shared vehicle driver for any
+3 economic losses incurred by the program as a result of a breach
+4 of the terms and conditions of the program agreement by the
+5 shared vehicle owner or the shared vehicle driver.
+6 c. That the program’s liability policy coverage for the
+7 shared vehicle owner and the shared vehicle driver is only
+8 in effect for the car sharing period and that the program’s
+9 liability policy coverage does not cover the shared vehicle
+10 driver and the shared vehicle owner for any use of the shared
+11 vehicle by the shared vehicle driver outside of the car sharing
+12 period.
+13 d. That the shared vehicle owner’s motor vehicle liability
+14 insurance policy may not provide coverage for a shared vehicle.
+15 e. An emergency telephone number for personnel capable
+16 of fielding roadside assistance, and a telephone number for
+17 customer service inquiries.
+18 f. The daily rate, fees, and, if applicable, any costs for
+19 insurance or a protection package that is charged to the shared
+20 vehicle owner or the shared vehicle driver.
+21 Sec. 9. NEW SECTION. 537C.9 Program agreement —— approved
+22 parties.
+23 A program shall only enter into a program agreement with the
+24 following persons:
+25 1. A resident of this state who holds a driver’s license
+26 issued in this state that authorizes the person to operate a
+27 vehicle of the class of the shared vehicle that is the subject
+28 of the program agreement.
+29 2. A nonresident of this state who holds a driver’s license
+30 issued by the state or country of the person’s residence that
+31 authorizes the person to operate a vehicle of the class of the
+32 shared vehicle that is the subject of the program agreement,
+33 and is at least the minimum age required by this state to
+34 operate a vehicle of that class.
+35 3. A person who is specifically authorized by this state to
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-7- nls/ko 7/9
+
+1 operate a vehicle of the class of the shared vehicle that is
+2 the subject of the program agreement.
+3 4. A program shall keep permanent records of all of the
+4 following:
+5 a. The names and address of each shared vehicle driver.
+6 b. The driver’s license number and place of issuance of each
+7 shared vehicle driver, and any other person who may operate a
+8 shared vehicle under a program agreement.
+9 Sec. 10. NEW SECTION. 537C.10 Shared vehicles —— safety
+10 recalls.
+11 1. On the date a person registers as a shared vehicle owner,
+12 and prior to the time a shared vehicle owner makes a shared
+13 vehicle available for car sharing, the program shall do all of
+14 the following:
+15 a. Verify that a safety recall has not been issued for the
+16 shared vehicle for which repairs have not been made.
+17 b. Notify the shared vehicle owner of the requirements under
+18 subsection 2.
+19 2. a. If a shared vehicle owner receives actual notice of a
+20 safety recall before the vehicle is made available as a shared
+21 vehicle, the person shall not make the vehicle available for
+22 car sharing until the safety repair has been made.
+23 b. If a shared vehicle owner receives actual notice of a
+24 safety recall while the shared vehicle is available for car
+25 sharing, the shared vehicle owner shall remove the shared
+26 vehicle from the program as soon as practicably possible, and
+27 shall not make the vehicle available for car sharing until
+28 after the safety recall repair has been made.
+29 c. If a shared vehicle owner receives actual notice of a
+30 safety recall on a shared vehicle while the shared vehicle is
+31 being used by, or is in the possession of, a shared vehicle
+32 driver, the shared vehicle owner shall, as soon as practicable,
+33 notify the program about the safety recall and the shared
+34 vehicle owner shall address the safety recall repair.
+35 Sec. 11. NEW SECTION. 537C.11 Shared vehicles —— liens.
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-8- nls/ko 8/9
+
+1 If there is a lien on a shared vehicle, the program shall
+2 notify the shared vehicle owner when the vehicle owner
+3 registers as a shared vehicle owner, and again immediately
+4 prior to the time the vehicle is made available for car
+5 sharing, that the vehicle’s use as a shared vehicle may violate
+6 the terms of the contract with the lienholder.
+7 Sec. 12. NEW SECTION. 537C.12 Recordkeeping.
+8 1. A program shall collect and verify records relating to
+9 the use of each shared vehicle, including all of the following:
+10 a. All dates and times that the shared vehicle is the
+11 subject of a program agreement.
+12 b. The location of each car sharing start time and each car
+13 sharing termination time.
+14 c. All fees paid by each shared vehicle driver.
+15 d. All revenue received by the shared vehicle owner.
+16 2. Upon request, a program shall provide the information
+17 collected pursuant to subsection 1 to the shared vehicle owner,
+18 the insurance carrier for the shared vehicle owner’s liability
+19 policy, or the insurance carrier for the shared vehicle
+20 driver’s liability policy, for purposes of a claim coverage
+21 investigation, settlement, negotiation, or litigation related
+22 to a claim incurred during a car sharing period.
+23 3. A program shall retain the records under subsection 1 for
+24 the period required under section 614.1, subsection 2.>
+______________________________
+ADRIAN DICKEY
+SF 2290.3164 (1) 91
+(amending this SF 2290 to CONFORM to HF 2497)
+-9- nls/ko 9/9

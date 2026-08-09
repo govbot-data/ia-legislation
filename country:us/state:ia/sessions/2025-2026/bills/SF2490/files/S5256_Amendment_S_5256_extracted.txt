@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5256
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 2490
+S-5256
+1 Amend Senate File 2490, as passed by the Senate, as follows:
+2 1. Page 6, line 15, after <subsection 1,> by inserting <and
+3 only if the producer has identified pools of existing natural
+4 hydrogen within the spacing unit,>
+5 2. Page 9, by striking lines 28 through 30 and inserting:
+6 <Sec. ___. NEW SECTION. 458A.26 Permission to enter site ——
+7 negotiation of surface damages.>
+8 3. Page 9, before line 31 by inserting:
+9 <1. Before entering a site that is subject to a pooling
+10 order under section 458A.8, or that is within an exploratory
+11 spacing unit, for purposes of an oil and gas operation, an
+12 operator shall receive written permission from the surface
+13 owner to enter the site. If the surface owner does not grant
+14 written permission to the operator to enter the site, the
+15 operator shall not enter the site for purposes of an oil and
+16 gas operation.>
+17 4. Page 9, line 31, by striking <1.> and inserting <2.>
+18 5. Page 9, line 31, before <Before entering> by inserting
+19 <a.>
+20 6. Page 10, line 2, after <drill.> by inserting <If the
+21 parties do not reach an agreement for payment of damages, the
+22 operator shall not enter the site to drill.>
+23 7. Page 10, after line 2 by inserting:
+24 <b. Before entering into a negotiation under paragraph “a”,
+25 the operator shall provide a written description of the opt-out
+26 procedure described in paragraph “c”.
+27 c. A surface owner may decline further communication with
+28 an operator concerning a possible agreement for the payment
+29 of any damage that may be caused by the drilling operation
+30 by providing verbal or written notice to the operator that
+31 states that the surface owner does not wish to discuss the
+32 matter further, and by submitting to the attorney general
+33 notice through mail or electronic means stating the same. Upon
+34 receipt of such notice from the surface owner, the attorney
+35 general shall forward a copy to the operator.
+SF 2490.4528.H (1) 91
+-1- md 1/2
+
+1 d. After receipt of notice from the surface owner pursuant
+2 to paragraph “c”, the operator shall not initiate further
+3 contact with the surface owner for purposes of an agreement
+4 for the payment of any damages that may be caused by the
+5 drilling operation, except that the operator shall continue to
+6 provide the surface owner with notices otherwise required by
+7 law. The surface owner may rescind such refusal by contacting
+8 the operator and notifying the attorney general through mail
+9 or electronic means. Unless the surface owner rescinds the
+10 refusal, the surface owner’s land shall be deemed unavailable
+11 for an agreement.
+12 e. An operator violating the contact prohibition in
+13 paragraph “d” is subject to a civil penalty of not less than ten
+14 thousand dollars for each violation.>
+15 8. Page 10, after line 2 by inserting:
+16 <3. For purposes of this section, “oil and gas operation”
+17 means the same as defined in section 458A.30.>
+18 9. By striking page 10, line 3, through page 13, line 2.
+19 10. Title page, line 5, after <jurisdiction> by inserting <,
+20 and providing civil penalties>
+21 11. By renumbering as necessary.
+SF 2490.4528.H (1) 91
+-2- md 2/2

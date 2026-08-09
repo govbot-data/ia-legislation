@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5181
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate Amendment to
+House File 2523
+S-5181
+1 Amend the Senate amendment, H-8303, to House File 2523, as
+2 passed by the House, as follows:
+3 1. Page 1, after line 3 by inserting:
+4 <Section 1. Section 229.2, subsection 1, Code 2026, is
+5 amended to read as follows:
+6 1. a. An application for admission to a public or private
+7 hospital for observation, diagnosis, care, and treatment as a
+8 voluntary patient may be made by any person who is mentally ill
+9 or has symptoms of mental illness.
+10 b. (1) In the case of a minor, the minor’s parent,
+11 guardian, or custodian may make application for admission of
+12 the minor as a voluntary patient.
+13 (1) (2) Upon receipt of an application for voluntary
+14 admission of a minor, the chief medical officer shall provide
+15 separate prescreening interviews and consultations with the
+16 parent, guardian, or custodian and the minor to assess the
+17 family environment and the appropriateness of the application
+18 for admission.
+19 (2) During the interview and consultation the chief medical
+20 officer shall inform the minor orally and in writing that the
+21 minor has a right to object to the admission. If the chief
+22 medical officer of the hospital to which application is made
+23 determines that the admission is appropriate but the minor
+24 objects to the admission, the parent, guardian, or custodian
+25 must petition the juvenile court for approval of the admission
+26 before the minor is actually admitted.
+27 (3) As soon as is practicable after the filing of a
+28 petition for juvenile court approval of the admission of the
+29 minor, the juvenile court shall determine whether the minor
+30 has an attorney to represent the minor in the hospitalization
+31 proceeding, and if not, the court shall assign to the minor
+32 an attorney. If the minor is financially unable to pay
+33 for an attorney, the attorney shall be compensated by an
+34 administrative services organization at an hourly rate to be
+35 established by the administrative services organization in
+H 8303.3995.H (1) 91
+-1- md 1/3
+
+1 substantially the same manner as provided in section 815.7.
+2 (4) The juvenile court shall determine whether the
+3 admission is in the best interest of the minor and is
+4 consistent with the minor’s rights.
+5 (5) The juvenile court shall order hospitalization of a
+6 minor, over the minor’s objections, only after a hearing in
+7 which it is shown by clear and convincing evidence that:
+8 (a) The minor needs and will substantially benefit from
+9 treatment.
+10 (b) No other setting which involves less restriction of the
+11 minor’s liberties is feasible for the purposes of treatment.
+12 (6) Upon approval of the admission of a minor over the
+13 minor’s objections, the juvenile court shall appoint an
+14 individual to act as an advocate representing the interests of
+15 the minor in the same manner as an advocate representing the
+16 interests of patients involuntarily hospitalized pursuant to
+17 section 229.19.
+18 Sec. ___. Section 229.6A, subsections 1 and 3, Code 2026,
+19 are amended to read as follows:
+20 1. Notwithstanding section 229.11, the juvenile court has
+21 exclusive original jurisdiction in proceedings concerning
+22 a minor for whom an application is filed under section
+23 229.6or for whom an application for voluntary admission is
+24 made under section 229.2, subsection 1, to which the minor
+25 objects. In proceedings under this chapter concerning a minor,
+26 notwithstanding section 229.11, the term “court”, “judge”, or
+27 “clerk” means the juvenile court, judge, or clerk.
+28 3. It is the intent of this chapter that when a minor is
+29 involuntarily or voluntarily hospitalized,or hospitalized
+30 with juvenile court approval over the minor’s objection the
+31 minor’s family shall be included in counseling sessions offered
+32 during the minor’s stay in a hospital when feasible. Prior
+33 to the discharge of the minor, the juvenile court may, after
+34 a hearing, order that the minor’s family be evaluated and
+35 receive therapy ordered if the juvenile court finds therapy is
+H 8303.3995.H (1) 91
+-2- md 2/3
+
+1 necessary to facilitate the return of the minor to the family
+2 setting.>
+3 2. Page 1, line 16, after <treatment,> by inserting
+4 <inpatient treatment,>
+5 3. Page 1, line 21, by striking <from> and inserting <by>
+6 4. By renumbering as necessary.
+H 8303.3995.H (1) 91
+-3- md 3/3

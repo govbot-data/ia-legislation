@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8435
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2348
+H-8435
+1 Amend House File 2348, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 717B.3A, Code 2026, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 1A. A person is guilty of animal torture
+7 if the person intentionally, willfully, and maliciously
+8 mutilates, burns, poisons, drowns, starves, or causes intensive
+9 or prolonged pain or death to a companion animal, or causes,
+10 directs, or provides anything of value to another person to do
+11 the same.
+12 Sec. 2. Section 717B.3A, subsections 4 and 5, Code 2026, are
+13 amended to read as follows:
+14 4. A person who commits animal torture in violation of
+15 subsection 1 is guilty of an aggravated misdemeanor. A person
+16 who commits animal torture in violation of subsection 1A is
+17 guilty of a class “D” felony.
+18 5. Notwithstanding subsection 4, a person who commits
+19 animal torture is guilty of a class “D” felony shall be guilty
+20 of an offense one degree higher than the underlying offense if
+21 the person has previously been convicted of committing animal
+22 abuse pursuant to section 717B.2, animal neglect punishable
+23 as a serious misdemeanor or aggravated misdemeanor pursuant
+24 to section 717B.3, animal torture pursuant to this section,
+25 injury to or interference with a police service dog pursuant to
+26 section 717B.9, bestiality pursuant to section 717C.1, or an
+27 act involving a contest event prohibited in section 717D.2.>
+HF 2348.4350.S (1) 91
+-1- mb 1/1

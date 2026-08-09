@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8169
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2642
+H-8169
+1 Amend House File 2642 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 455B.171, Code 2026, is amended by
+5 adding the following new subsection:
+6 NEW SUBSECTION. 18A. “On-site native distillery operation”
+7 means land where there is located an operating native
+8 distillery issued a class “A” native distilled spirits license
+9 by the department of revenue pursuant to section 123.43A.
+10 Sec. 2. NEW SECTION. 455B.172B On-site native distillery
+11 operations.
+12 1. The department shall adopt by rule pursuant to chapter
+13 17A standards for the disposal of wastewater from an on-site
+14 native distillery operation. These standards shall provide for
+15 but are not limited to disposal by all of the following:
+16 a. By land application if all of the following apply:
+17 (1) The volume of wastewater produced by the on-site native
+18 distillery operation is less than one thousand five hundred
+19 gallons per day.
+20 (2) The application rate does not exceed thirty thousand
+21 gallons per acre per year.
+22 (3) The application rate does not exceed one thousand five
+23 hundred gallons per acre per day.
+24 (4) The standards for land application are consistent with
+25 the rules for land application of septage adopted to implement
+26 section 455B.172.
+27 b. At a publicly owned treatment works or other wastewater
+28 treatment system with the permission of the owner of the
+29 treatment works.
+30 c. Through a subsurface absorption system in conformance
+31 with applicable regulations of the United States environmental
+32 protection agency.
+33 d. Through a disposal system that meets all of the following
+34 requirements:
+35 (1) The disposal system is located on the same site as the
+HF 2642.3260 (1) 91
+-1- sb/js 1/3
+
+1 on-site native distillery operation.
+2 (2) The disposal system is constructed in conformance with a
+3 permit issued by the department.
+4 (3) For a disposal system that discharges wastewater
+5 into a water of the United States, the system is operated in
+6 conformance with a national pollutant discharge elimination
+7 system permit issued by the department under section 455B.197.
+8 Sec. 3. Section 455B.261, subsection 4, Code 2026, is
+9 amended by striking the subsection.
+10 Sec. 4. Section 455B.265, subsection 1, Code 2026, is
+11 amended to read as follows:
+12 1. In its consideration of applications for permits, the
+13 department shall give priority in processing to persons in
+14 the order that the applications are received, except where
+15 when the application of this processing priority system
+16 prevents the prompt approval of routine applications or
+17 where when the public health, safety, or welfare will be
+18 threatened by delay. If the department determines after
+19 investigation that the diversion, storage, or withdrawal is
+20 consistent with the principles and policies of beneficial
+21 use and ensuring conservation, the department shall grant a
+22 permit. The determination of beneficial use shall not be
+23 based on categories of uses. An application for a permit
+24 shall be approved or denied within ninety days from the date
+25 that the department receives the complete application. A
+26 renewal permit shall be approved or denied by the department
+27 within thirty days from the date that the department receives a
+28 complete application for renewal. If the applicant requests an
+29 extension of the time allotted, the department may approve the
+30 request to allow the applicant more time to submit additional
+31 information to resolve a contested or complex application.
+32 Regardless of the request in the application, and subject
+33 to appeal, the director or the department may determine the
+34 duration and frequency of withdrawal and the quantity of
+35 water to be diverted, stored, or withdrawn pursuant to the
+HF 2642.3260 (1) 91
+-2- sb/js 2/3
+
+1 permit. Each permit granted after July 1, 1986, shall include
+2 conditions requiring routine conservation practices, and
+3 requiring implementation of emergency conservation measures
+4 after notification by the department.>
+5 2. Title page, line 1, by striking <certain liquids> and
+6 inserting <water>
+7 3. Title page, line 3, by striking <liquid waste> and
+8 inserting <wastewater>
+______________________________
+GOLDING of Linn
+HF 2642.3260 (1) 91
+-3- sb/js 3/3

@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5148
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 2426
+S-5148
+1 Amend Senate File 2426, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 2, by striking lines 21 through 32 and inserting:
+4 <2. a. A commercial motor carrier shall not employ or
+5 engage the services of a commercial driver, including as an
+6 independent contractor, who is not sufficiently proficient
+7 in the English language in accordance with 49 C.F.R.
+8 §391.11(b)(2). A carrier who violates this subsection commits
+9 a simple misdemeanor punishable as a scheduled violation under
+10 section 805.8A, subsection 13, paragraph “0c”. Each person
+11 employed or engaged in violation of this subsection constitutes
+12 a separate offense.
+13 b. In addition to any other penalty, a peace officer shall
+14 issue an out-of-service order to a commercial motor carrier if
+15 an investigation, safety audit, or normal business activity
+16 reveals any of the following:
+17 (1) That the carrier is allowing, or has allowed within
+18 the previous twelve months, a person who is not sufficiently
+19 proficient in the English language in accordance with 49 C.F.R.
+20 §391.11(b)(2) to operate a commercial motor vehicle.
+21 (2) That the carrier was issued an out-of-service
+22 order by another state or the federal motor carrier safety
+23 administration for allowing a person who is not sufficiently
+24 proficient in the English language in accordance with 49 C.F.R.
+25 §391.11(b)(2) to operate a commercial motor vehicle.>
+26 2. By striking page 2, line 33, through page 3, line 14, and
+27 inserting:
+28 <3. a. The commercial motor carrier who employed or
+29 engaged the services of a person, including as an independent
+30 contractor, who was operating a commercial motor vehicle in
+31 violation of subsection 1 and the owner of any cargo being
+32 transported in the commercial vehicle shall be notified of
+33 the vehicle’s location by the officer who made the stop. The
+34 carrier or owner of the cargo may arrange for another person
+35 who is a commercial driver with sufficient proficiency in the
+SF 2426.3729.H (1) 91
+-1- md 1/2
+
+1 English language to take possession of the vehicle or transfer
+2 the cargo to another vehicle, as applicable.>
+3 3. Page 3, line 15, by striking <c.> and inserting <b.>
+4 4. Page 3, line 20, after <department> by inserting <of
+5 public safety>
+6 5. Page 3, after line 24 by inserting:
+7 <Sec. ___. Section 805.8A, subsection 13, Code 2026, is
+8 amended by adding the following new paragraph:
+9 NEW PARAGRAPH. 0c. For each violation of section 321.449C,
+10 subsection 2, paragraph “a”, the scheduled fine is ten thousand
+11 dollars.>
+12 6. By renumbering as necessary.>
+SF 2426.3729.H (1) 91
+-2- md 2/2

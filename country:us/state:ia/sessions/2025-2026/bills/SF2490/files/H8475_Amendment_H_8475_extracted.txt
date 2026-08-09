@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8475
+Media Type: application/pdf
+
+================================================================================
+
+Senate File 2490
+H-8475
+1 Amend Senate File 2490, as passed by the Senate, as follows:
+2 1. Page 9, line 31, before <Before entering> by inserting
+3 <a.>
+4 2. Page 10, after line 2 by inserting:
+5 <b. Before entering into a negotiation under paragraph “a”,
+6 the operator shall provide a written description of the opt-out
+7 procedure described in paragraph “c”.
+8 c. A surface owner may decline further communication with
+9 an operator concerning a possible agreement for the payment
+10 of any damage that may be caused by the drilling operation
+11 by providing verbal or written notice to the operator that
+12 states that the surface owner does not wish to discuss the
+13 matter further, and by submitting to the attorney general
+14 notice through mail or electronic means stating the same. Upon
+15 receipt of such notice from the surface owner, the attorney
+16 general shall forward a copy to the operator.
+17 d. After receipt of notice from the surface owner pursuant
+18 to paragraph “c”, the operator shall not initiate further
+19 contact with the surface owner for purposes of an agreement
+20 for the payment of any damages that may be caused by the
+21 drilling operation, except that the operator shall continue to
+22 provide the surface owner with notices otherwise required by
+23 law. The surface owner may rescind such refusal by contacting
+24 the operator and notifying the attorney general through mail
+25 or electronic means. Unless the surface owner rescinds the
+26 refusal, the surface owner’s land shall be deemed unavailable
+27 for an agreement.
+28 e. An operator violating the contact prohibition in
+29 paragraph “d” is subject to a civil penalty of not less than ten
+30 thousand dollars for each violation.>
+31 3. Title page, line 5, after <jurisdiction> by inserting <,
+32 and providing civil penalties>
+SF 2490.4189 (1) 91
+-1- sb/js 1/2
+
+______________________________
+WOOD of Taylor
+SF 2490.4189 (1) 91
+-2- sb/js 2/2

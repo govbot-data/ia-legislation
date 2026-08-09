@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5176
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 2378
+S-5176
+1 Amend Senate File 2378, as passed by the Senate, as follows:
+2 1. Page 1, after line 22 by inserting:
+3 <Sec. ___. Section 414.7, subsection 2, Code 2026, is
+4 amended to read as follows:
+5 2. The council may provide for review of variances granted
+6 by the board of adjustment by the council before the effective
+7 date of the variances. Any individual affected by the variance
+8 may appeal the decision of the board of adjustment to the
+9 city council within sixty days and the effective date of the
+10 variance shall be stayed until after the council has reviewed
+11 the appeal. The council may remand a decision to grant a
+12 variance to the board of adjustment for further study. The
+13 effective date of the variance is delayed for thirty days from
+14 the date of the remand. The city council may also overturn
+15 the decision of the board of adjustment by a vote of at least
+16 two-thirds of all members of the council, regardless of whether
+17 an appeal has been brought.>
+18 2. By renumbering as necessary.
+SF 2378.3911.H (1) 91
+-1- md 1/1

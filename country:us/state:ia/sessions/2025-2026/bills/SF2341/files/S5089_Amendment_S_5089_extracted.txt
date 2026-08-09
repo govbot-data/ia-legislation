@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5089
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2341
+S-5089
+1 Amend Senate File 2341 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 331.212, subsection 2, Code 2026, is
+5 amended by adding the following new paragraph:
+6 NEW PARAGRAPH. k. Approval of board proceedings to be
+7 published pursuant to section 349.18.
+8 Sec. 2. Section 331.504, subsection 6, Code 2026, is amended
+9 to read as follows:
+10 6. Furnish a copy of the proceedings of the board, as
+11 approved by the board, required to be published as provided in
+12 section 349.18.
+13 Sec. 3. Section 349.18, subsection 1, Code 2026, is amended
+14 to read as follows:
+15 1. a. All proceedings of each regular, adjourned, or
+16 special meeting of a board of supervisors, including the
+17 schedule of bills allowed, shall be published immediately after
+18 the adjournment of the meeting.
+19 b. All proceedings must be approved by the board of
+20 supervisors before publication. Approval must occur in one of
+21 the following ways:
+22 (1) Approval by the board at the next board of supervisors
+23 meeting following the meeting for which the proceedings are to
+24 be published.
+25 (2) Approval by the chairperson of the board of supervisors
+26 prior to the meeting following the meeting for which the
+27 proceedings are to be published.
+28 Sec. 4. Section 349.18, subsection 3, paragraph a, Code
+29 2026, is amended to read as follows:
+30 a. The county auditor shall furnish a copy of the
+31 proceedings to be published, within one week following the
+32 adjournment approval of the board. The county auditor shall
+33 include either a summary of all resolutions or the complete
+34 text of resolutions adopted by the board in the furnished copy
+35 of the proceedings. As used in this subsection, “summary”
+SF 2341.3327 (1) 91
+-1- ms/js 1/2
+
+1 means a narrative description of the resolution setting forth
+2 the main points of the resolution in a manner calculated to
+3 inform the public in a clear and understandable manner the
+4 meaning of the resolution and to provide the public with
+5 sufficient notice of the policy stated or action to be taken,
+6 as resolved by the board in the resolution. The narrative
+7 description shall include the title of the resolution, an
+8 accurate and intelligible synopsis of the essential elements
+9 of the resolution, a statement that the description is a
+10 summary, the location and the normal business hours of the
+11 office where the full text of the resolution may be inspected,
+12 and the effective date of the resolution. Legal descriptions
+13 of property set forth in a resolution shall be described in
+14 full. The narrative description shall be written in a clear
+15 and coherent manner and shall, to the extent possible, avoid
+16 the use of technical or legal terms not generally familiar to
+17 the public. When necessary to use technical or legal terms not
+18 generally familiar to the public, the narrative description
+19 shall include definitions of those terms.>
+______________________________
+DENNIS GUTH
+SF 2341.3327 (1) 91
+-2- ms/js 2/2

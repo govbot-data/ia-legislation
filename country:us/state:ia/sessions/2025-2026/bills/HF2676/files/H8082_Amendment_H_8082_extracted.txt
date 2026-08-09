@@ -1,0 +1,140 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8082
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2676
+H-8082
+1 Amend House File 2676 as follows:
+2 1. Page 7, after line 23 by inserting:
+3 <DIVISION ___
+4 RADON TESTING —— NONPUBLIC SCHOOLS
+5 Sec. ___. NEW SECTION. 256.20 School testing and mitigation
+6 of radon grant program —— appropriation.
+7 1. The department shall develop and administer a radon
+8 testing and mitigation grant program to provide grants to
+9 school districts, accredited nonpublic schools, charter
+10 schools, and innovation zone schools to offset the costs of
+11 testing and mitigating radon in attendance centers.
+12 2. The state board shall adopt rules pursuant to chapter
+13 17A to administer this section, including rules relating to
+14 grant application materials, eligibility requirements, and
+15 award criteria. The state board is responsible for approving
+16 or rejecting applications submitted pursuant to this section.
+17 3. Moneys awarded under this section shall be used to
+18 supplement, not supplant, existing public funding used by a
+19 school district for similar purposes, including funding under
+20 section 423F.3, subsection 3.
+21 4. A school radon testing and mitigation grant program
+22 fund is established in the state treasury. The fund shall be
+23 administered by the department and shall consist of moneys
+24 appropriated by the general assembly and other moneys received
+25 by the department for deposit in the fund. The moneys in the
+26 fund are appropriated to the radon testing and mitigation
+27 grant program. Notwithstanding section 8.33, moneys in the
+28 fund at the close of the fiscal year shall not revert to
+29 the general fund of the state but shall remain available for
+30 expenditure for the radon testing and mitigation grant program
+31 for subsequent fiscal years. Notwithstanding section 12C.7,
+32 subsection 2, interest or earnings on moneys in the fund shall
+33 be credited to the fund.
+34 Sec. ___. Section 256E.7, subsection 2, Code 2026, is
+35 amended by adding the following new paragraph:
+HF 2676.3064 (2) 91
+-1- ss/ko 1/4
+
+1 NEW PARAGRAPH. 00t. Be subject to and comply with the
+2 requirements in section 280.32 relating to radon testing,
+3 reporting, and mitigation in the same manner as a school
+4 district.
+5 Sec. ___. Section 256F.4, subsection 2, Code 2026, is
+6 amended by adding the following new paragraph:
+7 NEW PARAGRAPH. w. Be subject to and comply with the
+8 requirements in section 280.32 relating to radon testing,
+9 reporting, and mitigation in the same manner as a school
+10 district.
+11 Sec. ___. Section 280.32, subsections 2, 3, and 4, Code
+12 2026, are amended to read as follows:
+13 2. The board of directors of each public school district
+14 and the authorities in charge of each accredited nonpublic
+15 school shall establish a radon plan and schedule for short-term
+16 tests for radon gas to be performed at each attendance center
+17 under its control at least once by July 1, 2027, and at least
+18 once every five years thereafter. Short-term testing shall be
+19 performed between October 1 and March 31. Each school district
+20 and accredited nonpublic school shall publish testing results
+21 on the district’s or accredited nonpublic school’s internet
+22 site in a timely manner. Additionally, each school district
+23 and accredited nonpublic school shall provide testing results
+24 to the department of health and human services. Testing
+25 results of school districts shall be considered public records
+26 under chapter 22. Each school district required to conduct
+27 short-term radon testing as of June 30, 2025, shall provide an
+28 update of testing results to the department of health and human
+29 services by July 1, 2026.
+30 3. Radon testing pursuant to this section conducted on and
+31 after July 1, 2022, shall be conducted by a person certified to
+32 conduct such testing pursuant to section 136B.1 or by district
+33 or accredited nonpublic school employees that have completed
+34 a school radon testing training program approved by the
+35 department of education and the department of health and human
+HF 2676.3064 (2) 91
+-2- ss/ko 2/4
+
+1 services. District or accredited nonpublic school employees
+2 that have completed training shall not perform testing services
+3 in locations other than the employee’s employing district or
+4 accredited nonpublic school. The department of health and
+5 human services shall maintain and make available to school
+6 districts and accredited nonpublic schools a list of such
+7 approved school radon testing training programs. Testing shall
+8 be based on recognized national standards that outline school
+9 radon testing practices.
+10 4. a. If the results of a short-term test at an attendance
+11 center are at or above four picocuries per liter, the board
+12 of directors of the public school district or the authorities
+13 in charge of the accredited nonpublic school shall conduct a
+14 second short-term test for radon gas and radon decay products
+15 in the spaces with elevated results within sixty days of the
+16 first test.
+17 b. If the averaged results of the first and second tests
+18 at an attendance center pursuant to paragraph “a” are at or
+19 above four picocuries per liter, the board of directors of
+20 the public school district or the authorities in charge of
+21 the accredited nonpublic school shall retain or employ a
+22 person credentialed pursuant to section 136B.1 to develop a
+23 radon mitigation plan that must include corrective measures
+24 and active mitigation, and may include further diagnostic
+25 testing, corrective measures, and active mitigation. The board
+26 or the authorities shall complete the radon mitigation plan
+27 within two years of the first test. A However, a district or
+28 accredited nonpublic school is not required to mitigate radon
+29 at an attendance center if the district or accredited nonpublic
+30 school intends to abandon the building within five years or has
+31 a plan to renovate the attendance center within five years and
+32 the renovation will include radon mitigation.
+33 Sec. ___. EMERGENCY RULES. The state board of education
+34 may adopt emergency rules under section 17A.4, subsection 3,
+35 and section 17A.5, subsection 2, paragraph “b”, to implement
+HF 2676.3064 (2) 91
+-3- ss/ko 3/4
+
+1 section 256.20, as enacted by this division of this Act, and
+2 the rules shall be effective immediately upon filing unless
+3 a later date is specified in the rules. Any rules adopted
+4 in accordance with this section shall also be published as a
+5 notice of intended action as provided in section 17A.4.
+6 Sec. ___. EFFECTIVE DATE. This division of this Act, being
+7 deemed of immediate importance, takes effect upon enactment.
+8 2. Title page, line 2, after <medication,> by inserting <and
+9 education, making appropriations,>
+10 3. Title page, line 3, after <including> by inserting
+11 <effective date and>
+12 4. By renumbering as necessary.
+______________________________
+CROKEN of Scott
+HF 2676.3064 (2) 91
+-4- ss/ko 4/4

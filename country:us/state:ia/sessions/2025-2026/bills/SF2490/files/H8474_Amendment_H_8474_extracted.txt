@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8474
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2490
+H-8474
+1 Amend Senate File 2490, as passed by the Senate, as follows:
+2 1. Page 9, by striking lines 28 through 30 and inserting:
+3 <Sec. ___. NEW SECTION. 458A.26 Permission to enter site ——
+4 negotiation of surface damages.>
+5 2. Page 9, before line 31 by inserting:
+6 <1. Before entering a site that is subject to a pooling
+7 order under section 458A.8, or that is within an exploratory
+8 spacing unit, for purposes of an oil and gas operation, an
+9 operator shall receive written permission from the surface
+10 owner to enter the site. If the surface owner does not grant
+11 written permission to the operator to enter the site, the
+12 operator shall not enter the site for purposes of an oil and
+13 gas operation.>
+14 3. Page 9, line 31, by striking <1.> and inserting <2.>
+15 4. Page 10, line 2, after <drill.> by inserting <If the
+16 parties do not reach an agreement for payment of damages, the
+17 operator shall not enter the site to drill.>
+18 5. Page 10, after line 2 by inserting:
+19 <3. For purposes of this section, “oil and gas operation”
+20 means the same as defined in section 458A.30.>
+21 6. By striking page 10, line 3, through page 13, line 2.
+22 7. By renumbering as necessary.
+______________________________
+HOLT of Crawford
+SF 2490.4493 (1) 91
+-1- sb/js 1/1

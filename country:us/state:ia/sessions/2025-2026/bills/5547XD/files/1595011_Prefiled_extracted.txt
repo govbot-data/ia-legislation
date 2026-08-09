@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED ATTORNEY GENERAL
+BILL)
+A BILL FOR
+1 An Act concerning reimbursement of the attorney general for
+2 services relating to the second injury fund for workers’
+3 compensation.
+4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5547XD (5) 91
+je/js
+
+S.F. _____ H.F. _____
+1 Section 1. Section 85.67, subsection 1, Code 2026, is
+2 amended to read as follows:
+3 1. The attorney general shall appoint a staff member
+4 to represent the treasurer of state and the fund in all
+5 proceedings and matters arising under this subchapter. The
+6 attorney general shall be reimbursed up to four hundred fifty
+7 nine hundred thousand dollars annually from the fund for
+8 services provided related to the fund. The reimbursement
+9 amount shall be adjusted annually to reflect any increase in
+10 the consumer price index, as tabulated by the federal bureau of
+11 labor statistics, rounded to the nearest five dollars, since
+12 the previous reimbursement. The commissioner of insurance
+13 shall consider the reimbursement to the attorney general as an
+14 outstanding liability when making a determination of funding
+15 availability under section 85.65A, subsection 2.
+16 EXPLANATION
+17 The inclusion of this explanation does not constitute agreement with
+18 the explanation’s substance by the members of the general assembly.
+19 This bill increases the maximum amount of reimbursement
+20 to the attorney general annually from the second injury fund
+21 for workers’ compensation for services provided related to the
+22 fund from $450,000 to $900,000. The bill provides that the
+23 reimbursement amount shall be adjusted annually to reflect any
+24 increase in the consumer price index, rounded to the nearest
+25 $5, since the previous reimbursement.
+LSB 5547XD (5) 91
+-1- je/js 1/1

@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5178
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 2379
+S-5178
+1 Amend Senate File 2379, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 12, after line 8 by inserting:
+4 <Sec. ___. EFFECTIVE DATE. This division of this Act takes
+5 effect July 1, 2027.>
+6 2. Page 12, line 19, by striking <federal>
+7 3. Page 12, line 23, by striking <state>
+8 4. Page 12, line 27, by striking <state>
+9 5. Page 12, line 30, by striking <federal>
+10 6. Page 13, line 2, by striking <federal>
+11 7. Title page, line 4, after <rights> by inserting <, and
+12 including effective date provisions>
+SF 2379.3971.H (1) 91
+-1- md 1/1

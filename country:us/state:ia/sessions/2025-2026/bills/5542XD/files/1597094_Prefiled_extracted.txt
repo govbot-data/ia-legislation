@@ -1,0 +1,825 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED JUDICIAL BRANCH
+BILL)
+A BILL FOR
+1 An Act relating to judicial officers, including magistrate
+2 appointments in judicial election districts, senior
+3 magistrates, and judicial officer compensation, and
+4 including effective date provisions.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5542XD (8) 91
+lh/ns
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 MAGISTRATE APPOINTMENTS IN JUDICIAL ELECTION DISTRICTS
+3 Section 1. Section 331.321, subsection 1, paragraph v, Code
+4 2026, is amended to read as follows:
+5 v. Members A member of the county judicial election district
+6 magistrate appointing commission in accordance with section
+7 602.6503.
+8 Sec. 2. Section 331.502, subsection 30, Code 2026, is
+9 amended to read as follows:
+10 30. Certify to the clerk of the district court administrator
+11 the names, addresses name, address, and expiration date of
+12 the terms term of office of persons the person appointed to
+13 the county judicial election district magistrate appointing
+14 commission as provided in section 602.6503.
+15 Sec. 3. Section 331.653, subsection 4, Code 2026, is amended
+16 to read as follows:
+17 4. Provide bailiff and other law enforcement service to
+18 the district judges, district associate judges, and associate
+19 juvenile judges, and judicial magistrates of in the county upon
+20 request.
+21 Sec. 4. Section 556F.14, Code 2026, is amended to read as
+22 follows:
+23 556F.14 Costs, charges, and care —— assessment.
+24 The owner shall also be required to pay the finder all
+25 such costs and charges as may have been paid by the finder
+26 for services rendered as aforesaid, including the cost of
+27 publication, together with reasonable charges for keeping and
+28 taking care of such property, which last mentioned charge, in
+29 case the finder and the owner cannot agree, shall be assessed
+30 by two disinterested householders of the neighborhood, to be
+31 appointed by some magistrate judge of in the proper county,
+32 whose decision, when made, shall be binding and conclusive on
+33 all parties.
+34 Sec. 5. Section 602.1214, Code 2026, is amended by adding
+35 the following new subsection:
+LSB 5542XD (8) 91
+-1- lh/ns 1/21
+
+S.F. _____ H.F. _____
+1 NEW SUBSECTION. 7. The district court administrator shall
+2 maintain a record of the name, address, and term of office
+3 of each member of the judicial election district magistrate
+4 appointing commission as provided in section 602.6501,
+5 and certify to the state court administrator the names and
+6 addresses of the magistrates appointed by the commission as
+7 provided in section 602.6403.
+8 Sec. 6. Section 602.1303, subsection 2, Code 2026, is
+9 amended to read as follows:
+10 2. A county The counties comprising the judicial election
+11 district shall pay the expenses of the members of the county
+12 judicial election district magistrate appointing commission
+13 based on the county of residence of the member, as provided in
+14 section 602.6501.
+15 Sec. 7. Section 602.1501, subsection 6, Code 2026, is
+16 amended to read as follows:
+17 6. Magistrates shall receive the salary set by the general
+18 assembly, subject to section 602.6402.
+19 Sec. 8. Section 602.2301, subsection 3, Code 2026, is
+20 amended to read as follows:
+21 3. Notwithstanding section 602.6403, subsection 3, if a
+22 magistrate position is vacant due to a death, resignation,
+23 retirement, an increase in the number of positions authorized,
+24 or to the removal of a magistrate, the chief justice may order
+25 any county judicial election district magistrate appointing
+26 commission to delay, for budgetary reasons, the appointment of
+27 a magistrate to serve the remainder of an unexpired term.
+28 Sec. 9. Section 602.6302, Code 2026, is amended to read as
+29 follows:
+30 602.6302 Appointment of district associate judge in lieu of
+31 magistrates.
+32 1. The chief judge of the judicial district may designate
+33 by order of substitution that a district associate judge be
+34 appointed pursuant to this section in lieu of magistrates
+35 appointed under section 602.6403, subject to the following
+LSB 5542XD (8) 91
+-2- lh/ns 2/21
+
+S.F. _____ H.F. _____
+1 limitations:
+2 a. The county in which the district associate judge
+3 is to be appointed, or the counties in which the district
+4 associate judge is to be appointed in combination, must have an
+5 apportionment of three or more magistrates.
+6 b. The substitution must not result in a lack of a resident
+7 district associate judge or magistrate in one or more of the
+8 counties.
+9 c. The substitution must be approved by the supreme court.
+10 d. b. A majority of district judges in that judicial
+11 election district, or in the case of an appointment involving
+12 more than one judicial election district in the same judicial
+13 district, a majority of the district judges in each judicial
+14 election district, must vote in favor of the substitution
+15 and find that the substitution will provide more timely and
+16 efficient performance of judicial business within that judicial
+17 election district.
+18 2. An order of substitution shall not take effect unless a
+19 copy of the order is received by the chairperson of the county
+20 judicial election district magistrate appointing commission or
+21 commissions and the governor no later than May 31 of the year
+22 in which the substitution is to take effect. A copy of the
+23 order shall also be sent to the state court administrator.
+24 3. For a county judicial election district in which a
+25 substitution order is in effect, the number of magistrates
+26 actually appointed pursuant to section 602.6403 shall be
+27 reduced by three for each district associate judge substituted
+28 under this section. However, if the substitution order is for
+29 a district associate judge appointed to more than one county,
+30 the reduction of three magistrates shall be as provided in the
+31 order of the chief judge of the judicial district. Upon a
+32 subsequent reduction in the apportionment of magistrates to the
+33 county or counties, the magistrate appointing commission shall
+34 further reduce the number of magistrates appointed.
+35 4. a. Except as provided in subsections 1 through 3, a
+LSB 5542XD (8) 91
+-3- lh/ns 3/21
+
+S.F. _____ H.F. _____
+1 substitution shall not increase or decrease the number of
+2 magistrates authorized by this article.
+3 b. A substitution shall not be made where the apportionment
+4 of magistrates to a county is insufficient to permit the
+5 full reduction in appointments of magistrates as required by
+6 subsection 3.
+7 5. 4. If an apportionment by the state court administrator
+8 pursuant to section 602.6401 reduces the number of magistrates
+9 in the county or counties to less than the number required
+10 to be apportioned to allow a substitution order pursuant to
+11 subsection 1, or if a majority of the district judges in the
+12 judicial election district or districts determines that a
+13 substitution is no longer desirable, then the substituted
+14 office shall be terminated. However, a reversion pursuant
+15 to this subsection, irrespective of cause, shall not take
+16 effect until the substitute district associate judge fails
+17 to be retained in office at a judicial election or otherwise
+18 leaves office, whether voluntarily or involuntarily. Upon
+19 the termination of office of that district associate judge,
+20 appointments shall be made pursuant to section 602.6403 as
+21 necessary to reestablish terms of office as provided in section
+22 602.6403, subsection 4.
+23 Sec. 10. Section 602.6303, subsection 1, unnumbered
+24 paragraph 1, Code 2026, is amended to read as follows:
+25 The chief judge of the judicial district may designate
+26 by order of substitution that three magistrates be appointed
+27 pursuant to this section in lieu of the appointment of a
+28 district associate judge under section 602.6304, subject to the
+29 following limitations:
+30 Sec. 11. Section 602.6303, subsections 2, 4, and 5, Code
+31 2026, are amended to read as follows:
+32 2. An order of substitution shall not take effect unless a
+33 copy of the order is received by the chairperson of the county
+34 judicial election district magistrate appointing commission
+35 or commissions and the governor no later than May 31 of the
+LSB 5542XD (8) 91
+-4- lh/ns 4/21
+
+S.F. _____ H.F. _____
+1 year in which the substitution is to take effect. The order
+2 shall designate the county of appointment for each magistrate.
+3 A copy of the order shall also be sent to the state court
+4 administrator.
+5 4. Except as provided in subsections 1 through 3 and 2,
+6 a substitution shall not increase or decrease the number of
+7 district associate judges authorized by this article.
+8 5. If a majority of the district judges in a judicial
+9 election district determines that a substitution is no longer
+10 desirable, then all three the associated substituted magistrate
+11 positions shall be terminated. However, a reversion pursuant
+12 to this subsection shall not take effect until the terms of
+13 the three magistrates expire. Upon the termination of the
+14 magistrate positions created under this section, an appointment
+15 shall be made to reestablish the term of office for a district
+16 associate judge as provided in sections 602.6304 and 602.6305.
+17 Sec. 12. Section 602.6303, subsection 3, Code 2026, is
+18 amended by striking the subsection.
+19 Sec. 13. Section 602.6401, Code 2026, is amended to read as
+20 follows:
+21 602.6401 Number and apportionment.
+22 1. Two hundred six magistrates shall be apportioned
+23 among the counties as provided in this section. Magistrates
+24 appointed pursuant to section 602.6303 or 602.6402 shall not
+25 be counted for purposes of this section The supreme court
+26 shall prescribe a formula for the state court administrator
+27 to determine the number of magistrates who will serve in each
+28 judicial election district, pursuant to subsection 2. The
+29 formula must be based on a model that measures and applies an
+30 estimated case-related workload formula of magistrates, and
+31 must account for travel time and other judicial duties not
+32 related to a specific case.
+33 2. By February of each year in which magistrates’ terms
+34 expire, the state court administrator shall apportion
+35 magistrate offices among the counties in accordance with the
+LSB 5542XD (8) 91
+-5- lh/ns 5/21
+
+S.F. _____ H.F. _____
+1 following criteria:
+2 a. The existence of either permanent, temporary, or seasonal
+3 populations not included in the current census figures.
+4 b. The geographical area to be served.
+5 c. Any inordinate number of cases over which magistrates
+6 have jurisdiction that were pending at the end of the preceding
+7 year.
+8 d. The number and types of juvenile proceedings handled by
+9 district associate judges apply the formula prescribed pursuant
+10 to subsection 1 to calculate the number of magistrates and
+11 apportion magistrates among the judicial districts.
+12 3. Notwithstanding subsection 2, each county shall be
+13 allotted at least one resident magistrate.
+14 4. 3. By March 31 of each year in which magistrates’ terms
+15 expire, the state court administrator shall give notice to the
+16 clerks of the district court, district court administrators,
+17 and to the chief judges of the judicial districts of the
+18 number of magistrates to which each county judicial election
+19 district is entitled. If the state court administrator does
+20 not give the notice as required in this subsection by March
+21 31 of each year in which magistrates’ terms expire, the
+22 existing magistrate apportionment in effect shall remain in
+23 effect through the succeeding magistrates’ terms, and any
+24 apportionment performed pursuant to subsection 2 is void until
+25 such succeeding terms expire.
+26 Sec. 14. Section 602.6403, subsections 1, 2, 3, 4, 5, 7, and
+27 9, Code 2026, are amended to read as follows:
+28 1. By June 1 of each year in which magistrates’ terms
+29 expire, the county judicial election district magistrate
+30 appointing commission shall appoint, except as otherwise
+31 provided in section 602.6302, the number of magistrates
+32 apportioned to the county judicial election district by the
+33 state court administrator under section 602.6401, and the
+34 number of magistrates required pursuant to substitution orders
+35 in effect under section 602.6303, and may appoint an additional
+LSB 5542XD (8) 91
+-6- lh/ns 6/21
+
+S.F. _____ H.F. _____
+1 magistrate when allowed by section 602.6402. The commission
+2 shall not appoint more magistrates than are authorized for the
+3 county by this article.
+4 2. The magistrate appointing commission for each county
+5 supreme court shall prescribe the contents of an application,
+6 in addition to any application form provided by the supreme
+7 court, for an appointment pursuant to this section. The
+8 commission shall publicize notice of any vacancy to be filled
+9 in at least two publications in all official county newspapers
+10 in the county. The commission shall accept applications for
+11 a minimum of fifteen days prior to making an appointment, and
+12 shall make available during that period of time any printed
+13 application forms the commission prescribes provides based on
+14 the supreme court’s prescribed application contents.
+15 3. Within thirty days following receipt of notification
+16 of a vacancy in the office of magistrate, the commission
+17 shall appoint a person to the office to serve the remainder
+18 of the unexpired term. For purposes of this section, vacancy
+19 “vacancy” means a death, resignation, retirement, or removal
+20 of a magistrate, or an increase in the number of positions
+21 authorized.
+22 4. The term of office of a magistrate is four years,
+23 commencing August 1, 1989 2027. However, the terms of all
+24 magistrates in a county judicial election district are deemed
+25 to expire if a substitution under section 602.6302 or the
+26 allocation under section 602.6401 results in a reduction in the
+27 number of magistrates in a county judicial election district
+28 where the magistrates hold office.
+29 5. The commission shall promptly certify the names and
+30 addresses of appointees to the clerk of the district court
+31 administrator and to the chief judge of the judicial district.
+32 The clerk of the district court administrator shall certify to
+33 the state court administrator the names and addresses of these
+34 appointees.
+35 7. Before the commencement of the term of a magistrate,
+LSB 5542XD (8) 91
+-7- lh/ns 7/21
+
+S.F. _____ H.F. _____
+1 the members of the judicial election district magistrate
+2 appointing commission may reconsider the appointment. Written
+3 notification of the reasons for reconsideration and time and
+4 place for the meeting must be sent to the magistrate appointee
+5 and the clerk of the district court administrator. The
+6 commission may reconvene and decertify the magistrate appointee
+7 for good cause. Notice of the decertification and a statement
+8 of the reasons justifying the decertification shall be promptly
+9 sent to the clerk of the district court administrator, the
+10 chief judge of the judicial district, and the state court
+11 administrator.
+12 9. A magistrate who seeks to resign from the office of
+13 magistrate shall notify in writing the chief judge of the
+14 judicial district as to the magistrate’s intention to resign
+15 and the effective date of the resignation. The chief judge of
+16 the judicial district, upon receipt of the notice, shall notify
+17 the county judicial election district magistrate appointing
+18 commission and the state court administrator of the vacancy in
+19 the office of magistrate due to resignation.
+20 Sec. 15. Section 602.6403, Code 2026, is amended by adding
+21 the following new subsection:
+22 NEW SUBSECTION. 10. a. Notwithstanding section 602.6401,
+23 subsection 3, if a vacancy occurs as described in subsection 3
+24 of this section, that cannot be filled, the chief judge of the
+25 judicial district may assign one or more magistrates serving
+26 in the judicial district to serve the remainder of the term
+27 in the county with the vacancy. A magistrate shall serve the
+28 county with the vacancy to which the magistrate is assigned in
+29 addition to the county to which the magistrate is appointed if
+30 the combined weighted workload does not exceed thirty-three
+31 percent of one full-time position.
+32 b. This subsection is repealed August 1, 2027.
+33 Sec. 16. Section 602.6404, subsection 2, Code 2026, is
+34 amended to read as follows:
+35 2. A person is not qualified for appointment as a magistrate
+LSB 5542XD (8) 91
+-8- lh/ns 8/21
+
+S.F. _____ H.F. _____
+1 unless the person files a certified application form, to
+2 be provided by the supreme court, with the chairperson of
+3 the county judicial election district magistrate appointing
+4 commission. A person is not qualified for appointment as a
+5 magistrate if at the time of appointment the person has reached
+6 age seventy-eight.
+7 Sec. 17. Section 602.6501, Code 2026, is amended to read as
+8 follows:
+9 602.6501 Composition of county judicial election district
+10 magistrate appointing commissions.
+11 1. A magistrate appointing commission is established in
+12 each county judicial election district. The commission shall
+13 be composed of the following members:
+14 a. A district judge designated by the chief judge of the
+15 judicial district to serve until a successor is designated.
+16 b. Three members appointed by the board of supervisors, or
+17 the lesser number provided in section 602.6503, subsection 1
+18 One person from each county in the judicial election district,
+19 appointed by the board of supervisors of the county.
+20 c. Two A number of attorneys elected by the attorneys
+21 in the county, or the lesser number provided in section
+22 602.6504, subsection 1 judicial election district and the
+23 counties contiguous with the judicial election district equal
+24 to one fewer than the number of persons appointed pursuant to
+25 paragraph “b”. If there are an insufficient number of attorneys
+26 to serve on the commission, the number of persons appointed
+27 pursuant to paragraph “b” shall not be increased or decreased.
+28 2. The clerk of the district court administrator or the
+29 administrator’s designee shall maintain a permanent record of
+30 the name, address, and term of office of each commissioner.
+31 3. A member of a magistrate appointing commission shall
+32 be reimbursed for actual and necessary expenses reasonably
+33 incurred in the performance of official duties. Reimbursements
+34 are payable by the county in which the member serves resides,
+35 upon certification of the expenses to the county auditor by
+LSB 5542XD (8) 91
+-9- lh/ns 9/21
+
+S.F. _____ H.F. _____
+1 the clerk of the district court. The district judges of each
+2 judicial district may prescribe rules for the administration
+3 of this subsection.
+4 Sec. 18. Section 602.6502, Code 2026, is amended to read as
+5 follows:
+6 602.6502 Prohibitions to appointment.
+7 A member of a county judicial election district magistrate
+8 appointing commission shall not be appointed to the office of
+9 magistrate. A member of the commission shall not be eligible
+10 to vote for the appointment or nomination of a family member,
+11 current law partner, or current business partner. For purposes
+12 of this section, “family member” means a spouse, son, daughter,
+13 brother, sister, uncle, aunt, first cousin, nephew, niece,
+14 father-in-law, mother-in-law, son-in-law, daughter-in-law,
+15 brother-in-law, sister-in-law, father, mother, stepfather,
+16 stepmother, stepson, stepdaughter, stepbrother, stepsister,
+17 half brother, or half sister.
+18 Sec. 19. Section 602.6503, subsections 1 and 3, Code 2026,
+19 are amended to read as follows:
+20 1. The board of supervisors of each county in the judicial
+21 election district shall appoint three electors one person from
+22 the county to the magistrate appointing commission for the
+23 county judicial election district for six-year terms beginning
+24 January 1, 1979 2027, and each sixth year thereafter. However,
+25 if there is only one attorney elected pursuant to section
+26 602.6504, the county board of supervisors shall only appoint
+27 two commissioners, and if no attorney is elected, the board of
+28 supervisors shall only appoint one commissioner.
+29 3. The county auditor shall certify to the clerk of the
+30 district court administrator the name, address, and expiration
+31 date of term for all appointees of the person appointed to the
+32 commission by the board of supervisors.
+33 Sec. 20. Section 602.6504, subsections 1, 3, 4, and 5, Code
+34 2026, are amended to read as follows:
+35 1. The resident attorneys of each county judicial election
+LSB 5542XD (8) 91
+-10- lh/ns 10/21
+
+S.F. _____ H.F. _____
+1 district and the counties contiguous with the judicial election
+2 district shall elect two resident attorneys of the county a
+3 number of attorneys equal to one fewer than the number of
+4 persons appointed pursuant to section 602.6501, subsection 1,
+5 paragraph “b”, to the magistrate appointing commission for
+6 six-year terms beginning on January 1, 1979 2027, and each
+7 sixth year thereafter. An election shall be held in December
+8 preceding the commencement of new terms. The attorneys in a
+9 county may elect only one commissioner if If there is only one
+10 are an insufficient number of attorneys who is are qualified
+11 and willing to serve and if there are no resident attorneys
+12 in a county or none is willing to serve as a commissioner,
+13 none shall be elected, the attorneys of each judicial election
+14 district and the counties contiguous with the judicial election
+15 district may elect a number of attorneys that is less than the
+16 maximum number authorized in this subsection.
+17 3. An attorney is eligible to vote in elections of
+18 magistrate appointing commissioners within a county judicial
+19 election district or the counties contiguous with the judicial
+20 election district if eligible to vote under sections 46.7
+21 and 46.8, and if a resident of the county judicial election
+22 district or a county contiguous with the judicial election
+23 district.
+24 4. In order to be placed on the ballot for county a judicial
+25 election district magistrate appointing commission, an eligible
+26 attorney elector shall file a nomination petition in the office
+27 of the a clerk of court in the district on or before November
+28 30 of the year in which the election for attorney positions is
+29 to occur. This subsection does not preclude write-in votes at
+30 the time of the election.
+31 5. When an election of magistrate appointing commissioners
+32 is to be held, the clerk of the district court for each county
+33 in the judicial election district and a county contiguous with
+34 the judicial election district shall cause to be mailed to
+35 each eligible attorney a ballot that is in substantially the
+LSB 5542XD (8) 91
+-11- lh/ns 11/21
+
+S.F. _____ H.F. _____
+1 following form:
+2 BALLOT
+3 County Judicial Election District Magistrate Appointing
+4 Commission
+5 To be cast by the resident members of the bar of judicial
+6 election district ...... county or a county contiguous with
+7 the judicial election district.
+8 Vote for (state number) for ...... county judicial election
+9 district magistrate appointing commissioner(s) for term
+10 commencing ......
+11 .........
+12 .........
+13 To be counted, this ballot must be completed and mailed or
+14 delivered to a clerk of the district court in the judicial
+15 election district, ........, or a county contiguous with the
+16 judicial election district, no later than December 31, ...
+17 (year) (or the appropriate date in case of an election to fill
+18 a vacancy).
+19 Sec. 21. Section 602.8102, subsections 88 and 89, Code 2026,
+20 are amended by striking the subsections.
+21 Sec. 22. Section 602.8102, subsection 90, Code 2026, is
+22 amended to read as follows:
+23 90. Furnish an individual or centralized docket for the
+24 magistrates of the judicial election district serving in the
+25 county as provided in section 602.6604.
+26 Sec. 23. Section 806.2, Code 2026, is amended to read as
+27 follows:
+28 806.2 Procedure following arrest.
+29 If an arrest is made in this state by an officer of another
+30 state in accordance with the provisions of section 806.1,
+31 the officer shall without unnecessary delay take the person
+32 arrested before a magistrate of in the county in which the
+33 arrest was made, who shall conduct a hearing for the purpose of
+34 determining the lawfulness of the arrest. If the magistrate
+35 determines that the arrest was lawful, the magistrate shall
+LSB 5542XD (8) 91
+-12- lh/ns 12/21
+
+S.F. _____ H.F. _____
+1 commit the person arrested to await for a reasonable time
+2 the issuance of an extradition warrant by the governor of
+3 this state or admit the person to bail for such purpose. If
+4 the magistrate determines that the arrest was unlawful, the
+5 magistrate shall discharge the person arrested.
+6 Sec. 24. REPEAL. Section 602.6402, Code 2026, is repealed.
+7 Sec. 25. EFFECTIVE DATE.
+8 1. Except as provided in subsection 2, this division of this
+9 Act takes effect November 1, 2026.
+10 2. The section of this Act enacting section 602.6403,
+11 subsection 10, being deemed of immediate importance, takes
+12 effect upon enactment.
+13 DIVISION II
+14 SENIOR MAGISTRATES
+15 Sec. 26. Section 602.1101, Code 2026, is amended by adding
+16 the following new subsection:
+17 NEW SUBSECTION. 10A. “Senior magistrate” means a person who
+18 qualifies as a senior magistrate under section 602.9302.
+19 Sec. 27. Section 602.1610, subsection 1, Code 2026, is
+20 amended by adding the following new paragraph:
+21 NEW PARAGRAPH. c. Notwithstanding paragraph “b”, a judicial
+22 magistrate who attains the age of seventy-eight years and has
+23 less than fifty percent of the magistrate’s current term of
+24 appointment left to serve shall have the right to elect to
+25 serve the remainder of the magistrate’s current term but shall
+26 not be eligible for reappointment.
+27 Sec. 28. NEW SECTION. 602.9301 Definitions.
+28 As used in this part, unless the context otherwise requires:
+29 1. “Retired magistrate” means a magistrate that has retired
+30 as a magistrate after serving not less than eight years and has
+31 attained the age of sixty-two, or a magistrate who has served
+32 at least twenty years prior to the effective date of this
+33 division of this Act. “Retired magistrate” does not include
+34 magistrates who are seeking reappointment.
+35 2. “Roster of senior magistrates” means a roster maintained
+LSB 5542XD (8) 91
+-13- lh/ns 13/21
+
+S.F. _____ H.F. _____
+1 by the clerk of the supreme court under section 602.9302,
+2 subsection 5.
+3 3. “Senior magistrate” means a magistrate who meets the
+4 requirements of section 602.9302 and who has not been retired
+5 or removed from the roster of senior magistrates under section
+6 602.9305 or 602.9306.
+7 4. “Senior magistrate retirement age” means eighty-four
+8 years of age, or if the senior magistrate is reappointed as
+9 a senior magistrate for an additional one-year term upon
+10 attaining eighty-four years of age, and then to a succeeding
+11 one-year term, pursuant to section 602.9302, eighty-six years
+12 of age.
+13 5. “Twelve-month period” means each successive one-year
+14 period commencing on the date a retired magistrate becomes a
+15 senior magistrate and while the magistrate continues to be a
+16 senior magistrate.
+17 Sec. 29. NEW SECTION. 602.9302 Senior magistrate
+18 requirements —— appointment and term.
+19 1. A magistrate who qualifies under subsection 2 may become
+20 a senior magistrate by filing with the clerk of the supreme
+21 court a written election in the form specified by the supreme
+22 court. The election shall be filed within six months of the
+23 date of retirement.
+24 2. A magistrate referred to in subsection 1 may be
+25 appointed, at the discretion of the supreme court, for a
+26 two-year term as senior magistrate if the magistrate meets all
+27 of the following requirements:
+28 a. Retires from office on or after the effective date of
+29 this division of this Act, regardless of whether the magistrate
+30 is of mandatory retirement age.
+31 b. Agrees in writing on a form prescribed by the supreme
+32 court to be available as long as the magistrate is a senior
+33 magistrate to perform judicial duties as assigned by the
+34 supreme court or chief judge of the senior magistrate’s
+35 judicial district for service not to exceed an aggregate period
+LSB 5542XD (8) 91
+-14- lh/ns 14/21
+
+S.F. _____ H.F. _____
+1 of five weeks out of each successive twelve-month period.
+2 c. Submits evidence to the satisfaction of the supreme court
+3 that, as of the date of retirement, the magistrate does not
+4 suffer from a permanent physical or mental disability which
+5 would substantially interfere with the performance of duties
+6 agreed to under paragraph “b”.
+7 3. Prior to submitting an application to become a senior
+8 magistrate, the magistrate, the chief judge of the judicial
+9 district, the district court administrator, and the state court
+10 administrator may meet and discuss the magistrate’s potential
+11 assignment together with the scope and parameters of the senior
+12 magistrate’s service. If the magistrate decides to apply for
+13 senior magistrate, the magistrate can request the supreme court
+14 to give a preliminary determination as to whether the supreme
+15 court will approve the magistrate’s application.
+16 4. The supreme court, in ruling on an application for senior
+17 magistrate, including reappointment of an applicant to an
+18 additional term, may consider any of the following factors:
+19 a. A demonstration of the applicant’s willingness and
+20 ability to undertake and complete all assigned work during the
+21 applicant’s service as a senior magistrate.
+22 b. A recommendation of the chief judge and court
+23 administrator made in consultation with other judges from
+24 the judicial election district where the applicant served as
+25 magistrate.
+26 c. The Iowa state bar association’s most recent judicial
+27 performance review for the applicant.
+28 d. The applicant’s monthly reports submitted pursuant to
+29 Iowa court rule 22.10.
+30 e. The applicant’s agreement to perform duties as scheduled
+31 and assigned by the chief judge of the judicial district or by
+32 the state court administrator.
+33 f. The applicant’s plans, if any, to regularly spend time
+34 or reside out of state.
+35 g. The applicant’s work or plans to work as an attorney,
+LSB 5542XD (8) 91
+-15- lh/ns 15/21
+
+S.F. _____ H.F. _____
+1 or as a mediator, arbitrator, or provider of other alternative
+2 dispute resolution services.
+3 5. The clerk of the supreme court shall maintain a book
+4 entitled “Roster of Senior Magistrates”, and shall enter
+5 in the book the name of each magistrate who files a timely
+6 election under subsection 1, qualifies under subsection 2,
+7 and is appointed by the supreme court. A person shall be a
+8 senior magistrate upon entry of the person’s name in the roster
+9 of senior magistrates and until the person becomes a retired
+10 senior magistrate as provided in section 602.9305, or until the
+11 person’s name is stricken from the roster of senior magistrates
+12 as provided in section 602.9306, or until the person dies.
+13 6. a. A senior magistrate may be reappointed to additional
+14 two-year terms, at the discretion of the supreme court, if the
+15 judicial officer meets the requirements of subsection 2.
+16 b. A senior magistrate may be reappointed to a one-year term
+17 upon attaining eighty-four years of age and to a succeeding
+18 one-year term, at the discretion of the supreme court, if the
+19 judicial officer meets the requirements of subsection 2.
+20 Sec. 30. NEW SECTION. 602.9303 Senior magistrate salaries.
+21 1. A magistrate who retires on or after the effective date
+22 of this division of this Act, and who is appointed a senior
+23 magistrate under section 602.9302, shall be paid a salary as
+24 determined by the general assembly.
+25 2. The senior magistrate shall be reimbursed for costs for
+26 which actively serving magistrates are reimbursed at the same
+27 rate.
+28 3. The state shall provide and pay for medical insurance
+29 for senior magistrates at the same rate as is applicable to
+30 actively serving magistrates. A senior magistrate who elects
+31 to participate in medical insurance through the judicial branch
+32 shall make appropriate arrangements for the payment of the
+33 senior magistrate’s share of medical insurance costs.
+34 Sec. 31. NEW SECTION. 602.9304 Practice of law.
+35 A senior magistrate may practice law as provided under the
+LSB 5542XD (8) 91
+-16- lh/ns 16/21
+
+S.F. _____ H.F. _____
+1 Iowa code of judicial conduct.
+2 Sec. 32. NEW SECTION. 602.9305 Retirement of senior
+3 magistrate.
+4 A senior magistrate shall cease to be a senior magistrate
+5 upon completion of the twelve-month period during which the
+6 magistrate attains senior magistrate retirement age. The clerk
+7 of the supreme court shall make a notation of the retirement
+8 of a senior magistrate in the roster of senior magistrates, at
+9 which time the senior magistrate shall become a retired senior
+10 magistrate.
+11 Sec. 33. NEW SECTION. 602.9306 Relinquishment of status as
+12 senior magistrate —— removal for cause.
+13 1. A senior magistrate, at any time prior to the end of
+14 the twelve-month period during which the magistrate attains
+15 senior magistrate retirement age, may submit to the clerk of
+16 the supreme court a written request that the magistrate’s name
+17 be stricken from the roster of senior magistrates. Upon the
+18 receipt of the request, the clerk shall strike the name of the
+19 person from the roster of senior magistrates, at which time the
+20 person shall cease to be a senior magistrate.
+21 2. A senior magistrate is subject to removal under article
+22 2, part 1, for the causes specified in section 602.2106,
+23 subsection 3, paragraph “a”. When a person is removed as a
+24 senior magistrate as provided in this subsection, the clerk of
+25 the supreme court shall strike the name of the person from the
+26 roster of senior magistrates, at which time the person shall
+27 cease to be a senior magistrate.
+28 Sec. 34. NEW SECTION. 602.9307 Rules.
+29 The supreme court shall prescribe rules to implement this
+30 part.
+31 Sec. 35. 2025 Iowa Acts, chapter 158, section 6, subsection
+32 2, is amended by adding the following new paragraph:
+33 NEW PARAGRAPH. l. Each senior magistrate:
+34 .................................................. $ 4,234
+35 DIVISION III
+LSB 5542XD (8) 91
+-17- lh/ns 17/21
+
+S.F. _____ H.F. _____
+1 JUDICIAL OFFICER SALARIES
+2 Sec. 36. SALARIES —— STATE COURT JUSTICES, JUDGES, AND
+3 MAGISTRATES.
+4 1. The salary rates for judicial officers, other than
+5 judicial magistrates, in effect on July 1, 2026, as specified
+6 in 2025 Iowa Acts, chapter 158, section 6, or a subsequent Act
+7 of the general assembly specifying salary rates for judicial
+8 officers for the fiscal year beginning July 1, 2026, shall
+9 be increased by five percent effective with the pay period
+10 beginning June 18, 2027.
+11 2. Effective with the pay period beginning June 18, 2027,
+12 the salary rate for judicial magistrates shall be forty percent
+13 of the salary rate of a district associate judge as adjusted
+14 pursuant to subsection 1.
+15 3. Salary rate increases required by this section shall be
+16 paid from moneys appropriated to the judicial branch.
+17 Sec. 37. EFFECTIVE DATE. This division of this Act takes
+18 effect June 18, 2027.
+19 EXPLANATION
+20 The inclusion of this explanation does not constitute agreement with
+21 the explanation’s substance by the members of the general assembly.
+22 This bill relates to judicial officers, including
+23 magistrate appointments in judicial election districts, senior
+24 magistrates, and judicial officer compensation.
+25 MAGISTRATES APPOINTED IN JUDICIAL ELECTION DISTRICTS. The
+26 bill provides for the appointment and service of magistrates
+27 in judicial election districts rather than individual counties
+28 and makes conforming changes.
+29 The bill changes county judicial magistrate appointing
+30 commissions to judicial election district magistrate appointing
+31 commissions, provides for appointment to such commissions,
+32 and provides for commission appointee certification to
+33 and maintenance of appointee records by district court
+34 administrators rather than clerks of district court. The bill
+35 alters the composition of a commission to include a district
+LSB 5542XD (8) 91
+-18- lh/ns 18/21
+
+S.F. _____ H.F. _____
+1 judge designated by the chief judge of the judicial district,
+2 one person from each county in the judicial election district
+3 appointed by the board of supervisors of the county, and a
+4 number of attorneys elected by the attorneys in the judicial
+5 election district and the counties contiguous with the judicial
+6 election district equal to one fewer than the number of persons
+7 appointed by the boards of supervisors. Under current law and
+8 the bill, boards of supervisors are prohibited from appointing
+9 an attorney or an active law enforcement officer to serve as a
+10 commissioner, and attorneys are prohibited from appointing a
+11 county attorney as a commissioner.
+12 Current law allows the chief judge of a judicial district, by
+13 order of substitution, to appoint a district associate judge
+14 in lieu of magistrates, subject to certain limitations. The
+15 bill eliminates the limitations that the county or counties
+16 to which the district associate judge is to be appointed
+17 must have an apportionment of three or more magistrates, and
+18 that the substitution must not result in the absence of a
+19 resident district associate judge or magistrate in one or more
+20 counties. The bill also eliminates requirements that district
+21 associate judges substituted for magistrates, or vice versa,
+22 be substituted at a ratio of three magistrates to one district
+23 associate judge.
+24 The bill strikes the requirement that 206 magistrates be
+25 apportioned among the counties and instead requires that the
+26 supreme court prescribe a formula to determine the number of
+27 magistrates who will serve in each judicial election district.
+28 The state court administrator must apply the prescribed formula
+29 when calculating and apportioning magistrates among judicial
+30 election districts. The bill strikes the requirement that each
+31 county be allotted at least one resident magistrate.
+32 Under current law, a county magistrate appointing commission
+33 may prescribe the contents of a magistrate application in
+34 addition to any application provided by the supreme court. The
+35 bill provides that only the supreme court shall prescribe the
+LSB 5542XD (8) 91
+-19- lh/ns 19/21
+
+S.F. _____ H.F. _____
+1 contents of a magistrate application. The bill strikes the
+2 requirement that public notice of a magistrate vacancy must be
+3 published in at least two publications in all official county
+4 newspapers in the county.
+5 If a magistrate vacancy cannot be filled, the bill
+6 authorizes the chief judge of the judicial district to assign
+7 a magistrate from a county within the judicial district to
+8 serve the remainder of the term in the county of the vacancy,
+9 in addition to the county where the magistrate is appointed,
+10 provided that the combined weighted workload does not exceed 33
+11 percent of a full-time position. This provision of the bill
+12 takes effect upon enactment and is repealed August 1, 2027.
+13 The bill requires magistrate appointing commission member
+14 reimbursements to be paid by the county where the member
+15 resides instead of the county where the member serves.
+16 The bill repeals Code section 602.6402, which allows
+17 the county magistrate appointing commission to appoint an
+18 additional magistrate to a county with only one magistrate.
+19 Except as otherwise provided, this division of the bill
+20 takes effect November 1, 2026.
+21 SENIOR MAGISTRATES. The bill provides that a magistrate
+22 who attains the age of 78 and has less than 50 percent of the
+23 magistrate’s current term remaining may elect to serve the
+24 remainder of the term but is not eligible for reappointment.
+25 The bill establishes requirements for senior magistrate
+26 status, appointment, and terms of service. A senior magistrate
+27 may be appointed at the discretion of the supreme court within
+28 six months of retirement after filing the appropriate form and
+29 meeting specified requirements, including retirement on or
+30 after July 1, 2026; agreement to be available for service not
+31 exceeding five weeks in each successive 12-month period; and
+32 submission of evidence that the magistrate does not suffer from
+33 a permanent physical or mental disability that would interfere
+34 with the performance of judicial duties.
+35 The bill sets forth factors for the supreme court to consider
+LSB 5542XD (8) 91
+-20- lh/ns 20/21
+
+S.F. _____ H.F. _____
+1 when ruling on an application for senior magistrate status.
+2 The bill requires the clerk of the supreme court to maintain a
+3 roster of senior magistrates and authorizes the reappointment
+4 of senior magistrates to additional two-year terms, as well
+5 as two one-year terms upon attaining 84 years of age, at the
+6 discretion of the supreme court.
+7 The bill provides for senior magistrate compensation and
+8 medical insurance coverage through the judicial branch.
+9 The bill requires a senior magistrate to retire upon
+10 completion of the 12-month period during which the magistrate
+11 attains 84 or 86 years of age, as applicable, and requires
+12 the clerk of the supreme court to record the retirement in
+13 the roster of senior magistrates. The bill also establishes
+14 procedures for voluntary relinquishment of senior magistrate
+15 status and removal for cause.
+16 JUDICIAL OFFICER SALARIES. The bill increases the salaries
+17 of judicial officers, other than judicial magistrates, in
+18 effect on July 1, 2026, by 5 percent effective with the
+19 pay period beginning June 18, 2027. Salaries for judicial
+20 magistrates are increased to 40 percent of the salary of a
+21 district associate judge.
+22 This division of the bill takes effect June 18, 2027.
+LSB 5542XD (8) 91
+-21- lh/ns 21/21

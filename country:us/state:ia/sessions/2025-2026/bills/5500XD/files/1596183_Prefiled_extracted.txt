@@ -1,0 +1,321 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+EDUCATION BILL)
+A BILL FOR
+1 An Act relating to education programs and systems, including
+2 career and technical education expenditures and definitions,
+3 statewide lower division general education framework and
+4 common course numbering systems, and the implementation of a
+5 statewide corequisite model in Iowa community colleges.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5500XD (8) 91
+mb/jh
+
+S.F. _____ H.F. _____
+1 Section 1. Section 256.9, subsection 70, paragraph a, Code
+2 2026, is amended to read as follows:
+3 a. Develop and make available on the department’s
+4 internet site a list of industry-recognized credentials or
+5 certifications that are attainable by students enrolled in
+6 grades nine through twelve and that are aligned with career and
+7 technical education service content areas.
+8 Sec. 2. Section 256.11, subsection 4, paragraph b, Code
+9 2026, is amended to read as follows:
+10 b. Computer science instruction incorporating the standards
+11 established under section 256.7, subsection 26, paragraph “a”,
+12 subparagraph (4), shall be offered in at least one grade level
+13 commencing with the school year beginning July 1, 2023. Career
+14 exploration and development shall be designed so that students
+15 are appropriately prepared to create an individual career
+16 and academic plan pursuant to section 279.61, incorporate
+17 foundational career and technical education concepts aligned
+18 with the six career and technical education service content
+19 areas as defined in subsection 5, paragraph “h”, incorporate
+20 relevant twenty-first century skills to facilitate career
+21 readiness, and introduce students to career opportunities
+22 within the local community and across this state.
+23 Sec. 3. Section 256.11, subsection 5, paragraph h,
+24 subparagraph (1), Code 2026, is amended to read as follows:
+25 (1) A minimum of three sequential units in at least four
+26 of the following six career and technical education service
+27 content areas. The department shall ensure that the six career
+28 and technical education content areas are aligned to a national
+29 framework representative of all career pathways:
+30 (a) Agriculture, food, and natural resources.
+31 (b) Arts, communications, and information Information
+32 systems.
+33 (c) Applied sciences, technology, engineering, and
+34 manufacturing, including transportation, distribution,
+35 logistics, architecture, and construction.
+LSB 5500XD (8) 91
+-1- mb/jh 1/8
+
+S.F. _____ H.F. _____
+1 (d) Health sciences.
+2 (e) Human services, including law, public safety,
+3 corrections, security, government, public administration, and
+4 education and training.
+5 (f) Business, finance, marketing, and management.
+6 Sec. 4. Section 256.11, subsection 5, paragraph h,
+7 subparagraph (3), Code 2026, is amended to read as follows:
+8 (3) The department of education shall permit school
+9 districts, in meeting the requirements of this section, to use
+10 career and technical education core courses in more than one
+11 career and technical education service content area and to use
+12 multi-occupational courses to complete a sequence in more than
+13 one career and technical education service content area.
+14 Sec. 5. Section 256.125, subsection 5, Code 2026, is amended
+15 to read as follows:
+16 5. “Career and technical education service content area”
+17 means any one of the service content areas specified in section
+18 256.11, subsection 5, paragraph “h”.
+19 Sec. 6. Section 256.125, Code 2026, is amended by adding the
+20 following new subsections:
+21 NEW SUBSECTION. 5A. “High-demand occupation” means an
+22 occupation in which state, local, or regional labor market
+23 forecasting shows occupational demand exceeds the overall
+24 state, local, or regional employer demand metrics, including in
+25 openings, numeric change, and growth.
+26 NEW SUBSECTION. 5B. “High-skill occupation” means
+27 an occupation with education or training requirements,
+28 including the completion of an apprenticeship program, an
+29 industry-recognized credential, a short-term college credential
+30 such as a certificate or diploma, a noncredit college
+31 credential or certification, an associate degree or higher,
+32 on-the-job training, or on-the-job credential or certification.
+33 NEW SUBSECTION. 5C. “High-wage occupation” means an
+34 occupation for which at least three of five hourly wage or
+35 annual salary measurements for that occupation exceed the
+LSB 5500XD (8) 91
+-2- mb/jh 2/8
+
+S.F. _____ H.F. _____
+1 hourly wage or annual salary for all occupations in the state
+2 or region.
+3 Sec. 7. Section 256.129, subsection 2, Code 2026, is amended
+4 to read as follows:
+5 2. Adopt rules prescribing standards for teachers in the six
+6 career and technical education service content areas specified
+7 in section 256.11, subsection 5, paragraph “h”, in approved
+8 programs.
+9 Sec. 8. Section 256.130, subsection 5, Code 2026, is amended
+10 to read as follows:
+11 5. Make recommendations to the board of educational
+12 examiners relating to the enforcement of rules prescribing
+13 standards for teachers of career and technical education
+14 service content areas.
+15 Sec. 9. Section 256.136, subsection 6, Code 2026, is amended
+16 to read as follows:
+17 6. A regional career and technical education partnership
+18 may use funds received from state and federal sources on behalf
+19 of school districts and community colleges participating in the
+20 regional career and technical education planning partnership
+21 to convene, lead, and staff the regional career and technical
+22 education planning partnership; to offer regional career and
+23 technical education professional development opportunities;
+24 to coordinate and maintain a career guidance system pursuant
+25 to section 279.61; to purchase career and technical education
+26 equipment; and to purchase standard classroom consumable
+27 supplies other than consumable supplies that will be made into
+28 products to be sold or used personally by students, teachers,
+29 and other persons. The regional career and technical education
+30 partnership shall demonstrate that all expenditures are aligned
+31 with high-skill, high-wage, and high-demand occupations as
+32 defined in section 256.125.
+33 Sec. 10. NEW SECTION. 256.139 Statewide lower division
+34 general education and common course numbering systems.
+35 1. To support student transfer and academic transparency,
+LSB 5500XD (8) 91
+-3- mb/jh 3/8
+
+S.F. _____ H.F. _____
+1 statewide lower division general education framework and common
+2 course numbering systems shall be implemented by the department
+3 of education, in coordination with the Iowa community colleges
+4 and in consultation with the state board of regents, for
+5 coursework offered by Iowa community colleges.
+6 2. The common course numbering system must do all of the
+7 following:
+8 a. Assign each course an alphanumeric prefix and number
+9 reflecting subject area and level.
+10 b. Identify equivalent courses across institutions. Each
+11 course shall have a common description and common course
+12 outcomes developed by faculty from community colleges, with
+13 consultation from the board of regents.
+14 c. Be used in all course catalogs, registration systems, and
+15 transcripts.
+16 3. The department shall maintain a statewide course
+17 numbering directory and shall establish a faculty-led process
+18 for determining course equivalency.
+19 4. For the school year beginning July 1, 2027, and each
+20 succeeding school year, the lower division general education
+21 framework shall apply to all community college general
+22 education coursework, inclusive of a common set of general
+23 education learning requirements, and shall be built upon
+24 the existing statewide transfer pathways used by public
+25 institutions of higher education in the state. This process
+26 shall preserve institutional autonomy over course delivery and
+27 content while ensuring transfer consistency.
+28 5. The department shall adopt rules pursuant to chapter 17A
+29 to administer this section.
+30 Sec. 11. NEW SECTION. 256.140 Statewide corequisite model.
+31 1. By the 2028-2029 school year, all Iowa community colleges
+32 shall replace traditional, prerequisite remedial coursework in
+33 mathematics and English with corequisite models.
+34 2. The department of education, in consultation with
+35 Iowa community colleges, shall by rule establish a statewide
+LSB 5500XD (8) 91
+-4- mb/jh 4/8
+
+S.F. _____ H.F. _____
+1 framework for corequisite developmental education.
+2 Sec. 12. NEW SECTION. 256.141 Statewide occupation
+3 definitions.
+4 The department of education, in consultation with the
+5 Iowa workforce development board, shall adopt rules pursuant
+6 to chapter 17A to administer the process of selecting the
+7 occupations that qualify as a high-demand occupation,
+8 high-skill occupation, or high-wage occupation, each as defined
+9 in section 256.125, for purposes of use by government agencies
+10 and statewide programs.
+11 Sec. 13. Section 257.11, subsection 3, paragraph c,
+12 unnumbered paragraph 1, Code 2026, is amended to read as
+13 follows:
+14 Notwithstanding paragraph “b”, subparagraph (1), a school
+15 district that otherwise meets the requirements of this
+16 subsection may enter into a sharing agreement with a community
+17 college under which the community college may offer, or provide
+18 a community college-employed instructor to teach, one of the
+19 science or one of the mathematics units in accordance with
+20 section 256.11, subsection 5, and one or more units in only one
+21 of the six career and technical education service content areas
+22 in accordance with section 256.11, subsection 5, paragraph “h”.
+23 Pupils enrolled in a unit in accordance with this paragraph
+24 shall be assigned additional weighting in accordance with
+25 this subsection if the number of pupils enrolled in such a
+26 unit exceeds five and the school district’s total enrollment
+27 does not exceed six hundred pupils. A school district that
+28 enters into a sharing agreement with a community college under
+29 this paragraph to provide a unit of science or mathematics
+30 in accordance with section 256.11, subsection 5, paragraph
+31 “a”, “d”, or “e”, shall be deemed to have met the requirement
+32 that the school district offer and teach such a unit under
+33 the educational standards of section 256.11, subsection 5,
+34 paragraph “a”, “d”, or “e”. However, the provisions of this
+35 paragraph “c” relating to a sharing agreement for a unit of
+LSB 5500XD (8) 91
+-5- mb/jh 5/8
+
+S.F. _____ H.F. _____
+1 science or mathematics are applicable only if all of the
+2 following conditions are met:
+3 Sec. 14. Section 260C.14, Code 2026, is amended by adding
+4 the following new subsection:
+5 NEW SUBSECTION. 27. Comply with the requirements of section
+6 256.140, including by replacing traditional, prerequisite
+7 remedial coursework in mathematics and English with corequisite
+8 models, and by assisting the department of education in
+9 the implementation of a statewide framework for corequisite
+10 developmental education.
+11 Sec. 15. IMPLEMENTATION OF A COMMON COURSE NUMBERING SYSTEM
+12 STUDY. By December 31, 2026, the department of education, in
+13 consultation with the state board of regents, shall submit to
+14 the general assembly a study on the systemic implementation
+15 considerations of statewide lower division general education
+16 framework and common course numbering systems across public
+17 institutions of higher education, including Iowa community
+18 colleges and the institutions governed by the state board of
+19 regents.
+20 EXPLANATION
+21 The inclusion of this explanation does not constitute agreement with
+22 the explanation’s substance by the members of the general assembly.
+23 This bill relates to career and technical education
+24 expenditures and definitions, statewide lower division general
+25 education framework and common course numbering systems, and
+26 the implementation of a statewide corequisite model in Iowa
+27 community colleges.
+28 The bill renames the career and technical education service
+29 areas as content areas and requires the department of education
+30 to ensure that the six career and technical education content
+31 areas in the high school career and technical education program
+32 are aligned to a national framework representative of all
+33 career pathways. The bill modifies what is included in five of
+34 the six career and technical education content areas.
+35 The bill further requires that regional career and technical
+LSB 5500XD (8) 91
+-6- mb/jh 6/8
+
+S.F. _____ H.F. _____
+1 education partnerships demonstrate that all expenditures
+2 are aligned with high-skill, high-wage, and high-demand
+3 occupations.
+4 The bill defines “high-demand occupation” as an occupation
+5 in which state, local, or regional labor market forecasting
+6 shows occupational demand exceeds the overall state, local,
+7 or regional employer demand metrics, including in openings,
+8 numeric change, and growth. The bill defines “high-skill
+9 occupation” as an occupation with education or training
+10 requirements, including the completion of an apprenticeship
+11 program, an industry-recognized credential, a short-term
+12 college credential such as a certificate or diploma, a
+13 noncredit college credential or certification, an associate
+14 degree or higher, on-the-job training, or on-the-job credential
+15 or certification. The bill defines “high-wage occupation” as
+16 an occupation for which at least three of five hourly wage
+17 or annual salary measurements for that occupation exceed the
+18 hourly wage or annual salary for all occupations in the state
+19 or region. The bill requires the department of education, in
+20 consultation with the Iowa workforce development board, to
+21 adopt rules pursuant to Code chapter 17A to administer the
+22 process of selecting the resulting occupations using these
+23 statewide definitions. The bill also requires the selected
+24 occupations to be applied across all government agencies and
+25 statewide programs.
+26 The bill requires the department, in coordination with the
+27 Iowa community colleges and consultation with the state board
+28 of regents, to implement statewide lower division general
+29 education framework and common course numbering systems for all
+30 coursework offered by the Iowa community colleges. The common
+31 course numbering system must assign each course an alphanumeric
+32 prefix and number reflecting subject area and level, identify
+33 equivalent courses across institutions, ensure each equivalent
+34 course has a common description and common course outcomes,
+35 and be used in all course catalogs, registration systems, and
+LSB 5500XD (8) 91
+-7- mb/jh 7/8
+
+S.F. _____ H.F. _____
+1 transcripts. The bill requires the department to maintain
+2 a statewide course numbering directory, to establish a
+3 faculty-led process for determining course equivalency, and to
+4 adopt rules to administer the statewide common course numbering
+5 system. For the school year beginning July 1, 2027, and each
+6 succeeding school year, the bill requires the lower division
+7 general education framework to apply to all community college
+8 general education coursework and be built upon the existing
+9 statewide transfer pathways.
+10 The bill requires that by the 2028-2029 school year, all
+11 Iowa community colleges must replace traditional, prerequisite
+12 remedial coursework in mathematics and English with corequisite
+13 models. The bill requires the department to establish a
+14 statewide framework for corequisite developmental education.
+15 The bill also requires the board of directors of each community
+16 college to implement the corequisite models and to assist the
+17 department of education in implementing a statewide framework
+18 for corequisite developmental education.
+19 The bill also requires the department of education, in
+20 consultation with the state board of regents, to submit to
+21 the general assembly a study on the systemic implementation
+22 considerations of statewide lower division general education
+23 framework and common course numbering systems in institutions
+24 of higher education.
+LSB 5500XD (8) 91
+-8- mb/jh 8/8

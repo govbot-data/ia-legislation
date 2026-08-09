@@ -1,0 +1,534 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8450
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2490
+H-8450
+1 Amend Senate File 2490, as passed by the Senate, as follows:
+2 1. Page 1, line 11, by striking <section 458A.29> and
+3 inserting <section 458A.30>
+4 2. Page 1, after line 11 by inserting:
+5 <Sec. ___. Section 458A.1, Code 2026, is amended to read as
+6 follows:
+7 458A.1 Declaration of policy —— interpretation —— well
+8 prohibitions.
+9 1. It is declared to be in the public interest to foster,
+10 to encourage, and to promote the development, production, and
+11 utilization of natural resources of oil and gas and metallic
+12 minerals in the state in such a manner as will prevent waste;
+13 to authorize and to provide for the operation and development
+14 of oil and gas and metallic minerals properties in such a
+15 manner that a greater ultimate recovery of oil and gas and
+16 metallic minerals be had and that the correlative rights of all
+17 owners be fully protected; and to encourage and to authorize
+18 such measures as will result in the greatest possible economic
+19 recovery of oil and gas and metallic minerals within the
+20 state to the end that the landowners, the royalty owners,
+21 the producers, and the general public realize and enjoy the
+22 greatest possible good from these vital natural resources. It
+23 is further declared that the general welfare of the people
+24 requires that the underground and surface water of the state to
+25 be protected from pollution and conserved in the best interests
+26 of the people of the state.
+27 2. Ambiguities in this chapter and in rules adopted under
+28 this chapter shall be construed in favor of landowners,
+29 mineral-interest owners, and royalty-interest owners. For
+30 purposes of this subsection, “landowner” means a person holding
+31 legal or equitable title to the surface of land, a person
+32 holding a mineral interest severed from the surface, or a
+33 person holding a royalty or overriding royalty interest;
+34 and “ambiguity” is to be determined without deference to an
+35 administrative agency’s construction of the provision at issue.
+SF 2490.4418 (1) 91
+-1- sb/js 1/14
+
+1 3. Notwithstanding any other provision of this chapter
+2 or other Iowa law, no well or similar activity shall be dug
+3 or placed on the real property of any person who does not
+4 expressly consent to its placement.>
+5 3. Page 2, line 1, by striking <the following>
+6 4. Page 2, line 2, after <year> by inserting <, which
+7 filings the department shall maintain in an online, searchable
+8 registry, accessible to the public without fee or registration
+9 and updated promptly upon receipt of each filing, the following
+10 information>
+11 5. Page 2, after line 14 by inserting:
+12 <(6) A list of all active and pending oil, gas, and metallic
+13 minerals leases held by the filer, by location and acreage.
+14 (7) Summary financial information sufficient to evaluate
+15 the filer’s ability to perform surface damage, restoration, and
+16 abandonment obligations under this chapter.
+17 (8) Confirmation of all bonds posted by the filer under
+18 this chapter or under rules adopted by the department, with
+19 documentation sufficient to establish current effectiveness.>
+20 6. Page 3, by striking lines 1 through 4 and inserting
+21 <shall provide notice of the variance request to each landowner
+22 whose property is within one-half mile of the operation that
+23 is the subject of the request, and shall allow a public
+24 comment period of not less than fourteen days before issuing
+25 a decision. The director shall issue a written decision,
+26 supported by a contemporaneously public statement of reasons,
+27 not later than forty-five days after receipt of the request.
+28 The director shall report any variance granted at the
+29 subsequent hearing and shall contemporaneously make public any
+30 variance granted. A variance granted under this subsection
+31 is appealable to the district court by an affected landowner
+32 under the procedure set forth in section 458A.14 within thirty
+33 days of the date of issuance. The filing of a notice of appeal
+34 shall stay the effect of the variance pending the court’s final
+35 disposition of the appeal.>
+SF 2490.4418 (1) 91
+-2- sb/js 2/14
+
+1 7. Page 3, line 16, after <good cause.> by inserting
+2 <Notwithstanding any designation of confidentiality under
+3 this section, information subject to this section shall be
+4 disclosed to a landowner within the affected area upon written
+5 request, subject to execution of a nondisclosure agreement
+6 sufficient to protect the information from further disclosure
+7 to competitors of the submitting owner. For purposes of this
+8 section, “affected area” means the lands subject to the pooling
+9 order, spacing unit, or exploratory spacing unit that is the
+10 subject of the submission, together with lands within one-half
+11 mile thereof.>
+12 8. Page 3, line 33, after <information.> by inserting
+13 <Notwithstanding any other provision of this section,
+14 information reported pursuant to rules adopted by the
+15 commission concerning fires, breaks, leaks, or blowouts,
+16 and any other information concerning safety incidents,
+17 environmental contamination, or spills, shall not be designated
+18 confidential under this section, regardless of any claim of
+19 commercial sensitivity.>
+20 9. Page 4, line 3, by striking <the permitted> and inserting
+21 <the permitted>
+22 10. Page 5, line 7, after <relevant.> by inserting <An
+23 application for establishment of an exploratory spacing unit
+24 under this subsection shall be subject to all of the following
+25 conditions:>
+26 11. Page 5, after line 7 by inserting:
+27 <a. The department shall provide not less than sixty days’
+28 notice of the hearing to each landowner within the proposed
+29 exploratory spacing unit and to each landowner whose property
+30 is within one-half mile of the proposed exploratory spacing
+31 unit.
+32 b. The applicant’s supporting evidence shall be made
+33 publicly available not later than thirty days before the
+34 hearing.
+35 c. Each affected landowner shall have the right to
+SF 2490.4418 (1) 91
+-3- sb/js 3/14
+
+1 cross-examine the applicant’s technical witnesses at the
+2 hearing.
+3 d. The department shall make specific written findings of
+4 the evidentiary basis for any determination to establish an
+5 exploratory spacing unit.
+6 e. An exploratory spacing unit established under this
+7 subsection shall expire two years after the date of the
+8 department’s order establishing the unit, unless the
+9 department, upon a new application and a full evidentiary
+10 hearing, determines that the existence of a pool has been
+11 established and converts the exploratory spacing unit into a
+12 spacing unit under subsection 1. Upon written application and
+13 a showing of good cause, the department may extend the life of
+14 an exploratory spacing unit for one additional period not to
+15 exceed one year.>
+16 12. Page 6, line 15, after <subsection 1,> by inserting <and
+17 only if the producer has identified pools of existing hydrogen
+18 within the spacing unit,>
+19 13. Page 6, line 16, by striking <not less than twenty-five>
+20 and inserting <more than seventy>
+21 14. Page 6, line 17, after <spacing unit> by inserting <and
+22 constituting more than seventy percent of the number of the
+23 owners in the spacing unit>
+24 15. Page 6, line 22, after <reasonable> by inserting <,
+25 provided that no application for a pooling order shall be
+26 considered by the department unless the applicant certifies,
+27 under oath, that the applicant has engaged in not less than
+28 ninety days of good faith negotiation with each nonconsenting
+29 owner on commercially reasonable lease terms prior to the
+30 filing of the application>
+31 16. Page 7, line 28, by striking <two hundred> and inserting
+32 <one hundred ten>
+33 17. Page 7, line 31, by striking <two hundred> and inserting
+34 <one hundred ten>
+35 18. Page 8, line 8, by striking <twelve and one-half> and
+SF 2490.4418 (1) 91
+-4- sb/js 4/14
+
+1 inserting <twenty-five>
+2 19. Page 8, line 9, after <percent.> by inserting
+3 <Notwithstanding any other provision of this section, the
+4 producer’s right to recover costs against a nonconsenting owner
+5 under subsection 3 shall terminate five years after the date
+6 of first production from the well. Upon termination of cost
+7 recovery under this subsection, an unleased nonconsenting
+8 owner shall be deemed to have elected to participate as a
+9 working interest owner on a pro rata basis for all subsequent
+10 production, net of costs actually recovered to the date of
+11 termination.>
+12 20. Page 8, line 15, after <notice shall> by inserting
+13 <include a certified accounting of all receipts, costs, and
+14 projected costs attributable to the well through the date of
+15 notice, and shall>
+16 21. Page 8, line 16, after <order> by inserting <as a
+17 working interest owner>
+18 22. Page 8, line 19, by striking <sixty> and inserting <one
+19 hundred eighty>
+20 23. Page 8, line 19, after <notice> by inserting <and a
+21 certified accounting under paragraph “a”>
+22 24. Page 8, line 23, after <subsection 4.> by inserting
+23 <The accounting shall be certified by an independent certified
+24 public accountant at the producer’s expense.>
+25 25. Page 8, lines 26 and 27, by striking <continue
+26 receiving the royalty specified in subsection 4> and inserting
+27 <participate as a working interest owner>
+28 26. Page 8, after line 32 by inserting:
+29 <6. During the time the producer is recovering costs from
+30 a nonconsenting owner under subsection 3, the producer shall
+31 deliver to each nonconsenting owner, on a quarterly basis, a
+32 written statement setting forth all of the following:
+33 a. Production volumes and prices attributable to the well
+34 during the reporting period.
+35 b. Costs incurred and recovered to date.
+SF 2490.4418 (1) 91
+-5- sb/js 5/14
+
+1 c. The producer’s good faith projection of the date on which
+2 cost recovery will be completed.
+3 d. A computation of royalty amounts due to the nonconsenting
+4 owner under subsection 4.>
+5 27. Page 8, line 33, by striking <6.> and inserting <7.>
+6 28. Page 9, line 20, by striking <7.> and inserting <8.>
+7 29. Page 9, line 20, before <An> by inserting <Notice of a
+8 pooling application shall inform each nonconsenting owner of
+9 the right to be represented at the hearing by the office of
+10 landowner advocacy established under section 458A.31.>
+11 30. Page 9, line 27, by striking <penalty.> and inserting
+12 <penalty, which shall include all of the following:
+13 (1) Documented calculations of dry-hole risk based on
+14 geological data and data from comparable wells in the same or
+15 analogous formations.
+16 (2) A sworn certification by an officer of the applicant
+17 that the applicant engaged in at least ninety days of good
+18 faith negotiation with the nonconsenting owner on commercially
+19 reasonable lease terms prior to filing the application and
+20 attaching copies of all written offers made during that period.
+21 (3) A specific factual finding by the department regarding
+22 the risk actually borne by the producer with respect to the
+23 well.>
+24 31. Page 9, before line 31 by inserting:
+25 <1. Subsections 2 through 8 shall apply only if the surface
+26 owner does not own mineral rights in the spacing unit that
+27 is subject to a pooling order. An operator may only enter a
+28 site that is subject to a pooling order if the operator has
+29 a contract with the owner of the mineral rights of the real
+30 property on which the site is located.>
+31 32. Page 9, line 31, by striking <1.> and inserting <2.>
+32 33. Page 10, line 2, after <drill> by inserting <upon
+33 payment of the agreed damages>
+34 34. Page 10, line 3, by striking <2.> and inserting <3.>
+35 35. Page 10, line 4, by striking <subsection 1> and
+SF 2490.4418 (1) 91
+-6- sb/js 6/14
+
+1 inserting <subsection 2>
+2 36. Page 10, lines 9 and 10, by striking <After the operator
+3 has petitioned for appointment of appraisers, the operator may
+4 enter the site to drill.> and inserting <The operator shall not
+5 enter the site with heavy equipment for the purpose of drilling
+6 until the appraisers have filed their report under subsection 4
+7 and the producer has either paid the recommended compensation
+8 to the surface owner or deposited the recommended compensation
+9 with the clerk of the district court for the benefit of the
+10 surface owner.>
+11 37. Page 10, line 20, after <publication.> by inserting
+12 <As a condition of entry, the producer shall post a bond with
+13 the clerk of the district court, payable to the surface owner,
+14 in an amount equal to the greater of two hundred percent of
+15 the appraisers’ recommended compensation or fifteen thousand
+16 dollars per acre of surface area subject to the drilling
+17 operation. The bond shall remain in effect until the drilling
+18 operation is completed and all compensation, including any
+19 compensation awarded upon reassessment under subsection 8, has
+20 been paid. Upon producer default, insolvency, or failure to
+21 remediate damages, the bond shall be available to satisfy the
+22 surface owner’s claim.>
+23 38. Page 10, line 21, by striking <3.> and inserting <4.>
+24 39. Page 11, line 11, after <paid.> by inserting
+25 <Compensable damages under this section include but are not
+26 limited to the loss of use of land during drilling; diminution
+27 of market value of the land; crop damage; livestock loss and
+28 injury; damage to springs, wells, and other water sources;
+29 soil compaction and restoration costs; damage to improvements,
+30 fences, and drainage; lost quality of life during active
+31 operations; and consequential damages to adjoining or related
+32 operations.>
+33 40. Page 11, line 16, by striking <4.> and inserting <5.>
+34 41. Page 11, line 17, by striking <subsection 3> and
+35 inserting <subsection 4>
+SF 2490.4418 (1) 91
+-7- sb/js 7/14
+
+1 42. Page 11, line 29, by striking <subsection 3> and
+2 inserting <subsection 4>
+3 43. Page 12, line 8, by striking <5.> and inserting <6.>
+4 44. Page 12, line 10, by striking <subsection 3> and
+5 inserting <subsection 4>
+6 45. Page 12, line 21, by striking <6.> and inserting <7.>
+7 46. Page 12, line 22, by striking <subsection 3> and
+8 inserting <subsection 4>
+9 47. Page 12, by striking lines 31 through 35 and inserting
+10 <of damages. If the damages meet or exceed ninety percent of
+11 the compensation recommended in the report of the>
+12 48. Page 13, line 2, after <owner.> by inserting <If
+13 the damages awarded are less than ninety percent of the
+14 compensation recommended in the report of the appraisers, each
+15 party shall bear its own court costs and attorney fees.>
+16 49. Page 13, after line 2 by inserting:
+17 <8. When operations continue beyond one year from the date
+18 of the appraisers’ report under subsection 4, the surface owner
+19 may petition the court annually for reassessment of continuing
+20 damages. A reassessment petition shall be subject to the
+21 procedures set forth in subsections 4 through 7.>
+22 50. Page 13, before line 3 by inserting:
+23 <Sec. ___. NEW SECTION. 458A.27 Groundwater and aquifer
+24 protection.
+25 1. The requirements of this section are in addition to,
+26 and not in substitution for, the water strata sealing and
+27 artesian water protection requirements prescribed by rule of
+28 the department at 561 IAC 17.6, as in effect on the effective
+29 date of this Act.
+30 2. Not later than sixty days before commencing drilling of
+31 any well subject to this chapter, the operator shall arrange,
+32 at the operator’s sole expense, for a baseline water-quality
+33 test of every domestic, livestock, and irrigation water well
+34 located within a radius of two thousand five hundred feet
+35 of the proposed well pad. Testing shall be performed by a
+SF 2490.4418 (1) 91
+-8- sb/js 8/14
+
+1 laboratory certified by the department and shall include, at a
+2 minimum, tests for methane, total dissolved solids, chlorides,
+3 sulfates, arsenic, barium, iron, manganese, and such other
+4 parameters as the department shall specify by rule. The
+5 operator shall deliver the baseline test results in writing to
+6 the owner of each tested water well and shall file the results
+7 with the department.
+8 3. The operator shall arrange, at the operator’s sole
+9 expense, for follow-up water quality testing of each water well
+10 tested under subsection 2 at six months, twelve months, and
+11 twenty-four months after completion or plugging of the subject
+12 oil or gas well. Results shall be delivered to the water well
+13 owner and filed with the department within thirty days of
+14 testing.
+15 4. When a water well tested under subsection 2 or 3
+16 experiences a material decline in quality, or is newly shown to
+17 be contaminated with any constituent typically associated with
+18 oil and gas drilling or hydraulic stimulation, the water well
+19 is located within a radius of two thousand five hundred feet of
+20 an oil or gas well, and the contamination is first identified
+21 within five years after spudding of the oil or gas well, there
+22 shall be a rebuttable presumption that the drilling operation
+23 caused the contamination. The presumption may be rebutted
+24 only by clear and convincing evidence. In any proceeding when
+25 the presumption applies, the operator shall bear the burden of
+26 providing to the affected landowner a replacement water supply,
+27 adequate in quantity and quality, pending final determination.
+28 5. Every operator shall post, as a condition of permit
+29 issuance, financial assurance in the form of a surety bond,
+30 letter of credit, or cash deposit, in an amount determined
+31 by the department by rule but not less than one million
+32 dollars per well, to be available for remediation of aquifer
+33 contamination, provision of replacement water supplies,
+34 and plugging and abandonment of contaminated water wells.
+35 Financial assurance under this subsection shall be in addition
+SF 2490.4418 (1) 91
+-9- sb/js 9/14
+
+1 to, and not in substitution for, the compliance bond required
+2 by section 458A.4, subsection 1, paragraph “d”, or any other
+3 bonding or financial assurance requirement of this chapter.>
+4 51. Page 13, line 3, by striking <458A.27> and inserting
+5 <458A.28>
+6 52. Page 13, line 10, after <wellhead.> by inserting
+7 <Production attributable to the cost-free royalty interest
+8 of an unleased nonconsenting owner under section 458A.8,
+9 subsection 5, shall be exempt from the tax imposed by this
+10 section.>
+11 53. Page 13, by striking lines 13 through 20 and inserting:
+12 <4. The severance tax shall be paid by the producer as a
+13 cost of doing business. Notwithstanding any agreement to the
+14 contrary, a producer shall not deduct the severance tax paid
+15 under this section from any royalty payment, lease bonus, or
+16 other payment due or to become due to an interest owner of oil
+17 or gas production, and shall not otherwise pass the economic
+18 incidence of the tax to an interest owner.>
+19 54. Page 13, line 23, by striking <458A.28> and inserting
+20 <458A.29>
+21 55. Page 13, line 25, by striking <section 458A.27> and
+22 inserting <section 458A.28>
+23 56. Page 13, line 32, by striking <Five> and inserting
+24 <Thirty-five>
+25 57. Page 16, line 18, by striking <Seventy and one-tenth>
+26 and inserting <Thirty and six-tenths>
+27 58. Page 16, after line 20 by inserting:
+28 <e. (1) Seven and five-tenths percent of severance tax
+29 revenue each year shall be deposited in the surface owner
+30 compensation fund created in subparagraph (2).
+31 (2) A surface owner compensation fund is created within the
+32 state treasury under the control of the department.
+33 (3) Moneys in the surface owner compensation fund shall
+34 be available to pay awards of surface damages under section
+35 458A.26 when the producer has defaulted, become insolvent,
+SF 2490.4418 (1) 91
+-10- sb/js 10/14
+
+1 cannot be located, or is otherwise unable to satisfy the award.
+2 Upon payment from the fund, the fund shall be subrogated to the
+3 surface owner’s claim against the producer.
+4 (4) The department shall administer the surface owner
+5 compensation fund and adopt rules pursuant to chapter 17A for
+6 the disposition of claims against the fund.
+7 f. Two percent of severance tax revenue each year shall
+8 be deposited in an account within the state treasury for the
+9 exclusive use of the office of landowner advocacy established
+10 under section 458A.31.>
+11 59. Page 16, line 21, by striking <e.> and inserting <g.>
+12 60. Page 17, line 4, by striking <458A.29> and inserting
+13 <458A.30>
+14 61. By striking page 18, line 21, through page 19, line 28,
+15 and inserting:
+16 <Sec. ___. NEW SECTION. 458A.31 Office of landowner
+17 advocacy.
+18 1. There is established within the department the office
+19 of landowner advocacy. The office shall be independent of the
+20 divisions of the department responsible for permitting and
+21 enforcement under this chapter.
+22 2. The office shall have all of the following powers and
+23 duties:
+24 a. To intervene, on behalf of affected landowners, in
+25 pooling, spacing, variance, and other proceedings before the
+26 department under this chapter.
+27 b. To review, on request of a landowner, any report of
+28 appraisers filed under section 458A.26, and to assist the
+29 landowner in evaluating and, where appropriate, contesting the
+30 report.
+31 c. To provide counsel, or lay representation where lawful,
+32 to unrepresented landowners in proceedings under this chapter.
+33 d. To maintain public records of producer performance on
+34 surface damage, restoration, and abandonment obligations.
+35 e. To publish an annual report on industry practices and
+SF 2490.4418 (1) 91
+-11- sb/js 11/14
+
+1 emerging issues affecting landowners.
+2 3. The office shall be funded by a dedicated allocation
+3 of two percent of severance tax revenues pursuant to section
+4 458A.29, subsection 1, paragraph “f”.
+5 Sec. ___. NEW SECTION. 458A.32 Landowner private right of
+6 action.
+7 1. For purposes of this section:
+8 a. “Landowner” means a person holding legal or equitable
+9 title to the surface of land affected by an oil and gas
+10 operation; a person holding a mineral interest that is or may
+11 be affected by an oil and gas operation, whether or not severed
+12 from the surface; a person holding a royalty or overriding
+13 royalty interest in production from an oil and gas operation;
+14 and a successor in interest to any of the foregoing.
+15 b. “Producer” means the same as defined in section 458A.2
+16 and includes any person acting as a principal or agent for a
+17 producer in the production, storage, transportation, refining,
+18 marketing, or processing of oil or gas.
+19 c. “Violation” means a failure to comply with any provision
+20 of this chapter, any rule adopted under this chapter, any order
+21 of the department, any bond required under this chapter, any
+22 pooling order, any surface damage award, any lease or surface
+23 use agreement filed with or known to the department, or any
+24 local ordinance not preempted under this chapter.
+25 2. A landowner aggrieved by a violation may bring a civil
+26 action against any producer responsible for the violation in
+27 the district court of the county in which the oil and gas
+28 operation is located, or in the district court of any county
+29 in which the producer transacts business. The action may be
+30 brought without regard to whether the department has taken any
+31 enforcement action with respect to the violation and without
+32 regard to whether administrative remedies have been exhausted.
+33 3. In an action under this section, the court may grant
+34 any of the following forms of relief, cumulatively or in the
+35 alternative:
+SF 2490.4418 (1) 91
+-12- sb/js 12/14
+
+1 a. Injunctive relief, including temporary restraining
+2 orders, preliminary injunctions, and permanent injunctions, to
+3 restrain the violation or to compel compliance.
+4 b. Compensatory damages for harm caused by the violation,
+5 including all categories of compensable damages enumerated in
+6 section 458A.26, subsection 4.
+7 c. Restitution and disgorgement of any profit, royalty, or
+8 other economic benefit obtained by the producer in connection
+9 with the violation.
+10 d. Civil penalties of not less than five hundred dollars
+11 and not more than twenty-five thousand dollars per violation,
+12 payable to the aggrieved landowner, with each day of continued
+13 violation constituting a separate violation for penalty
+14 purposes.
+15 e. Declaratory relief.
+16 f. Any other relief the court deems appropriate, including
+17 appointment of a receiver when necessary to secure compliance
+18 or the preservation of landowner rights.
+19 4. The court shall award reasonable attorney fees, expert
+20 witness fees, and costs of suit to a prevailing landowner. A
+21 producer shall not recover attorney fees or costs in an action
+22 under this section unless the court specifically finds that
+23 the landowner’s action was frivolous, unreasonable, or without
+24 foundation.
+25 5. An action under this section shall be commenced within
+26 six years after the violation is discovered or, in the exercise
+27 of reasonable diligence, should have been discovered.
+28 6. The right of action established by this section is in
+29 addition to, and does not supplant, any other remedy available
+30 at law or in equity, including remedies available under
+31 section 458A.17, remedies available at common law, and remedies
+32 available under any lease, surface use agreement, or other
+33 contract. Nothing in this section shall be construed to limit
+34 the remedies of the department, the attorney general, or any
+35 other public officer with enforcement authority under this
+SF 2490.4418 (1) 91
+-13- sb/js 13/14
+
+1 chapter.
+2 7. Any agreement purporting to waive, limit, or restrict a
+3 landowner’s right of action under this section, whether entered
+4 into before or after the violation giving rise to the action,
+5 is void and unenforceable as against public policy.>
+6 62. Page 19, after line 29 by inserting:
+7 <Sec. ___. FUTURE REPEAL AND REAUTHORIZATION.
+8 1. Section 458A.8, subsections 3 through 9, and sections
+9 458A.26, 458A.27, 458A.28, 458A.29, 458A.30, and 458A.31, as
+10 enacted or amended by this Act or as subsequently amended, are
+11 repealed July 1, 2031.
+12 2. The general assembly may affirmatively reauthorize each
+13 provision listed in subsection 1 prior to its repeal.
+14 Sec. ___. REPORT —— LEGISLATIVE SERVICES AGENCY. The
+15 legislative services agency shall prepare for delivery to the
+16 general assembly not later than January 15, 2031, a report
+17 evaluating the operation of section 458A.8, subsections 3
+18 through 9, and sections 458A.26, 458A.27, 458A.28, 458A.29,
+19 458A.30, and 458A.31, as enacted or amended by this Act,
+20 including information concerning the number and outcome of
+21 proceedings under each section, economic effects on landowners
+22 and producers, and any recommended modifications.>
+23 63. Title page, line 5, by striking <and jurisdiction> and
+24 inserting <a private right of action for landowners, and an
+25 office of landowner advocacy>
+26 64. By renumbering as necessary.
+______________________________
+THOMSON of Floyd
+SF 2490.4418 (1) 91
+-14- sb/js 14/14

@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8117
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2515
+H-8117
+1 Amend House File 2515 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 907.3, subsection 2, paragraph a, Code
+5 2026, is amended by adding the following new subparagraph:
+6 NEW SUBPARAGRAPH. (10) The offense is a violation of
+7 section 728.12.
+8 Sec. 2. Section 907.3, subsection 3, Code 2026, is amended
+9 by adding the following new paragraph:
+10 NEW PARAGRAPH. i. A sentence imposed pursuant to section
+11 728.12.>
+12 2. Title page, by striking lines 1 and 2 and inserting
+13 <An Act relating to deferred or suspended sentences for cases
+14 involving sexual exploitation of a minor.>
+______________________________
+FETT of Warren
+HF 2515.3047 (1) 91
+-1- as/js 1/1

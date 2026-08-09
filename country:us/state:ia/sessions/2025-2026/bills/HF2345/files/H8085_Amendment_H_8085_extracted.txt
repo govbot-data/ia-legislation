@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8085
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2345
+H-8085
+1 Amend House File 2345 as follows:
+2 1. Page 1, line 3, after <name> by inserting <and city of
+3 last known address>
+4 2. Page 2, before line 1 by inserting:
+5 <Sec. ___. Section 411.5, subsection 6, Code 2026, is
+6 amended by adding the following new paragraph:
+7 NEW PARAGRAPH. d. The system may release the legal name
+8 and city of last known address of a member or beneficiary to
+9 the treasurer of state for purposes of assisting the system in
+10 locating the member or beneficiary.>
+11 3. Title page, line 2, after <system> by inserting <and the
+12 municipal fire and police retirement system>
+13 4. By renumbering as necessary.
+______________________________
+SMITH of Dubuque
+HF 2345.2948 (1) 91
+-1- sc/ns 1/1

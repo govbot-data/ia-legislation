@@ -1,0 +1,257 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8462
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2465
+H-8462
+1 Amend Senate File 2465, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. By striking page 13, line 28, through page 19, line 30,
+4 and inserting:
+5 <PART ___
+6 GRAIN DEALERS
+7 Sec. ___. Section 203.3, subsection 4, paragraph b, Code
+8 2026, is amended to read as follows:
+9 b. (1) The grain dealer shall submit to the department,
+10 as required by the department, a financial statement that is
+11 accompanied by an unqualified opinion based upon an audit
+12 performed by a certified public accountant licensed in this
+13 state.
+14 (2) Notwithstanding subparagraph (1), if a grain dealer
+15 does not purchase grain by credit-sale contract, the department
+16 may accept any of the following:
+17 (a) A qualification in an opinion based on an audit that
+18 is unavoidable by any audit procedure that is permitted under
+19 generally accepted accounting principles. An opinion that
+20 is qualified because of a limited audit procedure or because
+21 the scope of an audit is limited shall not be accepted by the
+22 department.
+23 (b) A financial statement that is accompanied by the
+24 report of a certified public accountant licensed in this
+25 state. The report must be based upon a review performed by the
+26 certified public accountant. The report shall be in lieu of an
+27 unqualified opinion based on an audit. However, at any time,
+28 upon good cause, the department may require the grain dealer to
+29 submit to the department a subsequent financial statement that
+30 is accompanied by the report.
+31 (3) The department shall not require that a grain dealer to
+32 submit to the department more than one such unqualified opinion
+33 based on an audit per year.
+34 (4) A grain dealer shall submit one or more financial
+35 statements to the department in addition to the financial
+SF 2465.4457 (2) 91
+-1- da/js 1/7
+
+1 statement accompanied by an unqualified opinion based on
+2 an audit as required in this paragraph if the department
+3 determines that it is necessary to verify the grain dealer’s
+4 financial status or compliance with this section.
+5 Sec. ___. Section 203.3, subsection 5, paragraph b, Code
+6 2026, is amended to read as follows:
+7 b. (1) The grain dealer shall submit to the department,
+8 as required by the department, a financial statement that is
+9 accompanied by an unqualified opinion based upon an audit
+10 performed by a certified public accountant licensed in this
+11 state.
+12 (2) Notwithstanding subparagraph (1), the department may
+13 accept any of the following:
+14 (a) A qualification in an opinion based on an audit that
+15 is unavoidable by any audit procedure that is permitted under
+16 generally accepted accounting principles. An opinion that
+17 is qualified because of a limited audit procedure or because
+18 the scope of an audit is limited shall not be accepted by the
+19 department.
+20 (b) A financial statement that is accompanied by the
+21 report of a certified public accountant licensed in this
+22 state. The report must be based upon a review performed by the
+23 certified public accountant. The report shall be in lieu of an
+24 unqualified opinion based on an audit. However, at any time,
+25 upon good cause, the department may require the grain dealer to
+26 submit to the department a subsequent financial statement that
+27 is accompanied by the report.
+28 (3) The department shall not require that a grain dealer to
+29 submit to the department more than one such unqualified opinion
+30 based on an audit per year.
+31 (4) A grain dealer shall submit one or more financial
+32 statements to the department in addition to the financial
+33 statement accompanied by an unqualified opinion based on an
+34 audit required in this paragraph if the department determines
+35 that it is necessary to verify the grain dealer’s financial
+SF 2465.4457 (2) 91
+-2- da/js 2/7
+
+1 status or compliance with this section.
+2 Sec. ___. Section 203.8, subsection 2, paragraph a, Code
+3 2026, is amended to read as follows:
+4 a. (1) “Delivery” Subject to subparagraph (2), “delivery”
+5 means the transfer of title to and possession of grain by a
+6 seller to a grain dealer or to another person in accordance
+7 with the terms of an agreement of by the seller and the grain
+8 dealer.
+9 (2) Unless title to grain was previously transferred
+10 pursuant to an ordinary cash-sale contract, title to grain sold
+11 by credit-sale contract is deemed to have transferred to the
+12 grain dealer when all of the following occurs:
+13 (a) The credit-sale contract is signed by both the grain
+14 dealer and the seller.
+15 (b) The grain dealer has possession of the grain or another
+16 person has possession of the grain in accordance with the terms
+17 of the credit-sale contract.
+18 Sec. ___. Section 203.12, subsection 1, Code 2026, is
+19 amended to read as follows:
+20 1. Upon the cessation of a grain dealer license by
+21 revocation, cancellation, or expiration pursuant to section
+22 203.10 or upon the filing of a petition in bankruptcy by a
+23 grain dealer, any claim for the purchase price of grain against
+24 the grain dealer shall be made in writing and filed with the
+25 grain dealer and with the issuer of a deficiency bond or of an
+26 irrevocable letter of credit and with the department within
+27 one hundred twenty days after the date of the cessation or the
+28 filing of a petition in bankruptcy, whichever occurs earlier.
+29 A failure to make this timely claim relieves the issuer and the
+30 grain depositors and sellers indemnity fund provided in chapter
+31 203D of all obligations to the claimant.
+32 Sec. ___. Section 203.12A, subsection 5, Code 2026, is
+33 amended to read as follows:
+34 5. The Iowa grain indemnity fund board, upon written demand
+35 of the grain dealer, shall file a termination statement with
+SF 2465.4457 (2) 91
+-3- da/js 3/7
+
+1 the secretary of state, if after one hundred eighty days from
+2 the date that the lien is perfected the grain dealer’s license
+3 has not ceased by revocation, cancellation, or expiration
+4 pursuant to section 203C.10. Upon filing the termination
+5 statement, the lien becomes unperfected. The board shall
+6 also deliver a copy of the termination statement to the grain
+7 dealer.
+8 PART ___
+9 GRAIN OPERATORS
+10 Sec. ___. Section 203C.6, subsection 4, paragraph b, Code
+11 2026, is amended to read as follows:
+12 b. (1) The warehouse operator shall submit to the
+13 department, as required by the department, a financial
+14 statement that is accompanied by an unqualified opinion based
+15 upon an audit performed by a certified public accountant
+16 licensed in this state.
+17 (2) Notwithstanding subparagraph (1), the department may
+18 accept any of the following:
+19 (a) A qualification in an opinion based on an audit that
+20 is unavoidable by any audit procedure that is permitted under
+21 generally accepted accounting principles. An opinion that
+22 is qualified because of a limited audit procedure or because
+23 the scope of an audit is limited shall not be accepted by the
+24 department.
+25 (b) A financial statement that is accompanied by the
+26 report of a certified public accountant licensed in this
+27 state. The report must be based upon a review performed by
+28 the certified public accountant. The report shall be in lieu
+29 of an unqualified opinion based on an audit. However, at any
+30 time, upon good cause, the department may require the warehouse
+31 operator to submit to the department a subsequent financial
+32 statement that is accompanied by the report.
+33 (3) The department shall not require that a warehouse
+34 operator to submit to the department more than one such
+35 unqualified opinion based on an audit per year.
+SF 2465.4457 (2) 91
+-4- da/js 4/7
+
+1 (4) A warehouse operator shall submit one or more financial
+2 statements to the department in addition to the financial
+3 statement accompanied by an unqualified opinion based on
+4 an audit as required in this paragraph if the department
+5 determines that it is necessary to verify the warehouse
+6 operator’s financial status or compliance with this section.
+7 Sec. ___. Section 203C.6, subsection 5, paragraph b, Code
+8 2026, is amended to read as follows:
+9 b. (1) The warehouse operator shall submit to the
+10 department, as required by the department, a financial
+11 statement that is accompanied by an unqualified opinion based
+12 upon an audit performed by a certified public accountant
+13 licensed in this state.
+14 (2) Notwithstanding subparagraph (1), the department may
+15 accept any of the following:
+16 (a) A qualification in an opinion based on an audit that
+17 is unavoidable by any audit procedure that is permitted under
+18 generally accepted accounting principles. An opinion that
+19 is qualified because of a limited audit procedure or because
+20 the scope of an audit is limited shall not be accepted by the
+21 department.
+22 (b) A financial statement that is accompanied by the
+23 report of a certified public accountant licensed in this
+24 state. The report must be based upon a review performed by
+25 the certified public accountant. The report shall be in lieu
+26 of an unqualified opinion based on an audit. However, at any
+27 time, upon good cause, the department may require the warehouse
+28 operator to submit to the department a subsequent financial
+29 statement that is accompanied by the report.
+30 (3) The department shall not require that a warehouse
+31 operator to submit more than one such unqualified opinion based
+32 on an audit per year.
+33 (4) A warehouse operator shall submit one or more financial
+34 statements to the department in addition to the financial
+35 statement accompanied by an unqualified opinion based on
+SF 2465.4457 (2) 91
+-5- da/js 5/7
+
+1 an audit as required in this paragraph if the department
+2 determines that it is necessary to verify the warehouse
+3 operator’s financial status or compliance with this section.
+4 Sec. ___. Section 203C.12A, subsection 5, Code 2026, is
+5 amended to read as follows:
+6 5. The Iowa grain indemnity fund board shall upon written
+7 demand of the warehouse operator file a termination statement
+8 with the secretary of state, if after one hundred eighty
+9 days from the date that the lien is perfected the warehouse
+10 operator’s license has not ceased by revocation, cancellation,
+11 or expiration pursuant to section 203C.10. Upon filing the
+12 termination statement, the lien becomes unperfected. The board
+13 shall also deliver a copy of the termination statement to the
+14 warehouse operator.
+15 Sec. ___. Section 203C.14, subsection 2, paragraphs a and c,
+16 Code 2026, are amended to read as follows:
+17 a. Upon the cessation of a warehouse operator’s license due
+18 to revocation, cancellation, or expiration pursuant to section
+19 203C.10 or upon the filing of a petition in bankruptcy by a
+20 warehouse operator, a claim against the warehouse operator
+21 arising under this chapter shall be made in writing with the
+22 warehouse operator, with the issuer of a bond on agricultural
+23 products other than bulk grain, a deficiency bond, or an
+24 irrevocable letter of credit, and, if the claim relates to bulk
+25 grain, with the department. The claim must be made within one
+26 hundred twenty days after the cessation of the license or the
+27 filing of a petition in bankruptcy, whichever occurs earlier.
+28 The failure to make a timely claim relieves the issuer and,
+29 if the claim relates to bulk grain, the grain depositors
+30 and sellers indemnity fund provided in chapter 203D of all
+31 obligations to the claimant.
+32 c. This subsection does not apply if a receiver is appointed
+33 as provided in this chapter pursuant to a petition which that
+34 is filed by the department prior to the expiration of one
+35 hundred twenty days after cessation of a warehouse operator’s
+SF 2465.4457 (2) 91
+-6- da/js 6/7
+
+1 license pursuant to section 203C.10.
+2 Sec. ___. Section 203C.18, subsection 3, Code 2026, is
+3 amended to read as follows:
+4 3. A form for a warehouse receipt shall only be printed by
+5 a person approved by the department. A form for a warehouse
+6 receipt shall be printed in accordance with specifications set
+7 forth by the department. A warehouse operator shall surrender
+8 to the department all forms for warehouse receipts that are
+9 unused at the time that the warehouse operator’s license
+10 is suspended or ceases due to revocation, cancellation, or
+11 expiration pursuant to section 203C.10. The warehouse operator
+12 shall surrender the warehouse receipts in a manner required by
+13 the department.>
+14 2. By renumbering as necessary.
+______________________________
+COMMITTEE ON WAYS AND MEANS
+NORDMAN of Dallas, Chairperson
+SF 2465.4457 (2) 91
+-7- da/js 7/7

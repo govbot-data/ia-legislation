@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5121
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2523
+S-5121
+1 Amend House File 2523, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 601.1, subsection 2, Code 2026, is
+5 amended to read as follows:
+6 2. a. Subject to section 147.164, a parent or guardian
+7 bears the ultimate responsibility, and has the fundamental,
+8 constitutionally protected right, to make decisions affecting
+9 the parent’s or guardian’s minor child, including decisions
+10 related to the minor child’s medical care, moral upbringing,
+11 religious upbringing, residence, education, and extracurricular
+12 activities.
+13 b. A parent or guardian of a minor child may consent to and
+14 authorize the minor child’s evaluation, counseling, therapy,
+15 rehabilitation service, medication management, outpatient
+16 treatment, or prescreening interview and consultation for
+17 inpatient treatment for a substance use disorder as defined
+18 in section 125.2, or a mental health condition. A parent’s
+19 or guardian’s consent and authorization under this paragraph
+20 shall be effective over any objection to the consent and
+21 authorization from the minor child.
+22 c. This subsection shall not be construed to require a
+23 mental health care professional as defined in section 228.1, or
+24 a facility as defined in section 125.2, to provide treatment
+25 to a minor child if the mental health professional or facility
+26 determines that treatment is not appropriate, the criteria to
+27 admit the minor child for treatment has not been met, or the
+28 mental health professional or facility is otherwise unable to
+29 treat the minor child.
+30 d. Any and all restrictions of this right the rights
+31 described in this subsection shall be subject to strict
+32 scrutiny.>
+33 2. Title page, by striking lines 1 through 3 and inserting
+34 <An Act establishing the right of a parent or guardian of
+35 a minor child to consent to and authorize certain medical
+HF 2523.3490 (5) 91
+-1- dg/ko 1/2
+
+1 services over the minor child’s objection.>
+______________________________
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+KARA WARME, CHAIRPERSON
+HF 2523.3490 (5) 91
+-2- dg/ko 2/2

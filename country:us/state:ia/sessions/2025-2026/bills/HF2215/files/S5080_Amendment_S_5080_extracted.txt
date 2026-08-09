@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5080
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2215
+S-5080
+1 Amend House File 2215, as passed by the House, as follows:
+2 1. Page 1, after line 5 by inserting:
+3 <Sec. ___. Section 455B.392, subsection 5, Code 2026, is
+4 amended to read as follows:
+5 5. Money collected by the department pursuant to this
+6 section, except for moneys collected under subsection 5A, shall
+7 be deposited in the hazardous waste remedial fund created in
+8 section 455B.423. Moneys shall be used in the manner permitted
+9 for the fund. Moneys collected by a state agency other than
+10 the department of natural resources pursuant to this section
+11 are appropriated to that agency for purposes of reimbursing
+12 costs of the agency for emergency response activities described
+13 in subsection 1. Moneys collected by a political subdivision
+14 pursuant to this section shall be retained by the political
+15 subdivision and shall be used for purposes of reimbursing costs
+16 of the political subdivision for emergency response activities
+17 described in subsection 1.
+18 Sec. ___. Section 455B.392, Code 2026, is amended by adding
+19 the following new subsection:
+20 NEW SUBSECTION. 5A. In addition to liabilities imposed
+21 by this section, there shall be imposed on a person liable
+22 for costs or damages under subsection 1 a fine of ten percent
+23 of the total amount of costs and damages. Moneys collected
+24 pursuant to this subsection shall be deposited into the natural
+25 resources account created in section 461.32. Moneys shall be
+26 used in a manner permitted for the account.>
+27 2. Page 1, after line 17 by inserting:
+28 <Sec. ___. Section 461.32, subsection 1, Code 2026, is
+29 amended to read as follows:
+30 1. A natural resources account is created in the trust
+31 fund. Twenty-three In addition to any moneys deposited in the
+32 account pursuant to section 455B.392, twenty-three percent of
+33 the moneys credited to the trust fund shall be allocated to the
+34 account.>
+35 3. Title page, line 2, after <resources,> by inserting
+HF 2215.3300 (3) 91
+-1- sb/js 1/2
+
+1 <fines for hazardous conditions caused by a person having
+2 control over a hazardous substance,>
+3 4. Title page, line 5, by striking <revolvers> and inserting
+4 <revolvers, providing penalties, and making appropriations>
+5 5. By renumbering as necessary.
+______________________________
+JANICE WEINER
+HF 2215.3300 (3) 91
+-2- sb/js 2/2

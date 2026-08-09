@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8206
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2487
+H-8206
+1 Amend House File 2487 as follows:
+2 1. Page 1, line 22, after <counsel> by inserting <if the
+3 state entity is found in the investigation or legal action, as
+4 applicable, to have violated this chapter>
+5 2. Page 2, line 12, after <counsel> by inserting <if the
+6 institution is found in the investigation or legal action, as
+7 applicable, to have violated this chapter>
+______________________________
+WILBURN of Story
+HF 2487.3377 (1) 91
+-1- je/ns 1/1

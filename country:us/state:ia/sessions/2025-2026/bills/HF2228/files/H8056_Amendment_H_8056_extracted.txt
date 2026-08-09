@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8056
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2228
+H-8056
+1 Amend House File 2228 as follows:
+2 1. Page 1, line 17, by striking <rules, pursuant to chapter
+3 17A,> and inserting <rules, pursuant to chapter 17A,>
+4 2. Page 2, line 5, by striking <be required to> and
+5 inserting <be required to>
+6 3. Page 2, line 14, by striking <reasons> and inserting
+7 <reason>
+______________________________
+LATHAM of Franklin
+HF 2228.2958 (1) 91
+amending this HF 2228 to CONFORM to SF 2214
+-1- th/ns 1/1

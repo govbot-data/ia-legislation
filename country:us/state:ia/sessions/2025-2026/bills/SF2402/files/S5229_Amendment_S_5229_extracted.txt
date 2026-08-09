@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5229
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2402
+S-5229
+1 Amend Senate File 2402 as follows:
+2 1. Page 36, after line 25 by inserting:
+3 <DIVISION ___
+4 LANDHOLDINGS
+5 Sec. ___. Section 9I.7, unnumbered paragraph 1, Code 2026,
+6 is amended to read as follows:
+7 A nonresident alien, foreign business, or foreign
+8 government, or an agent, trustee, or fiduciary thereof, which
+9 owns an interest in agricultural land within this state on or
+10 after January 1, 1980, shall register the agricultural land
+11 with the secretary of state. The registration shall be made
+12 within sixty days after January 1, 1980, or within sixty days
+13 after acquiring the land or the interest in land, whichever is
+14 later. The registration shall be made online or in the form
+15 and manner prescribed by the secretary of state. Information
+16 described in this section is a confidential record and subject
+17 to use in the same manner as provided in section 10B.5. As part
+18 of the registration, the nonresident alien, foreign business,
+19 or foreign government, or an agent, trustee, or fiduciary
+20 thereof, shall file all of the following information:
+21 Sec. ___. Section 10B.1, Code 2026, is amended by adding the
+22 following new subsections:
+23 NEW SUBSECTION. 1A. a. “Business entity” means a person,
+24 formed under the statutes of this state or another jurisdiction
+25 for purposes of engaging in a commercial activity on a profit,
+26 cooperative, or not-for-profit basis, including but not
+27 limited to a corporation or entity taxed as a corporation
+28 under the Internal Revenue Code, nonprofit corporation,
+29 cooperative or cooperative association, partnership, limited
+30 partnership, limited liability company, limited liability
+31 partnership, investment company, joint stock company, joint
+32 stock association, or trust, including but not limited to a
+33 business trust.
+34 b. “Business entity” does not include a family farm
+35 corporation, family farm limited liability company, family
+SF 2402.3925 (1) 91
+(amending this SF 2402 to CONFORM to HF 2678)
+-1- da/jh 1/4
+
+1 trust, revocable trust, testamentary trust, or family farm
+2 unincorporated nonprofit association, each as defined in
+3 section 9H.1.
+4 NEW SUBSECTION. 10A. “Out-of-state business entity” means
+5 a business entity formed under the statutes of any of the
+6 following:
+7 a. A state of the United States, other than Iowa.
+8 b. A territory of the United States.
+9 NEW SUBSECTION. 10B. “Out-of-state individual” means an
+10 individual who is domiciled in any of the following:
+11 a. A state of the United States, other than Iowa.
+12 b. A territory of the United States.
+13 Sec. ___. Section 10B.1, subsection 11, Code 2026, is
+14 amended by adding the following new paragraphs:
+15 NEW PARAGRAPH. 0f. An out-of-state business entity holding
+16 an interest in agricultural land in this state, including a
+17 general partnership in which a partner is domiciled in another
+18 state, or territory, of the United States.
+19 NEW PARAGRAPH. 00f. An out-of-state individual holding an
+20 interest in agricultural land in this state.
+21 Sec. ___. Section 10B.3, Code 2026, is amended by adding the
+22 following new subsection:
+23 NEW SUBSECTION. 5A. A person not described in this section
+24 who is an authorized representative of an out-of-state business
+25 entity or an out-of-state individual.
+26 Sec. ___. Section 10B.4, subsection 2, Code 2026, is amended
+27 by adding the following new paragraph:
+28 NEW PARAGRAPH. 0b. If the reporting entity is a general
+29 partnership, the name of and address of each partner who
+30 resides in another state, or territory, of the United States.
+31 Sec. ___. Section 10B.5, subsection 2, Code 2026, is amended
+32 to read as follows:
+33 2. a. Information Except as provided in reports paragraph
+34 “b” and section 10B.5A, a report required in to be filed under
+35 this chapter is a confidential record as provided in section
+SF 2402.3925 (1) 91
+(amending this SF 2402 to CONFORM to HF 2678)
+-2- da/jh 2/4
+
+1 22.7. The attorney general may have access to the reports, and
+2 may use information in the reports in any action to enforce
+3 state law, including but not limited to chapters 9H and 9I.
+4 The reports shall be made available to members of the general
+5 assembly and appropriate committees of the general assembly
+6 in order to determine the extent that agricultural land is
+7 held in this state by corporations and other business and
+8 foreign entities and the effect of such land ownership upon the
+9 economy of this state. The secretary of state shall assist any
+10 committee of the general assembly studying these issues.
+11 b. A report filed under this chapter is not a confidential
+12 record if the reporting entity is any of the following:
+13 (1) A foreign business, foreign government, or nonresident
+14 alien.
+15 (2) An out-of-state business entity or an out-of-state
+16 individual.
+17 Sec. ___. Section 10B.5A, Code 2026, is amended to read as
+18 follows:
+19 10B.5A Annual summary to governor and general assembly.
+20 1. The secretary of state shall prepare an annual summary of
+21 foreign and out-of-state agricultural landholding.
+22 2. a. The summary must be include a report summarizing
+23 the compiled information for agricultural landholdings by
+24 foreign businesses, foreign governments, and nonresident aliens
+25 included in the current registrations filed pursuant to section
+26 9I.7 and the last reports filed pursuant to section 10B.4.
+27 b. The summary must include a report summarizing the
+28 compiled information for agricultural landholding by
+29 out-of-state business entities and out-of-state individuals
+30 included in the last reports filed pursuant to section 10B.4.
+31 3. The information described in subsection 2, is not a
+32 confidential record as provided in section 22.7. The attorney
+33 general may have access to the annual summary and may use
+34 information in the annual summary in any action to enforce
+35 state law, including but not limited to chapters 9H and 9I, and
+SF 2402.3925 (1) 91
+(amending this SF 2402 to CONFORM to HF 2678)
+-3- da/jh 3/4
+
+1 this chapter. The annual summary shall be made available to
+2 the governor, members of the general assembly, and appropriate
+3 committees of the general assembly in order to determine the
+4 extent that agricultural land is held in this state by foreign
+5 entities and the effect of such land ownership upon the economy
+6 of this state. Upon request, the secretary of state shall
+7 assist any committee of the general assembly studying these
+8 issues.>
+9 2. Title page, by striking lines 1 through 5 and inserting
+10 <An Act providing for certain persons acting under the
+11 jurisdiction of the secretary of state, including by providing
+12 for information from required filings, and the administrative
+13 dissolution of certain entities, and making penalties
+14 applicable.>
+15 3. By renumbering as necessary.
+______________________________
+CHERIELYNN WESTRICH
+SF 2402.3925 (1) 91
+(amending this SF 2402 to CONFORM to HF 2678)
+-4- da/jh 4/4

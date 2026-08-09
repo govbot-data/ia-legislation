@@ -1,0 +1,183 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8180
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2716
+H-8180
+1 Amend House File 2716 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 249P.1 Definitions.
+5 As used in this chapter, unless the context otherwise
+6 requires:
+7 1. “Countable income” means the income of an individual when
+8 the income is received and can be used to meet the individual’s
+9 needs for food, clothing, and shelter. “Countable income” does
+10 not include the income of another member of the individual’s
+11 household, or certain receipts as described in 20 C.F.R.
+12 §416.1103.
+13 2. “Department” means the department of health and human
+14 services.
+15 3. “Disability” means a qualifying disability as determined
+16 by the federal social security administration, or the
+17 individual is determined by the department to have a physical
+18 or mental impairment, or combination of impairments, that have
+19 lasted or are expected to last for at least twelve months or
+20 result in death.
+21 4. “Long-term services and supports” means the broad
+22 range of health, health-related, and personal care assistance
+23 services and supports, provided in home and community-based
+24 settings, necessary for persons with disabilities who
+25 experience limitations in their capacity for self-care due to a
+26 physical, cognitive, or mental disability or condition.
+27 5. “Program” means the work without worry program
+28 established in section 249P.3.
+29 Sec. 2. NEW SECTION. 249P.2 Program —— intent.
+30 It is the intent of the general assembly to remove barriers
+31 to employment for individuals who, but for income and
+32 resources, meet the definition of disability, by providing
+33 medical assistance to employed individuals with disabilities
+34 through a work without worry program in accordance with section
+35 1902(a)(10)(A)(ii)(XIII) of the federal Social Security Act,
+HF 2716.3311 (1) 91
+-1- ak/ko 1/5
+
+1 and Medicaid eligibility, using less restrictive income and
+2 resource requirements through the application of section
+3 1902(r)(2) of the federal Social Security Act, and cost-sharing
+4 requirements established by the department and approved by the
+5 centers for Medicare and Medicaid services of the United States
+6 department of health and human services.
+7 Sec. 3. NEW SECTION. 249P.3 Program —— established.
+8 1. The work without worry program is established under the
+9 medical assistance program and shall be administered by the
+10 department to provide employed individuals with disabilities
+11 access to health care coverage through the medical assistance
+12 program.
+13 2. Except as otherwise specified in this chapter,
+14 provisions applicable to the medical assistance program
+15 pursuant to chapter 249A shall be applicable to the program.
+16 3. In addition to the benefits received under the program,
+17 an individual shall have access to all traditional Medicaid
+18 services under the medical assistance program, as well as
+19 additional long-term services and supports and community-based
+20 services, including waiver services, for which the individual
+21 meets any applicable level of care requirements.
+22 4. The department shall make every effort to coordinate
+23 benefits with the health care coverage provided by an employer
+24 of an employed individual with a disability receiving benefits
+25 under this chapter.
+26 Sec. 4. NEW SECTION. 249P.4 Program —— eligibility.
+27 1. Except as otherwise provided in this chapter, an
+28 individual may participate in the program if the individual
+29 meets all of the following criteria:
+30 a. The individual is eligible for the medical assistance
+31 program under chapter 249A.
+32 b. The individual is at least eighteen years of age.
+33 c. The individual is less than sixty-five years of age.
+34 d. The individual has a disability.
+35 e. The individual is employed, earns income from employment
+HF 2716.3311 (1) 91
+-2- ak/ko 2/5
+
+1 which may include self-employment, and works at least one hour
+2 per month.
+3 2. The department shall not adopt a rule for program
+4 eligibility based upon any of the following:
+5 a. An individual’s income or resources.
+6 b. A resource test or limit.
+7 c. An individual’s receipt of federal disability benefits.
+8 3. An individual who receives supplemental security
+9 income shall be automatically eligible for the program and may
+10 participate the program.
+11 4. An individual may be eligible for or receive other health
+12 care coverage including through an employer, through Medicare,
+13 through the medically needy program, the qualified Medicare
+14 beneficiary program, or the specified low-income Medicare
+15 beneficiary program. If the individual has such other coverage
+16 and is subject to payment of copayments or premiums for that
+17 coverage, notwithstanding the premium requirements under the
+18 program to the contrary, the individual shall not be subject to
+19 payment of premiums otherwise applicable under the program.
+20 Sec. 5. NEW SECTION. 249P.5 Program —— premiums.
+21 1. An individual’s monthly program premium amount shall
+22 equal, rounded down to the nearest whole dollar, any of the
+23 following:
+24 a. If the individual’s verified countable income is less
+25 than one hundred fifty percent of the federal poverty level
+26 applicable to the individual’s household’s size, zero percent
+27 of the individual’s verified countable income.
+28 b. If the individual’s verified countable income is between
+29 one hundred fifty percent and two hundred fifty percent of
+30 the federal poverty level applicable to the individual’s
+31 household’s size, three percent of the individual’s verified
+32 countable income.
+33 c. If the individual’s verified countable income is more
+34 than two hundred fifty percent of the federal poverty level
+35 applicable to the individual’s household’s size, six percent of
+HF 2716.3311 (1) 91
+-3- ak/ko 3/5
+
+1 the individual’s verified countable income.
+2 2. a. An individual shall report any change in the
+3 individual’s countable income to the department.
+4 b. The department shall utilize the individual’s verified
+5 countable income until the individual reports a change in
+6 countable income and the change is processed by the department,
+7 unless there is good cause for the department’s delay in
+8 verifying the change in the individual’s countable income.
+9 c. A change in an individual’s program premium amount shall
+10 be effective the month after the change in the individual’s
+11 countable income is reported to and verified by the department.
+12 3. An individual shall be covered under the program for
+13 six consecutive months beginning the first day of the month in
+14 which the department approves the individual’s application for
+15 the program.
+16 4. The department shall create a six-month grace period that
+17 provides continuous program coverage to an individual following
+18 the individual’s temporary loss of employment, or a health
+19 crisis that temporarily prevents the individual from continuing
+20 employment. The individual shall be required to continue to
+21 pay the program premium based on the individual’s verified
+22 countable income during the six-month grace period.
+23 5. The department may terminate an individual’s program
+24 coverage if the individual fails to pay four consecutive months
+25 of program premiums.
+26 6. An individual must pay a program premium in full for any
+27 month that program coverage is provided, including a month when
+28 a redetermination of coverage is made, a month when continued
+29 coverage is requested, and during the period of an eligibility
+30 determination appeal.
+31 Sec. 6. NEW SECTION. 249P.6 Rules.
+32 The department shall adopt rules pursuant to chapter 17A to
+33 administer this chapter.
+34 Sec. 7. WORK WITHOUT WORRY PROGRAM —— DEPARTMENT OF HEALTH
+35 AND HUMAN SERVICES.
+HF 2716.3311 (1) 91
+-4- ak/ko 4/5
+
+1 1. The department of health and human services shall submit
+2 any waiver request or state plan amendment, or combination
+3 thereof, to the centers for Medicare and Medicaid services of
+4 the United States department of health and human services as
+5 necessary to create a work without worry program in accordance
+6 with this Act.
+7 2. Any individual participating in the Medicaid for
+8 employed persons with disabilities program when the work
+9 without worry program is implemented shall be transferred to
+10 and enrolled in the work without worry program.
+11 Sec. 8. EFFECTIVE DATE. This Act, being deemed of immediate
+12 importance, takes effect upon enactment.>
+13 2. Title page, by striking lines 1 through 5 and inserting
+14 <An Act relating to the establishment of the work without worry
+15 program under the medical assistance program for employed
+16 individuals with disabilities, and including effective date
+17 provisions.>
+______________________________
+SCHOLTEN of Woodbury
+HF 2716.3311 (1) 91
+-5- ak/ko 5/5

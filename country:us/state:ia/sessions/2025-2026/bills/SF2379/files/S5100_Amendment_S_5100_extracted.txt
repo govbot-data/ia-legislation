@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5100
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2379
+S-5100
+1 Amend Senate File 2379 as follows:
+2 1. Page 2, by striking lines 23 through 25.
+3 2. By striking page 2, line 34, through page 3, line 6.
+4 3. Page 12, line 30, before <department> by inserting
+5 <federal>
+6 4. Page 12, line 34, before <department> by inserting
+7 <state>
+8 5. Page 13, line 3, before <department> by inserting <state>
+9 6. Page 13, line 5, before <department> by inserting
+10 <federal>
+11 7. Page 13, line 13, before <department> by inserting
+12 <federal>
+______________________________
+MIKE BOUSSELOT
+SF 2379.3443 (2) 91
+-1- as/js 1/1

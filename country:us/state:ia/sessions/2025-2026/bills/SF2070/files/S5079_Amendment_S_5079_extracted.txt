@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5079
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2070
+S-5079
+1 Amend Senate File 2070 as follows:
+2 1. Page 1, by striking lines 4 through 12 and inserting:
+3 <1. The governor shall appoint three commissioners, each of
+4 whom commission on uniform state laws is created, composed of
+5 the following members:
+6 a. One member, appointed by the governor, who shall be
+7 a member in good standing of the bar of this state, in good
+8 standing, who shall constitute and be known as the commission
+9 on uniform state laws, and upon.
+10 b. One member, appointed by the speaker of the house of
+11 representatives, who shall be a member in good standing of the
+12 bar of this state.
+13 c. One member, appointed by the president of the senate
+14 after consultation with the majority leader of the senate, who
+15 shall be a member in good standing of the bar of this state.
+16 2. Upon the death, resignation, or refusal to serve of any
+17 of the commissioners so appointed, the governor appointing
+18 authority shall make an appointment to fill the vacancy so
+19 caused, such new appointment to be for the unexpired balance of
+20 the term of the original appointee.>
+21 2. Page 1, before line 13 by inserting:
+22 <Sec. ___. Section 5.2, Code 2026, is amended to read as
+23 follows:
+24 5.2 Tenure —— compensation —— expenses.
+25 Said commissioners Commissioners shall hold office for
+26 a term of four two years, beginning on February 1 of each
+27 odd-numbered year, and until their successors are duly
+28 appointed, but nothing herein contained shall be construed to
+29 render a commissioner who has faithfully performed the duties
+30 of commissioner ineligible for reappointment. A member is
+31 eligible for reappointment. No member of said the commission
+32 shall receive any compensation for services as a commissioner,
+33 but each commissioner shall be entitled to receive actual
+34 disbursements for expenses in performing the duties of the
+35 office.>
+SF 2070.3271 (2) 91
+-1- ss/ns 1/2
+
+1 3. Page 1, after line 35 by inserting:
+2 <Sec. ___. TRANSITION PROVISION. Notwithstanding any
+3 provision of law to the contrary, members of the commission on
+4 uniform state laws serving on the effective date of this Act
+5 shall serve until January 31, 2027, and until their successors
+6 are duly appointed, or until the member ceases to hold office,
+7 whichever occurs first.>
+8 4. By renumbering as necessary.
+______________________________
+MIKE BOUSSELOT
+SF 2070.3271 (2) 91
+-2- ss/ns 2/2

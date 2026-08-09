@@ -1,0 +1,253 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5109
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2447
+S-5109
+1 Amend Senate File 2447 as follows:
+2 1. Page 1, line 1, by striking <2025> and inserting <2026>
+3 2. Page 1, line 13, by striking <2025> and inserting <2026>
+4 3. Page 1, line 28, after <library,> by inserting <a
+5 hospital or other medical facility, a nursing home, a business
+6 or workplace, a government office,>
+7 4. Page 2, line 21, by striking <A> and inserting <Unless
+8 provided in paragraph “b”, a>
+9 5. Page 2, by striking lines 26 through 29.
+10 6. Page 2, line 30, by striking <(2)> and inserting <(1)>
+11 7. Page 2, line 34, by striking <(3)> and inserting <(2)>
+12 8. Page 3, line 4, by striking <(4)> and inserting <(3)>
+13 9. Page 3, after line 7 by inserting:
+14 <b. (1) A wind energy conversion facility shall be sited
+15 or repowered no less than one and one-quarter mile or five
+16 times the total height of the facility to be constructed or
+17 repowered, whichever is greater, from any existing abutting
+18 dwelling or community building.
+19 (2) A wind energy conversion facility shall be sited or
+20 reported no less than two miles from the corporate limits of
+21 any city.>
+22 10. Page 3, line 8, by striking <b.> and inserting <c.>
+23 11. Page 3, line 15, by striking <c.> and inserting <d.>
+24 12. Page 4, line 15, after <7.> by inserting <a.>
+25 13. Page 4, line 18, by striking <a.> and inserting <(1)>
+26 14. Page 4, by striking lines 22 through 29.
+27 15. Page 4, line 30, by striking <c.> and inserting <(2)>
+28 16. Page 4, line 34, by striking <d.> and inserting <(3)>
+29 17. Page 5, line 2, by striking <e.> and inserting <(4)>
+30 18. Page 5, line 5, by striking <f.> and inserting <(5)>
+31 19. Page 5, line 8, by striking <g.> and inserting <(6)>
+32 20. Page 5, line 12, by striking <h.> and inserting <(7)>
+33 21. Page 5, after line 16 by inserting:
+34 <b. (1) A local authority shall implement a sound
+35 limitation standard that requires a maximum of forty-seven
+SF 2447.3479 (3) 91
+-1- sb/js 1/7
+
+1 decibel sound from the wind energy conversion facility during
+2 the day and a maximum of thirty decibel sound during the night,
+3 as measured at an existing abutting dwelling or community
+4 building. Decibel modeling shall use the A-weighted scale as
+5 designed by the American national standards institute. Sound
+6 modeling shall be completed by a professional board-certified
+7 by the institute of noise control engineering, or an
+8 appropriately licensed professional engineer.
+9 (2) A local authority shall require, prior to the
+10 construction of the wind energy conversion facility, a study to
+11 be completed that analyzes the effects the proposed wind energy
+12 conversion facility will have on migratory birds, eagles, and
+13 other winged wildlife. The study shall be conducted by a
+14 qualified third party and all costs of the study shall be borne
+15 by the owner of the wind energy conversion facility.>
+16 22. Page 5, line 20, after <authority.> by inserting <The
+17 waiver shall be valid provided the location of the facility
+18 does not violate the standards in this section for affected
+19 landowners that have not granted a waiver.>
+20 23. Page 6, line 9, by striking <may> and inserting <shall>
+21 24. Page 6, line 21, by striking <shall not> and inserting
+22 <may>
+23 25. Page 6, line 23, by striking <may> and inserting <shall>
+24 26. Page 7, line 31, by striking <2025> and inserting <2026>
+25 27. Page 7, line 35, by striking <2025> and inserting <2026>
+26 28. Page 8, line 4, by striking <2025> and inserting <2026>
+27 29. Page 9, after line 12 by inserting:
+28 <c. When considering whether to approve, approve with
+29 modifications, or deny an application requesting approval,
+30 rezoning, or a special or conditional use permit for a
+31 renewable electric power generation facility or modification
+32 of an approved rezoning or special or conditional use permit,
+33 the local authority shall consider the results of the study
+34 required under subsection 7, paragraph “b”, subparagraph (2),
+35 or the long-term and short-term effects of the facility,
+SF 2447.3479 (3) 91
+-2- sb/js 2/7
+
+1 including property tax revenue, property values, population
+2 levels, and effects on school enrollment.>
+3 30. Page 9, line 13, by striking <c.> and inserting <d.>
+4 31. Page 9, line 18, after <section > by inserting <or must
+5 be based on considerations required under paragraph “c”>
+6 32. Page 9, after line 21 by inserting:
+7 <e. Prior to approval, approval with modifications, or
+8 denial of an application requesting approval, rezoning, or a
+9 special or conditional use permit for a renewable electric
+10 power generation facility or modification of an approved
+11 rezoning or special or conditional use permit, individual
+12 persons serving as local authorities shall disclose any
+13 financial investment or other connection related to the
+14 consideration of the proposed project. The information
+15 disclosed under this paragraph shall be made publicly
+16 available.>
+17 33. Page 9, by striking lines 22 through 32.
+18 34. Page 9, line 33, by striking <b.> and inserting <17.>
+19 35. Page 9, line 34, by striking <six months> and inserting
+20 <one year>
+21 36. Page 10, after line 7 by inserting:
+22 <Sec. ___. NEW SECTION. 476.53B Wind energy conversion
+23 facilities —— requirements.
+24 1. As used in this section:
+25 a. “Applicant” means any person, firm, corporation,
+26 partnership, limited liability company, or governmental
+27 subdivision seeking to develop, construct, or operate a wind
+28 energy conversion facility, as defined in section 476C.1, in
+29 Iowa.
+30 b. “Karst topography” means terrain characterized by
+31 sinkholes, voids, caverns, disappearing streams, or other
+32 features produced by the dissolution of carbonate rocks.
+33 c. “Licensed surveyor” means a professional land surveyor
+34 licensed under chapter 542B with demonstrated experience in
+35 subsurface and geological hazard evaluation.
+SF 2447.3479 (3) 91
+-3- sb/js 3/7
+
+1 d. “Material damage” means direct physical damage exceeding
+2 one hundred dollars in repair costs or any event causing
+3 collapse or functional failure of a well, septic system,
+4 lagoon, slurry containment, or structural foundation, or
+5 contamination of groundwater or a cave system.
+6 e. “Watershed” means the hydrological area in which surface
+7 water or groundwater drains toward a common outlet.
+8 f. “Wind energy conversion facility” means the same as
+9 defined in section 476C.1.
+10 2. a. An applicant shall commission a subsurface and
+11 environmental survey by a licensed surveyor that must be
+12 submitted prior to issuance of any state or local construction
+13 permit. The survey must address the likelihood of all the
+14 following:
+15 (1) Disturbance to karst topography or related subsurface
+16 formations from construction or operation.
+17 (2) That any well, septic system, waste lagoon, holding
+18 pond, or liquid containment structure will be disturbed
+19 by vibrations or subsurface pressures, and whether such
+20 disturbance may result in material damage, including breach of
+21 fecal slurry lagoons causing contaminant entry into aquifers.
+22 (3) Contamination to any cave system, groundwater conduit,
+23 or ecological area supporting endangered or threatened species.
+24 (4) That foundations of existing buildings within one mile
+25 of the proposed site will be disturbed or impaired.
+26 b. The survey report shall be submitted to the county board
+27 of supervisors, the department of natural resources, and the
+28 Iowa utilities commission, and shall be made available to the
+29 public.
+30 3. An applicant shall obtain and maintain third-party
+31 insurance against any reasonably foreseeable loss identified
+32 in the survey report required under subsection 2 throughout
+33 construction and operation. The policy shall include all of
+34 the following requirements:
+35 a. Name all landowners within the affected watershed and the
+SF 2447.3479 (3) 91
+-4- sb/js 4/7
+
+1 state of Iowa as additional insureds and loss payees.
+2 b. Minimum coverage limits sufficient to cover full
+3 replacement value of any potential loss or contamination
+4 identified in the survey, as established by rule by the
+5 insurance division in the department of commerce.
+6 4. Prior to approval of construction, the applicant shall
+7 obtain an independent legal opinion from an attorney licensed
+8 in Iowa and unaffiliated with the applicant that affirms the
+9 proposed project does not constitute a nuisance under chapter
+10 657 or other applicable law. The opinion must be filed with
+11 the county board of supervisors and the department of natural
+12 resources.
+13 5. a. The board of supervisors shall not issue a
+14 construction permit until the applicant makes a showing that,
+15 more likely than not, considering all foreseeable benefits
+16 and costs, the project will confer a net benefit to county
+17 residents. In deciding whether to issue a permit, the board of
+18 supervisors may consider expert testimony, economic studies,
+19 environmental assessments, and the survey report required under
+20 subsection 2.
+21 b. Before issuing a construction permit, the board of
+22 supervisors shall hold not less than one public hearing to
+23 discuss the application.
+24 c. The board of supervisors’s decision is subject to
+25 judicial review under chapter 17.
+26 6. Compliance with this section is required for any
+27 permit or authorization under chapter 476A or 476C, or other
+28 applicable provisions relating to wind energy conversion
+29 facilities.
+30 7. a. A violation of this section or rules adopted pursuant
+31 to this section constitutes a public nuisance.
+32 b. A person in violation of this section is subject to a
+33 civil penalty of not less than five thousand dollars per day
+34 during which the violation occurs.
+35 c. The attorney general or the county attorney for the
+SF 2447.3479 (3) 91
+-5- sb/js 5/7
+
+1 county in which the project is located may bring an action to
+2 enjoin violations or recover damages.
+3 8. a. Any person aggrieved by a violation of this section
+4 may bring a civil action in district court against any person
+5 who violates or participates in a violation of this section.
+6 b. A civil action under this subsection may be brought
+7 against any of the following:
+8 (1) The applicant or developer.
+9 (2) Any landowner who grants an easement, lease, or other
+10 property interest for the construction, installation, or
+11 operation of a wind energy conversion facility in violation of
+12 this section.
+13 (3) The manufacturer of any wind turbine or component
+14 thereof installed in violation of this section.
+15 (4) Any person who installs, erects, or assembles a wind
+16 turbine or wind energy conversion facility in violation of this
+17 section.
+18 (5) Any construction company, contractor, or subcontractor
+19 involved in the construction or installation of a wind energy
+20 conversion facility in violation of this section.
+21 (6) Any worker, employee, or agent who participates in
+22 the construction, installation, or operation of a wind energy
+23 conversion facility in violation of this section.
+24 (7) Any other person who knowingly participates in,
+25 facilitates, or aids in a violation of this section.
+26 c. A prevailing plaintiff in an action under this subsection
+27 may recover all of the following:
+28 (1) Actual damages sustained.
+29 (2) Damages of not less than ten thousand dollars per
+30 violation.
+31 (3) Injunctive relief, including an order to cease
+32 construction or operation.
+33 (4) Reasonable attorney fees and court costs.
+34 d. All persons found liable under this subsection shall be
+35 jointly and severally liable for all damages awarded.
+SF 2447.3479 (3) 91
+-6- sb/js 6/7
+
+1 e. An action under this subsection shall be commenced
+2 within fifteen years of the date the plaintiff discovered or
+3 reasonably should have discovered the violation or resulting
+4 injury, whichever is later.
+5 f. The remedies provided under this subsection are
+6 cumulative and shall not be construed to limit any other remedy
+7 available at law or in equity.
+8 g. A contractual provision purporting to waive rights under
+9 this section shall be void and unenforceable.>
+10 37. Page 10, line 12, by striking <2025> and inserting
+11 <2026>
+______________________________
+SANDY SALMON
+SF 2447.3479 (3) 91
+-7- sb/js 7/7

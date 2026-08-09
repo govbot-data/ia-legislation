@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8219
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2487
+H-8219
+1 Amend the amendment, H-8206, to House File 2487, as follows:
+2 1. Page 1, by striking lines 2 through 7 and inserting:
+3 <___. Page 1, line 14, after <format.> by inserting <Such
+4 a subpoena shall not include personal computers, personal
+5 telephones, or other personal electronic devices.>
+6 ___. By striking page 1, line 32, through page 2, line 12,
+7 and inserting:
+8 <2. The state board of regents or the community college
+9 board of directors, as applicable, may conduct an inquiry or
+10 investigation regarding a violation of this chapter. As part
+11 of that inquiry or investigation, and in accordance with the
+12 Iowa rules of civil procedure, the board may issue a subpoena
+13 for the production of records, including but not limited to
+14 books, accounts, papers, correspondence, memoranda, files,
+15 or other documents in a print or electronic format. Such
+16 a subpoena shall not include personal computers, personal
+17 telephones, or other personal electronic devices. If a person
+18 refuses compliance, the board may seek enforcement by the
+19 district court.
+20 3. Notwithstanding section 13.7, the state board of regents
+21 or the community college board of directors, as applicable, may
+22 contract with special counsel to assist in either or both the
+23 investigation and legal action against a public institution of
+24 higher education for an alleged violation of this chapter.>>
+25 2. By renumbering as necessary.
+______________________________
+WILBURN of Story
+H 8206.3417 (2) 91
+-1- je/ns 1/1

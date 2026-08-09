@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to paid parental leave for state employees.
+2 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5502XD (1) 91
+sc/ns
+
+S.F. _____ H.F. _____
+1 Section 1. Section 70A.24, subsection 1, Code 2026, is
+2 amended to read as follows:
+3 1. A state employee entitled to leave under the federal
+4 Family and Medical Leave Act of 1993 shall be provided paid
+5 leave for such time as specified in this section for the birth
+6 of a child or placement of a child for adoption with the
+7 employee if the leave is taken within twelve months following
+8 any such birth or adoption.
+9 EXPLANATION
+10 The inclusion of this explanation does not constitute agreement with
+11 the explanation’s substance by the members of the general assembly.
+12 This bill strikes the requirement that a state employee be
+13 entitled to leave under the federal Family and Medical Leave
+14 Act of 1993 in order to receive paid leave under Code section
+15 70A.24 for the birth or adoption of a child.
+LSB 5502XD (1) 91
+-1- sc/ns 1/1

@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8186
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2694
+H-8186
+1 Amend House File 2694 as follows:
+2 1. Page 1, after line 10 by inserting:
+3 <Sec. ___. Section 29C.6, subsection 1, Code 2026, is
+4 amended to read as follows:
+5 1. a. After finding a disaster exists or is threatened,
+6 proclaim a state of disaster emergency. This proclamation
+7 shall be in writing, indicate the area affected and the facts
+8 upon which it is based, be signed by the governor, and be
+9 filed with the secretary of state. If the state of disaster
+10 emergency specifically constitutes a public health disaster
+11 as defined in section 135.140, the written proclamation shall
+12 include a statement to that effect. A state of disaster
+13 emergency shall continue for thirty days, unless sooner
+14 terminated or extended in writing by the governor. The
+15 general assembly may, by concurrent resolution, rescind this
+16 proclamation. If the general assembly is not in session,
+17 the legislative council may, by majority vote, rescind this
+18 proclamation. Rescission shall be effective upon filing of the
+19 concurrent resolution or resolution of the legislative council
+20 with the secretary of state. A proclamation of disaster
+21 emergency shall activate the disaster response and recovery
+22 aspect of the state, local, and interjurisdictional disaster
+23 emergency plans applicable to the political subdivision or area
+24 in question and be authority for the deployment and use of any
+25 forces to which the plan applies, and for use or distribution
+26 of any supplies, equipment, and materials and facilities
+27 assembled, stockpiled, or arranged to be made available.
+28 b. A measure dictated in a state of disaster emergency shall
+29 not do any of the following:
+30 (1) Authorize a change to established laws, policies, or
+31 regulations governing a local, county, or state election for
+32 public office absent prior approval of the general assembly.
+33 (2) Regulate conduct within a private residence.
+34 (3) Require a vaccination.
+35 c. A measure dictated in a state of disaster emergency that
+HF 2694.3158 (2) 91
+-1- ss/ns 1/2
+
+1 constitutes a public health disaster, as defined in section
+2 135.140, shall not require but may recommend that a private
+3 business operating within this state cease the business’s
+4 lawful operations.>
+5 2. Title page, by striking lines 1 and 2 and inserting <An
+6 Act relating to the regulation of certain places and activities
+7 by the governor.>
+8 3. By renumbering as necessary.
+______________________________
+WILLS of Dickinson
+HF 2694.3158 (2) 91
+-2- ss/ns 2/2

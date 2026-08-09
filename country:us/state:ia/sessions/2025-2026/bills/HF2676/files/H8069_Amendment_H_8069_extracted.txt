@@ -1,0 +1,269 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8069
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2676
+H-8069
+1 Amend House File 2676 as follows:
+2 1. Page 7, after line 23 by inserting:
+3 <DIVISION ___
+4 EDUCATIONAL STANDARDS
+5 Sec. ___. Section 256.11, subsection 2, Code 2026, is
+6 amended to read as follows:
+7 2. a. The kindergarten program shall include experiences
+8 designed to develop healthy emotional and social habits and
+9 growth in the language arts and communication skills, as well
+10 as a capacity for the completion of individual tasks, and
+11 protect and increase physical well-being with attention given
+12 to experiences relating to the development of life skills and,
+13 subject to section 279.80, age-appropriate and research-based
+14 human growth and development. The kindergarten program shall
+15 also include instruction related to nutrition that emphasizes
+16 all of the following:
+17 (1) The importance of animal-based protein, dairy,
+18 vegetables, and fruit.
+19 (2) The nutritional benefits of animal-based protein,
+20 dairy, vegetables, and fruit.
+21 (3) The role that animal-based protein, dairy, vegetables,
+22 and fruit play in a balanced diet.
+23 b. A kindergarten teacher shall be licensed to teach in
+24 kindergarten.
+25 c. An accredited nonpublic school must meet the requirements
+26 of this subsection only if the nonpublic school offers a
+27 kindergarten program; provided, however, that section 279.80
+28 shall not apply to a nonpublic school.
+29 Sec. ___. Section 256.11, subsection 3, paragraph a,
+30 subparagraph (5), Code 2026, is amended to read as follows:
+31 (5) Health. The health curriculum shall include the all of
+32 the following:
+33 (a) The characteristics of communicable diseases.
+34 (b) Instruction related to nutrition that emphasizes all of
+35 the following:
+HF 2676.2961 (2) 91
+-1- ss/ko 1/7
+
+1 (i) The importance of animal-based protein, dairy,
+2 vegetables, and fruit.
+3 (ii) The nutritional benefits of animal-based protein,
+4 dairy, vegetables, and fruit.
+5 (iii) The role that animal-based protein, dairy,
+6 vegetables, and fruit play in a balanced diet.
+7 Sec. ___. Section 256.11, subsection 4, paragraph a,
+8 subparagraphs (5) and (7), Code 2026, are amended to read as
+9 follows:
+10 (5) Health. The health curriculum shall include
+11 age-appropriate all of the following:
+12 (a) Age-appropriate and research-based information
+13 regarding the characteristics of sexually transmitted diseases.
+14 (b) Instruction related to nutrition that emphasizes all of
+15 the following:
+16 (i) The importance of animal-based protein, dairy,
+17 vegetables, and fruit.
+18 (ii) The nutritional benefits of animal-based protein,
+19 dairy, vegetables, and fruit.
+20 (iii) The role that animal-based protein, dairy,
+21 vegetables, and fruit play in a balanced diet.
+22 (7) Career instruction, exploration, and development, which
+23 shall include career investigation, career connections, and
+24 career intentions. Career exploration and development shall
+25 be designed so that students are appropriately prepared to
+26 create an individualized career and academic plan pursuant to
+27 section 279.61, incorporate foundational career and technical
+28 education concepts aligned with the six career and technical
+29 education service areas as defined in subsection 5, paragraph
+30 “h”, incorporate relevant twenty-first century skills to
+31 facilitate career readiness, and introduce students to career
+32 opportunities within the local community and across this state.
+33 This subparagraph shall not apply to the teaching of career
+34 exploration and development in nonpublic schools.
+35 Sec. ___. Section 256.11, subsection 4, paragraph b, Code
+HF 2676.2961 (2) 91
+-2- ss/ko 2/7
+
+1 2026, is amended to read as follows:
+2 b. Computer science instruction incorporating the standards
+3 established under section 256.7, subsection 26, paragraph “a”,
+4 subparagraph (4), shall be offered in at least one grade level
+5 commencing with the school year beginning July 1, 2023. Career
+6 exploration and development shall be designed so that students
+7 are appropriately prepared to create an individual career
+8 and academic plan pursuant to section 279.61, incorporate
+9 foundational career and technical education concepts aligned
+10 with the six career and technical education service areas as
+11 defined in subsection 5, paragraph “h”, incorporate relevant
+12 twenty-first century skills to facilitate career readiness, and
+13 introduce students to career opportunities within the local
+14 community and across this state.
+15 Sec. ___. Section 256.11, subsection 5, paragraph h,
+16 subparagraph (1), subparagraph division (a), Code 2026, is
+17 amended to read as follows:
+18 (a) Agriculture, food, and natural resources, which
+19 shall include instruction relating to food production and the
+20 benefits of local sourcing.
+21 Sec. ___. Section 256.11, subsection 5, paragraph j,
+22 subparagraph (1), Code 2026, is amended to read as follows:
+23 (1) One unit of health education which may include
+24 personal health; food and nutrition; environmental health;
+25 safety and survival skills; consumer health; family life;
+26 age-appropriate and research-based human growth and development
+27 that incorporates the standards established under section
+28 279.50, subsection 3, paragraph “b”; substance use disorder
+29 and nonuse; emotional and social health; health resources;
+30 cardiopulmonary resuscitation; and prevention and control
+31 of disease, including age-appropriate and research-based
+32 information regarding sexually transmitted diseases. The one
+33 unit of health education shall include instruction related to
+34 nutrition that emphasizes all of the following:
+35 (a) The importance of animal-based protein, dairy,
+HF 2676.2961 (2) 91
+-3- ss/ko 3/7
+
+1 vegetables, and fruit.
+2 (b) The nutritional benefits of animal-based protein,
+3 dairy, vegetables, and fruit.
+4 (c) The role that animal-based protein, dairy, vegetables,
+5 and fruit play in a balanced diet.
+6 Sec. ___. Section 256E.7, subsection 2, paragraph h, Code
+7 2026, is amended by adding the following new subparagraphs:
+8 NEW SUBPARAGRAPH. (01) The educational standards
+9 established in section 256.11, subsections 2, 3, and 4, and
+10 section 256.11, subsection 5, paragraph “j”, subparagraph (1),
+11 related to instruction on nutrition.
+12 NEW SUBPARAGRAPH. (3) The educational standards
+13 established in section 256.11, subsection 5, paragraph “h”,
+14 subparagraph (1), subparagraph division (a), related to
+15 instruction relating to food production and the benefits of
+16 local sourcing.
+17 Sec. ___. Section 256F.4, subsection 2, Code 2026, is
+18 amended by adding the following new paragraphs:
+19 NEW PARAGRAPH. 0p. Be subject to and comply with the
+20 requirements of section 256.11, subsections 2, 3, and 4, and
+21 section 256.11, subsection 5, paragraph “j”, subparagraph (1),
+22 related to instruction on nutrition in the same manner as a
+23 school district.
+24 NEW PARAGRAPH. w. Be subject to and comply with the
+25 requirements of section 256.11, subsection 5, paragraph
+26 “h”, subparagraph (1), subparagraph division (a), related to
+27 instruction relating to food production and the benefits of
+28 local sourcing in the same manner as a school district.
+29 Sec. ___. NEW SECTION. 283A.14 Application for waiver ——
+30 updated nutritional guidelines —— joint committee.
+31 1. The general assembly finds and declares all of the
+32 following:
+33 a. The nutritional needs and cultural preferences of
+34 the students in Iowa might be better served by localizing
+35 nutritional standards.
+HF 2676.2961 (2) 91
+-4- ss/ko 4/7
+
+1 b. Unique regional food sources, including corn, pork, and
+2 dairy, are not adequately addressed by federal guidelines.
+3 c. Flexibility in nutritional standards can enhance the
+4 ability of schools to provide meals that are both nutritious
+5 and appealing to students, which may increase student
+6 participation in school breakfast and lunch programs.
+7 2. Within ninety days after the effective date of this Act,
+8 the department of education shall apply for a waiver under the
+9 provisions of the federal National School Lunch Act of 1966, 42
+10 U.S.C. §1751 et seq., and the federal Child Nutrition Act of
+11 1966, 42 U.S.C. §1771 et seq., to request all of the following:
+12 a. An exemption from sodium limits, whole grain
+13 requirements, and fruit and vegetable variety stipulations in
+14 school breakfast and lunch programs.
+15 b. Permission to substitute or modify federal requirements
+16 with state-specific nutritional guidelines that align with
+17 Iowa’s dietary recommendations or cultural food practices.
+18 3. If the waiver applied for by the department of
+19 education under subsection 2 is granted, the department of
+20 education shall adopt updated guidelines for what constitutes
+21 a nutritionally adequate meal. The department shall consult
+22 with the department of agriculture and land stewardship,
+23 experts in nutrition, educators, parents, local farmers, and
+24 other stakeholders during the process of adopting updated
+25 guidelines for what constitutes a nutritionally adequate meal.
+26 The guidelines for what constitutes a nutritionally adequate
+27 meal may reflect local preferences, regional food sources,
+28 including corn, pork, and dairy, and cultural considerations.
+29 The guidelines for what constitutes a nutritionally adequate
+30 meal must satisfy all of the following requirements:
+31 a. Be at least as stringent in promoting health and
+32 preventing chronic diseases as the federal guidelines.
+33 b. Maintain a commitment to nutritional health and student
+34 well-being.
+35 c. Prioritize the following food groups, in the order
+HF 2676.2961 (2) 91
+-5- ss/ko 5/7
+
+1 listed:
+2 (1) Animal-based protein, including but not limited to
+3 beef, pork, poultry, fish, and eggs.
+4 (2) Dairy products, including but not limited to milk,
+5 cheese, and yogurt.
+6 (3) Vegetables, including but not limited to local and
+7 seasonal produce.
+8 (4) Fresh fruit or dried or frozen fruit when fresh fruit is
+9 not seasonally available.
+10 4. If the waiver applied for by the department of education
+11 under subsection 2 is granted, the department of education
+12 and the department of agriculture and land stewardship shall
+13 establish a joint committee to do all of the following:
+14 a. Oversee the implementation of the guidelines for what
+15 constitutes a nutritionally adequate meal.
+16 b. Review the outcomes associated with the guidelines for
+17 what constitutes a nutritionally adequate meal.
+18 c. Study the nutritional science associated with the
+19 guidelines for what constitutes a nutritionally adequate meal
+20 and seek feedback from schools, parents, and agricultural
+21 stakeholders related to the guidelines.
+22 d. Provide recommendations to the department of education
+23 related to changes that may need to be made to the guidelines
+24 for what constitutes a nutritionally adequate meal.
+25 5. If the waiver applied for by the department of
+26 education under subsection 2 is granted, the department of
+27 education shall submit to the general assembly an annual
+28 report, beginning on or before the first June 30 after
+29 the implementation of the new guidelines, which describes
+30 the impact of the guidelines related to what constitutes a
+31 nutritionally adequate meal, including information related
+32 to school breakfast and lunch program participation, student
+33 health outcomes, feedback from school districts, progress
+34 in implementing the guidelines, challenges associated with
+35 implementing the guidelines, and recommendations for further
+HF 2676.2961 (2) 91
+-6- ss/ko 6/7
+
+1 enhancement of the guidelines.
+2 6. If the waiver applied for by the department of education
+3 under subsection 2 is granted, the department of education
+4 shall conduct an evaluation to assess the effectiveness of the
+5 guidelines for what constitutes a nutritionally adequate meal
+6 compared to the comparable federal standards within five years
+7 after the effective date of the waiver.
+8 Sec. ___. EFFECTIVE DATE. The following, being deemed of
+9 immediate importance, takes effect upon enactment:
+10 The section of this division of this Act enacting section
+11 283A.14.
+12 Sec. ___. APPLICABILITY. The following apply to school
+13 years beginning on or after July 1, 2027:
+14 1. The section of this division of this Act amending section
+15 256.11, subsections 2, 3, and 4.
+16 2. The section of this division of this Act amending
+17 section 256.11, subsection 5, paragraph “h”, subparagraph (1),
+18 subparagraph division (a).
+19 3. The section of this division of this Act amending section
+20 256.11, subsection 5, paragraph “j”, subparagraph (1).
+21 4. The section of this division of this Act amending section
+22 256E.7, subsection 2, paragraph “h”.
+23 5. The section of this division of this Act amending section
+24 256F.4, subsection 2.>
+25 2. Title page, line 2, after <medication,> by inserting <and
+26 education,>
+27 3. By renumbering as necessary.
+______________________________
+WULF of Black Hawk
+HF 2676.2961 (2) 91
+-7- ss/ko 7/7
