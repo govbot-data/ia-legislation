@@ -1,0 +1,46 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+INSURANCE AND FINANCIAL
+SERVICES BILL)
+A BILL FOR
+1 An Act relating to respondents in a proceeding to expunge
+2 information in a record in the investment adviser
+3 registration depository.
+4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5453XD (2) 91
+nls/ko
+
+S.F. _____ H.F. _____
+1 Section 1. Section 502.511, subsection 2, Code 2026, is
+2 amended to read as follows:
+3 2. a. The commissioner of insurance, or the investment
+4 adviser that reported the information in the record in the
+5 investment adviser registration depository, may shall be named
+6 as a respondent or as respondents in the proceeding to expunge
+7 the information.
+8 b. An investment adviser that reported the information in
+9 the record in the investment adviser registration depository
+10 may be named as a respondent in the proceeding to expunge the
+11 information.
+12 EXPLANATION
+13 The inclusion of this explanation does not constitute agreement with
+14 the explanation’s substance by the members of the general assembly.
+15 This bill relates to respondents in a proceeding to expunge
+16 information in a record in the investment adviser registration
+17 depository. Under current law, the commissioner of insurance,
+18 or the investment adviser that reported the information in the
+19 record in the investment adviser registration depository, may
+20 be named as a respondent or as respondents in a proceeding to
+21 expunge the information. Under the bill, the commissioner
+22 shall be named as a respondent and the investment adviser may
+23 be named as a respondent in such a proceeding.
+LSB 5453XD (2) 91
+-1- nls/ko 1/1

@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5067
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2635
+S-5067
+1 Amend House File 2635, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, after line 2 by inserting:
+4 <Sec. ___. Section 514F.8, subsection 1, Code 2026, is
+5 amended by adding the following new paragraph:
+6 NEW PARAGRAPH. 0b. “Downgrade” means a decision by
+7 a utilization review organization to change an expedited
+8 or urgent request for prior authorization to a standard
+9 determination, or otherwise modify a health care service that
+10 is the subject of a request for prior authorization to a
+11 lower-level health care service.>
+12 2. Page 2, after line 20 by inserting:
+13 <3. A health care provider may opt-in to receive electronic
+14 delivery of notices and audit determinations from a utilization
+15 review organization. A utilization review organization may
+16 determine the method by which a health care provider may
+17 opt-in.>
+18 3. Page 2, line 21, by striking <3.> and inserting <4.>
+19 4. Page 3, line 6, by striking <4.> and inserting <5.>
+20 5. Page 3, line 8, by striking <5.> and inserting <6.>
+21 6. Page 3, by striking lines 12 and 13.
+22 7. Page 4, after line 4 by inserting:
+23 <Sec. ___. Section 514F.8, Code 2026, is amended by adding
+24 the following new subsection:
+25 NEW SUBSECTION. 6A. a. A health care provider shall
+26 submit all requests for prior authorization to a health carrier
+27 electronically using a standards-based application programming
+28 interface, or another form of electronic submission,
+29 supported by the health carrier that is compliant with federal
+30 interoperability regulations.
+31 b. This subsection applies to a request for prior
+32 authorization made on or after July 1, 2027.>
+33 8. Page 6, by striking lines 25 through 27 and inserting
+34 <shall include the qualified reviewer’s board certifications,
+35 specialty expertise, and educational background, excluding any
+HF 2635.3203 (3) 91
+-1- nls/ko 1/2
+
+1 personal identifiable information.>
+2 9. Page 7, by striking lines 1 through 3 and inserting
+3 <clinical peer’s board certifications, specialty expertise, and
+4 educational background, excluding any personal identifiable
+5 information.>
+6 10. Page 8, after line 29 by inserting:
+7 <b. “Emergency medical condition” means the same as defined
+8 in 42 C.F.R. §438.114.>
+9 11. Page 8, line 30, by striking <b.> and inserting <c.>
+10 12. Page 8, line 32, by striking <c.> and inserting <d.>
+11 13. Page 8, line 34, by striking <d.> and inserting <e.>
+12 14. Page 9, line 1, by striking <e.> and inserting <f.>
+13 15. Page 9, line 3, by striking <f.> and inserting <g.>
+14 16. Page 12, after line 5 by inserting:
+15 <Sec. ___. NEW SECTION. 249A.6 Prior authorization ——
+16 requests.
+17 1. A health care provider submitting a request for prior
+18 authorization to a managed care organization shall submit the
+19 request electronically using a standards-based application
+20 programming interface, or another form of electronic
+21 submission, supported by the managed care organization, that is
+22 compliant with federal interoperability regulations.
+23 2. This section applies to a request for prior authorization
+24 made on or after July 1, 2027.>
+25 17. By renumbering as necessary.
+______________________________
+KARA WARME
+HF 2635.3203 (3) 91
+-2- nls/ko 2/2

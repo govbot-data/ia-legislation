@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8234
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2739
+H-8234
+1 Amend House File 2739 as follows:
+2 1. Page 7, by striking lines 2 through 11 and inserting:
+3 <Sec. ___. Section 8.54, subsection 5, paragraph b, Code
+4 2026, is amended to read as follows:
+5 b. (1) For fiscal years in which it is anticipated that
+6 moneys will be transferred from the taxpayer relief fund to
+7 the general fund of the state in accordance with section
+8 8.57E, subsection 2, paragraph “b”, the original state general
+9 fund expenditure limitation amount provided for in subsection
+10 3 shall not be readjusted to include the amount of moneys
+11 anticipated to be so transferred. This paragraph subparagraph
+12 is repealed July 1, 2029 2027.
+13 (2) For the fiscal year beginning July 1, 2027, and each
+14 fiscal year thereafter, in which it is anticipated that moneys
+15 will be transferred from the taxpayer relief fund to the
+16 general fund of the state in accordance with section 8.57E,
+17 subsection 2, paragraph “b”, the original state general fund
+18 expenditure limitation amount provided for in subsection 3
+19 shall be readjusted to include the amount of moneys anticipated
+20 to be so transferred.
+21 (3) This paragraph is repealed July 1, 2029.
+22 Sec. ___. Section 8.57E, subsection 2, paragraph b, Code
+23 2026, is amended by adding the following new subparagraph:
+24 NEW SUBPARAGRAPH. (02) For the fiscal year beginning
+25 July 1, 2027, and each fiscal year thereafter, the transfer
+26 pursuant to this paragraph shall not exceed the difference
+27 between the lower revenue estimate determined at the state
+28 revenue estimating conference meeting occurring prior to
+29 December 15 and the meeting occurring in March, for the fiscal
+30 year beginning the following July 1, and the net general fund
+31 appropriation for that fiscal year.>
+32 2. Page 7, line 17, by striking <296,200,000> and inserting
+33 <347,013,889>
+34 3. Page 8, line 6, by striking <70,300,000> and inserting
+35 <89,000,000>
+HF 2739.3539 (1) 91
+-1- ns/jh 1/2
+
+1 4. Page 8, by striking lines 14 through 19.
+2 5. Title page, line 6, by striking <applicability,>
+3 6. By renumbering as necessary.
+______________________________
+LUNDGREN of Dubuque
+HF 2739.3539 (1) 91
+-2- ns/jh 2/2

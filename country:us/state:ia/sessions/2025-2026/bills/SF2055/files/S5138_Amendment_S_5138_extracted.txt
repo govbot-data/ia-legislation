@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5138
+Media Type: application/pdf
+
+================================================================================
+
+Senate File 2055
+S-5138
+1 Amend Senate File 2055 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. SUPREME COURT —— RULES OF CRIMINAL PROCEDURE
+5 REVISIONS.
+6 1. Iowa rule of criminal procedure 2.22(8)(e) shall be
+7 amended to add subparagraph (4), to provide:
+8 (4) Absence of recent overt acts of dangerousness shall not
+9 be the sole determining factor in assessing whether a defendant
+10 poses a risk to themselves or others, particularly when such
+11 absence may be attributable to the constraints of a highly
+12 structured environment. When determining whether a defendant
+13 is currently dangerous to themselves or others under this rule,
+14 the court shall consider a variety of factors, including but
+15 not limited to:
+16 (a) Original offense. The nature and circumstances of the
+17 original charge or offense leading to the defendant’s insanity
+18 acquittal.
+19 (b) Behavioral history. The defendant’s past conduct,
+20 including prior violent or dangerous acts, irrespective of the
+21 presence or absence of recent overt acts.
+22 (c) Psychiatric history and current mental status.
+23 The defendant’s current psychiatric condition, history of
+24 treatment, adherence to treatment, and responsiveness to
+25 interventions.
+26 (d) Substance use disorder history. The defendant’s
+27 history of substance use and its impact on their behavior,
+28 including prior diagnoses of substance use disorder, the
+29 relationship between substance use and prior violent or
+30 dangerous conduct, the likelihood of relapse and its potential
+31 to increase dangerousness, and the defendant’s access to and
+32 willingness to engage in substance use treatment programs to
+33 maintain safety.
+34 (e) Institutional behavior and independent functioning.
+35 The defendant’s ability and willingness to engage in social,
+SF 2055.3702 (2) 91
+(amending this SF 2055 to CONFORM to HF 2571)
+-1- as/js 1/2
+
+1 recreational, educational, occupational, or vocational
+2 activities; maintain self-care; demonstrate stability,
+3 adaptability, and reduced risk of dangerousness in less
+4 structured environments; seek and utilize support systems;
+5 and comply with rules and interact appropriately within a
+6 structured environment, including any incidents indicating
+7 underlying dangerousness.
+8 (f) Environmental influence. The extent to which a highly
+9 structured setting, such as a hospital or secured facility,
+10 may suppress behaviors that are likely to manifest in less
+11 controlled or structured conditions.
+12 (g) Expert testimony and risk assessment reports.
+13 Evaluations and risk assessments provided by qualified mental
+14 health professionals regarding the defendant’s potential
+15 danger to themself or others. This includes consideration of
+16 validated risk assessment tools and methodologies, including
+17 any limitations in assessing an individual confined to a
+18 structured setting.
+19 2. The revised rules of criminal procedure shall be
+20 submitted for legislative council review no later than October
+21 14, 2026.>
+______________________________
+SCOTT WEBSTER
+SF 2055.3702 (2) 91
+(amending this SF 2055 to CONFORM to HF 2571)
+-2- as/js 2/2

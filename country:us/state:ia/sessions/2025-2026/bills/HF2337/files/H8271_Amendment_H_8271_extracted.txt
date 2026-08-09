@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8271
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2337
+H-8271
+1 Amend House File 2337, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 714.8, Code 2026, is amended by adding
+6 the following new subsections:
+7 NEW SUBSECTION. 6A. For the purpose of obtaining employment
+8 or other personal gain, knowingly and with intent falsely
+9 represents oneself as possessing an academic degree or academic
+10 credentials.
+11 NEW SUBSECTION. 6B. For the purpose of obtaining employment
+12 or other personal gain, knowingly and with intent falsely
+13 represents oneself as possessing a professional or occupational
+14 license regulated under chapter 272C.
+15 Sec. 2. Section 714.11, subsection 1, Code 2026, is amended
+16 by adding the following new paragraph:
+17 NEW PARAGRAPH. d. A fraudulent practice as set forth in
+18 section 714.8, subsection 6B.
+19 Sec. 3. Section 714.13, subsection 1, Code 2026, is amended
+20 to read as follows:
+21 1. Fraudulent practice in the fifth degree is a any of the
+22 following:
+23 a. A fraudulent practice where for which the amount of money
+24 or value of property or services involved does not exceed three
+25 hundred dollars.
+26 b. A fraudulent practice as set forth in section 714.8,
+27 subsection 6A.>
+28 2. Title page, line 2, after <credentials> by inserting <or
+29 professional or occupational licenses,>
+HF 2337.3717.S (1) 91
+-1- mb 1/1

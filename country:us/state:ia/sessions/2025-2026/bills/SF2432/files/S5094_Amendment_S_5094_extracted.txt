@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5094
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2432
+S-5094
+1 Amend Senate File 2432 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 135.105B, subsection 3, Code 2026, is
+5 amended to read as follows:
+6 3. Following development of the voluntary guidelines,
+7 cities or counties may elect to utilize the guidelines in
+8 developing and administering local programs through city or
+9 county health departments on a city, county, or multicounty
+10 basis or may request that the state develop and administer
+11 the local program. However, cities and counties are not
+12 required to develop and administer local programs based upon
+13 the guidelines.
+14 Sec. 2. Section 135I.1, subsection 2, Code 2026, is amended
+15 to read as follows:
+16 2. “Local board of health” means a city, county, or district
+17 board of health the same as defined in section 137.102.
+18 Sec. 3. Section 137.102, subsections 1 and 2, Code 2026, are
+19 amended by striking the subsections.
+20 Sec. 4. Section 137.102, subsection 10, Code 2026, is
+21 amended to read as follows:
+22 10. “Local board of health” means a city, county, board or a
+23 district board of health.
+24 Sec. 5. Section 137.103, subsection 1, Code 2026, is amended
+25 by striking the subsection and inserting in lieu thereof the
+26 following:
+27 1. A city shall not maintain a city board of health or a
+28 city health department. Each city shall perform the city’s
+29 public health services through the city’s local board of
+30 health.
+31 Sec. 6. NEW SECTION. 137.103A County boards.
+32 1. A county board shall execute an agreement with each
+33 county hospital located in the county that the county board
+34 represents to allow for sharing of facilities, health care
+35 services, and administrative resources.
+SF 2432.3344 (2) 91
+-1- dg/ko 1/2
+
+1 2. A county board may submit an application to the
+2 department to waive the requirement in subsection 1 by
+3 providing the department evidence of all of the following:
+4 a. The county board has access to an alternative means of
+5 providing health services comparable to those provided by the
+6 county hospital with which the county board would otherwise be
+7 required to contract.
+8 b. The alternative means of providing health services is
+9 more cost-effective for the county board than contracting with
+10 the county hospital.
+11 3. A county board that applies for a waiver under subsection
+12 2 must submit a letter explaining the county board’s decision
+13 to apply for the waiver to the county board’s county board of
+14 supervisors.
+15 Sec. 7. Section 137.104, subsection 1, paragraph b,
+16 subparagraph (1), Code 2026, is amended by striking the
+17 subparagraph.
+18 Sec. 8. Section 137.105, subsection 1, paragraph a, Code
+19 2026, is amended by striking the paragraph.
+20 Sec. 9. EFFECTIVE DATE. This Act takes effect January 1,
+21 2027.>
+22 2. Title page, by striking lines 1 through 4 and inserting
+23 <An Act eliminating a city’s ability to create a city board of
+24 health or a city health department, and including effective
+25 date provisions.>
+______________________________
+MIKE BOUSSELOT
+SF 2432.3344 (2) 91
+-2- dg/ko 2/2

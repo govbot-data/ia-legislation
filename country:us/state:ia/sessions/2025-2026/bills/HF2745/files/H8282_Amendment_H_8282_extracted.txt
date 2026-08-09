@@ -1,0 +1,103 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8282
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2745
+H-8282
+1 Amend House File 2745 as follows:
+2 1. Page 41, after line 23 by inserting:
+3 <DIVISION ___
+4 PROPERTY TAX DEFERRAL PROGRAM
+5 Sec. ___. NEW SECTION. 426C.1 Definitions.
+6 As used in this chapter, unless the context otherwise
+7 requires:
+8 1. “Deferral amount” means the amount of taxes due and
+9 payable in a fiscal year.
+10 2. “Homestead” means the same as defined in section 425.11,
+11 except that the dwelling house must be occupied as a home for
+12 more than six months during the calendar year in which the
+13 fiscal year begins.
+14 3. “Income” means gross income as properly computed for
+15 federal income tax purposes under section 61 of the Internal
+16 Revenue Code.
+17 4. “Program” means the property tax deferral program.
+18 5. “Qualifying event” means the death of the owner, the
+19 sale of the homestead, transfer of the homestead other than
+20 to a surviving spouse, or when the property is no longer the
+21 homestead of the owner. A “qualifying event” does not include
+22 an owner who is absent from the homestead due to ill health.
+23 Sec. ___. NEW SECTION. 426C.2 Deferral program.
+24 1. For property taxes due and payable in fiscal years
+25 beginning on or after July 1, 2027, an owner receiving the
+26 homestead credit under chapter 425, subchapter I, who has owned
+27 the homestead for at least the most recent twenty consecutive
+28 years and whose income is less than an amount equal to the
+29 product of twenty multiplied by the property taxes due and
+30 payable on the homestead for the immediately preceding fiscal
+31 year is allowed to defer the property taxes due and payable
+32 on the homestead following application of all applicable
+33 exemptions and credits beginning with the assessment year the
+34 owner has attained at least seventy years of age by January 1.
+35 2. A person who wishes to qualify for the program allowed
+HF 2745.3740 (1) 91
+-1- md/jh 1/3
+
+1 under this chapter shall obtain the appropriate forms from the
+2 county treasurer. The person applying to the program shall
+3 annually file an application and verified statement of income
+4 with the county treasurer for the year for which the person is
+5 requesting a deferral. The application shall be filed no later
+6 than June 30 preceding the fiscal year in which the taxes are
+7 due and payable. The department of revenue shall prescribe
+8 application forms for the deferrals under this chapter,
+9 including the form of the verified statement of income.
+10 3. A homestead with delinquent taxes, penalties, or other
+11 related administrative costs owing on the property does not
+12 qualify for the program.
+13 4. If the application is approved, the amount of taxes due
+14 and payable shall be deferred until a qualifying event occurs.
+15 An approved application is only valid for the year for which
+16 the application is submitted and the owner must reapply for
+17 deferrals in subsequent years.
+18 5. The list of the names, addresses, income, and dates
+19 of birth of individuals in the program and maintained by the
+20 county treasurer for purposes of allowing deferral under
+21 the program is confidential information and shall not be
+22 disseminated to any person unless otherwise ordered by a court
+23 or released by the lawful custodian of the records pursuant
+24 to state or federal law. The county treasurer may display
+25 participation in the program on individual paper records and
+26 individual electronic records, including display on an internet
+27 site.
+28 6. The tax deferral amount shall be entered against the
+29 property on the tax list for each applicable fiscal year and
+30 shall constitute a first lien against the property in the same
+31 manner as a lien for property taxes.
+32 Sec. ___. NEW SECTION. 426C.3 Payment of deferral amount.
+33 The total deferral amount shall be due and payable to the
+34 county treasurer within thirty days of a qualifying event. The
+35 total deferral amount shall include accrued interest upon the
+HF 2745.3740 (1) 91
+-2- md/jh 2/3
+
+1 total deferral amount calculated from the date the property
+2 taxes were due and payable through to the date the county
+3 treasurer is paid in full. Interest shall be calculated using
+4 the interest rate on two-year United States treasury notes.
+5 When paid, the total deferral amount shall be apportioned
+6 by the county treasurer to the several taxing districts as
+7 provided by law, in the same manner as though the deferral
+8 amount had been paid by the owner of the homestead as property
+9 taxes for the fiscal year in which the total deferral amount
+10 is due.>
+11 2. Title page, line 6, after <fund,> by inserting
+12 <establishing a property tax deferral program,>
+13 3. By renumbering as necessary.
+______________________________
+BLOOMINGDALE of Worth
+HF 2745.3740 (1) 91
+-3- md/jh 3/3

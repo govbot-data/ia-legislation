@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8236
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2739
+H-8236
+1 Amend the amendment, H-8233, to House File 2739, as follows:
+2 1. Page 1, after line 3 by inserting:
+3 <Section 1. Section 2.40, subsection 1, paragraph a,
+4 subparagraph (2), Code 2026, is amended to read as follows:
+5 (2) (a) The member shall pay that portion of the total
+6 premium for the plan selected on the same basis as paid by the
+7 largest number of full-time state employees of the executive
+8 branch, other than employees of the state board of regents,
+9 that are excluded from collective bargaining as provided in
+10 chapter 20, except the portion of the total premium paid by
+11 a member of the general assembly shall be three and one-half
+12 percent greater than the portion of the premium paid by the
+13 full-time state employees of the executive branch.
+14 (b) Commencing with the fiscal year beginning July 1,
+15 2026, and each fiscal year thereafter, an amount equal to the
+16 additional three and one-half percent of premiums paid by
+17 members of the general assembly as described in subparagraph
+18 division (a) during each fiscal year shall be deposited into
+19 the medical assistance fund of the department of health and
+20 human services.>
+21 2. Page 2, by striking lines 6 through 10.
+22 3. Page 2, after line 12 by inserting:
+23 <___. Title page, line 5, after <services,> by inserting
+24 <modifying health insurance premiums of members of the general
+25 assembly,>>
+26 4. Page 2, line 15, by striking <and applicability>
+27 5. By renumbering as necessary.
+______________________________
+ZABNER of Johnson
+H 8233.3555 (2) 91
+-1- jm/jh 1/1

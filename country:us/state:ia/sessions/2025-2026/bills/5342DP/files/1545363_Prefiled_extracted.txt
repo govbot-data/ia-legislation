@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to contracts entered into by state agencies and
+2 including applicability provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5342DP (2) 91
+sc/ns
+
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 8A.311C State purchasing contracts
+2 —— prohibited terms.
+3 The provisions set forth in this section are void as a matter
+4 of law as contrary to public policy if included in a contract
+5 for the procurement of goods or services entered into by the
+6 department or any other state agency pursuant to this part.
+7 A state agency’s contract that includes any of the following
+8 provisions shall be interpreted as if the contract did not
+9 include the void provision:
+10 1. A provision that requires the state or its agencies to
+11 defend, indemnify, hold harmless another person, or otherwise
+12 assume the debt or liability of another person in violation of
+13 Article VII, section 1, of the Constitution of the State of
+14 Iowa.
+15 2. A provision that seeks to impose vendor terms that
+16 are unknown at the time of signing the contract or can be
+17 unilaterally changed by the vendor.
+18 3. A provision that violates chapter 13 by not allowing
+19 a state agency to participate in its own defense through
+20 representation by the attorney general.
+21 4. A provision that grants to any person other than the
+22 attorney general the authority to convey to a court or litigant
+23 the state’s consent to any settlement of a suit involving the
+24 contract when such settlement could impose liability on the
+25 state.
+26 5. A provision that specifies that the contract is governed
+27 by the laws of a foreign state or nation.
+28 6. A provision that claims blanket confidentiality of the
+29 contract’s terms.
+30 7. A provision that claims that payment terms, including but
+31 not limited to cost proposals or other pricing information, of
+32 the contract are confidential.
+33 8. A provision that authorizes or requires a venue for
+34 litigation other than an appropriate state or federal court
+35 sitting in Iowa.
+LSB 5342DP (2) 91
+-1- sc/ns 1/4
+
+S.F. _____ H.F. _____
+1 9. A provision that requires a state agency to pay attorney
+2 fees, court costs, or other litigation expenses in the event of
+3 a contractual dispute.
+4 10. A provision that imposes on the state or its agencies
+5 binding arbitration or another binding extrajudicial dispute
+6 resolution process in which the final resolution is not
+7 determined by the state.
+8 11. A provision that waives a state agency’s right to a jury
+9 trial.
+10 12. A provision that obligates a state agency to pay a late
+11 payment charge not consistent with section 8A.514, interest
+12 greater than allowed under section 8A.514 or other applicable
+13 law, or any cancellation charge, as such charges constitute
+14 pledges of the state’s credit.
+15 13. A provision that obligates a state agency to pay a tax.
+16 14. A provision that imposes a prior notice obligation on
+17 a state agency as a condition for the automatic renewal of a
+18 software license. A state agency may provide notice of its
+19 intent to terminate a software license at any time before the
+20 renewal date established in the contract.
+21 15. A provision that obligates a state agency to accept risk
+22 of loss before the receipt of items or goods.
+23 16. A provision that obligates a state agency to have
+24 commercial insurance.
+25 17. A provision that obligates a state agency to grant a
+26 contractor full or partial ownership of intellectual property
+27 developed pursuant to a state agency contract when the
+28 intellectual property is developed in whole or in part using
+29 federal funding.
+30 18. A provision that limits the time in which the state or
+31 its agencies may bring a legal claim under the contract to a
+32 period shorter than that provided by Iowa law.
+33 19. A boilerplate provision included in a vendor’s
+34 transactional documents, including but not limited to ordering
+35 documents and quotations, that seeks to alter the terms of a
+LSB 5342DP (2) 91
+-2- sc/ns 2/4
+
+S.F. _____ H.F. _____
+1 state agency’s contract or to impose new terms in the contract.
+2 Sec. 2. NEW SECTION. 8A.311D State purchasing contracts ——
+3 required terms.
+4 All of the following provisions shall be deemed to be
+5 included in a state agency vendor contract:
+6 1. Governing law. The contract shall be governed by
+7 the laws of the state of Iowa, without giving effect to any
+8 conflict of laws principles of Iowa law that may require the
+9 application of another jurisdiction’s law.
+10 2. Venue. Any litigation commenced in connection with the
+11 contract shall be brought and maintained in an appropriate
+12 state or federal court sitting in Iowa.
+13 Sec. 3. NEW SECTION. 8A.311E State purchasing contracts ——
+14 waiver.
+15 If the director determines that a necessary good or service
+16 is impossible to procure due to a requirement of section
+17 8A.311C or 8A.311D, the director may waive the requirement
+18 to the extent necessary to obtain the good or service. A
+19 state agency requesting a waiver shall, at a minimum, provide
+20 sufficient evidence showing that the state will suffer an
+21 interruption in business operations or other irreparable harm
+22 if the state agency cannot procure the good or service, and
+23 that the state agency has exhausted all reasonable steps to
+24 prevent such harm, including attempting to procure substitute
+25 goods or services. The director may require the submission of
+26 additional evidence at the director’s discretion. A waiver
+27 must be as narrow as possible to allow the procurement of the
+28 necessary good or service.
+29 Sec. 4. APPLICABILITY. This Act applies to contracts
+30 entered into or renewed on or after the effective date of this
+31 Act.
+32 EXPLANATION
+33 The inclusion of this explanation does not constitute agreement with
+34 the explanation’s substance by the members of the general assembly.
+35 This bill prohibits the inclusion of certain provisions in
+LSB 5342DP (2) 91
+-3- sc/ns 3/4
+
+S.F. _____ H.F. _____
+1 contracts entered into by the department of administrative
+2 services (DAS) and any other state agency under Code chapter
+3 8A, subchapter III, part 2 (purchasing), and declares those
+4 provisions void if present in such contracts. The bill also
+5 provides that every state agency vendor contract shall be
+6 deemed to include provisions requiring the contract to be
+7 governed by Iowa law and for litigation related to the contract
+8 to be brought and maintained in an appropriate state or federal
+9 court sitting in Iowa.
+10 The director of DAS may waive a contract requirement of the
+11 bill to the extent necessary for the procurement of a necessary
+12 good or service, if the director determines the good or service
+13 is otherwise impossible to procure.
+14 The bill applies to contracts entered into or renewed on or
+15 after the effective date of the bill (July 1, 2026).
+LSB 5342DP (2) 91
+-4- sc/ns 4/4

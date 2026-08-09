@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8248
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2601
+H-8248
+1 Amend House File 2601 as follows:
+2 1. Page 3, after line 17 by inserting:
+3 <Sec. ___. Section 68A.502, subsection 3, Code 2026, is
+4 amended by adding the following new paragraph:
+5 NEW PARAGRAPH. d. A contribution made to a candidate
+6 or candidate’s committee by a person who is not an eligible
+7 elector, as defined in section 39.3, that is a resident of
+8 the state, district, county, township, city, ward, or other
+9 political subdivision that is represented by the office sought
+10 by the candidate, as reflected in the statement of organization
+11 filed pursuant to section 68A.201.>
+12 2. Title page, line 2, after <nationals> by inserting <,
+13 illegal campaign contributions,>
+14 3. By renumbering as necessary.
+______________________________
+SRINIVAS of Polk
+HF 2601.3364 (1) 91
+-1- ss/ns 1/1

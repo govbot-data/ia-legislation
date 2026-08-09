@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8123
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2678
+H-8123
+1 Amend House File 2678 as follows:
+2 1. Page 36, after line 25 by inserting:
+3 <DIVISION ___
+4 FOREIGN LANDHOLDINGS
+5 Sec. ___. Section 9I.7, unnumbered paragraph 1, Code 2026,
+6 is amended to read as follows:
+7 A nonresident alien, foreign business, or foreign
+8 government, or an agent, trustee, or fiduciary thereof, which
+9 owns an interest in agricultural land within this state on or
+10 after January 1, 1980, shall register the agricultural land
+11 with the secretary of state. The registration shall be made
+12 within sixty days after January 1, 1980, or within sixty days
+13 after acquiring the land or the interest in land, whichever is
+14 later. The registration shall be made online or in the form
+15 and manner prescribed by the secretary of state. Information
+16 described in this section is a confidential record and subject
+17 to use in the same manner as provided in section 10B.5. As part
+18 of the registration, the nonresident alien, foreign business,
+19 or foreign government, or an agent, trustee, or fiduciary
+20 thereof, shall file all of the following information:
+21 Sec. ___. Section 10B.5, subsection 2, Code 2026, is amended
+22 to read as follows:
+23 2. Information Except as provided in section 10B.5A,
+24 information in reports required in this chapter is a
+25 confidential record as provided in section 22.7. The attorney
+26 general may have access to the reports, and may use information
+27 in the reports in any action to enforce state law, including
+28 but not limited to chapters 9H and 9I. The reports shall
+29 be made available to members of the general assembly and
+30 appropriate committees of the general assembly in order to
+31 determine the extent that agricultural land is held in this
+32 state by corporations and other business and foreign entities
+33 and the effect of such land ownership upon the economy of this
+34 state. The secretary of state shall assist any committee of
+35 the general assembly studying these issues.
+HF 2678.3142 (2) 91
+-1- da/jh 1/2
+
+1 Sec. ___. Section 10B.5A, Code 2026, is amended to read as
+2 follows:
+3 10B.5A Annual summary to governor and general assembly ——
+4 foreign landholdings.
+5 The secretary of state shall prepare an annual summary of
+6 foreign landholding. The summary must be a report summarizing
+7 the compiled information included in the current registrations
+8 filed pursuant to section 9I.7 and the last reports filed
+9 pursuant to section 10B.4. The information is a confidential
+10 record as provided in section 22.7. The attorney general may
+11 have access to the annual summary and may use information
+12 in the annual summary in any action to enforce state law,
+13 including but not limited to chapters 9H and 9I, and this
+14 chapter. The annual summary shall be made available to the
+15 governor, members of the general assembly, and appropriate
+16 committees of the general assembly in order to determine the
+17 extent that agricultural land is held in this state by foreign
+18 entities and the effect of such land ownership upon the economy
+19 of this state. Upon request, the secretary of state shall
+20 assist any committee of the general assembly studying these
+21 issues.>
+22 2. Title page, by striking lines 1 through 5 and inserting
+23 <An Act providing for certain persons acting under the
+24 jurisdiction of the secretary of state, including by providing
+25 for information from required filings, and the administrative
+26 dissolution of certain entities, and making penalties
+27 applicable.>
+28 3. By renumbering as necessary.
+______________________________
+SCHOLTEN of Woodbury
+HF 2678.3142 (2) 91
+-2- da/jh 2/2

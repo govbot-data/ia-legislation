@@ -1,0 +1,574 @@
+Title: 
+Official Title: 
+Source: versions - Signed Enrolled Bill (PDF)
+Media Type: application/pdf
+
+================================================================================
+
+STATE OF IOWA
+KIM REYNOLDS
+GOVERNOR
+April 16, 2026
+The Honorable Paul Pate
+Secretary of State of Iowa
+State Capitol
+Des Moines, Iowa 50319
+Dear Mr. Secretary,
+I hereby transmit:
+House File 2619, an Act creating the uniform family law arbitration Act.
+The above House File is hereby approved on this date.
+Sincerely,
+Kim^gj^lds
+Governor of Iowa
+cc: Secretary of the Senate
+Clerk of the House
+STATE CAPITOL DES MOINES, IOWA 50319 515.281.5211 WWW.GOVERNOR.IOWA.GOV
+
+: P^iOaS!
+nïïîïïïîTnNÏïîîîïîîîîTîîtnÏÏHÏÏ^ MLL MAINTAL iiiiiiiHiiiiiiciiiniiri inHiinMiiiiTïïii i nnnunnnnusin*
+FiniiHLUUi iiiiiiiHitniin»»
+! Il IIIH1I li! hrmnimHiJ
+liujiuuio ’• ":j:niiitiiiui!ii!iinn:r:<:' :'n;i:iiiiijuiü
+House File 2619
+AN ACT
+CREATING THE UNIFORM FAMILY LAW ARBITRATION ACT.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+Section 1. NEW SECTION. 598A.1 Short title.
+This chapter shall be known and may be cited as the "Uniform
+Family Law Arbitration Act".
+Sec. 2. NEW SECTION. 598A.2 Definitions.
+As used in this chapter, unless the context otherwise
+requires :
+1. "Arbitration agreement" means an agreement which subjects
+a family law dispute to arbitration.
+2. "Arbitration organization" means an association,
+agency, board, commission, or other entity which is neutral
+and initiates, sponsors, or administers an arbitration or is
+involved in the selection of an arbitrator.
+3. "Arbitrator" means an individual selected or appointed,
+alone or with others, to make an award in a family law dispute
+which is subject to an arbitration agreement.
+4. "Award" means an interim award, temporary order, or final
+disposition of a family law dispute by an arbitrator.
+5. "Child custody dispute" means a family law dispute
+regarding legal custody, physical custody, parenting plans,
+parenting time, or visitation of a child.
+6. "Child support dispute" means a family law dispute
+regarding financial support of a child.
+7. "Court" means a district court which has jurisdiction
+
+House File 2619, p. 2
+over a family law dispute.
+8. '‘'Family law dispute" means a contested issue arising
+under chapter 598, 600B, or 600C. "Family law dispute" does not
+include an issue under section 598A.3, subsection 2.
+9. "Party" means an individual who signs an arbitration
+agreement and whose rights will be determined by an award.
+10. "Person" means an individual, estate, business
+or nonprofit entity, public corporation, government or
+governmental subdivision, agency, or instrumentality or any
+other legal entity.
+11. "Protection order" means an injunction or other
+order, issued under the domestic violence, family violence,
+or stalking laws of the issuing jurisdiction, to prevent an
+individual from engaging in a violent or threatening act
+against, harassment of, contact, or communication with or being
+in physical proximity to, another individual who is a party or
+a child under the custodial responsibility of a party.
+12. "Record", used as a noun, means information that
+is inscribed on a tangible medium or that is stored in an
+electronic or other medium and is retrievable in perceivable
+form.
+13. "Sign " means , with present intent to authenticate or
+adopt a record, any of the following:
+a. To execute or adopt a tangible symbol.
+b. To attach to or logically associate with the record an
+electronic symbol, sound, or process.
+14. "State" means a state of the United States, the District
+of Columbia, Puerto Rico, the United States Virgin Islands, or
+any territory or insular possession subject to the jurisdiction
+of the United States. "State" includes a federally recognized
+Indian tribe.
+Sec. 3. NEW SECTION. 598A.3 Scope.
+1. Except as provided in subsection 2, this chapter governs
+arbitration of a family law dispute.
+2. This chapter does not authorize an arbitrator to make an
+award that does any of the following:
+a. Grants legal separation, divorce, dissolution of
+marriage, or annulment.
+b. Terminates parental rights.
+
+House File 2619, p. 3
+c. Grants an adoption or a guardianship of a child or
+protected person.
+d. Determines the status of dependency of a child under
+chapter 232.
+e. Determines the support of a child if support payments
+have been assigned to the department of health and human
+services pursuant to section 234.39, 239B.6, or 252E.11, or if
+services are being provided by child support services pursuant
+to chapter 252B.
+Sec. 4. NEW SECTION. 598A.4 Applicable law.
+1. a. Subject to paragraph "b", the law applicable to
+arbitration is chapter 679A.
+b. If there is a conflict between chapter 679A and this
+chapter, this chapter controls.
+2. In determining the merits of a family law dispute, an
+arbitrator shall apply the law of this state, including its
+choice of law rules.
+Sec. 5. NEW SECTION. 598A.5 Arbitration agreements.
+1. An arbitration agreement must do the following:
+a. Be in a record signed by the parties.
+b. Identify the arbitrator, an arbitration organization, or
+a method of selecting an arbitrator.
+c. Identify the family law dispute the parties intend to
+arbitrate.
+2. Except as otherwise provided in subsection 3, an
+agreement in a record to arbitrate a family law dispute that
+arises between the parties before, at the time, or after
+the agreement is made is valid and enforceable as any other
+contract and irrevocable except on a ground that exists at law
+or in equity for the revocation of a contract.
+3. An agreement to arbitrate a child custody dispute or
+child support dispute that arises between the parties after the
+agreement is made is unenforceable unless any of the following
+apply:
+a. The parties affirm the agreement in a record after the
+dispute arises.
+b. The agreement was entered during a family law proceeding
+and the court approved or incorporated the agreement in an
+order issued in the proceeding.
+
+House File 2619, p. 4
+4. If a party objects to arbitration on the grounds the
+arbitration agreement is unenforceable or the agreement does
+not include a family law dispute, the court shall decide
+whether the agreement is enforceable or includes the family law
+dispute .
+Sec. 6. NEW SECTION. 598A.6 Notice of arbitration.
+A party shall initiate arbitration by giving notice to
+arbitrate to the other party in the manner specified in the
+arbitration agreement or, in the absence of a specified manner,
+under section 679A.15.
+Sec. 7. NEW SECTION. 598A.7 Motion for judicial relief.
+1. A motion for judicial relief under this chapter shall be
+made to the court in which a proceeding is pending involving a
+family law dispute subject to arbitration or, if no proceeding
+is pending, a court with jurisdiction over the parties and the
+subject matter.
+2. On motion by a party, the court may compel arbitration
+if the parties have entered into an arbitration agreement that
+complies with section 598A.5 unless the court determines under
+section 598A.12 that the arbitration should not proceed.
+3. On motion of a party, the court shall terminate
+arbitration if the court determines any of the following:
+a. The agreement to arbitrate is unenforceable.
+b. The family law dispute is not subject to arbitration.
+c. Under section 598A.12, the arbitration should not
+proceed .
+4. Unless prohibited by an arbitration agreement, on motion
+of a party, the court may order consolidation of separate
+arbitrations involving the same parties and a common issue
+of law or fact if necessary for the fair and expeditious
+resolution of the family law dispute.
+Sec. 8. NEW SECTION. 598A.8 Qualification and selection of
+arbitrator .
+1. Except as otherwise provided in subsection 2, unless
+waived in a record by the parties, an arbitrator must be all of
+the following:
+a. An attorney at law, a former attorney at law on inactive
+status, or a retired judge.
+b. Have successfully completed a combined five hours of
+
+House File 2619, p. 5
+instruction in an accredited continuing legal education course
+on domestic violence and child abuse.
+2. The identification in the arbitration agreement of an
+arbitrator, arbitration organization, or method of selection of
+the arbitrator controls.
+3. If an arbitrator is unable or unwilling to act or if the
+agreed-upon method of selecting an arbitrator fails, on motion
+of a party, the court shall select an arbitrator.
+Sec. 9. NEW SECTION. 598A.9 Disclosure by arbitrator —
+disqualification.
+1. Before agreeing to serve as an arbitrator, an individual,
+after making reasonable inquiry, shall disclose to all parties
+any known fact a reasonable person would believe is likely to
+affect any of the following:
+a. The impartiality of the arbitrator, including bias,
+a financial or personal interest in the outcome of the
+arbitration, or an existing or past relationship with a party,
+attorney representing a party, or witness.
+b. The arbitrator's ability to make a timely award.
+2. a. An arbitrator, the parties, and the attorneys
+representing the parties have a continuing obligation to
+disclose to all parties any known fact a reasonable person
+would believe is likely to affect the impartiality of the
+arbitrator or the arbitrator's ability to make a timely award.
+b. The arbitrator shall disclose, and provide in writing to
+the parties, the amount of initial fee, any hourly rate to be
+charged, the process for invoices and payment for services and
+information on the arbitration process, specifically including
+how to terminate the arbitration.
+3. An objection to selection or continued service of
+an arbitrator and a motion for a stay of arbitration and
+disqualification of the arbitrator shall be made under section
+598A.7.
+4. If a disclosure required by subsection 1, paragraph
+"a", or subsection 2 is not made, the court may do any of the
+following :
+a. On motion of a party not later than fifteen days after
+the failure to disclose is known, or by the exercise of
+reasonable care should have been known to the party, suspend
+
+House File 2619, p. 6
+the arbitration.
+b. On timely motion of party, vacate an award under section
+598A.19, subsection 1, paragraph "b".
+c. If an award has been confirmed, grant other appropriate
+relief under law of this state other than this chapter.
+5. If the parties agree to discharge an arbitrator or
+the arbitrator is disqualified, the parties by agreement may
+select a new arbitrator or request the court to select another
+arbitrator as provided for in section 598A.8.
+Sec. 10. NEW SECTION. 598A.10 Party participation.
+1. A party may do all of the following:
+a. Be represented in an arbitration by counsel.
+b. Be accompanied by an individual who will not be called as
+a witness or act as an advocate.
+c. Participate in the arbitration to the full extent
+permitted under section 598A.13 and chapter 679A.
+2. A party or representative of a party shall not
+communicate ex parte with the arbitrator except to the extent
+allowed in a family law proceeding for communication with a
+judge.
+Sec. 11. NEW SECTION. 598A.11 Temporary order or award.
+1. Before an arbitrator is selected and able to act, on
+motion of a party, the court may enter a temporary order under
+section 598.10 or 600B.40A and the applicable Iowa rules of
+civil procedure.
+2. After an arbitrator is selected, all of the following
+apply:
+a. The arbitrator may make a temporary award under section
+598.10 or 600B.40A and the applicable Iowa rules of civil
+procedure.
+b. If the matter is urgent and the arbitrator is not able to
+act in a timely manner or provide an adequate remedy, on motion
+of a party, the court may enter a temporary order.
+3. On motion of a party, before the court confirms a final
+award, the court, under section 598A.16, 598A.18, or 598A.19,
+may confirm, correct, vacate, or amend a temporary award made
+under subsection 2, paragraph "a".
+4. On motion of a party, the court may enforce a subpoena
+or interim award issued by an arbitrator for the fair and
+
+House File 2619, p. 7
+expeditious disposition of the arbitration.
+Sec. 12. NEW SECTION. 598A.12 Protection of party or child.
+1. a. This subsection applies if a party is subject
+to a protection order or the arbitrator determines there
+is a reasonable basis to believe a party is the victim of
+domestic violence or a party's safety or ability to participate
+effectively in arbitration is otherwise at risk.
+b. If the conditions described in paragraph "'a" are met,
+the arbitrator shall stay the arbitration and refer the parties
+to court. The arbitration shall not proceed unless the party
+at risk affirms the arbitration agreement in a record and the
+court determines all of the following are true:
+(1) The affirmation is informed and voluntary.
+(2) Arbitration is not inconsistent with the protection
+order .
+(3) Reasonable procedures are in place to protect the party
+from risk of harm, harassment, or intimidation.
+2. If the arbitrator determines that there is a reasonable
+basis to believe a child who is the subject of a child custody
+dispute is abused or neglected, the arbitrator shall terminate
+the arbitration of the child custody dispute and report the
+abuse or neglect to the court, or to another appropriate
+authority.
+3. An arbitrator may make a temporary award to protect a
+party or child from harm, harassment, or intimidation.
+4. On motion of a party, the court may stay arbitration and
+review a determination or temporary award under this section.
+5. This section supplements remedies available under
+law of this state other than this chapter for the protection
+of victims of domestic violence, family violence, stalking,
+harassment, and similar abuse.
+Sec. 13. NEW SECTION. 598A.13 Powers and duties of
+arbitrator .
+1. An arbitrator shall conduct an arbitration in a manner
+the arbitrator considers appropriate for a fair and expeditious
+disposition of the family law dispute.
+2. An arbitrator shall provide each party a right to be
+heard, to present evidence material to the family law dispute,
+and to cross-examine witnesses.
+
+House File 2619, p. 8
+3. Unless the parties otherwise agree in a record, an
+arbitrator may do all of the following:
+a. Select the rules for conducting the arbitration.
+b. Hold a conference with the parties before a hearing.
+c. Determine the date, time, and place of a hearing.
+d. Require a party to provide all of the following:
+(1) A copy of a relevant court order.
+(2) Information required to be disclosed in a family law
+proceeding under chapters 598 and 600B and the applicable Iowa
+rules of civil procedure.
+(3) A proposed award which addresses each issue in
+arbitration .
+e. Interview a child who is the subject of a child custody
+dispute .
+f. Appoint a private expert at the expense of the parties.
+g. Administer an oath or affirmation and issue a subpoena
+for the attendance of a witness or the production of documents
+and other evidence at a hearing.
+b. Permit and compel discovery concerning the family law
+dispute and determine the date, time, and place of discovery.
+i. Determine the admissibility and weight of evidence.
+j. Permit deposition of a witness for use as evidence at a
+hearing .
+k. For good cause, prohibit a party from disclosing
+information .
+1. Appoint an attorney, guardian ad litem, or other
+representative for a child at the expense of the parties.
+m. Impose a procedure to protect a party or child from risk
+of harm, harassment, or intimidation.
+n. Allocate arbitration fees, attorney fees, expert witness
+fees, and other costs to the parties.
+o. Impose a sanction on a party for bad faith or misconduct
+during the arbitration according to standards governing
+imposition of a sanction for litigant misconduct in a family
+law proceeding.
+4. An arbitrator shall not allow ex parte communication
+except to the extent allowed in a family law proceeding for
+communication with a judge.
+Sec. 14. NEW SECTION. 598A.14 Recording of hearing.
+
+House File 2619, p. 9
+An arbitration hearing need not be recorded unless required
+by the arbitrator, provided by the arbitration agreement, or
+requested by a party.
+Sec. 15. NEW SECTION. 598A.15 Award.
+1. An arbitrator shall make an award in a record, dated and
+signed by the arbitrator. The arbitrator shall give notice of
+the award to each party by a method agreed on by the parties
+or, if the parties have not agreed on a method, under section
+679A.15.
+2. a. Except as provided in paragraph "b", the arbitrator
+shall make written findings explaining an award.
+b. Except as provided in subsection 3, the parties, by
+agreement, may stipulate that paragraph "a" does not apply.
+3. Notwithstanding subsection 2, paragraph "b", for an award
+determining a child custody dispute or a child support dispute,
+the arbitrator shall state the reasons on which the award is
+based as required by chapter 598.
+4. An award is not enforceable as a judgment until confirmed
+under section 598A.16.
+Sec. 16. NEW SECTION. 598A.16 Confirmation of award.
+1. After an arbitrator gives notice under section 598A.15,
+subsection 1, or makes a correction under section 598A.17, a
+party may move the court for an order confirming the award or,
+when applicable, entry of the decree of dissolution of marriage
+incorporating the award.
+2. Except as set forth in subsection 3, the court shall
+confirm an award if any of the following apply:
+a. The parties agree in a record to confirmation.
+b. All of the following apply:
+(1) The time period under section 598A.18 has expired, and
+no motion is pending under section 598A.18.
+(2) The time period under section 598A.19, subsection 5, has
+expired, and no motion is pending under section 598A.19.
+3. If an award determines a child custody dispute or a
+child support dispute, the court shall confirm the award under
+subsection 2 if the court finds, after a review of the record
+if necessary, that the award on its face does all of the
+following :
+a. Complies with section 598A.15 and chapter 598 or 600B.
+
+House File 2619, p. 10
+b. Is in the best interests of the child.
+4. On confirmation, an award is enforceable as a judgment.
+5. Unless the parties otherwise agree, the arbitration
+proceedings and the arbitration award are confidential. If
+either party includes, in the motion under subsection 1, a
+request that the arbitration award be filed under seal, the
+court shall file the award under seal.
+Sec. 17. NEW SECTION. 598A.17 Correction by arbitrator of
+unconfirmed award.
+On motion of a party made not later than twenty days after
+an arbitrator gives notice under section 598A.15, subsection
+1, the arbitrator may correct the award if the award has an
+evident mathematical miscalculation or an evident mistake in
+the description of a person, thing, or property or to clarify
+the award.
+Sec. 18. NEW SECTION. 598A.18 Correction or confirmation
+by court of unconfirmed award.
+1. On motion of a party made not later than thirty days
+after an arbitrator gives notice under section 598A.15,
+subsection 1, or makes a correction under section 598A.17, the
+court shall correct the award if any of the following are true:
+a. The award has an evident mathematical miscalculation or
+an evident mistake in the description of a person, thing, or
+property.
+b. The arbitrator made an award on a family law dispute not
+submitted to the arbitrator, and the award may be corrected
+without affecting the merits of the issues submitted.
+2. A motion under this section to correct an award may be
+joined with a motion to vacate or amend the award under section
+598A.19 .
+3. Unless a motion under section 598A.19 is pending, the
+court may confirm a corrected award under section 598A.16.
+Sec. 19. NEW SECTION. 598A.19 Vacation, amendment, or
+confirmation by court of unconfirmed award.
+1. Subject to subsection 2, on motion of a party, the
+court shall vacate an unconfirmed award if the moving party
+establishes any of the following:
+a. The award was procured by corruption, fraud, or other
+undue means.
+
+House File 2619, p. 11
+b. There was any of the following:
+(1) Evident partiality by the arbitrator.
+(2) Corruption by the arbitrator.
+(3) Misconduct by the arbitrator substantially prejudicing
+the rights of a party.
+c. The arbitrator refused to postpone a hearing on showing
+of sufficient cause for postponement, refused to consider
+evidence material to the controversy, or otherwise conducted
+the hearing contrary to section 598A.13, so as to prejudice
+substantially the rights of a party.
+d. The arbitrator exceeded the arbitrator's powers.
+e. No arbitration agreement exists, unless the moving
+party participated in the arbitration without making a motion
+under section 598A.7 not later than the beginning of the first
+arbitration hearing.
+f. The arbitration was conducted without proper notice under
+section 598A.6, so as to prejudice substantially the rights of
+a party.
+2. Subject to subsection 3, on motion of a party, the court
+shall vacate an unconfirmed award which determines a child
+custody dispute or a child support dispute if the moving party
+establishes any of the following:
+a. That the award does not comply with section 598A.15 or
+chapter 598 or 600B or is contrary to the best interests of the
+child.
+b. That the statement of reasons in the award is inadequate
+for the court to review the award.
+c. That a ground for vacating the award under subsection 1
+exists .
+3. If an award is subject to vacation under subsection
+2, paragraph "a", on motion of a party, the court may amend
+the award, if amending rather than vacating is in the best
+interests of the child.
+4. The court may determine a motion under subsection 2 or
+3 as follows:
+a. Based on the record of the arbitration hearing, if the
+hearing was recorded, and facts occurring after the hearing.
+b. If there is no record, de novo.
+5. A motion under this section to vacate or amend an award
+
+House File 2619, p. 12
+must be filed not later than thirty days after the following:
+a. Except as set forth in paragraph "b", after an arbitrator
+gives notice under section 598A.15, subsection 1, or makes a
+correction under section 598A.17.
+b. For a motion under subsection 1, paragraph "a", the
+ground of corruption, fraud, or other undue means is known or,
+by the exercise of reasonable care, should be known to the
+party filing the motion.
+6. If the court under this section vacates an award for a
+reason other than the absence of an enforceable arbitration
+agreement, the court may order a rehearing before an
+arbitrator. The rehearing shall be before another arbitrator
+if the reason for vacating the award is any of the following:
+a. The award was procured by corruption, fraud, or other
+undue means.
+b. There was evident partiality, corruption, or misconduct
+by the arbitrator.
+7. If the court under this section denies a motion to vacate
+or amend an award, unless a motion is pending under section
+598A.18, the court may confirm the award under section 598A.16.
+Sec. 20. NEW SECTION . 598A.20 Clarification of confirmed
+award.
+If the meaning or effect of an award confirmed under section
+598A.16 is in dispute, the parties may do any of the following:
+1. Agree to arbitrate the family law dispute before the
+original arbitrator or another arbitrator.
+2. Proceed under rule of civil procedure 1.1101.
+Sec. 21. NEW SECTION. 598A.21 Judgment on award.
+1. On granting an order confirming, vacating without
+directing a rehearing, or amending an award under this chapter,
+the court shall enter judgment in conformity with the order.
+2. On motion of a party, the court shall order that a
+document or part of the arbitration record be sealed or
+redacted to prevent public disclosure of all or part of the
+record or award.
+Sec. 22. NEW SECTION. 598A.22 Modification of confirmed
+award or judgment.
+If a party requests under law of this state other than
+this chapter modification of an award confirmed under section
+
+House File 2619, p. 13
+598A.16 or of a judgment on an award, based on a fact occurring
+after confirmation:
+1. The parties shall proceed under the dispute resolution
+method specified in the award or judgment.
+2. If the award or judgment does not specify a dispute
+resolution method, the parties may do any of the following:
+a. Agree to arbitrate the modification before the original
+arbitrator or another arbitrator.
+b. Absent agreement, proceed under chapter 598 or 600B and
+the applicable Iowa rules of civil procedure.
+Sec. 23. NEW SECTION. 598A.23 Enforcement of confirmed
+award.
+1. A court shall enforce an award confirmed under section
+598A.16, including a temporary award, in the manner and to the
+same extent as any other order or judgment of a court.
+2. A court shall enforce an arbitration award in a family
+law dispute confirmed by a court in another state in the manner
+and to the same extent as any other order or judgment from
+another state.
+Sec. 24. NEW SECTION . 598A.24 Appeal.
+1. An appeal may be taken under this chapter from all of the
+following :
+a. An order granting or denying a motion to compel
+arbitration .
+b. An order granting or denying a motion to stay
+arbitration .
+c. An order confirming or denying confirmation of an award.
+d. An order correcting an award.
+e. An order vacating an award without directing a rehearing.
+f. A final judgment.
+2. An appeal under this section may be taken as from an
+order or a judgment in a civil action.
+Sec. 25. NEW SECTION. 598A.26 Uniformity of application
+and construction.
+In applying and construing this uniform act, consideration
+must be given to the need to promote uniformity of the law with
+respect to its subject matter among states that enact it.
+Sec. 26. NEW SECTION. 598A.27 Relation to Electronic
+Signatures in Global and National Commerce Act.
+
+House File 2619, p. 14
+To the extent permitted by section 102 of the federal
+Electronic Signatures in Global and National Commerce Act, 15
+Ü.S.C. §7002, this chapter may supersede provisions of that
+Act .
+Sec. 27. NEW SECTION. 598A.28 Transitional provision.
+1. This chapter applies to arbitration of a family law
+dispute under an arbitration agreement made on or after the
+effective date of this Act.
+2. If an arbitration agreement was made before the effective
+date of this Act, the parties may agree in a record that this
+chapter applies to the arbitration.
+X6t^
+PAT GRASSLEY AMY SINCLAIR
+Speakerof the House President of the Senate
+I hereby certify that this bill originated in the House and
+is known as House File 2619, Ninety-first General Assembly.
+MEGHAN NELSON
+Chief Clerk of the House
+Approved
+KIM REFOLDS /j
+1
+Governor

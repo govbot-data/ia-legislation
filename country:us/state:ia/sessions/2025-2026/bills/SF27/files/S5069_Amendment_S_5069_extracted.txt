@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5069
+Media Type: application/pdf
+
+================================================================================
+
+House Amendment to
+Senate File 27
+S-5069
+1 Amend Senate File 27, as passed by the Senate, as follows:
+2 1. Page 1, line 11, by striking <2025> and inserting <2026>
+3 2. Page 1, after line 20 by inserting:
+4 <Sec. ___. APPLICABILITY. This Act applies on and after
+5 March 1, 2027, or the date the department of transportation
+6 submits to the Iowa administrative code editor for publication
+7 in the Iowa administrative bulletin a statement by the director
+8 of transportation that the applicable phase of the department
+9 of transportation’s new records system is implemented,
+10 whichever is earlier. The department shall also forward a copy
+11 of the statement to the Iowa Code editor.>
+12 3. Title page, line 4, by striking <information.>
+13 and inserting <information, and including applicability
+14 provisions.>
+15 4. By renumbering as necessary.
+SF 27.3186.H (1) 91
+-1- md 1/1

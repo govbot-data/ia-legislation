@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8111
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2505
+H-8111
+1 Amend House File 2505 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 331.442, subsection 4, Code 2026, is
+4 amended to read as follows:
+5 4. The proposition of issuing bonds for a general county
+6 purpose is not carried or adopted unless the vote in favor of
+7 the proposition is equal to at least sixty percent of the total
+8 vote cast for and against the proposition at the election. If
+9 the proposition of issuing the general county purpose bonds is
+10 approved by the voters, the board may proceed with the issuance
+11 of the bonds. However, for a proposition to issue bonds
+12 related in whole or in part to the construction, renovation, or
+13 expansion of a jail, the proposition is not carried or adopted
+14 unless the vote in favor of the proposition exceeds fifty
+15 percent of the total vote cast for and against the proposition
+16 at election.
+17 Sec. ___. Section 384.26, subsection 4, Code 2026, is
+18 amended to read as follows:
+19 4. The proposition of issuing general corporate purpose
+20 bonds is not carried or adopted unless the vote in favor of the
+21 proposition is equal to at least sixty percent of the total
+22 vote cast for and against the proposition at the election.
+23 If the proposition of issuing the general corporate purpose
+24 bonds is approved by the voters, the city may proceed with
+25 the issuance of the bonds. However, for a proposition to
+26 issue bonds related in whole or in part to the construction,
+27 renovation, or expansion of a jail, the proposition is not
+28 carried or adopted unless the vote in favor of the proposition
+29 exceeds fifty percent of the total vote cast for and against
+30 the proposition at election.>
+31 2. Title page, line 1, after <to> by inserting <jails and>
+32 3. By renumbering as necessary.
+HF 2505.3112 (1) 91
+-1- as/js 1/2
+
+______________________________
+ZABNER of Johnson
+HF 2505.3112 (1) 91
+-2- as/js 2/2

@@ -1,0 +1,288 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5001
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2104
+S-5001
+1 Amend House File 2104, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 479B.1A Legislative intent.
+5 It is the goal of the general assembly that the right of
+6 eminent domain will not be granted for a hazardous liquid
+7 pipeline except when every other reasonably available
+8 alternative has been diligently exhausted. Further goals of
+9 the general assembly are to promote the production of energy,
+10 derived from crops grown and resources gathered within the
+11 state of Iowa, and elsewhere within the United States, to
+12 ensure long-term, economically competitive and diverse sources
+13 of energy for Iowans, for citizens of the United States,
+14 and for our customers abroad; to support agriculture in the
+15 state of Iowa, and the employment of Iowans in agricultural
+16 work and in affiliated industries; to encourage investment
+17 in Iowa agriculture, and in the facilities needed to process
+18 our produce and to deliver useful products to consumers; to
+19 provide reasonable conditions for the planning and construction
+20 of linear infrastructure projects that will serve the public
+21 convenience and necessity; and to vindicate and safeguard the
+22 property rights of all Iowans, including those who prefer not
+23 to accommodate the construction of a pipeline on their land,
+24 as well as those who would choose to convey an easement for
+25 valuable consideration in a voluntary transaction.
+26 Sec. 2. Section 479B.2, Code 2026, is amended by adding the
+27 following new subsection:
+28 NEW SUBSECTION. 6. “Voluntary easement corridor” means land
+29 within the county where an informational meeting is held or
+30 within a distance of five miles on either side of a proposed
+31 pipeline route.
+32 Sec. 3. Section 479B.4, subsections 5 and 6, Code 2026, are
+33 amended to read as follows:
+34 5. a. The notice shall set forth include the following:
+35 (1) The name of the applicant.
+HF 2104.2258 (2) 91
+-1- sb/js 1/8
+
+1 (2) The applicant’s principal place of business.
+2 (3) The general description and purpose of the proposed
+3 project.
+4 (4) The general nature of the right-of-way desired.
+5 (5) A map showing the route or location of the proposed
+6 project.
+7 (6) That A statement that the landowner has a right to
+8 be present at the meeting and to file objections with the
+9 commission.
+10 (7) A designation of the time and place of the meeting.
+11 (8) A copy of the template easement to be used for acquiring
+12 land for the project.
+13 (9) A description of the methodology to be used in
+14 determining the value of the easement for initial offers.
+15 (10) A statement of the policy for claiming damages.
+16 b. The notice shall be served by certified mail with
+17 return receipt requested not less than thirty days previous
+18 to the time set for the meeting, and shall be published once
+19 in a newspaper of general circulation in the county. The
+20 publication shall be considered notice to landowners whose
+21 residence is not known and to each person in possession of or
+22 residing on the property provided a good faith effort to notify
+23 can be demonstrated by the pipeline company.
+24 6. A pipeline company seeking rights under this chapter
+25 shall not negotiate or purchase an easement or other interest
+26 in land in a county known to be affected by the proposed
+27 project prior to the informational meeting. Nothing in this
+28 subsection shall prohibit a company seeking rights under this
+29 chapter from holding a meeting to provide general information
+30 regarding a project to a community that does not include
+31 negotiating specific terms with specific landowners prior to
+32 the informational meeting required by this section.
+33 Sec. 4. Section 479B.4, Code 2026, is amended by adding the
+34 following new subsection:
+35 NEW SUBSECTION. 7. Any person may file with the commission
+HF 2104.2258 (2) 91
+-2- sb/js 2/8
+
+1 comments regarding the terms of the template easement or
+2 valuation methodology within fifteen days after it is filed
+3 under subsection 5. The company may file responses to such
+4 comments within thirty days after its filings pursuant to
+5 subsection 5. The commission shall issue an order accepting,
+6 rejecting, or requiring modification of the template easement
+7 and valuation methodology no more than sixty days after
+8 they are filed. This process shall not delay either the
+9 informational meetings or the company’s ability to negotiate
+10 with landowners, but no easement shall be finalized before the
+11 template easement is approved.
+12 Sec. 5. Section 479B.16, Code 2026, is amended by adding the
+13 following new subsections:
+14 NEW SUBSECTION. 4. a. Following the public informational
+15 meeting held pursuant to section 479B.4 and proper publication
+16 of notice required by section 479B.4, subsection 5, paragraph
+17 “b”, a pipeline company may communicate with owners of record
+18 of any land within the voluntary easement corridor for the
+19 purpose of proposing voluntary transactions for the conveyance
+20 of easements for the project, without regard to whether such
+21 landowner received prior notice by mail. The pipeline company
+22 shall not be required to provide to such landowners prior
+23 individual notice of the proposed project before initiating
+24 communication.
+25 b. Before entering into a voluntary agreement with a
+26 landowner who did not receive notice of the informational
+27 meeting by mail, the pipeline company shall provide such
+28 landowner copies of the informational meeting materials
+29 presented by the commission, the consumer advocate, and the
+30 company seeking rights under this chapter.
+31 c. In a pipeline company’s initial communication with a
+32 landowner, the company shall provide a written description of
+33 the opt-out procedure described in paragraph “d”.
+34 d. A landowner may decline further communication with a
+35 pipeline company concerning a possible transaction for easement
+HF 2104.2258 (2) 91
+-3- sb/js 3/8
+
+1 rights by providing verbal or written notice to the pipeline
+2 company that states the landowner does not wish to discuss the
+3 matter further, and by submitting to the commission notice
+4 through mail or by electronic means stating the same. Upon
+5 receipt of such notice from the landowner, the commission shall
+6 forward a copy to the pipeline company. Such notice may be
+7 given up to seven calendar days after the time a landowner is
+8 provided with a written easement offer.
+9 e. After receipt of notice by the landowner pursuant to
+10 paragraph “d”, the pipeline company shall not initiate further
+11 contact with the landowner for the purpose of an easement
+12 transaction, except that the company may send one or more
+13 letters by certified mail to the landowner making an offer or
+14 soliciting further communication. A landowner may rescind such
+15 refusal by contacting the pipeline company and notifying the
+16 commission no later than seven calendar days after the notice
+17 of refusal. Unless the landowner rescinds the refusal, the
+18 landowner’s land shall be deemed unavailable for an easement
+19 agreement.
+20 NEW SUBSECTION. 5. a. This subsection shall apply only
+21 to a hazardous liquid pipeline for which a pipeline company
+22 requests authority to use eminent domain to acquire interests
+23 in land.
+24 b. For a hazardous liquid pipeline that is proposed to
+25 exceed twenty miles in length within the state, the pipeline
+26 company shall make a diligent effort to assemble a route
+27 consisting exclusively of easements within the voluntary
+28 easement corridor that are acquired through voluntary
+29 conveyances. A pipeline company shall not be eligible to
+30 request authority to use eminent domain except upon a showing
+31 to the commission that it has made such diligent effort.
+32 c. After initiating communication with a landowner
+33 pursuant to subsection 4, a pipeline company shall provide a
+34 landowner with a description of the proposed project and the
+35 easement rights the company seeks to acquire, and shall request
+HF 2104.2258 (2) 91
+-4- sb/js 4/8
+
+1 permission to conduct a civil survey. If the permission for a
+2 civil survey is granted, the pipeline company shall conduct the
+3 civil survey within ninety business days.
+4 d. If a civil survey conducted pursuant to paragraph “c”
+5 finds the land is not suitable for purposes of the project,
+6 the pipeline company shall promptly provide the landowner
+7 with written notice of this finding and shall file with the
+8 commission a copy of the notice. Otherwise, within ninety
+9 business days of the completion of the civil survey, the
+10 pipeline company may submit to the landowner a written offer
+11 for purchase of the easement. The pipeline company shall,
+12 before filing an application requesting eminent domain, submit
+13 such an offer to the owners of land that might be used to
+14 assemble a route not including the land for which eminent
+15 domain is requested. The offer shall include customary terms
+16 and conditions for the conveyance of easements, and shall also
+17 include all of the following:
+18 (1) A statement of the requirements applicable under the
+19 laws of this state and rules adopted by the commission relating
+20 to the construction, operation, and maintenance of a hazardous
+21 liquid pipeline upon land subject to the proposed easement,
+22 including land restoration, tile repair, and damages.
+23 (2) A statement that the landowner and the pipeline company
+24 may agree to different terms not contrary to Iowa law, but that
+25 such provisions shall be set forth expressly in a contract for
+26 conveyance of an easement.
+27 (3) An offer of cash compensation for the easement, which
+28 may differ in amount from the compensation offered to other
+29 landowners for easements of similar dimensions on similar land.
+30 e. The pipeline company shall seek to execute contracts
+31 for the voluntary conveyance of easements within one year of
+32 initial communication with the landowners within a particular
+33 county. If, however, after no less than six months, the
+34 company is unable to execute contracts for easements sufficient
+35 to assemble a route for the pipeline, the company shall
+HF 2104.2258 (2) 91
+-5- sb/js 5/8
+
+1 file with the commission a notice setting forth all of the
+2 following:
+3 (1) The parcels for which the company has failed to reach
+4 easement agreements and for which eminent domain is sought, or
+5 that would, if an easement were granted, provide an alternative
+6 to each eminent domain parcel, and the names of the owners of
+7 those parcels.
+8 (2) A list of the contacts made relating to each parcel
+9 identified in subparagraph (1), including the date and method
+10 of each contact, and a brief description of any issues causing
+11 an impasse for that parcel.
+12 (3) Either a request for an extension for further
+13 negotiations or a statement that no agreement can be reached
+14 for that parcel.
+15 f. All data in the filing made under paragraph “e” shall
+16 be held confidential and shall not be subject to disclosure in
+17 response to a request under chapter 22.
+18 g. For any easement that the pipeline company seeks to
+19 acquire using eminent domain, the company shall file with the
+20 commission all of the following:
+21 (1) Evidence establishing that the company diligently
+22 exhausted all alternatives to assemble a continuous route
+23 for the project exclusively by means of voluntarily conveyed
+24 easements, and that it was unable to do so for one or more of
+25 the following reasons:
+26 (a) Inability to obtain voluntary agreements for continuous
+27 easements on adjoining parcels within a county where an
+28 informational meeting was held, or outside that county but
+29 within five miles of the center line of the proposed pipeline
+30 route in that county, due to rejection by landowners of offers
+31 based on a valuation methodology approved by the commission, or
+32 due to the refusal of landowners to engage in communications
+33 with the company pursuant to subsection 4, paragraph “d”.
+34 (b) Technical or engineering infeasibility of construction
+35 in a specific location due to terrain, other natural features,
+HF 2104.2258 (2) 91
+-6- sb/js 6/8
+
+1 or land conditions.
+2 (c) Infeasibility of compliance with safety requirements
+3 relating to construction, operation, or maintenance of a
+4 pipeline, under applicable federal law or rules, in a specified
+5 location, due to terrain, other natural features or land
+6 conditions, presence of occupied or other man-made structures,
+7 or if the commission finds on engineering evidence that
+8 safety would otherwise be adversely impacted by a route using
+9 only voluntary easements and such safety would be materially
+10 improved by use of a route facilitated by eminent domain.
+11 (d) Economic infeasibility of the pipeline due to excessive
+12 easement acquisition costs for alternative routes to avoid the
+13 use of eminent domain. For purposes of this subparagraph,
+14 economic infeasibility shall be shown by clear and convincing
+15 evidence.
+16 (2) A statement setting forth why the company requires an
+17 easement on the specific parcel for which the company seeks
+18 eminent domain.
+19 h. Deadlines established by subsection 4 and this subsection
+20 shall be subject to extension by the commission upon a showing
+21 of good cause.
+22 Sec. 6. EFFECTIVE DATE. This Act, being deemed of immediate
+23 importance, takes effect upon enactment.
+24 Sec. 7. APPLICABILITY —— RETROACTIVE APPLICABILITY.
+25 1. Except as provided in subsection 2, this Act applies to
+26 the construction of any hazardous liquid pipeline for which a
+27 petition is filed on or after the effective date of this Act.
+28 2. a. Except as provided in paragraph “b”, this Act applies
+29 retroactively to the construction of any hazardous liquid
+30 pipeline designed for the transportation of liquefied carbon
+31 dioxide for which a petition is filed under chapter 479B on or
+32 after January 1, 2024.
+33 b. The portion of the section of this Act enacting
+34 section 479B.16, subsection 4, applies retroactively to the
+35 construction of pipelines designed for the transportation of
+HF 2104.2258 (2) 91
+-7- sb/js 7/8
+
+1 liquefied carbon dioxide for which a petition was filed under
+2 chapter 479B on or after January 1, 2022.>
+3 2. Title page, by striking lines 1 through 3 and
+4 inserting <An Act relating to easements for hazardous liquid
+5 pipelines, including negotiation requirements, eminent domain
+6 authorization, and contract execution, and including effective
+7 date, applicability, and retroactive applicability provisions.>
+______________________________
+COMMITTEE ON COMMERCE
+MIKE BOUSSELOT, CHAIRPERSON
+HF 2104.2258 (2) 91
+-8- sb/js 8/8

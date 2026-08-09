@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5136
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2337
+S-5136
+1 Amend House File 2337, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, line 2, by striking <subsection> and inserting
+4 <subsections>
+5 2. Page 1, after line 6 by inserting:
+6 <NEW SUBSECTION. 6B. For the purpose of obtaining
+7 employment or other personal gain, knowingly and with intent
+8 falsely represents oneself as possessing a professional or
+9 occupational license regulated under chapter 272C.
+10 Sec. ___. Section 714.11, subsection 1, Code 2026, is
+11 amended by adding the following new paragraph:
+12 NEW PARAGRAPH. d. A fraudulent practice as set forth in
+13 section 714.8, subsection 6B.>
+14 3. Title page, line 2, after <credentials> by inserting <or
+15 professional or occupational licenses,>
+16 4. By renumbering as necessary.
+______________________________
+MIKE ZIMMER
+HF 2337.3642 (1) 91
+-1- as/js 1/1

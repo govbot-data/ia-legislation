@@ -1,0 +1,336 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+WORKFORCE DEVELOPMENT BILL)
+A BILL FOR
+1 An Act relating to programs and procedures of the department
+2 of workforce development and including effective date
+3 provisions.
+4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5501XD (3) 91
+je/js
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 REEMPLOYMENT CASE MANAGEMENT PROGRAM
+3 Section 1. Section 96.4, subsection 3, paragraph a, Code
+4 2026, is amended to read as follows:
+5 a. The individual is able to work, is available for work,
+6 and is earnestly and actively seeking work. An individual
+7 is considered to be earnestly and actively seeking work if
+8 the individual is participating in and compliant with the
+9 department’s reemployment case management program under
+10 section 96.11, subsection 17. This subsection is waived if
+11 the individual is deemed partially unemployed, while employed
+12 at the individual’s regular job, as defined in section 96.1A,
+13 subsection 37, paragraph “b”, subparagraph (1), or temporarily
+14 unemployed as defined in section 96.1A, subsection 37,
+15 paragraph “c”. The work search requirements of this subsection
+16 and the disqualification requirement for failure to apply for,
+17 or to accept suitable work of section 96.5, subsection 3, are
+18 waived if the individual is not disqualified for benefits under
+19 section 96.5, subsection 1, paragraph “h”.
+20 Sec. 2. Section 96.11, Code 2026, is amended by adding the
+21 following new subsection:
+22 NEW SUBSECTION. 17. Reemployment case management
+23 program. The department, as a required part of its
+24 administration of unemployment compensation benefits, shall
+25 operate a reemployment case management program. The program
+26 shall provide individualized reemployment services to claimants
+27 who are no longer attached to work. The services shall
+28 begin as soon as the week after, and not later than two weeks
+29 after, the filing of an initial claim for benefits. The
+30 department shall adopt rules pursuant to chapter 17A regarding
+31 participation in the reemployment case management program.
+32 DIVISION II
+33 UNEMPLOYMENT BENEFITS —— MEANS OF COMMUNICATION
+34 Sec. 3. Section 96.6, subsection 2, Code 2026, is amended
+35 to read as follows:
+LSB 5501XD (3) 91
+-1- je/js 1/9
+
+S.F. _____ H.F. _____
+1 2. Initial determination. A representative designated by
+2 the director shall promptly notify all interested parties to
+3 the claim of its filing, and the parties have ten days from the
+4 date of issuance of the notice of the filing of the claim to
+5 protest payment of benefits to the claimant. All interested
+6 parties shall select a format as specified by the department
+7 to receive such notifications. The representative shall
+8 promptly examine the claim and any protest, take the initiative
+9 to ascertain relevant information concerning the claim, and,
+10 on the basis of the facts found by the representative, shall
+11 determine whether or not the claim is valid, the week with
+12 respect to which benefits shall commence, the weekly benefit
+13 amount payable and its maximum duration, and whether any
+14 disqualification shall be imposed. The claimant has the burden
+15 of proving that the claimant meets the basic eligibility
+16 conditions of section 96.4. The employer has the burden of
+17 proving that the claimant is disqualified for benefits pursuant
+18 to section 96.5, except as provided by this subsection. The
+19 claimant has the initial burden to produce evidence showing
+20 that the claimant is not disqualified for benefits in cases
+21 involving section 96.5, subsections 10 and 11, and has the
+22 burden of proving that a voluntary quit pursuant to section
+23 96.5, subsection 1, was for good cause attributable to the
+24 employer and that the claimant is not disqualified for benefits
+25 in cases involving section 96.5, subsection 1, paragraphs
+26 “a” through “h”. Unless the claimant or other interested
+27 party, after notification or within ten calendar days after
+28 notification was issued, files an appeal from the decision,
+29 the decision is final and benefits shall be paid or denied
+30 in accordance with the decision. If an administrative law
+31 judge affirms a decision of the representative, or the appeal
+32 board affirms a decision of the administrative law judge
+33 allowing benefits, the benefits shall be paid regardless of any
+34 appeal which that is thereafter taken, but if the decision is
+35 finally reversed, no employer’s account shall be charged with
+LSB 5501XD (3) 91
+-2- je/js 2/9
+
+S.F. _____ H.F. _____
+1 benefits so paid and this relief from charges shall apply to
+2 both contributory and reimbursable employers, notwithstanding
+3 section 96.8, subsection 5.
+4 Sec. 4. Section 96.6, subsection 3, paragraph a, Code 2026,
+5 is amended to read as follows:
+6 a. Unless the appeal is withdrawn, an administrative law
+7 judge, after affording the parties reasonable opportunity for
+8 fair hearing, shall affirm or modify the findings of fact and
+9 decision of the representative. The hearing shall be conducted
+10 pursuant to the provisions of chapter 17A relating to hearings
+11 for contested cases. Before the hearing is scheduled, the
+12 parties shall be afforded the opportunity to choose either
+13 a telephone hearing or an in-person hearing. A request for
+14 an in-person hearing shall be approved unless the in-person
+15 hearing would be impractical because of the distance between
+16 the parties to the hearing. The notice for a telephone or
+17 in-person hearing shall be sent provided to all the parties at
+18 least ten calendar days before the hearing date. Reasonable
+19 requests for the postponement of a hearing shall be granted.
+20 The parties shall be duly notified of the administrative
+21 law judge’s decision, together with the administrative law
+22 judge’s reasons for the decision, which is the final decision
+23 of the department, unless within fifteen days after the date
+24 of notification or mailing of the date the decision becomes
+25 available in the department’s online portal, further appeal is
+26 initiated pursuant to this section.
+27 Sec. 5. Section 96.7, subsection 2, paragraph a,
+28 subparagraph (6), Code 2026, is amended to read as follows:
+29 (6) Within forty days after the close of each calendar
+30 quarter, the department shall notify each employer of the
+31 amount of benefits charged to the employer’s account during
+32 that quarter. The notification shall show the name of each
+33 individual to whom benefits were paid, the individual’s
+34 social security number, and the amount of benefits paid to
+35 the individual. An employer which that has not been notified
+LSB 5501XD (3) 91
+-3- je/js 3/9
+
+S.F. _____ H.F. _____
+1 as provided in section 96.6, subsection 2, of the allowance
+2 of benefits to an individual, may within thirty days after
+3 the date of mailing of the notification the decision becomes
+4 available in the department’s online portal appeal to the
+5 department for a hearing to determine the eligibility of the
+6 individual to receive benefits. The appeal shall be referred
+7 to an administrative law judge for hearing and the employer and
+8 the individual shall receive notice of the time and place of
+9 the hearing.
+10 Sec. 6. Section 96.7, subsection 2, paragraph e,
+11 subparagraph (1), Code 2026, is amended to read as follows:
+12 (1) The department shall fix the contribution rate for each
+13 employer and notify the employer of the rate by regular mail to
+14 the last known address of the employer electronic mail stating
+15 that the rate is available in the department’s online portal.
+16 An employer may appeal to the department for a revision of
+17 the contribution rate within thirty days from the date of the
+18 notice to the employer. After providing an opportunity for
+19 a hearing, the department may affirm, set aside, or modify
+20 its former determination and may grant the employer a new
+21 contribution rate. The department shall notify the employer
+22 of its decision by regular mail electronic mail stating that
+23 the decision is available in the department’s online portal.
+24 Judicial review of action of the department may be sought
+25 pursuant to chapter 17A.
+26 Sec. 7. Section 96.7, subsection 4, Code 2026, is amended
+27 to read as follows:
+28 4. Employer liability determination.
+29 a. The department shall initially determine all questions
+30 relating to the liability of an employing unit or employer,
+31 including the amount of contribution, the contribution rate,
+32 and successorship. A copy of the initial determination
+33 shall be sent by regular mail to the last address, according
+34 to the records of the department, of made available in the
+35 department’s online portal for each affected employing unit or
+LSB 5501XD (3) 91
+-4- je/js 4/9
+
+S.F. _____ H.F. _____
+1 employer.
+2 b. The affected employing unit or employer may appeal in
+3 writing to the department from the initial determination.
+4 An appeal shall not be entertained for any reason by the
+5 department unless the appeal is filed with the department
+6 within thirty days from the date on which the initial
+7 determination is mailed becomes available in the department’s
+8 online portal. If an appeal is not so filed, the initial
+9 determination shall with the expiration of the appeal period
+10 become final and conclusive in all respects and for all
+11 purposes.
+12 c. A hearing on an appeal shall be conducted according to
+13 rules adopted by the department pursuant to chapter 17A. A
+14 copy of the decision of the administrative law judge shall
+15 be sent by regular mail to the last address, according to
+16 the records of the department, of made available in the
+17 department’s online portal for each affected employing unit or
+18 employer.
+19 d. The department’s decision on the appeal shall be final
+20 and conclusive as to the liability of the employing unit or
+21 employer unless the employing unit or employer files an appeal
+22 for judicial review pursuant to subsection 5 within thirty
+23 days after the date of mailing of the decision as provided
+24 in subsection 5 becomes available in the department’s online
+25 portal.
+26 Sec. 8. Section 96.7, subsection 8, paragraph b,
+27 subparagraph (2), Code 2026, is amended to read as follows:
+28 (2) The nonprofit organization shall pay the bill not
+29 later than thirty days after the date the bill was mailed
+30 or otherwise delivered to the last known address of the
+31 nonprofit organization becomes available in the department’s
+32 online portal, unless the nonprofit organization has filed an
+33 application for redetermination in accordance with subparagraph
+34 (4).
+35 Sec. 9. Section 96.7, subsection 8, paragraph b,
+LSB 5501XD (3) 91
+-5- je/js 5/9
+
+S.F. _____ H.F. _____
+1 subparagraph (4), Code 2026, is amended to read as follows:
+2 (4) The amount due specified in a bill from the department
+3 is conclusive unless, not later than fifteen days following the
+4 date the bill was mailed or otherwise delivered to the last
+5 known address of the nonprofit organization becomes available
+6 in the department’s online portal, the nonprofit organization
+7 files an application for redetermination with the department
+8 setting forth the grounds for the application. The department
+9 shall promptly review the amount due specified in the bill
+10 and shall issue a redetermination. The redetermination
+11 is conclusive on the nonprofit organization unless, within
+12 thirty days after the mailing of the notification date the
+13 redetermination becomes available in the department’s online
+14 portal, the nonprofit organization appeals to the department
+15 for a hearing to determine the eligibility of the individual
+16 to receive benefits. The appeal shall be referred to an
+17 administrative law judge for hearing, and the employer and the
+18 individual shall receive notice of the time and place of the
+19 hearing.
+20 Sec. 10. Section 96.11, Code 2026, is amended by adding the
+21 following new subsection:
+22 NEW SUBSECTION. 18. Alternative to electronic
+23 communications. Notwithstanding the provisions of this chapter
+24 that require employers and individuals to provide information
+25 to the department by electronic means, and the department
+26 to provide notifications to an employer or an individual
+27 by electronic means, the director may establish by rule an
+28 alternate method or methods for employers and individuals to
+29 provide the required information to the department and for the
+30 department to provide the required notifications to an employer
+31 or an individual in circumstances when it is established, to
+32 the satisfaction of the director or the director’s designee,
+33 that the employer or individual is unable to provide the
+34 information to the department by electronic means or is unable
+35 to receive notifications from the department by electronic
+LSB 5501XD (3) 91
+-6- je/js 6/9
+
+S.F. _____ H.F. _____
+1 means.
+2 DIVISION III
+3 SUMMER YOUTH INTERN PILOT PROGRAM —— REPEAL
+4 Sec. 11. Section 84A.1B, subsection 3, unnumbered paragraph
+5 1, Code 2026, is amended to read as follows:
+6 Create, and update as necessary, a list of high-demand jobs
+7 statewide for purposes of the future ready Iowa registered
+8 apprenticeship programs created in chapter 84F, the summer
+9 youth intern pilot program established under section 84A.12,
+10 the Iowa employer innovation program established under section
+11 84A.13, the future ready Iowa skilled workforce last-dollar
+12 scholarship program established under section 256.228, the
+13 future ready Iowa skilled workforce grant program established
+14 under section 256.229, and postsecondary summer classes
+15 for high school students as provided under section 261E.8,
+16 subsection 8. In addition to the list created by the workforce
+17 development board under this subsection, each community
+18 college, in consultation with regional career and technical
+19 education planning partnerships, and with the approval of the
+20 board of directors of the community college, may identify and
+21 maintain a list of not more than five regional high-demand jobs
+22 in the community college region, and shall share the lists
+23 with the workforce development board. The lists submitted by
+24 community colleges under the subsection may be used in that
+25 community college region for purposes of programs identified
+26 under this subsection. The workforce development board
+27 shall have full discretion to select and prioritize statewide
+28 high-demand jobs after consulting with business and education
+29 stakeholders, as appropriate, and seeking public comment. The
+30 workforce development board may add to the list of high-demand
+31 jobs as it deems necessary. For purposes of this subsection,
+32 “high-demand job” means a job in the state that the board, or
+33 a community college in accordance with this subsection, has
+34 identified in accordance with this subsection. In creating
+35 a list under this subsection, the following criteria, at a
+LSB 5501XD (3) 91
+-7- je/js 7/9
+
+S.F. _____ H.F. _____
+1 minimum, shall apply:
+2 Sec. 12. REPEAL. Section 84A.12, Code 2026, is repealed.
+3 Sec. 13. EFFECTIVE DATE. This division of this Act takes
+4 effect June 30, 2026.
+5 EXPLANATION
+6 The inclusion of this explanation does not constitute agreement with
+7 the explanation’s substance by the members of the general assembly.
+8 This bill relates to programs and procedures of the
+9 department of workforce development (department).
+10 DIVISION I —— REEMPLOYMENT CASE MANAGEMENT PROGRAM. The
+11 bill requires the department, as a required part of its
+12 administration of unemployment compensation benefits, to
+13 operate a reemployment case management program. The program
+14 shall provide individualized reemployment services to claimants
+15 who are no longer attached to work. The bill specifies the
+16 time period for the services. The bill provides that an
+17 individual is considered to be earnestly and actively seeking
+18 work for purposes of eligibility for benefits if the individual
+19 is participating in and compliant with the program.
+20 DIVISION II —— UNEMPLOYMENT BENEFITS —— MEANS OF
+21 COMMUNICATION. The bill replaces various references to
+22 communication by mail with communication in the department’s
+23 online portal or by electronic mail. The references relate
+24 to determination of eligibility for unemployment benefits and
+25 determination of employer contribution rates for such benefits.
+26 The bill authorizes the director of the department to
+27 establish by rule an alternate method or methods for employers
+28 and individuals to provide required information relating to
+29 unemployment benefits to the department and for the department
+30 to provide required notifications to an employer or an
+31 individual in circumstances when it is established that the
+32 employer or individual is unable to provide the information
+33 to the department by electronic means or is unable to receive
+34 notifications from the department by electronic means.
+35 DIVISION III —— SUMMER YOUTH INTERN PILOT PROGRAM —— REPEAL.
+LSB 5501XD (3) 91
+-8- je/js 8/9
+
+S.F. _____ H.F. _____
+1 The bill repeals the summer youth intern pilot program. This
+2 division takes effect June 30, 2026.
+LSB 5501XD (3) 91
+-9- je/js 9/9

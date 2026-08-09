@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8177
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2674
+H-8177
+1 Amend House File 2674 as follows:
+2 1. Page 4, by striking lines 16 through 35 and inserting:
+3 <2. a. The department shall determine the frequency
+4 of inspections of a commercial establishment conducted
+5 pursuant to subsection 1 based upon a risk assessment of
+6 the establishment’s compliance with the standard of care
+7 requirement in section 162.10A, subsection 1.
+8 b. Paragraph “a” does not limit the department from
+9 conducting an inspection as necessary to ensure a commercial
+10 establishment is complying with the requirements of this
+11 chapter.
+12 c. Upon receipt of credible evidence that a commercial
+13 establishment may be in violation of the standard of care
+14 requirement provided in section 162.10A, subsection 1, the
+15 department shall inspect the establishment or initiate an
+16 investigation of the establishment.>
+______________________________
+FETT of Warren
+HF 2674.3308 (1) 91
+-1- da/js 1/1

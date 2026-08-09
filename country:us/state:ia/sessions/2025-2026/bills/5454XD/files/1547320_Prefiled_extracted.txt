@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+INSURANCE AND FINANCIAL
+SERVICES BILL)
+A BILL FOR
+1 An Act relating to cost sharing for health savings accounts and
+2 qualified high-deductible health plans.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5454XD (4) 91
+nls/ko
+
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 509.3B Health savings accounts and
+2 qualified high-deductible health plans —— cost sharing.
+3 If a copayment, coinsurance, or deductible paid as cost
+4 sharing by an enrollee under this chapter may result in the
+5 enrollee becoming ineligible for a health savings account
+6 associated with the enrollee’s qualified high-deductible
+7 health plan under section 223 of the Internal Revenue Code,
+8 the cost sharing shall apply only to the enrollee’s qualified
+9 high-deductible health plan after the enrollee satisfies the
+10 enrollee’s minimum deductible, except for items or services
+11 determined to be preventive care under section 223(c)(2)(C) of
+12 the Internal Revenue Code.
+13 Sec. 2. NEW SECTION. 514A.3C Health savings accounts and
+14 qualified high-deductible health plans —— cost sharing.
+15 If a copayment, coinsurance, or deductible paid as cost
+16 sharing by an enrollee under this chapter may result in the
+17 enrollee becoming ineligible for a health savings account
+18 associated with the enrollee’s qualified high-deductible
+19 health plan under section 223 of the Internal Revenue Code,
+20 the cost sharing shall apply only to the enrollee’s qualified
+21 high-deductible health plan after the enrollee satisfies the
+22 enrollee’s minimum deductible, except for items or services
+23 determined to be preventive care under section 223(c)(2)(C) of
+24 the Internal Revenue Code.
+25 EXPLANATION
+26 The inclusion of this explanation does not constitute agreement with
+27 the explanation’s substance by the members of the general assembly.
+28 This bill relates to cost sharing for health savings
+29 accounts (HSA) and qualified high-deductible health plans
+30 (HDHP). Under the bill, for group insurance and for accident
+31 and health insurance, if a copayment, coinsurance, or
+32 deductible paid as cost sharing by an enrollee may result in
+33 the enrollee becoming ineligible for an HSA associated with the
+34 enrollee’s qualified HDHP, the cost sharing shall apply only
+35 to the enrollee’s qualified HDHP after the enrollee satisfies
+LSB 5454XD (4) 91
+-1- nls/ko 1/2
+
+S.F. _____ H.F. _____
+1 the enrollee’s minimum deductible, except for items or services
+2 determined to be preventive care.
+LSB 5454XD (4) 91
+-2- nls/ko 2/2

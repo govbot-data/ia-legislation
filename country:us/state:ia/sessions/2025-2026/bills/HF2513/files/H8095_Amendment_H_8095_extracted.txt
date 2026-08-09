@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8095
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2513
+H-8095
+1 Amend House File 2513 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 260C.14, Code 2026, is amended by adding
+4 the following new subsection:
+5 NEW SUBSECTION. 27. Adopt a policy prohibiting the
+6 community college from entering into an employment contract on
+7 or after July 1, 2026, with an individual who is a holder of a
+8 valid federal H-1B visa and who is also a citizen of a nation
+9 designated as a foreign adversary by regulation of the United
+10 States secretary of commerce or designated as a state sponsor
+11 of terrorism by the United States secretary of state.
+12 Sec. ___. NEW SECTION. 261M.1 Definition.
+13 As used in this chapter, “institution of higher education”
+14 means a college or university located in this state that
+15 provides a postsecondary course of instruction to students
+16 in this state that leads to a degree. “Institution of higher
+17 education” does not include an institution governed by the state
+18 board of regents or a community college.
+19 Sec. ___. NEW SECTION. 261M.2 Employment of certain visa
+20 holders prohibited.
+21 An institution of higher education shall not enter into
+22 an employment contract on or after July 1, 2026, with an
+23 individual who is a holder of a valid federal H-1B visa and who
+24 is also a citizen of a nation designated as a foreign adversary
+25 by regulation of the United States secretary of commerce or
+26 designated as a state sponsor of terrorism by the United States
+27 secretary of state.>
+28 2. Page 1, line 8, after <commerce> by inserting <or
+29 designated as a state sponsor of terrorism by the United States
+30 secretary of state>
+31 3. Title page, by striking lines 1 through 3 and inserting
+32 <An Act prohibiting institutions of higher education from
+33 entering into employment contracts with citizens of federally
+34 designated foreign adversaries and state sponsors of terrorism
+35 holding certain visas.>
+HF 2513.2911 (2) 91
+-1- je/ns 1/2
+
+1 4. By renumbering as necessary.
+______________________________
+WHEELER of Sioux
+HF 2513.2911 (2) 91
+-2- je/ns 2/2

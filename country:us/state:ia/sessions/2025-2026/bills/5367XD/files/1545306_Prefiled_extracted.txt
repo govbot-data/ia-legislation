@@ -1,0 +1,87 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED AUDITOR OF STATE
+BILL)
+A BILL FOR
+1 An Act relating to the penalty for public employees and public
+2 officials taking money from a public employer.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5367XD (2) 91
+as/js
+
+S.F. _____ H.F. _____
+1 Section 1. Section 907.3, subsection 1, paragraph a, Code
+2 2026, is amended by adding the following new subparagraph:
+3 NEW SUBPARAGRAPH. (17) The defendant was a public employee
+4 or public official at the time of the offense and the amount
+5 taken by the defendant from the public employer exceeded ten
+6 thousand dollars.
+7 Sec. 2. Section 907.3, subsection 2, paragraph a, Code 2026,
+8 is amended by adding the following new subparagraph:
+9 NEW SUBPARAGRAPH. (10) The defendant was a public employee
+10 or public official at the time of the offense and the amount
+11 taken by the defendant from the public employer exceeded ten
+12 thousand dollars.
+13 Sec. 3. Section 907.3, subsection 3, Code 2026, is amended
+14 by adding the following new paragraph:
+15 NEW PARAGRAPH. i. The sentence of a defendant who was a
+16 public employee or public official at the time of the offense
+17 and the amount taken by the defendant from the public employer
+18 exceeded ten thousand dollars unless the defendant establishes,
+19 by clear and convincing evidence, and the sentencing court
+20 finds and states specifically on the record, the existence
+21 of mitigating circumstances warranting a departure from the
+22 otherwise applicable mandatory term of incarceration.
+23 Sec. 4. Section 907.3, Code 2026, is amended by adding the
+24 following new subsection:
+25 NEW SUBSECTION. 4. For the purposes of this section:
+26 a. “Public employee” means any individual employed by a
+27 public employer and includes a contractor or vendor.
+28 b. “Public employer” means the state, its boards,
+29 commissions, agencies, and departments, and its political
+30 subdivisions including school districts and other special
+31 purpose districts.
+32 c. “Public official” means the same as defined in section
+33 68B.2.
+34 EXPLANATION
+35 The inclusion of this explanation does not constitute agreement with
+LSB 5367XD (2) 91
+-1- as/js 1/2
+
+S.F. _____ H.F. _____
+1 the explanation’s substance by the members of the general assembly.
+2 This bill relates to sentencing of public employees and
+3 public officials for certain offenses.
+4 The bill prohibits a sentencing court from deferring the
+5 judgment or deferring the sentence of a defendant if the
+6 defendant was a public employee or public official at the time
+7 of the offense and the amount of money taken by the public
+8 employee or public official in connection with the offense
+9 exceeded $10,000.
+10 The bill prohibits a sentencing court from suspending
+11 the sentence of a defendant if the defendant was a public
+12 employee or public official at the time of the offense and
+13 the amount of money taken by the public employee or public
+14 official in connection with the offense exceeded $10,000 unless
+15 the defendant establishes, by clear and convincing evidence,
+16 and the sentencing court finds and states specifically on
+17 the record, that mitigating circumstances exist warranting
+18 a departure from the otherwise mandatory minimum term of
+19 incarceration.
+20 The bill defines “public employee” as any individual
+21 employed by a public employer and includes a contractor
+22 or vendor; “public employer” as the state, its boards,
+23 commissions, agencies, and departments, and its political
+24 subdivisions including school districts and other special
+25 purpose districts; and “public official” as officials, local
+26 officials, and members of the general assembly (as defined in
+27 Code section 68B.2).
+LSB 5367XD (2) 91
+-2- as/js 2/2

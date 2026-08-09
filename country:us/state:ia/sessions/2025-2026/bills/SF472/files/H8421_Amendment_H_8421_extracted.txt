@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8421
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 472
+H-8421
+1 Amend Senate File 472, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 20.3, subsection 11, Code 2026, is
+4 amended by adding the following new paragraph:
+5 NEW PARAGRAPH. g. An employee of the department of
+6 corrections.>
+7 2. Page 3, line 9, before <This> by inserting <1.>
+8 3. Page 3, after line 13 by inserting:
+9 <2. The section of this Act amending section 20.3 applies
+10 to collective bargaining procedures pursuant to chapter 20
+11 initiated on or after the effective date of this Act.>
+12 4. Title page, by striking lines 1 and 2 and inserting
+13 <An Act relating to public employee collective bargaining and
+14 including>
+15 5. By renumbering as necessary.
+______________________________
+COOLING of Linn
+SF 472.4297 (1) 91
+-1- je/js 1/1

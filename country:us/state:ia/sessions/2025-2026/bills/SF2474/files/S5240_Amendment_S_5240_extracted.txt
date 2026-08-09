@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5240
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 2474
+S-5240
+1 Amend Senate File 2474, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 256.32A, subsection 5, Code 2026, is
+4 amended to read as follows:
+5 5. This section is repealed July 1, 2027 2032.>
+6 2. Page 1, by striking line 21.
+7 3. Page 1, line 22, by striking <(3)> and inserting <(2)>
+8 4. Page 1, line 23, by striking <(4)> and inserting <(3)>
+9 5. Page 1, by striking lines 31 and 32 and inserting <each
+10 school, regardless of whether any such automated external
+11 defibrillator is in good working order, and where each
+12 automated external defibrillator is located on the school’s
+13 property.>
+14 6. Title page, by striking lines 1 through 4 and inserting
+15 <An Act relating to education, including by modifying
+16 provisions related to the Iowa dyslexia board and requiring
+17 the department of education to prepare a report related
+18 to cardiac emergency response plans and automated external
+19 defibrillators.>
+20 7. By renumbering as necessary.
+SF 2474.4411.H (1) 91
+-1- md 1/1

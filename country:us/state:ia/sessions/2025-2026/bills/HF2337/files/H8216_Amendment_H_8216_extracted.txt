@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8216
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2337
+H-8216
+1 Amend the amendment, H-8178, to House File 2337, as follows:
+2 1. Page 1, by striking line 2 and inserting:
+3 <___. Page 1, by striking lines 6 through 9 and inserting:
+4 <Sec. ___. Section 714.13, subsection 1, Code 2026, is
+5 amended to read as follows:
+6 1. Fraudulent practice in the fifth degree is a any of the
+7 following:
+8 a. A fraudulent practice where for which the amount of money
+9 or value of property or services involved does not exceed three
+10 hundred dollars.
+11 b. A fraudulent practice as set forth in section 714.8,
+12 subsection 6A.>>
+______________________________
+FISHER of Tama
+H 8178.3413 (1) 91
+-1- as/js 1/1

@@ -1,0 +1,180 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8389
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2490
+H-8389
+1 Amend House File 2490, as passed by the House, as follows:
+2 1. Page 1, line 20, by striking <any> and inserting <the
+3 primary>
+4 2. Page 1, line 22, before <internet> by inserting <primary>
+5 3. Page 1, after line 29 by inserting:
+6 <Sec. ___. Section 22.3, Code 2026, is amended to read as
+7 follows:
+8 22.3 Supervision —— fees.
+9 1. a. The examination and copying of public records shall
+10 be done under the supervision of the lawful custodian of the
+11 records or the lawful custodian’s authorized designee.
+12 b. The lawful custodian shall not require the physical
+13 presence of a person requesting or receiving a copy of a public
+14 record and shall fulfill requests for a copy of a public record
+15 received in writing, by telephone, or by electronic means.
+16 Although fulfillment
+17 2. a. Fulfillment of a request for a copy of a public
+18 record may be contingent upon receipt of payment of reasonable
+19 expenses, the. The lawful custodian shall make every
+20 reasonable effort to provide the public record requested at no
+21 cost other than copying costs for a record which takes less
+22 than thirty minutes to produce.
+23 b. In the event expenses are necessary, such expenses shall
+24 must be reasonable and shall be communicated to the requester
+25 upon receipt of the request.
+26 c. A person may contest the reasonableness of the lawful
+27 custodian’s expenses as provided for in this chapter.
+28 3. The lawful custodian may adopt and enforce reasonable
+29 rules regarding the examination and copying of the public
+30 records and the protection of the records against damage or
+31 disorganization.
+32 4. The lawful custodian shall provide a suitable place
+33 location for the examination and copying of the public records,
+34 but if it is impracticable to do the examination and copying of
+35 the records in the office of the lawful custodian, the person
+HF 2490.4096.S (1) 91
+-1- mb 1/5
+
+1 desiring to examine or copy shall pay any necessary expenses of
+2 providing a place for the examination and copying.
+3 2. All reasonable expenses of the examination and copying
+4 shall be paid by the person desiring to examine or copy.
+5 5. a. The lawful custodian may charge a reasonable fee
+6 for the services of the lawful custodian or the custodian’s
+7 authorized designee in supervising the examination and
+8 copying of the public records. All reasonable expenses of the
+9 examination and copying shall be paid by the person desiring to
+10 examine or copy the public record.
+11 b. If copy equipment is available at the office of the
+12 lawful custodian of any public records, the lawful custodian
+13 shall provide any person a reasonable number of copies of any
+14 public record in the custody of the office upon the payment of
+15 a fee. The fee for the copying service as determined by the
+16 lawful custodian shall not exceed the actual cost of providing
+17 the service. Actual costs shall include only those reasonable
+18 expenses directly attributable to supervising the examination
+19 of and making and providing copies of public records. Actual
+20 costs shall not include charges for ordinary expenses or
+21 costs such as employment benefits, depreciation, maintenance,
+22 electricity, or insurance associated with the administration of
+23 the office of the lawful custodian.
+24 c. Costs for legal services should only be utilized for
+25 the redaction or review of legally protected confidential
+26 information. However, a
+27 d. A county recorder shall not charge a fee for the
+28 examination and copying of public records necessary to complete
+29 and file claims for benefits with the Iowa department of
+30 veterans affairs or the United States department of veterans
+31 affairs.
+32 Sec. ___. Section 22.7, subsection 11, paragraph a, Code
+33 2026, is amended by adding the following new subparagraphs:
+34 NEW SUBPARAGRAPH. (6) The last date the individual,
+35 who resigned from or was discharged by the government body,
+HF 2490.4096.S (1) 91
+-2- mb 2/5
+
+1 performed work or actively carried out essential functions
+2 of the position, regardless of whether the information is
+3 contained in a written document, contract, agreement, or
+4 arrangement.
+5 NEW SUBPARAGRAPH. (7) The amount of moneys and public
+6 benefits provided to the individual for any continuation of
+7 pay, severance, or other compensation or benefits in excess of
+8 the amounts owed for work performed by the individual prior
+9 to the individual’s last day as an employee, contractor, or
+10 appointee for the government body, regardless of whether the
+11 information is contained in a written document, contract,
+12 agreement, or arrangement.>
+13 Sec. ___. NEW SECTION. 22.8A Injunction to restrain
+14 vexatious requester.
+15 1. The district court may grant an injunction restraining
+16 the right of a person found to be a vexatious requester to
+17 examine public records under section 22.2 from a specific
+18 government body, or may impose reasonable limitations on the
+19 manner, frequency, or scope of such requests. A hearing shall
+20 be held on a request for injunction after reasonable notice, as
+21 determined by the court, is given to the person alleged to be a
+22 vexatious requester. The government body seeking an injunction
+23 shall ensure compliance with the notice requirement. Such an
+24 injunction may be issued only if the petition supported by
+25 affidavit shows, and if the court finds, all of the following:
+26 a. The requests, considered in totality, would clearly not
+27 be in the public interest.
+28 b. The requests, considered in totality, constitute a
+29 pattern of vexatious conduct.
+30 c. The continuation of such requests would substantially and
+31 irreparably injure the government body’s ability to perform the
+32 government body’s duties or functions.
+33 d. Less restrictive measures under this chapter are
+34 inadequate to provide sufficient relief.
+35 2. In an action brought under this section, the court shall
+HF 2490.4096.S (1) 91
+-3- mb 3/5
+
+1 take into account the policy of this chapter that free and
+2 open examination of public records is generally in the public
+3 interest even though such requests may cause inconvenience or
+4 embarrassment to public officials or others. A court may issue
+5 an injunction under this section only if the government body
+6 seeking the injunction demonstrates by clear and convincing
+7 evidence that this section authorizes the issuance of the
+8 injunction.
+9 3. In determining whether conduct constitutes vexatious
+10 conduct under this section, the court may consider any of the
+11 following:
+12 a. The number, frequency, timing, scope, and content of
+13 public requests.
+14 b. The nature of oral and written communications related to
+15 the public requests.
+16 c. Any prior administrative or judicial findings regarding
+17 the conduct of the requester.
+18 d. All other relevant circumstances.
+19 4. For purposes of this section:
+20 a. “News media” includes any person who regularly gathers,
+21 prepares, photographs, records, writes, edits, reports, or
+22 publishes news for monetary consideration.
+23 b. (1) “Vexatious conduct” means a pattern of public
+24 records requests that satisfies one or more of the following:
+25 (a) The requests are designed primarily to harass the
+26 government body, its officers, or its employees.
+27 (b) The government body shows by clear and convincing
+28 evidence that the requests impose an unreasonable burden on the
+29 government body and compliance would substantially interfere
+30 with essential governmental operations.
+31 (c) The requests are submitted in a manner or accompanied by
+32 communication that constitute harassment of public officers or
+33 employees as provided in section 718.4.
+34 (2) “Vexatious conduct” does not include solely a large
+35 volume of requests made by a person or a representative of the
+HF 2490.4096.S (1) 91
+-4- mb 4/5
+
+1 news media.
+2 5. Upon finding by a preponderance of the evidence that the
+3 requester has not engaged in a pattern of vexatious conduct,
+4 a court shall order the payment of all costs and reasonable
+5 attorney fees, including appellate attorney fees, to the
+6 requester by the government body in the action brought under
+7 this section.>
+8 4. Title page, by striking lines 1 and 2 and inserting
+9 <An Act relating to public meetings and records, including
+10 public notice requirements for meetings of a governmental
+11 body, supervision and fees associated with examining and
+12 copying public records, employment separation information for
+13 certain government employees, contractors, or appointees, and
+14 injunctions to restrain vexatious requesters.>
+15 5. By renumbering as necessary.
+HF 2490.4096.S (1) 91
+-5- mb 5/5

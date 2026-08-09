@@ -1,0 +1,553 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8280
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 1028
+H-8280
+1 Amend the Senate amendment, H-1343, to House File 1028, as
+2 amended, passed, and reprinted by the House, as follows:
+3 1. By striking page 1, line 1, through page 14, line 3, and
+4 inserting:
+5 <Amend House File 1028, as amended, passed, and reprinted by
+6 the House, as follows:
+7 1. By striking everything after the enacting clause and
+8 inserting:
+9 <Section 1. Section 8.39, subsection 2, Code 2026, is
+10 amended to read as follows:
+11 2. If the appropriation of a department, institution,
+12 or agency is insufficient to properly meet the legitimate
+13 expenses of the department, institution, or agency, the
+14 director of the department of management, with the approval
+15 of the governor, may make an interdepartmental transfer from
+16 any other department, institution, or agency of the state
+17 having an appropriation in excess of its needs, of sufficient
+18 funds moneys to meet that deficiency. Such transfer shall
+19 be to an appropriation made from the same funding source and
+20 within the same fiscal year. The amount of a transfer made
+21 from an appropriation under this subsection shall be limited
+22 to not more than one-tenth of one percent of the total of all
+23 appropriations made from the funding source of the transferred
+24 appropriation for the fiscal year in which the transfer is
+25 made. An interdepartmental transfer to an appropriation which
+26 is not an entitlement appropriation is not authorized when
+27 the general assembly is in regular session and, in addition,
+28 the sum of interdepartmental transfers in a fiscal year to
+29 an appropriation which is not an entitlement appropriation
+30 shall not exceed fifty one hundred percent of the amount of
+31 the appropriation as enacted by the general assembly. For the
+32 purposes of this subsection, an entitlement appropriation is:
+33 a. “Appropriation in excess of its needs” means the
+34 amount appropriated by the general assembly for a purpose is
+35 determined by the department, institution, or agency receiving
+H 1343.3752 (1) 91
+-1- sc/ns 1/15
+
+1 the appropriation to be more than the amount necessary to carry
+2 out that purpose. An appropriation for an unspecified dollar
+3 amount, whether the appropriation is limited to be sufficient
+4 to carry out a particular purpose or is unlimited, shall not
+5 be considered an appropriation in excess of a department’s,
+6 institution’s, or agency’s needs.
+7 b. “Entitlement appropriation” means a line item
+8 appropriation to the state public defender for indigent defense
+9 or to the department of health and human services for foster
+10 care, state supplementary assistance, medical assistance, or
+11 for the family investment program.
+12 Sec. 2. Section 8.57C, subsections 2, 3, and 4, Code 2026,
+13 are amended to read as follows:
+14 2. Moneys in the fund in a fiscal year shall be used as
+15 appropriated by the general assembly for the acquisition
+16 of computer hardware and software, software development,
+17 telecommunications equipment, and maintenance and lease
+18 agreements associated with technology components and for the
+19 purchase of equipment intended to provide an uninterruptible
+20 power supply to the department of management to provide
+21 a stable funding source for implementation costs of state
+22 information technology projects that enhance the state’s
+23 technology infrastructure, improve government services,
+24 and promote innovation and economic development, including
+25 but not limited to new information technology projects
+26 and infrastructure replacement efforts of a department or
+27 establishment, while protecting the privacy of residents of
+28 this state.
+29 3. a. There is appropriated from the general fund of the
+30 state to the technology reinvestment fund for the fiscal year
+31 beginning July 1, 2026, and for each fiscal year thereafter,
+32 the sum of seventeen million five hundred thousand dollars.
+33 b. There is appropriated from the rebuild Iowa
+34 infrastructure fund for the fiscal year beginning July 1, 2025,
+35 and ending June 30, 2026, the sum of eighteen million two
+H 1343.3752 (1) 91
+-2- sc/ns 2/15
+
+1 hundred sixty-nine thousand two hundred seventeen dollars to
+2 the technology reinvestment fund, notwithstanding section 8.57,
+3 subsection 3, paragraph “c”.
+4 3. a. The department of management shall prioritize
+5 proposed projects based on all of the following considerations:
+6 (1) Whether the project aligns with the state’s strategic
+7 priorities.
+8 (2) Whether the project promotes or introduces new
+9 technology or significantly improves an existing system.
+10 (3) Whether the project is feasible and whether the
+11 department or establishment has established readiness for the
+12 project to proceed, including a clear assessment of timelines,
+13 budgets, and measurable outcomes.
+14 (4) Whether the project includes a clear change management
+15 strategy to support user adoption and aligns with lean
+16 enterprise principles to maximize value, minimize waste, and
+17 ensure continuous improvement.
+18 (5) Whether the project provides a positive return on
+19 investment, considering both financial returns and nonfinancial
+20 benefits such as improved public safety, education, or health
+21 care.
+22 (6) Whether the project results in infrastructure that is
+23 scalable across the state enterprise.
+24 (7) Whether the department or establishment has identified
+25 how the completed project will be sustained beyond the initial
+26 funding period.
+27 (8) Whether the project improves access to governmental
+28 services, particularly in rural communities.
+29 (9) Whether the project involves an infrastructure project
+30 as opposed to maintenance or standard upgrades of existing
+31 technology.
+32 b. The department of management shall provide a prioritized
+33 list of proposed projects for funding to the governor, who
+34 shall use the list in developing a budgetary recommendation
+35 for the general assembly pursuant to section 8.21 for the
+H 1343.3752 (1) 91
+-3- sc/ns 3/15
+
+1 fiscal year beginning July 1, 2027, and for each fiscal year
+2 thereafter.
+3 c. Notwithstanding section 8.33, moneys in the technology
+4 reinvestment fund that remain unencumbered or unobligated at
+5 the close of a fiscal year shall not revert but shall remain
+6 available for expenditure for the purposes designated until
+7 the close of the fiscal year that ends two years after the
+8 end of the fiscal year for which the appropriation was made.
+9 Notwithstanding section 12C.7, subsection 2, interest or
+10 earnings on moneys in the fund shall be credited to the fund.
+11 4. Annually, on On or before January 15 of each year, a
+12 state agency that received an appropriation from this fund
+13 the department of management shall report to the legislative
+14 services agency and the department of management general
+15 assembly the status of all projects funded under this section
+16 that have been completed since the previous report was
+17 submitted or that are in progress. The report shall must
+18 include a description of the project, the progress of work
+19 completed, the total estimated cost of the project, a list of
+20 all revenue sources being used to fund the project, the amount
+21 of funds moneys expended, the amount of funds moneys obligated,
+22 and the date the project was completed or an estimated
+23 completion date of the project, where applicable.
+24 Sec. 3. Section 8.78, Code 2026, is amended to read as
+25 follows:
+26 8.78 Background checks.
+27 An applicant for employment with the department, or
+28 an applicant for employment with a supported entity for a
+29 position as information technology staff, may be subject to a
+30 background investigation by the department. The background
+31 investigation may include, without limitation, a work history,
+32 financial review, request for criminal history data, and
+33 national criminal history check through the federal bureau of
+34 investigation. In addition, a contractor, vendor, employee, or
+35 any other individual performing work for the department, or an
+H 1343.3752 (1) 91
+-4- sc/ns 4/15
+
+1 individual on the information technology staff of a supported
+2 entity, may be subject to a national criminal history check
+3 through the federal bureau of investigation at least once
+4 every ten five years, including, without limitation, any time
+5 the department or supported entity has reason to believe an
+6 individual has been convicted of a crime. The department may
+7 request the national criminal history check and, if requested,
+8 shall provide the individual’s fingerprints to the department
+9 of public safety for submission through the state criminal
+10 history repository to the federal bureau of investigation.
+11 The individual shall authorize release of the results of the
+12 national criminal history check to the department and the
+13 applicable supported entity. The department shall pay the
+14 actual cost of the fingerprinting and national criminal history
+15 check, if any, unless otherwise agreed as part of a contract
+16 between the department or supported entity and a vendor or
+17 contractor performing work for the department or supported
+18 entity. The results of a criminal history check conducted
+19 pursuant to this section shall not be considered a public
+20 record under chapter 22.
+21 Sec. 4. NEW SECTION. 8.94 Contracts —— prohibited terms.
+22 Provisions included in a contract entered into pursuant to
+23 this subchapter that impose terms or conditions prohibited by
+24 this section are void as contrary to public policy. Such a
+25 contract shall be interpreted and enforced as if the contract
+26 did not include the prohibited terms or conditions. Prohibited
+27 terms and conditions include all of the following:
+28 1. A provision requiring the department or a supported
+29 entity to defend, indemnify, hold harmless another person, or
+30 otherwise assume the debt or liability of another person in
+31 violation of Article VII, section 1, of the Constitution of the
+32 State of Iowa.
+33 2. A provision that seeks to impose a term that is unknown
+34 to the department or supported entity at the time of signing
+35 the contract or that can be unilaterally changed by an entity
+H 1343.3752 (1) 91
+-5- sc/ns 5/15
+
+1 other than the department or a supported entity.
+2 3. A provision that violates chapter 13 by not allowing
+3 the department or a supported entity to participate in its own
+4 defense through representation by the attorney general.
+5 4. A provision that grants to a person other than the
+6 attorney general the authority to convey to a court or litigant
+7 the state’s consent to any settlement of a suit involving the
+8 contract when such settlement could impose liability on the
+9 state.
+10 5. A provision that specifies that the contract is governed
+11 by the laws of a foreign state or nation.
+12 6. A provision that claims blanket confidentiality of the
+13 contract’s terms.
+14 7. A provision that claims that payment terms, including but
+15 not limited to cost proposals or other pricing information, of
+16 the contract are confidential.
+17 8. A provision that authorizes or requires a venue for
+18 litigation other than an appropriate state or federal court
+19 sitting in Iowa.
+20 9. A provision that requires the department or a supported
+21 entity to pay attorney fees, court costs, or other litigation
+22 expenses in the event of a contractual dispute.
+23 10. A provision that imposes on the department or a
+24 supported entity binding arbitration or any other binding
+25 extrajudicial dispute resolution process in which the final
+26 resolution is not determined by the state.
+27 11. A provision that waives the department’s or a supported
+28 entity’s right to a jury trial.
+29 12. A provision that obligates the department or a supported
+30 entity to pay late payment charges not consistent with section
+31 8A.514, interest greater than allowed under section 8A.514 or
+32 other applicable law, or any cancellation charges, as such
+33 charges constitute pledges of the state’s credit.
+34 13. A provision that obligates the department or a supported
+35 entity to pay a tax.
+H 1343.3752 (1) 91
+-6- sc/ns 6/15
+
+1 14. A provision that imposes a prior notice obligation
+2 on the department or a supported entity as a condition for
+3 the automatic renewal of a software license. The department
+4 or a supported entity may provide notice of its intent to
+5 terminate a software license at any time before the renewal
+6 date established in the contract.
+7 15. A provision that obligates the department or a supported
+8 entity to accept risk of loss before the receipt of items or
+9 goods.
+10 16. A provision that obligates the department or a supported
+11 entity to have commercial insurance.
+12 17. A provision that obligates the department or a supported
+13 entity to grant to a nongovernmental entity full or partial
+14 ownership of intellectual property developed pursuant to the
+15 contract when the intellectual property is developed in whole
+16 or in part using federal funding.
+17 18. A provision that limits the time in which the department
+18 or a supported entity may bring a legal claim under the
+19 contract to a period shorter than that provided in Iowa law.
+20 19. A boilerplate provision included in transactional
+21 documents received by the department or a supported entity that
+22 seeks to alter the terms of the contract or to impose new terms
+23 in the contract.
+24 Sec. 5. NEW SECTION. 8.95 Contracts —— required terms.
+25 All of the following provisions shall be deemed to be
+26 included in a contract entered into by the department or a
+27 supported entity under this subchapter:
+28 1. Governing law. The contract shall be governed by
+29 the laws of the state of Iowa, without giving effect to any
+30 conflicts of law principles of Iowa law that may require the
+31 application of another jurisdiction’s law.
+32 2. Venue. Any litigation commenced in connection with the
+33 contract shall be brought and maintained in an appropriate
+34 state or federal court sitting in Iowa.
+35 3. State data. “State data” means all data, records,
+H 1343.3752 (1) 91
+-7- sc/ns 7/15
+
+1 information, or content, in any form, that is provided by a
+2 state governmental entity to a vendor or that is collected,
+3 generated, or otherwise obtained by the vendor in the course of
+4 providing a good or service to the state governmental entity.
+5 “State data” does not include aggregated or deidentified data
+6 collected by the vendor and used exclusively for the vendor’s
+7 internal purposes directly related to evaluating or improving
+8 system performance, ensuring reliability, evaluating product
+9 functionality, conducting system analytics, projecting needs
+10 through capacity planning, ensuring license compliance, or
+11 evaluating security. State data shall at all times remain the
+12 sole and exclusive property of the state, and the vendor shall
+13 use state data only as necessary to provide the contracted
+14 services to the state. Upon request, the vendor shall provide
+15 the state, at no cost, a current copy of all state data in a
+16 commercially reasonable and state-acceptable digital format
+17 that enables the state to readily use, transfer, or migrate
+18 the state data. Except to the extent retention of state data
+19 is required by law, grant, or other governmental requirement,
+20 the vendor shall, after confirming that the state has received
+21 a copy of the state data, permanently delete all state data
+22 within a commercially reasonable period of time after the
+23 conclusion or termination of the contract. At all times,
+24 including any post-contract period in which state data is
+25 retained due to record retention obligations, the vendor shall
+26 protect state data in accordance with current state data
+27 protection policies.
+28 Sec. 6. NEW SECTION. 8.96 Contracts —— limitation of
+29 liability —— prohibited terms.
+30 Notwithstanding section 8A.311, subsection 22, and rules
+31 adopted pursuant to that subsection, the director may include
+32 a contractual limitation of vendor liability in information
+33 technology goods and services contracts. A contractual
+34 limitation of vendor liability must take into consideration the
+35 public interest and the mitigation of risks associated with the
+H 1343.3752 (1) 91
+-8- sc/ns 8/15
+
+1 use of information technology goods or services. Any portion
+2 of a contractual limitation of vendor liability that includes
+3 a repudiation of all liability for cybersecurity incidents or
+4 a limitation on the vendor’s liability for intentional torts,
+5 criminal acts, fraudulent conduct, intentional or willful
+6 misconduct, gross negligence, death, bodily injury, damage to
+7 real or personal property, intellectual property violations,
+8 liquidated damages, compliance with applicable laws, violations
+9 of confidential information obligations, or contractual
+10 obligations of the vendor pertaining to indemnification shall
+11 be void as a matter of law as contrary to public policy. A
+12 contractual limit of vendor liability that does not apply
+13 equally to the contracted parties or that limits a vendor’s
+14 liability to less than the contract value inclusive of all
+15 possible extensions is void as a matter of law as contrary to
+16 public policy.
+17 Sec. 7. NEW SECTION. 8.97 Confidentiality of communications
+18 with chief information security officer.
+19 In the interest of facilitating communication between
+20 the chief information security officer and other entities
+21 concerning security incidents and security breaches, all such
+22 communications and any documents generated based in whole or in
+23 part on such communications are confidential. Notwithstanding
+24 chapter 22 or any other provision of law to the contrary, the
+25 department shall not release such communications pursuant to
+26 state open records laws, and such communications shall not be
+27 received into evidence, subject to discovery, or otherwise
+28 used in a trial, hearing, or other proceeding in or before any
+29 court, regulatory body, or other authority of the state or a
+30 political subdivision of the state, unless the communications
+31 are subject to a protective order that prohibits further
+32 disclosure of such communications and requires any court
+33 filings of such communications to be made under seal. It is
+34 the intent of the general assembly that these prohibitions and
+35 restrictions also apply to federal courts, regulatory bodies,
+H 1343.3752 (1) 91
+-9- sc/ns 9/15
+
+1 and other authorities and for purposes of federal open records
+2 laws, to the extent allowed by federal law and court rules.
+3 The chief information security officer shall not release such
+4 communications other than for any of the following purposes:
+5 1. Identifying a cybersecurity threat, including the source
+6 of the cybersecurity threat, or a security vulnerability, and
+7 then only to government officials for purposes of addressing
+8 the threat.
+9 2. Responding to, or otherwise preventing or mitigating,
+10 a specific threat of death, serious bodily harm, or serious
+11 economic harm.
+12 3. Responding to, investigating, prosecuting, or otherwise
+13 preventing or mitigating a serious threat to a minor, including
+14 sexual exploitation and threats to physical safety.
+15 4. Preventing, investigating, disrupting, or prosecuting an
+16 offense under state or federal law.
+17 5. Providing a confidential cybersecurity briefing to the
+18 governor or a member of the general assembly.
+19 Sec. 8. NEW SECTION. 8.98 Criminal justice information.
+20 1. The department is authorized to maintain an integrated
+21 information system that enables automated data sharing among
+22 the executive branch, judicial branch, and local agencies.
+23 2. The department is designated as the Iowa statistical
+24 analysis center for the purpose of coordinating with data
+25 resource agencies to provide data and analytical information
+26 to federal, state, and local governments. Notwithstanding any
+27 other provision of state law to the contrary, unless prohibited
+28 by federal law or regulation, the department shall be granted
+29 access, for purposes of research and evaluation, to all of
+30 the data listed in this subsection, except that intelligence
+31 data and peace officer investigative reports maintained
+32 by the department of public safety shall not be considered
+33 data for the purposes of this section. The department of
+34 management and any record, data, or information obtained by the
+35 department under this subsection is subject to the federal and
+H 1343.3752 (1) 91
+-10- sc/ns 10/15
+
+1 state confidentiality laws and rules, including as described
+2 in chapter 22, applicable to the original record, data, or
+3 information, and to the original custodian of the record,
+4 data, or information. Authorized access under this subsection
+5 includes but is not limited to all of the following:
+6 a. Juvenile court records and all other information
+7 maintained under sections 232.147 through 232.151.
+8 b. Child abuse information under sections 235A.15 through
+9 235A.19.
+10 c. Dependent adult abuse records maintained under chapter
+11 235B.
+12 d. Criminal history data maintained under chapter 692.
+13 e. Sex offender registry information maintained under
+14 chapter 692A.
+15 f. Presentence investigation reports maintained under
+16 section 901.4.
+17 g. Corrections records maintained under sections 904.601 and
+18 904.602.
+19 h. Community-based correctional program records maintained
+20 under chapter 904.
+21 i. Parole records maintained under chapter 906.
+22 j. Deferred judgment, deferred or suspended sentence, and
+23 probation records maintained under chapter 907.
+24 k. Violation of parole or probation records maintained under
+25 chapter 908.
+26 l. Fine and victim restitution records maintained under
+27 chapters 909 and 910.
+28 m. Child welfare records maintained under chapter 235.
+29 3. The department is authorized to provide data analysis and
+30 reporting on issues that may affect the state’s correctional
+31 population and various subgroups of the population. This
+32 reporting may include the review of filed, public legislative
+33 bills, joint resolutions, and amendments, and compiling
+34 criminal justice data for completion of correctional impact
+35 statements under section 2.56, minority impact statements, and
+H 1343.3752 (1) 91
+-11- sc/ns 11/15
+
+1 an annual prison population forecast.
+2 4. The department is authorized to maintain a multiagency
+3 information system to track the progress of juveniles and
+4 adults who have been charged with a criminal offense in
+5 the court system through various state and local agencies
+6 and programs. This system must utilize existing databases,
+7 including the Iowa court information system, the Iowa
+8 corrections offender network, the child welfare information
+9 system of the department of health and human services,
+10 the federally mandated national adoption and foster care
+11 information system, and other state and local databases
+12 pertaining to juveniles and to adults who have been charged
+13 with a criminal offense in the court system, to the extent
+14 practicable.
+15 5. The multiagency information system is authorized to
+16 count and track decision points for juveniles in the juvenile
+17 justice system and minors in the child welfare system, evaluate
+18 the experiences of the juveniles and minors, and evaluate
+19 the success of the services provided. The system is also
+20 authorized to count and track decision points for adults who
+21 have been charged with a criminal offense in the court system,
+22 including but not limited to dismissed charges, convictions,
+23 deferred judgments, and sentence information.
+24 6. If the department has insufficient moneys or resources
+25 to implement this section, the department is authorized to
+26 determine which portion of this section may be implemented, if
+27 any, and the remainder of this section shall not apply.
+28 Sec. 9. NEW SECTION. 8.99 Confidentiality of data.
+29 1. For purposes of chapter 22, the department shall not be
+30 deemed to be the lawful custodian of records the department
+31 maintains for another department or establishment under this
+32 subchapter, to the extent the records in question are held
+33 by the department as an automated data processing unit of
+34 government or held by the department solely for storage for
+35 another department or establishment. Such records include but
+H 1343.3752 (1) 91
+-12- sc/ns 12/15
+
+1 are not limited to all of the following:
+2 a. Electronic messaging system data.
+3 b. Mainframe data.
+4 c. Storage solutions or other electronic information, such
+5 as on-premises server data storage and cloud data storage.
+6 2. If the department receives a request pursuant to chapter
+7 22 for records over which the department has determined it is
+8 not the lawful custodian, the department shall deny the request
+9 and inform the requester to seek the information from the
+10 lawful custodian as provided in chapter 22. The department’s
+11 determination that it is not the lawful custodian of records is
+12 presumed valid. The presumption may be rebutted by clear and
+13 convincing evidence to the contrary.
+14 3. The department shall provide assistance to the lawful
+15 custodian of records held by the department so that the lawful
+16 custodian can comply with the production obligations of chapter
+17 22.
+18 4. If the department receives a subpoena in an
+19 administrative, civil, or criminal case for records for which
+20 the department is not the lawful custodian, the department
+21 shall notify the lawful custodian and the attorney general’s
+22 office and cooperate in any efforts to resist the subpoena.
+23 Sec. 10. Section 216A.131A, Code 2026, is amended to read
+24 as follows:
+25 216A.131A Criminal and juvenile justice planning.
+26 The department shall fulfill the responsibilities of
+27 this subchapter, including the duties specified in sections
+28 216A.133, 216A.135, 216A.136, 216A.137, 216A.138, and 216A.140.
+29 Sec. 11. Section 216A.133, subsection 1, paragraphs d, e, f,
+30 l, and t, Code 2026, are amended by striking the paragraphs.
+31 Sec. 12. Section 216A.133, subsection 1, paragraph q,
+32 subparagraphs (1) and (6), Code 2026, are amended by striking
+33 the subparagraphs.
+34 Sec. 13. Section 216A.133, subsection 1, paragraph s, Code
+35 2026, is amended to read as follows:
+H 1343.3752 (1) 91
+-13- sc/ns 13/15
+
+1 s. Provide expertise and advice to the legislative
+2 services agency, the department of management, the department
+3 of corrections, the judicial branch, and others charged
+4 with formulating fiscal, correctional, or minority impact
+5 statements.
+6 Sec. 14. Section 216A.135, subsection 2, paragraph e, Code
+7 2026, is amended by striking the paragraph.
+8 Sec. 15. Section 232.147, subsection 2, paragraph i, Code
+9 2026, is amended to read as follows:
+10 i. The statistical analysis center for the purposes stated
+11 in section 216A.136 8.98.
+12 Sec. 16. Section 232.147, subsection 3, paragraph n, Code
+13 2026, is amended to read as follows:
+14 n. The statistical analysis center for the purposes stated
+15 in section 216A.136 8.98.
+16 Sec. 17. Section 232.147, subsection 4, paragraph i, Code
+17 2026, is amended to read as follows:
+18 i. The statistical analysis center for the purposes stated
+19 in section 216A.136 8.98.
+20 Sec. 18. Section 232.149, subsection 5, paragraph f, Code
+21 2026, is amended to read as follows:
+22 f. The statistical analysis center for the purposes stated
+23 in section 216A.136 8.98.
+24 Sec. 19. Section 232.149A, subsection 3, paragraph m, Code
+25 2026, is amended to read as follows:
+26 m. The statistical analysis center for the purposes stated
+27 in section 216A.136 8.98.
+28 Sec. 20. REPEAL. Sections 216A.136, 216A.137, and
+29 216A.138, Code 2026, are repealed.
+30 Sec. 21. EFFECTIVE DATE. The following take effect July 1,
+31 2027:
+32 The portions of the section of this Act amending section
+33 8.57C, subsections 2 and 4.
+34 Sec. 22. APPLICABILITY. The following apply to contracts
+35 entered into or renewed on or after July 1, 2026:
+H 1343.3752 (1) 91
+-14- sc/ns 14/15
+
+1 1. The section of this Act enacting section 8.94.
+2 2. The section of this Act enacting section 8.95.
+3 3. The section of this Act enacting section 8.96.>
+4 2. Title page, by striking lines 1 through 3 and inserting
+5 <An Act relating to matters under the purview of the department
+6 of management, and including effective date and applicability
+7 provisions.>>
+______________________________
+BERGAN of Winneshiek
+H 1343.3752 (1) 91
+-15- sc/ns 15/15

@@ -1,0 +1,287 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5190
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2104
+S-5190
+1 Amend the amendment, S-5001, to House File 2104, as passed by
+2 the House, as follows:
+3 1. By striking page 1, line 1, through page 8, line 7, and
+4 inserting:
+5 <Amend House File 2104, as passed by the House, as follows:
+6 1. By striking everything after the enacting clause and
+7 inserting:
+8 <Section 1. Section 6A.22, Code 2026, is amended by adding
+9 the following new subsection:
+10 NEW SUBSECTION. 3. Notwithstanding any other provision of
+11 law, a person shall not exercise the power of eminent domain to
+12 acquire right-of-way for, construct, or operate a pipeline for
+13 the primary purpose of transporting carbon oxide.
+14 Sec. 2. Section 479B.2, Code 2026, is amended by adding the
+15 following new subsection:
+16 NEW SUBSECTION. 6. “Voluntary easement corridor” means land
+17 within the county where the informational meeting is held and
+18 within a distance of five miles on either side of a proposed
+19 pipeline route.
+20 Sec. 3. Section 479B.4, subsection 3, Code 2026, is amended
+21 to read as follows:
+22 3. The pipeline company shall hold informational meetings
+23 in each county in which real property or property rights will
+24 be affected at least thirty days prior to filing the petition
+25 for a new pipeline. A member of the commission, or a person
+26 designated by the commission, shall serve as the presiding
+27 officer at each meeting and present an agenda for the meeting,
+28 which shall include a summary of the legal rights of the
+29 affected landowners. No A formal record of the meeting shall
+30 be required and shall be part of the official record of the
+31 proceeding. The meeting shall be held at a location reasonably
+32 accessible to all persons who may be affected by granting the
+33 permit.
+34 Sec. 4. Section 479B.4, subsection 5, Code 2026, is amended
+35 by adding the following new paragraphs:
+S 5001.4027 (2) 91
+-1- sb/js 1/8
+
+1 NEW PARAGRAPH. c. The notice shall be served to the county
+2 board of supervisors in the county where the meeting will take
+3 place. Notwithstanding paragraph “b”, notice served under this
+4 paragraph may be given electronically or through certified
+5 mail.
+6 NEW PARAGRAPH. d. The notice shall be served to the
+7 governing body of any city with corporate limits that fall
+8 within two miles of the voluntary easement corridor for the
+9 purposes of complying with subdividing and platting rights and
+10 responsibilities pursuant to section 354.9 and zoning rights
+11 and responsibilities pursuant to section 414.23.
+12 Sec. 5. Section 479B.4, subsection 6, Code 2026, is amended
+13 to read as follows:
+14 6. A pipeline company seeking rights under this chapter
+15 shall not negotiate or purchase an easement or other interest
+16 in land in a county known to be affected by the proposed
+17 project prior to the informational meeting. Nothing in this
+18 subsection shall prohibit a company seeking rights under this
+19 chapter from holding a meeting to provide general information
+20 regarding a project to a community that does not include
+21 negotiating specific terms with specific landowners prior to
+22 the informational meeting required by this section; however,
+23 notice of a general informational meeting must be given to the
+24 county board of supervisors in the county where the meeting
+25 will occur no fewer than five business days prior to the
+26 meeting. Notice of a general informational meeting may be
+27 delivered electronically or by certified mail.
+28 Sec. 6. Section 479B.4, Code 2026, is amended by adding the
+29 following new subsection:
+30 NEW SUBSECTION. 7. A pipeline company seeking rights under
+31 this chapter shall not negotiate or purchase an easement or
+32 other interest in land within two miles of the corporate limits
+33 of a city without prior authorization from the governing body
+34 of the city pursuant to sections 354.9 and 414.23.
+35 Sec. 7. Section 479B.5, Code 2026, is amended to read as
+S 5001.4027 (2) 91
+-2- sb/js 2/8
+
+1 follows:
+2 479B.5 Petition.
+3 A petition for a permit shall state, and the commission shall
+4 consider as factors in the final order, all of the following:
+5 1. The name of the individual, firm, corporation, company,
+6 or association applying for the permit.
+7 2. The applicant’s principal office and place of business.
+8 3. A legal description of the route of the proposed pipeline
+9 and a map of the route.
+10 4. A general description of the public or private highways,
+11 grounds, waters, streams, and private lands of any kind along,
+12 over, or across which the proposed pipeline will pass.
+13 5. If The following additional information if permission
+14 is sought to construct, maintain, and operate facilities for
+15 the underground storage of hazardous liquids the petition shall
+16 include the following additional information:
+17 a. A description and a map of the public or private
+18 highways, grounds, waters, streams, and private lands of any
+19 kind under which the storage is proposed.
+20 b. Maps showing the location of proposed machinery,
+21 appliances, fixtures, wells, and stations necessary for the
+22 construction, maintenance, and operation of the hazardous
+23 liquid storage facilities.
+24 6. The possible use of alternative routes.
+25 7. The relationship of the proposed project to the present
+26 and future land use and zoning ordinances.
+27 8. The inconvenience or undue injury which that may result
+28 to property owners or the public as a result of the proposed
+29 project.
+30 9. Anticipated employment the project will provide to
+31 Iowans, including the quantity and duration of construction
+32 employment opportunities, the quantity of long-term operational
+33 employment opportunities, the geographic location of long-term
+34 operations centers, and the number of employment opportunities
+35 of each type to be filled by residents of Iowa.
+S 5001.4027 (2) 91
+-3- sb/js 3/8
+
+1 9. 10. An affidavit attesting to the fact that
+2 informational meetings were held in each county affected by the
+3 proposed project and the time and place of each meeting.
+4 Sec. 8. Section 479B.6, Code 2026, is amended by adding the
+5 following new subsection:
+6 NEW SUBSECTION. 3. For any permit application for which the
+7 applicant files an affidavit attesting to obtaining one hundred
+8 percent voluntary easements, the commission shall prioritize
+9 the hearing date for such application and conduct such hearing
+10 before other applicants who have not obtained such voluntary
+11 participation.
+12 Sec. 9. Section 479B.9, Code 2026, is amended to read as
+13 follows:
+14 479B.9 Final order —— condition.
+15 The commission may grant a permit in whole or in part upon
+16 terms, conditions, and restrictions as to location and route
+17 as it determines to be just and proper. A permit shall not be
+18 granted to a pipeline company unless the commission determines
+19 that the proposed services and the factors in the petition
+20 will promote the public convenience and necessity. Conditions
+21 in the permit shall be met within five years of the date of
+22 issuance; otherwise the permit shall not be reissued without
+23 reapplication to the commission under section 479B.4.
+24 Sec. 10. Section 479B.14, Code 2026, is amended by adding
+25 the following new subsection:
+26 NEW SUBSECTION. 7. If the commission attaches conditions
+27 to a permit, conditions in the permit shall be met within five
+28 years of the date of issuance; otherwise the permit shall not
+29 be reissued without reapplication to the commission under
+30 section 479B.4. Any variance in the conditions attached to
+31 the permit that result in deviations from the approved route
+32 or approved voluntary easement corridor shall require public
+33 meetings in accordance with section 479B.4, subsections 3
+34 through 5, in affected counties.
+35 Sec. 11. Section 479B.16, subsections 1 and 2, Code 2026,
+S 5001.4027 (2) 91
+-4- sb/js 4/8
+
+1 are amended to read as follows:
+2 1. A pipeline company granted a pipeline permit shall be
+3 vested with the right of eminent domain, except for a pipeline
+4 to transport carbon oxide, to the extent necessary and as
+5 prescribed and approved by the commission, not exceeding
+6 seventy-five feet in width for right-of-way and not exceeding
+7 one acre in any one location in addition to right-of-way for
+8 the location of pumps, pressure apparatus, or other stations or
+9 equipment necessary to the proper operation of its pipeline.
+10 The commission may grant additional eminent domain rights where
+11 the pipeline company has presented sufficient evidence to
+12 adequately demonstrate that a greater area is required for the
+13 proper construction, operation, and maintenance of the pipeline
+14 or for the location of pumps, pressure apparatus, or other
+15 stations or equipment necessary to the proper operation of its
+16 pipeline. The commission shall not grant eminent domain rights
+17 for the transportation of carbon oxide.
+18 2. A pipeline company granted a permit for underground
+19 storage of hazardous liquid shall be vested with the right
+20 of eminent domain, except for the storage of carbon oxide,
+21 to the extent necessary and as prescribed and approved by
+22 the commission in order to appropriate for its use for the
+23 underground storage of hazardous liquid any subsurface stratum
+24 or formation in any land which that the commission shall
+25 have found to be suitable and in the public interest for the
+26 underground storage of hazardous liquid, and may appropriate
+27 other interests in property, as may be required adequately to
+28 examine, prepare, maintain, and operate the underground storage
+29 facilities. The commission shall not grant eminent domain
+30 rights for the underground storage of carbon oxide.
+31 Sec. 12. Section 479B.16, Code 2026, is amended by adding
+32 the following new subsection:
+33 NEW SUBSECTION. 4. a. Following the public informational
+34 meeting held pursuant to section 479B.4 and proper publication
+35 of notice required by section 479B.4, subsection 5, paragraph
+S 5001.4027 (2) 91
+-5- sb/js 5/8
+
+1 “b”, a pipeline company may communicate with owners of record
+2 of any land within the voluntary easement corridor for the
+3 purpose of proposing voluntary transactions for the conveyance
+4 of easements for the project, without regard to whether such
+5 landowners received prior notice by mail. The pipeline company
+6 shall not be required to provide to such landowners prior
+7 individual notice of the proposed project before initiating
+8 communication.
+9 b. Before entering into a voluntary agreement with a
+10 landowner who did not receive notice of the informational
+11 meeting by mail, the pipeline company shall provide such
+12 landowner copies of the informational meeting materials
+13 presented by the commission, the consumer advocate, and the
+14 company seeking rights under this chapter.
+15 c. In a pipeline company’s initial communication with a
+16 landowner, the company shall provide a written description of
+17 the opt-out procedure described in paragraph “d”.
+18 d. A landowner may decline further communication with a
+19 pipeline company concerning a possible transaction for easement
+20 rights by providing verbal or written notice to the pipeline
+21 company that states the landowner does not wish to discuss the
+22 matter further, and by submitting to the commission notice
+23 through mail or by electronic means stating the same. Upon
+24 receipt of such notice from the landowner, the commission shall
+25 forward a copy to the pipeline company.
+26 e. After receipt of notice by the landowner pursuant to
+27 paragraph “d”, the pipeline company shall not initiate further
+28 contact with the landowner for the purpose of an easement
+29 transaction, except that the company may continue to contact
+30 the landowner by mail. A landowner may rescind such refusal by
+31 contacting the pipeline company and notifying the commission
+32 through mail or electronic means. Unless the landowner
+33 rescinds the refusal, the landowner’s land shall be deemed
+34 unavailable for an easement agreement.
+35 Sec. 13. RULES. The Iowa utilities commission shall
+S 5001.4027 (2) 91
+-6- sb/js 6/8
+
+1 adopt rules pursuant to chapter 17A to administer this Act by
+2 December 31, 2026.
+3 Sec. 14. EFFECTIVE DATE. This Act, being deemed of
+4 immediate importance, takes effect upon enactment.
+5 Sec. 15. APPLICABILITY —— RETROACTIVE APPLICABILITY.
+6 1. a. Except as provided in paragraph “b”, this Act applies
+7 to the construction of any hazardous liquid pipeline for which
+8 the petition is filed on or after the effective date of this
+9 Act.
+10 b. The section of this Act amending section 479B.9 applies
+11 retroactively to the issuance of permits for the construction
+12 of any hazardous liquid pipeline for which a petition was filed
+13 under chapter 479B on or after January 1, 2020.
+14 2. This Act applies to condemnation proceedings for which
+15 the application under section 6B.3 is filed on or after the
+16 effective date of this Act.>
+17 2. Title page, by striking lines 1 through 3 and inserting
+18 <An Act relating to hazardous liquid pipelines, including the
+19 granting and exercising of eminent domain for carbon oxide
+20 pipelines, and petition, informational meeting, and notice
+21 requirements, and including effective date, applicability, and
+22 retroactive applicability provisions.>>
+______________________________
+KEVIN ALONS
+______________________________
+SANDY SALMON
+______________________________
+DENNIS GUTH
+S 5001.4027 (2) 91
+-7- sb/js 7/8
+
+______________________________
+DAVE SIRES
+______________________________
+LYNN EVANS
+______________________________
+DOUG CAMPBELL
+______________________________
+CHERIELYNN WESTRICH
+______________________________
+MARK LOFGREN
+______________________________
+MIKE PIKE
+______________________________
+JEFF TAYLOR
+______________________________
+CHARLIE McCLINTOCK
+S 5001.4027 (2) 91
+-8- sb/js 8/8

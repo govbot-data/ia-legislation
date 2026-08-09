@@ -1,0 +1,208 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to indirect costs charged to state-funded
+2 grants, and including applicability provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5536XD (3) 91
+sc/ns
+
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 8.13 Uniform limit on indirect
+2 costs charged to state-funded grants.
+3 1. Purpose. The purpose of this section is to establish
+4 a uniform statewide limit on indirect costs charged to
+5 state-funded grants to ensure that public moneys are directed
+6 primarily to program services and deliverables, to promote
+7 transparency, and to provide consistent administration across
+8 departments and establishments.
+9 2. Definitions. As used in this section, unless the context
+10 otherwise requires:
+11 a. “Direct cost” means a cost that can be identified with
+12 or directly assigned to a particular final cost objective,
+13 program, project, or activity with a high degree of accuracy.
+14 “Direct cost” includes but is not limited to salaries and
+15 wages of personnel working on the program, associated fringe
+16 benefits, program supplies and materials, program-specific
+17 equipment, program-required participant insurance, travel
+18 necessary for program objectives, program-required participant
+19 support costs, and programmatic subawards.
+20 b. “Grant” means a state-funded monetary award provided
+21 by a department or establishment for the purpose of carrying
+22 out a public program, project, or service, whether provided
+23 through contract, grant agreement, cooperative agreement, or
+24 other funding instrument. “Grant” does not include a loan,
+25 tax expenditure, or procurement contract for goods or routine
+26 services purchased for the state’s direct use.
+27 c. “Grantee” means a recipient of a grant, including but not
+28 limited to a nonprofit organization, local government, tribal
+29 government, public or private institution of higher education,
+30 or for-profit entity.
+31 d. “Indirect cost” means a cost that is incurred for
+32 a common or joint objective and cannot be identified with
+33 a particular final cost objective, program, project, or
+34 activity without disproportionate effort. “Indirect cost”
+35 includes but is not limited to the allocable portion of
+LSB 5536XD (3) 91
+-1- sc/ns 1/5
+
+S.F. _____ H.F. _____
+1 general administration and general expenses such as executive
+2 management, accounting, auditing, budgeting, human resources,
+3 procurement, payroll, insurance, utilities for general
+4 administrative space, depreciation or use allowances on
+5 buildings and equipment used for general administration,
+6 facility operation and maintenance for general administrative
+7 space, and information technology services supporting general
+8 administrative functions.
+9 e. “Total grant amount” means the total dollar amount of
+10 state moneys obligated to the grantee under a grant, as stated
+11 in the fully executed grant or funding agreement, inclusive of
+12 all budget categories and any amendments.
+13 3. Indirect cost cap.
+14 a. The aggregate amount of all indirect costs charged to a
+15 grant shall not exceed five percent of the total grant amount.
+16 b. A department or establishment shall not approve a
+17 budget or reimbursement request that would cause a grantee’s
+18 cumulative indirect costs to exceed five percent of the total
+19 grant amount.
+20 c. A grantee shall not do any of the following:
+21 (1) Reclassify an indirect cost as a direct cost for the
+22 purpose of circumventing the cap imposed under this subsection.
+23 (2) Charge an indirect cost on top of a direct cost that
+24 includes an allocable share of indirect costs.
+25 d. A department or establishment shall not waive the cap
+26 imposed under this subsection unless expressly authorized by
+27 law that references and exempts the grant from this subsection.
+28 4. Budgeting and documentation.
+29 a. Each grant budget must separately identify indirect
+30 costs and direct costs. The budget narrative must describe the
+31 basis for the grantee’s indirect cost calculation and certify
+32 compliance with the cap imposed under this section.
+33 b. A grantee shall maintain records sufficient to
+34 substantiate all indirect costs charged to a grant, including
+35 the methodology used to allocate indirect costs across funding
+LSB 5536XD (3) 91
+-2- sc/ns 2/5
+
+S.F. _____ H.F. _____
+1 sources, and shall retain the records for at least ten years
+2 after final payment or closeout, or longer if required by the
+3 grant agreement.
+4 c. If a grantee allocates indirect costs across multiple
+5 funding sources, the allocation methodology must be reasonable,
+6 consistently applied, and compliant with generally accepted
+7 cost allocation principles. The grantee shall document
+8 the methodology and make it available to the department or
+9 establishment awarding the grant upon request.
+10 5. Administration and oversight.
+11 a. A department or establishment shall incorporate the
+12 requirements of this section into each grant solicitation and
+13 agreement.
+14 b. A department or establishment shall review a proposed
+15 grant budget for compliance with this section prior to awarding
+16 the grant and shall monitor indirect costs charged during the
+17 grant period.
+18 c. A department or establishment shall implement controls
+19 to prevent payment of indirect costs in excess of the cap
+20 imposed under this section, including rejection or adjustment
+21 of an invoice or reimbursement request that would exceed the
+22 allowable maximum.
+23 d. The department of management shall adopt rules pursuant
+24 to chapter 17A to implement and administer this section. The
+25 office of grants enterprise management of the department of
+26 management shall issue implementation guidance, including
+27 standardized definitions, examples, and sample budget
+28 templates, to promote uniform application of this section.
+29 6. Remedies.
+30 a. Indirect costs charged in excess of the cap imposed under
+31 this section are disallowed.
+32 b. A department or establishment shall recover any amounts
+33 paid for disallowed indirect costs through offsets against
+34 future payments under the grant, repayment by the grantee, or
+35 other means provided in the grant agreement and applicable law.
+LSB 5536XD (3) 91
+-3- sc/ns 3/5
+
+S.F. _____ H.F. _____
+1 c. As a condition of continued funding, a department or
+2 establishment may require a grantee that exceeds the cap
+3 imposed under this section to implement a corrective action
+4 plan and revised allocation methodology to ensure future
+5 compliance.
+6 7. Lower cap authorized. A department or establishment may
+7 adopt a stricter limit on indirect costs than established in
+8 this section for particular grants if authorized by law or if
+9 necessary or desirable based on funding conditions, provided
+10 such limit is stated in the grant solicitation and agreement.
+11 8. Federal moneys. To the extent a grant includes federal
+12 moneys that contain explicit requirements concerning indirect
+13 costs, the federal requirement applies to the portion of the
+14 grant funded with federal moneys.
+15 Sec. 2. APPLICABILITY. This Act applies to grants
+16 awarded or amended on or after July 1, 2026. A department or
+17 establishment, as defined in section 8.2, shall, to the extent
+18 practicable, modify an existing grant upon amendment to conform
+19 to this Act.
+20 EXPLANATION
+21 The inclusion of this explanation does not constitute agreement with
+22 the explanation’s substance by the members of the general assembly.
+23 This bill provides that indirect costs, as defined in the
+24 bill, charged to a state-funded grant awarded or amended on
+25 or after July 1, 2026, must not exceed 5 percent of the total
+26 grant amount and prohibits a department or establishment from
+27 approving a budget or reimbursement request that would exceed
+28 that limit unless expressly authorized by law. A grantee is
+29 prohibited from reclassifying an indirect cost as a direct cost
+30 and from charging an indirect cost on top of a direct cost that
+31 includes an allocable share of indirect costs. For purposes of
+32 Code chapter 8, a department or establishment is an executive
+33 department, commission, board, institution, bureau, office,
+34 or other agency of state government, that uses, expends, or
+35 receives any government funds, excluding the courts and the
+LSB 5536XD (3) 91
+-4- sc/ns 4/5
+
+S.F. _____ H.F. _____
+1 general assembly.
+2 A grant budget must list indirect costs and direct costs
+3 separately and a budget narrative must explain the basis for
+4 the indirect cost calculation. A grantee must maintain records
+5 related to indirect costs for a minimum of 10 years. An
+6 allocation method that allocates indirect costs across multiple
+7 funding sources must be reasonable, consistent, and compliant
+8 with generally accepted cost allocation principles. The
+9 methodology must be documented and provided to the department
+10 or establishment upon request.
+11 The bill requires a department or establishment to
+12 incorporate the provisions of the bill into each grant
+13 solicitation and agreement, ensure grant budgets are compliant,
+14 and implement controls to prevent payment of indirect costs in
+15 excess of the cap. The department of management (DOM) must
+16 adopt rules to implement the bill and DOM’s office of grants
+17 enterprise management must issue implementation guidance to
+18 promote uniform application of the bill.
+19 The bill requires a department or establishment to recover
+20 amounts paid for disallowed indirect costs through offsets
+21 against future payments under the grant, repayment by the
+22 grantee, or other means provided in the grant agreement and
+23 applicable law. A department or establishment may require a
+24 grantee that exceeds the cap to implement a corrective action
+25 plan and revised allocation methodology.
+26 The bill authorizes a department or establishment to adopt
+27 a lower cap on indirect costs under certain circumstances if
+28 the cap is stated in the grant solicitation and agreement. The
+29 bill’s provisions do not supplant federal requirements for
+30 federal moneys included in a grant.
+LSB 5536XD (3) 91
+-5- sc/ns 5/5

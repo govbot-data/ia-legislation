@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8187
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2189
+H-8187
+1 Amend House File 2189 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. NEW SECTION. 26.8A E-verify program ——
+4 employee verification —— background checks.
+5 1. a. Each bidder shall verify the employment eligibility
+6 of each of the bidder’s employees using the e-verify program
+7 and submit with its bid a certification that the employment
+8 eligibility of each employee of the bidder has been verified.
+9 b. For purposes of this subsection, “e-verify program” means
+10 the employment verification program as jointly administered
+11 by the United States department of homeland security and the
+12 United States social security administration or any successor
+13 program.
+14 2. Each bidder shall submit with its bid the results of a
+15 national criminal history check performed through the state
+16 criminal history repository for each employee of the bidder.>
+17 2. Title page, line 1, after <to> by inserting <public
+18 construction, including verification of employment eligibility
+19 and criminal history of individuals by employers, and>
+20 3. By renumbering as necessary.
+______________________________
+GOSA of Scott
+HF 2189.3312 (1) 91
+-1- lh/jh 1/1

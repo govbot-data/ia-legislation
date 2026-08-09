@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5252
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2542
+S-5252
+1 Amend House File 2542, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 902.8, Code 2026, is amended to read as
+6 follows:
+7 902.8 Minimum sentence —— habitual offender.
+8 An A habitual offender is any person convicted of a class
+9 “C” or a class “D” felony, who has twice before been convicted
+10 of any felony in a court of this or any other state, or of the
+11 United States. An offense is a felony if, by the law under
+12 which the person is convicted, it is so classified at the time
+13 of the person’s conviction. A person convicted of a third
+14 qualifying felony shall be sentenced as a habitual offender and
+15 shall serve a minimum of seven years of the sentence imposed
+16 by law. A person sentenced as an a habitual offender shall not
+17 be eligible for parole until the person has served the minimum
+18 sentence of confinement of three seven years. Earned time
+19 accrued pursuant to chapter 903A shall not reduce the minimum
+20 sentence of confinement of seven years.
+21 Sec. 2. Section 902.9, subsection 1, paragraph c, Code 2026,
+22 is amended to read as follows:
+23 c. An A habitual offender shall be confined for no more than
+24 fifteen twenty years.
+25 Sec. 3. Section 907.2, Code 2026, is amended by adding the
+26 following new subsection:
+27 NEW SUBSECTION. 3. Probation officers shall report
+28 probation violations to the proper authorities.
+29 Sec. 4. Section 907.3, subsection 2, paragraph a, Code 2026,
+30 is amended by adding the following new subparagraph:
+31 NEW SUBPARAGRAPH. (10) An offense qualifying the defendant
+32 as a habitual offender under section 902.8.
+33 Sec. 5. Section 907.3, subsection 3, Code 2026, is amended
+34 by adding the following new paragraph:
+35 NEW PARAGRAPH. i. A sentence imposed pursuant to section
+HF 2542.4517 (1) 91
+-1- as/js 1/2
+
+1 902.8.>
+______________________________
+MIKE BOUSSELOT
+HF 2542.4517 (1) 91
+-2- as/js 2/2

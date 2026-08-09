@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8158
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 922
+H-8158
+1 Amend House File 922 as follows:
+2 1. Page 4, after line 22 by inserting:
+3 <Sec. ___. NEW SECTION. 529A.4 Federal law —— preemption
+4 and safe harbor.
+5 1. A financial institution shall not be deemed to have
+6 violated this chapter for refusing to provide, restricting, or
+7 terminating financial services to a person if the financial
+8 institution demonstrates, by a preponderance of the evidence,
+9 that such refusal, restriction, or termination was for any of
+10 the following reasons:
+11 a. To comply with a specific requirement of federal law
+12 including but not limited to any of the following:
+13 (1) The federal Bank Secrecy Act, 31 U.S.C. §5311 et seq.,
+14 or any regulation, guidance, or order issued thereunder by
+15 the financial crimes enforcement network of the United States
+16 department of the treasury, including those related to the
+17 reporting of suspicious activity, anti-money laundering program
+18 obligations, or customer due diligence.
+19 (2) A regulation, directive, or order issued by the office
+20 of foreign assets control of the United States department of
+21 the treasury, including a requirement to block, freeze, or
+22 refuse a transaction involving sanctioned persons, entities,
+23 or jurisdictions.
+24 (3) A formal or informal directive, supervisory action,
+25 safety-and-soundness order, consent order, or memorandum of
+26 understanding issued by a federal banking regulator with
+27 jurisdiction over the financial institution, including the
+28 office of the comptroller of the currency of the United
+29 States, the federal deposit insurance corporation, the board of
+30 governors of the federal reserve system, or the national credit
+31 union administration.
+32 (4) Any applicable know-your-customer or customer due
+33 diligence regulation promulgated under the federal Uniting and
+34 Strengthening America by Providing Appropriate Tools Required
+35 to Intercept and Obstruct Terrorism Act of 2001, Pub. L. No.
+HF 922.3204 (2) 91
+-1- nls/ko 1/2
+
+1 107-56, or the federal Bank Secrecy Act, Pub. L. No. 91-508.
+2 b. To avoid a specific and articulable risk of violating
+3 federal law, provided that the financial institution documents
+4 the basis for such risk determination at or before the time the
+5 action is taken and retains the documentation for a period of
+6 not less than five years.
+7 2. This chapter shall not be construed to require a
+8 financial institution to disclose information that is
+9 prohibited from disclosure under 31 U.S.C. §5318(g)(2) or any
+10 other provision of federal law. When federal law prohibits a
+11 financial institution from disclosing the specific basis for a
+12 refusal, restriction, or termination of financial services, a
+13 written statement by the financial institution indicating that
+14 the financial institution is unable to provide information due
+15 to federal law shall satisfy the written statement requirement
+16 under section 529A.2, subsection 2.
+17 3. This chapter shall not be construed to limit, supersede,
+18 or conflict with any requirement of federal law applicable to
+19 financial institutions. In any case of irreconcilable conflict
+20 between this chapter and federal law, federal law shall control
+21 to the extent of the conflict.
+22 4. The safe harbor under subsection 1 shall be construed
+23 narrowly. A financial institution may not invoke subsection
+24 1 as a defense based solely on a general compliance program,
+25 enterprise-wide risk policy, or generalized assessment of
+26 reputational risk. Subsection 1 applies only when a financial
+27 institution identifies a specific, applicable federal
+28 requirement, regulation, or order that directly necessitated
+29 the action taken.>
+______________________________
+THOMSON of Floyd
+HF 922.3204 (2) 91
+-2- nls/ko 2/2

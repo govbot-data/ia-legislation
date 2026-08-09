@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5217
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2167
+S-5217
+1 Amend Senate File 2167 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 321.175 Human trafficking
+5 prevention training —— commercial drivers.
+6 1. An applicant for the initial issuance of a class A,
+7 B, or C commercial driver’s license must certify to the
+8 department that the applicant successfully completed a course
+9 of instruction regarding human trafficking prevention.
+10 2. A course of instruction regarding human trafficking
+11 prevention must last at least thirty minutes and include
+12 training based on the department’s approved human trafficking
+13 prevention training materials. The course must be offered in
+14 the English language.
+15 3. The department shall approve, in cooperation with the
+16 department of education and the state board of education,
+17 human trafficking prevention training materials regarding the
+18 recognition, prevention, and reporting of human trafficking.
+19 The departments may collaborate with other entities that
+20 specialize in and produce training materials regarding the
+21 recognition, prevention, and reporting of human trafficking
+22 particularly for persons who operate commercial motor vehicles.
+23 The departments shall make the approved human trafficking
+24 prevention training materials available to the public. The
+25 departments shall review and update the departments’ approved
+26 human trafficking prevention training materials to account for
+27 changes and trends in human trafficking at least once every
+28 three years.
+29 4. The department may adopt rules pursuant to chapter 17A to
+30 administer this section.
+31 Sec. 2. Section 321.188, subsection 1, Code 2026, is amended
+32 by adding the following new paragraph:
+33 NEW PARAGRAPH. h. For a person applying for the
+34 initial issuance of a class A, B, or C commercial driver’s
+35 license, certify that the applicant has completed a course
+SF 2167.4238 (1) 91
+(amending this SF 2167 to CONFORM to HF 2598)
+-1- th/ns 1/2
+
+1 of instruction regarding human trafficking prevention in
+2 accordance with section 321.175.
+3 Sec. 3. APPLICABILITY. This Act applies on and after March
+4 1, 2027, or the date the department of transportation submits
+5 to the Iowa administrative code editor for publication in the
+6 Iowa administrative bulletin a statement by the director of
+7 transportation that the applicable phase of the department of
+8 transportation’s new records system is implemented, whichever
+9 is earlier. The department shall also forward a copy of the
+10 statement to the Iowa Code editor.>
+11 2. Title page, by striking lines 1 and 2 and inserting <An
+12 Act relating to a required course of instruction regarding
+13 human trafficking prevention for persons applying for the
+14 initial issuance of certain commercial driver’s licenses, and
+15 including applicability provisions.>
+______________________________
+MARK COSTELLO
+SF 2167.4238 (1) 91
+(amending this SF 2167 to CONFORM to HF 2598)
+-2- th/ns 2/2

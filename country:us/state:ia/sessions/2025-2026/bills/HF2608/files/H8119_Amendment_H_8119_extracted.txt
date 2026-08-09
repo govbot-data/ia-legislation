@@ -1,0 +1,79 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8119
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2608
+H-8119
+1 Amend House File 2608 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 95.1 Definitions.
+5 As used in this chapter, unless the context otherwise
+6 requires:
+7 1. “Department” means the department of workforce
+8 development.
+9 2. “Employee” means an individual who is paid wages by an
+10 employer for service in employment in this state. “Employee”
+11 does not include an independent contractor.
+12 3. “Employer” means an employer as defined in section 96.1A.
+13 In the case of an independent contractor, “employer” means
+14 the independent contractor and does not mean the person or
+15 organization that uses the contract labor.
+16 4. “Employment” means the same as defined in section 96.1A.
+17 5. “E-verify program” means the employment verification
+18 program as jointly administered by the United States department
+19 of homeland security and the United States social security
+20 administration or any successor program.
+21 6. “Independent contractor” means the same as described in
+22 rules adopted by the department for purposes of administration
+23 of chapter 96.
+24 7. “Wages” means the same as defined in section 96.1A.
+25 Sec. 2. NEW SECTION. 95.2 E-verify program —— employee
+26 verification —— penalty.
+27 1. An employer, after hiring or rehiring an employee, shall
+28 verify the employment eligibility of the employee through the
+29 e-verify program. A person who violates this subsection is
+30 guilty of a class “D” felony.
+31 2. An employer shall certify to the department each
+32 verification the employee carries out pursuant to subsection 1,
+33 and shall keep a record of the verification for the duration of
+34 the employee’s employment or at least three years, whichever
+35 is longer. The certification shall be considered a record
+HF 2608.3116 (2) 91
+-1- ss/ns 1/2
+
+1 under section 96.11, subsection 6, and rules adopted pursuant
+2 thereto, and shall be submitted to the department within the
+3 time period required by rule for an employer to submit the
+4 employer’s contribution and payroll report.
+5 3. Every three months, the secretary of state shall request
+6 from the United States department of homeland security a
+7 list of employers from this state that are registered with
+8 the e-verify program. On receipt of the list of employers,
+9 the secretary of state shall make the list available on the
+10 secretary of state’s internet site.
+11 Sec. 3. NEW SECTION. 95.3 Compliance with federal and state
+12 law.
+13 This chapter shall not be construed to require an employer to
+14 take any action that the employer believes in good faith would
+15 violate federal or state law.
+16 Sec. 4. NEW SECTION. 95.4 Rules.
+17 The department shall adopt rules pursuant to chapter 17A to
+18 administer this chapter.
+19 Sec. 5. NEW SECTION. 95.5 Use of federal funds by
+20 department prohibited.
+21 The department shall not utilize federal funds, or personnel
+22 or any other department resources for which federal funding
+23 is allocated, to carry out the department’s duties under this
+24 chapter.>
+25 2. Title page, by striking lines 1 through 4 and inserting
+26 <An Act requiring verification of employment eligibility of
+27 individuals by employers and providing penalties.>
+______________________________
+B. MEYER of Polk
+HF 2608.3116 (2) 91
+-2- ss/ns 2/2

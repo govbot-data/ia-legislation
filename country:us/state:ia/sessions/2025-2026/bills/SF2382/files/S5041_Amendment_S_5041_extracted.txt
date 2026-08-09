@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5041
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2382
+S-5041
+1 Amend Senate File 2382 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 OPERATION OF ALL-TERRAIN VEHICLES ON HIGHWAYS>
+5 2. Page 4, after line 27 by inserting:
+6 <DIVISION ___
+7 REQUIRED INFORMATION FOR SNOWMOBILE, ALL-TERRAIN VEHICLE, AND
+8 VESSEL REGISTRATIONS
+9 Sec. ___. Section 321G.4, subsection 1, Code 2026, is
+10 amended to read as follows:
+11 1. The owner of each snowmobile required to be registered
+12 shall register it annually with the department through a
+13 county recorder. The department shall develop and maintain an
+14 electronic system for the registration of snowmobiles pursuant
+15 to this chapter. The department shall establish forms and
+16 procedures as necessary for the registration of snowmobiles. A
+17 person shall not be required to provide the person’s height,
+18 weight, or eye color when completing a form.
+19 Sec. ___. Section 321I.4, subsection 1, Code 2026, is
+20 amended to read as follows:
+21 1. The owner of each all-terrain vehicle required to be
+22 registered shall register it annually with the department
+23 through a county recorder. The department shall develop
+24 and maintain an electronic system for the registration of
+25 all-terrain vehicles pursuant to this chapter. The department
+26 shall establish forms and procedures as necessary for the
+27 registration of all-terrain vehicles. A person shall not be
+28 required to provide the person’s height, weight, or eye color
+29 when completing a form.
+30 Sec. ___. Section 462A.5, subsection 1, unnumbered
+31 paragraph 1, Code 2026, is amended to read as follows:
+32 The owner of each vessel required to be numbered by this
+33 state shall initially register it with the commission through
+34 the county recorder of the county in which the owner resides,
+35 or, if the owner is a nonresident, the owner shall register
+SF 2382.2954 (2) 91
+-1- th/ns 1/2
+
+1 it in the county in which such vessel is principally used.
+2 Both residents and nonresidents shall subsequently renew
+3 registration every three years with any county recorder. The
+4 commission shall develop and maintain an electronic system for
+5 the registration of vessels pursuant to this chapter. The
+6 commission shall establish forms and procedures as necessary
+7 for the registration of all vessels. A person shall not be
+8 required to provide the person’s height, weight, or eye color
+9 when completing a form.>
+10 3. Title page, line 1, by striking <operating all-terrain
+11 vehicles on highways,> and inserting <vehicles designed
+12 primarily for off-highway use, including the operation of
+13 all-terrain vehicles on highways and information required to
+14 complete a form to register snowmobiles, all-terrain vehicles,
+15 and vessels,>
+16 4. By renumbering as necessary.
+______________________________
+DAN ZUMBACH
+SF 2382.2954 (2) 91
+-2- th/ns 2/2

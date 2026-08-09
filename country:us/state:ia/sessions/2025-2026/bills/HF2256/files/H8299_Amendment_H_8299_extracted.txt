@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8299
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2256
+H-8299
+1 Amend House File 2256, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 232.68, subsection 2, paragraph a,
+5 subparagraph (4), Code 2026, is amended by adding the following
+6 new subparagraph division:
+7 NEW SUBPARAGRAPH DIVISION. (d) If a child has a diagnosed
+8 behavioral health condition and, despite reasonable attempts,
+9 the child’s parent or legal guardian is unable to provide
+10 necessary care for the child’s health and welfare solely
+11 because the parent or legal guardian is unable to access
+12 appropriate behavioral or mental health treatment for the
+13 child, the department shall not consider the lack of provision
+14 of appropriate behavioral or mental health treatment as child
+15 abuse. This subparagraph division shall not be construed to
+16 prohibit the department from assessing a child’s situation and
+17 facilitating appropriate intervention the department deems is
+18 in the best interests of the child.
+19 Sec. 2. DEPARTMENT OF HEALTH AND HUMAN SERVICES ——
+20 INCORPORATION INTO POLICIES. The department of health and
+21 human services shall adjust the department’s child abuse
+22 assessment policies, including the department’s policy manuals,
+23 to incorporate the provisions of section 232.68, subsection 2,
+24 paragraph “a”, subparagraph (4), subparagraph division (d), as
+25 enacted in this Act.>
+26 2. Title page, by striking lines 1 through 3 and inserting
+27 <An Act exempting a parent’s or legal guardian’s inability to
+28 access appropriate behavioral or mental health treatment for
+29 their child from the definition of child abuse.>
+HF 2256.3823.S (1) 91
+-1- mb 1/1

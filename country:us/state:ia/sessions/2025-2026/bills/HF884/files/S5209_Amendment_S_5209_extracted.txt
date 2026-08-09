@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5209
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 884
+S-5209
+1 Amend the amendment, S-3068, to House File 884, as amended,
+2 passed, and reprinted by the House, as follows:
+3 1. Page 1, line 5, by striking <2025> and inserting <2026>
+4 2. Page 1, line 9, by striking <279.87> and inserting
+5 <279.89>
+6 3. Page 1, after line 10 by inserting:
+7 <___. Page 1, line 1, by striking <2025> and inserting
+8 <2026>
+9 ___. Page 1, line 5, by striking <279.87> and inserting
+10 <279.89>
+11 ___. Page 1, line 6, by striking <2025> and inserting <2026>
+12 ___. Page 1, line 11, by striking <279.87> and inserting
+13 <279.89>
+14 ___. Page 1, line 12, by striking <279.87> and inserting
+15 <279.89>>
+16 4. Page 1, by striking lines 11 through 32.
+17 5. Page 1, before line 33 by inserting:
+18 <___. Page 1, after line 17 by inserting:
+19 <___. Notwithstanding subsection 1, a chaplain who is
+20 employed or engaged pursuant to this section shall not provide
+21 support, services, or programs to a student if the student’s
+22 parent or guardian files with the school district a written
+23 request indicating that a chaplain who is employed or engaged
+24 pursuant to this section is not to provide such support,
+25 services, or programs to the student.>>
+26 6. Page 1, by striking line 35 and inserting:
+27 <___. By renumbering, redesignating, and correcting
+28 internal references as necessary.>
+29 7. By renumbering as necessary.
+______________________________
+MIKE PIKE
+S 3068.4168 (1) 91
+-1- jda/jh 1/1

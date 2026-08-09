@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8431
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2297
+H-8431
+1 Amend House File 2297, as passed by the House, as follows:
+2 1. Page 1, after line 10 by inserting:
+3 <Sec. ___. Section 103A.10, subsection 4, Code 2026, is
+4 amended by adding the following new paragraph:
+5 NEW PARAGRAPH. c. Provisions of the state building
+6 code relating to radon mitigation requirements shall be
+7 applicable to all new single-family and two-family residential
+8 construction in this state.>
+9 2. By renumbering as necessary.
+HF 2297.4353.S (1) 91
+-1- mb 1/1

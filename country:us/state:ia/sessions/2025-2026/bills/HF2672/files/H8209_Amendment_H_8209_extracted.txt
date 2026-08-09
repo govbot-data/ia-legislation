@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8209
+Media Type: application/pdf
+
+================================================================================
+
+House File 2672
+H-8209
+1 Amend House File 2672 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 422.11L, subsection 1, Code 2026,
+4 is amended by striking the subsection and inserting in lieu
+5 thereof the following:
+6 1. The taxes imposed under this subchapter, less the
+7 credits allowed under section 422.12, shall be reduced by a
+8 solar energy system tax credit equal to the purchase price and
+9 installation costs not to exceed the following:
+10 a. For a residential property, not to exceed five thousand
+11 dollars.
+12 b. For a commercial property, not to exceed twenty thousand
+13 dollars.>
+14 2. Title page, line 1, after <by> by inserting <amending the
+15 solar energy system tax credit and>
+______________________________
+ZABNER of Johnson
+HF 2672.3389 (2) 91
+-1- sb/js 1/1

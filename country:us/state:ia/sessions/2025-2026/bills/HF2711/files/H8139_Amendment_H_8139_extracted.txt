@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8139
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2711
+H-8139
+1 Amend House File 2711 as follows:
+2 1. Page 1, after line 6 by inserting:
+3 <Sec. ___. Section 15A.1, subsection 5, Code 2026, is
+4 amended by striking the subsection.>
+5 2. Page 5, after line 16 by inserting:
+6 <Sec. ___. NEW SECTION. 19B.9 Preferential programs.
+7 The state shall not fund a program that gives preference
+8 to a person based on legacy status, industry, or geographic
+9 location.>
+10 3. Page 10, after line 8 by inserting:
+11 <Sec. ___. NEW SECTION. 421.72 Preferential treatment ——
+12 tax expenditures.
+13 1. As used in this section, “tax expenditure” means the same
+14 as defined in section 2.48.
+15 2. Notwithstanding any other provision of the Code to the
+16 contrary, there shall not be excluded from the operation or
+17 collection of taxes imposed in this state a tax expenditure
+18 that is a state-funded preferential program based upon legacy
+19 or geography, or that favors one industry over another through
+20 economic development allocations.>
+21 4. Title page, line 2, after <gender,> by inserting
+22 <preference,>
+23 5. By renumbering as necessary.
+______________________________
+SRINIVAS of Polk
+HF 2711.3152 (2) 91
+-1- jm/ns 1/1

@@ -1,0 +1,2021 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8374
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2745
+H-8374
+1 Amend House File 2745 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 PROPERTY TAX REVENUE LIMITATIONS —— BOND REVENUE USE
+6 LIMITATIONS —— GENERAL FUND RESERVES
+7 Section 1. Section 11.11, Code 2026, is amended to read as
+8 follows:
+9 11.11 Scope of audits.
+10 The written report of the audit of a governmental
+11 subdivision shall include the auditor’s opinion as to whether a
+12 governmental subdivision’s financial statements are presented
+13 fairly in all material respects in conformity with generally
+14 accepted accounting principles or with an other another
+15 comprehensive basis of accounting. As a part of conducting an
+16 audit of a governmental subdivision, an evaluation of internal
+17 control and tests for compliance with laws and regulations
+18 shall be performed. As part of conducting an audit of a
+19 governmental subdivision, an examination of the governmental
+20 subdivision’s compliance with the reporting requirements of
+21 section 331.403, subsection 3, or section 384.22, subsection 2,
+22 if applicable, shall be performed. As part of conducting an
+23 audit of a governmental subdivision for fiscal years beginning
+24 on or after July 1, 2027, an examination of the governmental
+25 subdivision’s compliance with section 24.35 shall be performed,
+26 including verification of the circumstances resulting in actual
+27 reserve funds exceeding the specified limits.
+28 Sec. 2. Section 24.34, Code 2026, is amended to read as
+29 follows:
+30 24.34 Unliquidated obligations.
+31 A city, county, or other political subdivision governmental
+32 entity, as defined in section 24.35, may establish an
+33 encumbrance system for any obligation not liquidated at the
+34 close of the fiscal year in which the obligation has been
+35 encumbered assigned, committed, restricted, or specified as
+HF 2745.4063 (2) 91
+-1- md/jh 1/53
+
+1 nonspendable. The encumbered obligations may be retained
+2 upon the books of the city, county, or other political
+3 subdivision governmental entity, as defined in section 24.35,
+4 until liquidated, all in accordance with generally accepted
+5 governmental accounting practices principles, as established by
+6 the governmental accounting standards board.
+7 Sec. 3. NEW SECTION. 24.35 General fund reserves ——
+8 limitations.
+9 1. For purposes of this section:
+10 a. “Budget year” is the fiscal year beginning during the
+11 calendar year in which a budget is certified.
+12 b. “Current fiscal year” is the fiscal year ending during
+13 the calendar year in which a budget for the budget year is
+14 certified.
+15 c. “General fund” means a governmental entity’s fund
+16 designated as such by law or the governmental entity’s fund
+17 from which primary general operations of the governmental
+18 entity are funded.
+19 d. “Governmental entity” means any unit of government
+20 or other public body or public corporation, including any
+21 intergovernmental entity, that has the power to impose or
+22 certify a property tax levy. “Governmental entity” does not
+23 include a school district.
+24 e. “Unassigned” means funds that are not restricted,
+25 committed, assigned, or nonspendable within the meaning of
+26 generally accepted accounting principles, as established by the
+27 governmental accounting standards board.
+28 2. a. For budgets certified for budget years beginning
+29 on or after July 1, 2027, proposed unassigned reserve funds
+30 identified within a governmental entity’s general fund shall
+31 not exceed an amount equal to thirty-five percent of the
+32 budgeted expenditures from the governmental entity’s general
+33 fund for the current fiscal year prior to budgeted transfers
+34 from such general fund.
+35 b. If the governmental entity’s budget does not comply with
+HF 2745.4063 (2) 91
+-2- md/jh 2/53
+
+1 the requirements of paragraph “a”, the department of management
+2 shall not certify the governmental entity’s taxes back to the
+3 county auditor under section 24.17 and the governmental entity
+4 shall remedy the violation and recertify the budget.
+5 3. Each governmental entity shall establish an obligated
+6 funds account within the governmental entity’s general fund.
+7 Restricted, committed, assigned, or nonspendable funds within
+8 the meaning of generally accepted accounting principles, as
+9 established by the governmental accounting standards board,
+10 shall be deposited in and accounted for in the obligated funds
+11 account, including but not limited to such funds that are
+12 in the governmental entity’s general fund for the purchase,
+13 lease-purchase, or major refurbishment of law enforcement,
+14 public safety, and public works vehicles and equipment and for
+15 vertical infrastructure and horizontal infrastructure projects.
+16 4. To ensure uniformity, accuracy, and efficiency in the
+17 certification of governmental entity budgets according to the
+18 requirements of this section, the department of management
+19 shall prescribe the procedures to be used and instruct the
+20 appropriate officials of the various governmental entities on
+21 implementation of the procedures.
+22 Sec. 4. Section 24.48, Code 2026, is amended by adding the
+23 following new subsection:
+24 NEW SUBSECTION. 6. The authority to suspend property tax
+25 levy limitations under this section shall not apply to the
+26 limitations of section 444.25.
+27 Sec. 5. Section 176A.8, subsection 13, Code 2026, is amended
+28 by striking the subsection.
+29 Sec. 6. NEW SECTION. 444.25 Maximum property tax levy
+30 dollars.
+31 1. For purposes of this section, unless the context
+32 otherwise requires:
+33 a. “Budget year” is the fiscal year beginning during the
+34 calendar year in which a budget is certified.
+35 b. “Current fiscal year” is the fiscal year ending during
+HF 2745.4063 (2) 91
+-3- md/jh 3/53
+
+1 the calendar year in which a budget for the budget year is
+2 certified.
+3 c. “Governmental entity” means any unit of government
+4 or other public body or public corporation, including any
+5 intergovernmental entity or special purpose district, that
+6 has the power to impose or certify a property tax levy.
+7 “Governmental entity” does not include a school district.
+8 d. “New valuation” means the increase from the current
+9 fiscal year to the budget year in taxable valuation, as shown
+10 on the assessment roll due to the following, the amount of each
+11 as reported under section 331.510 by the county auditor to the
+12 department of management:
+13 (1) New construction.
+14 (2) Additions or improvements to existing structures that
+15 are not normal and necessary repairs under section 441.21,
+16 subsection 8.
+17 (3) Net boundary adjustments, including annexation,
+18 severance, incorporation, consolidation, or discontinuance as
+19 those terms are defined in section 368.1.
+20 (4) Valuation exempt from property tax for the current
+21 fiscal year as the result of prior new construction, additions,
+22 or improvements under section 15.332, Code 2025, section
+23 15.500, chapter 404, or chapter 427B, subchapter I, but which
+24 is not exempt from property tax in the budget year.
+25 e. “Property tax levy” means each ad valorem property tax
+26 authorized by law to be imposed by a governmental entity, but
+27 excluding any levy the revenue from which is specified by law
+28 for debt service or required to be used exclusively for the
+29 repayment of bonds or other indebtedness.
+30 2. a. For the budget year beginning July 1, 2027, and
+31 each budget year thereafter, the maximum aggregate amount of
+32 property tax dollars that may be certified for levy among all
+33 property tax levies imposed by a governmental entity against
+34 property that is not new valuation shall not exceed an amount
+35 equal to the sum of one hundred two percent of the aggregate
+HF 2745.4063 (2) 91
+-4- md/jh 4/53
+
+1 amount of property tax dollars certified for levy by the
+2 governmental entity among all property tax levies imposed by
+3 the governmental entity for the current fiscal year.
+4 b. If the budget year includes a voter-approved property tax
+5 levy, or an increased rate thereof, that was not approved for
+6 imposition in the current fiscal year, the maximum aggregate
+7 amount of property tax dollars for the governmental entity
+8 under paragraph “a” for the budget year shall be increased
+9 by the amount of the voter-approved property tax levy or
+10 the voter-approved rate increase, as applicable, approved
+11 at election for the budget year. If the current fiscal
+12 year includes a voter-approved property tax levy that is not
+13 approved for imposition in the budget year, or a decreased rate
+14 thereof, the maximum aggregate amount of property tax dollars
+15 for the governmental entity under paragraph “a” for the budget
+16 year shall be reduced by the amount of the voter-approved
+17 property tax levy or voter-approved rate decrease, as
+18 applicable, for the current fiscal year.
+19 c. The amount of property tax dollars calculated under this
+20 section includes those amounts budgeted by the governmental
+21 entity as replacement taxes under chapter 437A or 437B, if
+22 applicable.
+23 3. For purposes of this section, if the governmental
+24 entity’s taxes for a property tax levy were not certified
+25 back by the department of management under section 24.17 for
+26 the current fiscal year due to an act or omission of the
+27 governmental entity, the current fiscal year’s property tax
+28 dollars certified for levy for that property tax levy shall
+29 be equal to the amount certified for levy for the fiscal year
+30 immediately preceding the current fiscal year.
+31 4. If a governmental entity certifies a budget that violates
+32 this section, the department of management shall reduce each of
+33 the applicable governmental entity’s property tax levies on a
+34 pro rata basis so that the governmental entity is in compliance
+35 with this section.
+HF 2745.4063 (2) 91
+-5- md/jh 5/53
+
+1 5. This section shall not be construed as removing or
+2 otherwise affecting property tax limitations, including levy
+3 rate limitations expressed as a specific amount of money due
+4 per an amount of value and use limitations, otherwise provided
+5 by law for any property tax levy of the governmental entity.
+6 Sec. 7. NEW SECTION. 444.26 Use of bonds and indebtedness
+7 for general operations —— prohibition.
+8 1. For purposes of this section:
+9 a. “General operations” means services or activities
+10 generally funded from the governmental entity’s general fund,
+11 which are necessary for the operation of the governmental
+12 entity, including salaries and benefits, or which are for the
+13 health and welfare of the governmental entity’s citizens or
+14 primarily intended to benefit all residents of the governmental
+15 entity, but excluding direct and indirect capital expenditures
+16 properly allocable under the Internal Revenue Code, as defined
+17 in section 422.3, if the governmental entity were a taxpayer,
+18 capital leases, and services financed by statutory funds other
+19 than a debt service fund.
+20 b. “Governmental entity” means any unit of government
+21 or other public body or public corporation, including any
+22 intergovernmental entity, that has the power to impose or
+23 certify a property tax levy.
+24 2. On or after July 1, 2026, the governing body of a
+25 governmental entity shall not issue bonds or other indebtedness
+26 payable from an ad valorem property tax levy for the purpose of
+27 funding the general operations of the governmental entity or
+28 otherwise use proceeds from the sale of bonds or issuance of
+29 other indebtedness to fund general operations.
+30 3. The department of management, following consultation
+31 with the city finance committee and the county finance
+32 committee, may adopt rules under chapter 17A for governmental
+33 entities to implement this section.
+34 DIVISION II
+35 COMMERCIAL AND INDUSTRIAL PROPERTY —— TAXPAYER RELIEF FUND
+HF 2745.4063 (2) 91
+-6- md/jh 6/53
+
+1 APPROPRIATION
+2 Sec. 8. Section 8.57E, Code 2026, is amended by adding the
+3 following new subsection:
+4 NEW SUBSECTION. 1A. For each fiscal year beginning on or
+5 after July 1, 2027, there is appropriated from the general fund
+6 of the state to the taxpayer relief fund the sum of one hundred
+7 twenty-five million dollars.
+8 Sec. 9. Section 441.21, subsection 5, paragraph e,
+9 subparagraphs (1), (2), and (3), Code 2026, are amended to read
+10 as follows:
+11 (1) For the fiscal year beginning July 1, 2023, there
+12 is appropriated from the general fund of the state to the
+13 department of revenue the sum of one hundred twenty-two million
+14 three hundred fifty thousand dollars to be used for payments
+15 under this paragraph calculated as a result of the assessment
+16 limitations imposed under paragraph “b”, subparagraph (2),
+17 subparagraph division (a), and paragraph “c”, subparagraph (2),
+18 subparagraph division (a). For each fiscal year beginning
+19 on or after July 1, 2024, but before July 1, 2027, there
+20 is appropriated from the general fund of the state to the
+21 department of revenue the sum of one hundred twenty-five
+22 million dollars to be used for payments under this paragraph
+23 calculated as a result of the assessment limitations imposed
+24 under paragraph “b”, subparagraph (2), subparagraph division
+25 (a), and paragraph “c”, subparagraph (2), subparagraph division
+26 (a).
+27 (2) For fiscal years beginning on or after July 1, 2023, but
+28 before July 1, 2027, each county treasurer shall be paid by the
+29 department of revenue an amount calculated under subparagraph
+30 (4) for the applicable fiscal year. If an amount appropriated
+31 for the fiscal year is insufficient to make all payments as
+32 calculated under subparagraph (4), the director of revenue
+33 shall prorate the payments to the county treasurers and shall
+34 notify the county auditors of the pro rata percentage on or
+35 before September 30.
+HF 2745.4063 (2) 91
+-7- md/jh 7/53
+
+1 (3) On or before July 1 of each applicable fiscal year, the
+2 assessor shall report to the county auditor that portion of the
+3 total actual value of all commercial property and industrial
+4 property in the county that is subject to the assessment
+5 limitations imposed under paragraph “b”, subparagraph (2),
+6 subparagraph division (a), and paragraph “c”, subparagraph (2),
+7 subparagraph division (a), for the assessment year used to
+8 calculate the taxes due and payable in that fiscal year.
+9 Sec. 10. Section 441.21, subsection 5, paragraph e,
+10 subparagraph (4), unnumbered paragraph 1, Code 2026, is amended
+11 to read as follows:
+12 On or before September 1 of each applicable fiscal year, the
+13 county auditor shall prepare a statement, based on the report
+14 received in subparagraph (3) and information transmitted to
+15 the county auditor under chapter 434, listing for each taxing
+16 district in the county:
+17 DIVISION III
+18 SCHOOL TAXES
+19 Sec. 11. Section 257.3, subsection 1, paragraph a, Code
+20 2026, is amended to read as follows:
+21 a. (1) Except as provided in subsections 2 and 3, a school
+22 district shall cause to be levied each budget year beginning
+23 before July 1, 2027, for the school general fund, a foundation
+24 property tax equal to five dollars and forty cents per thousand
+25 dollars of assessed valuation on all taxable property in the
+26 district. The county auditor shall spread the foundation levy
+27 over all taxable property in the district.
+28 (2) Except as provided in subsections 2 and 3, a school
+29 district shall cause to be levied for the budget year beginning
+30 July 1, 2027, and each succeeding budget year, for the school
+31 general fund, a foundation property tax equal to four dollars
+32 and ninety cents per thousand dollars of assessed valuation
+33 on all taxable property in the district. The county auditor
+34 shall spread the foundation levy over all taxable property in
+35 the district.
+HF 2745.4063 (2) 91
+-8- md/jh 8/53
+
+1 Sec. 12. Section 257.3, subsection 2, paragraphs a and b,
+2 Code 2026, are amended to read as follows:
+3 a. Notwithstanding subsection 1, a reorganized school
+4 district for which the reorganization takes effect on or after
+5 July 1, 2027, shall cause a foundation property tax of four
+6 three dollars and forty ninety cents per thousand dollars of
+7 assessed valuation to be levied on all taxable property which,
+8 in the year preceding a reorganization, was within a school
+9 district affected by the reorganization as defined in section
+10 275.1, or in the year preceding a dissolution was a part of a
+11 school district that dissolved if the dissolution proposal has
+12 been approved by the director of the department of education
+13 pursuant to section 275.55.
+14 b. In For a reorganized school district for which the
+15 reorganization took effect on or after July 1, 2027, in
+16 succeeding school years, the foundation property tax levy on
+17 that portion shall be increased to the rate of four dollars and
+18 ninety forty cents per thousand dollars of assessed valuation
+19 the first succeeding year, five four dollars and fifteen
+20 sixty-five cents per thousand dollars of assessed valuation the
+21 second succeeding year, and five four dollars and forty ninety
+22 cents per thousand dollars of assessed valuation the third
+23 succeeding year and each year thereafter under subsection 1,
+24 paragraph “a”.
+25 Sec. 13. Section 425A.3, subsection 1, Code 2026, is amended
+26 to read as follows:
+27 1. The family farm tax credit fund shall be apportioned
+28 each year in the manner provided in this chapter so as to give
+29 a credit against the tax on each eligible tract of agricultural
+30 land within the several school districts of the state in which
+31 the levy for the general school fund exceeds five dollars and
+32 forty cents per thousand dollars of assessed value the levy
+33 rate under section 257.3, subsection 1, paragraph “a”. The
+34 amount of the credit on each eligible tract of agricultural
+35 land shall be the amount the tax levied for the general school
+HF 2745.4063 (2) 91
+-9- md/jh 9/53
+
+1 fund exceeds the amount of tax which would be levied on each
+2 eligible tract of agricultural land were the levy for the
+3 general school fund five dollars and forty cents per thousand
+4 dollars of assessed value the levy rate under section 257.3,
+5 subsection 1, paragraph “a”, for the previous year. However,
+6 in the case of a deficiency in the family farm tax credit fund
+7 to pay the credits in full, the credit on each eligible tract
+8 of agricultural land in the state shall be proportionate and
+9 applied as provided in this chapter.
+10 Sec. 14. Section 425A.5, Code 2026, is amended to read as
+11 follows:
+12 425A.5 Computation by county auditor.
+13 The family farm tax credit allowed each year shall be
+14 computed as follows: On or before April 1, the county auditor
+15 shall list by school districts all tracts of agricultural
+16 land which are entitled to credit, the taxable value for the
+17 previous year, the budget from each school district for the
+18 previous year, and the tax rate determined for the general
+19 fund of the school district in the manner prescribed in
+20 section 444.3 for the previous year, and if the tax rate is in
+21 excess of five dollars and forty cents per thousand dollars of
+22 assessed value the levy rate under section 257.3, subsection
+23 1, paragraph “a”, the auditor shall multiply the tax levy which
+24 is in excess of five dollars and forty cents per thousand
+25 dollars of assessed value the levy rate under section 257.3,
+26 subsection 1, paragraph “a”, by the total taxable value of the
+27 agricultural land entitled to credit in the school district,
+28 and on or before April 1, certify the total amount of credit
+29 and the total number of acres entitled to the credit to the
+30 department of revenue.
+31 Sec. 15. Section 426.3, Code 2026, is amended to read as
+32 follows:
+33 426.3 Where credit given.
+34 The agricultural land credit fund shall be apportioned each
+35 year in the manner hereinafter provided so as to give a credit
+HF 2745.4063 (2) 91
+-10- md/jh 10/53
+
+1 against the tax on each tract of agricultural lands within the
+2 several school districts of the state in which the levy for
+3 the general school fund exceeds five dollars and forty cents
+4 per thousand dollars of assessed value the levy rate under
+5 section 257.3, subsection 1, paragraph “a”; the amount of such
+6 credit on each tract of such lands shall be the amount the tax
+7 levied for the general school fund exceeds the amount of tax
+8 which would be levied on said tract of such lands were the
+9 levy for the general school fund five dollars and forty cents
+10 per thousand dollars of assessed value the levy rate under
+11 section 257.3, subsection 1, paragraph “a”, for the previous
+12 year, except in the case of a deficiency in the agricultural
+13 land credit fund to pay said credits in full, in which case the
+14 credit on each eligible tract of such lands in the state shall
+15 be proportionate and shall be applied as hereinafter provided.
+16 Sec. 16. Section 426.6, subsection 1, Code 2026, is amended
+17 to read as follows:
+18 1. The agricultural land tax credit allowed each year
+19 shall be computed as follows: On or before April 1, the
+20 county auditor shall list by school districts all tracts of
+21 agricultural lands which are entitled to credit, together with
+22 the taxable value for the previous year, together with the
+23 budget from each school district for the previous year, and the
+24 tax rate determined for the general fund of the district in
+25 the manner prescribed in section 444.3 for the previous year,
+26 and if such tax rate is in excess of five dollars and forty
+27 cents per thousand dollars of assessed value the levy rate
+28 under section 257.3, subsection 1, paragraph “a”, the auditor
+29 shall multiply the tax levy which is in excess of five dollars
+30 and forty cents per thousand dollars of assessed value the
+31 levy rate under section 257.3, subsection 1, paragraph “a”, by
+32 the total taxable value of the agricultural lands entitled to
+33 credit in the district, and on or before April 1, certify the
+34 amount to the department of revenue.
+35 Sec. 17. ADJUSTMENT OF CALCULATIONS. For property tax
+HF 2745.4063 (2) 91
+-11- md/jh 11/53
+
+1 credits under chapters 425A and 426 for property taxes due and
+2 payable in the fiscal year beginning July 1, 2027, the tax rate
+3 determined for the general fund of the school district in the
+4 manner prescribed in section 444.3 for the previous year shall
+5 be determined using the appropriate property tax levy rate
+6 under section 257.3, as amended in this division of this Act.
+7 Sec. 18. APPLICABILITY. This division of this Act applies
+8 to fiscal years and school budget years beginning on or after
+9 July 1, 2027.
+10 DIVISION IV
+11 SECURE AN ADVANCED VISION FOR EDUCATION FUND —— EQUITY TRANSFER
+12 PERCENTAGE —— FUTURE REPEAL
+13 Sec. 19. Section 423.2, subsection 12, Code 2026, is amended
+14 to read as follows:
+15 12. The sales tax rate of six percent is reduced to five
+16 percent on January 1, 2051 2071.
+17 Sec. 20. Section 423.2A, subsection 2, paragraph c, Code
+18 2026, is amended to read as follows:
+19 c. Transfer one-sixth of the remaining revenues to the
+20 secure an advanced vision for education fund created in section
+21 423F.2. This paragraph “c” is repealed January 1, 2051 2071.
+22 Sec. 21. Section 423.5, subsection 4, Code 2026, is amended
+23 to read as follows:
+24 4. The use tax rate of six percent is reduced to five
+25 percent on January 1, 2051 2071.
+26 Sec. 22. Section 423.43, subsection 1, paragraph b, Code
+27 2026, is amended to read as follows:
+28 b. Subsequent to the deposit into the general fund of
+29 the state and after the transfer of such revenues collected
+30 under chapter 423B, the department shall transfer one-sixth of
+31 such remaining revenues to the secure an advanced vision for
+32 education fund created in section 423F.2. This paragraph is
+33 repealed January 1, 2051 2071.
+34 Sec. 23. Section 423F.2, subsection 3, paragraph b,
+35 subparagraph (2), subparagraph division (b), Code 2026, is
+HF 2745.4063 (2) 91
+-12- md/jh 12/53
+
+1 amended to read as follows:
+2 (b) For each fiscal year beginning on or after July 1,
+3 2020, but before July 1, 2026, the equity transfer percentage
+4 is equal to the equity transfer percentage for the immediately
+5 preceding fiscal year, unless the amount of moneys available
+6 in the secure an advanced vision for education fund in the
+7 immediately preceding fiscal year equals or exceeds one hundred
+8 two percent of the amount of moneys available in the fund for
+9 the fiscal year prior to the immediately preceding fiscal year,
+10 in which case the equity transfer percentage shall be the
+11 equity transfer percentage for the immediately preceding fiscal
+12 year plus one percent subject to the limitation in subparagraph
+13 division (c).
+14 Sec. 24. Section 423F.2, subsection 3, paragraph b,
+15 subparagraph (2), subparagraph division (c), Code 2026, is
+16 amended by striking the subparagraph division and inserting in
+17 lieu thereof the following:
+18 (c) (i) For the fiscal year beginning July 1, 2026, the
+19 equity transfer percentage is twelve and one-half percent.
+20 (ii) For the fiscal year beginning July 1, 2027, the equity
+21 transfer percentage is fifteen percent.
+22 (iii) For the fiscal year beginning July 1, 2028, the equity
+23 transfer percentage is seventeen and one-half percent.
+24 (iv) For the fiscal year beginning July 1, 2029, the equity
+25 transfer percentage is twenty-two and one-half percent.
+26 (v) For the fiscal year beginning July 1, 2030, and each
+27 fiscal year thereafter, the equity transfer percentage is
+28 twenty-five percent.
+29 Sec. 25. Section 423F.6, Code 2026, is amended to read as
+30 follows:
+31 423F.6 Repeal.
+32 This chapter is repealed January 1, 2051 2071.
+33 Sec. 26. SCHOOL DISTRICT FUNDING RECONCILIATION.
+34 For amounts allocated under section 423F.2 for fiscal
+35 years beginning on or after July 1, 2026, the department of
+HF 2745.4063 (2) 91
+-13- md/jh 13/53
+
+1 management shall adjust or reconcile actual amounts to be
+2 received by school districts in the fiscal year immediately
+3 following the fiscal year during which the revenues were
+4 collected.
+5 DIVISION V
+6 PROPERTY PARCEL INFORMATION
+7 Sec. 27. Section 331.510, Code 2026, is amended by adding
+8 the following new subsection:
+9 NEW SUBSECTION. 5. a. An annual report not later
+10 than January 1 to the department of management containing
+11 parcel-level property data, including parcel identification
+12 information, location, size, valuation, classification, types
+13 of structures and improvements, exemptions, credits, historical
+14 amounts of property taxes due and payable, and whether the
+15 parcel is subject to a division of revenue.
+16 b. In addition to the information required under paragraph
+17 “a”, the department of management may require additional
+18 parcel-level data deemed necessary by the director of the
+19 department of management. The department shall prescribe the
+20 form and manner of submitting the annual report under this
+21 subsection.
+22 c. The department of management shall establish and manage
+23 a searchable internet-based dashboard that contains the
+24 information collected under paragraphs “a” and “b”, as well as
+25 individual parcel information tax information provided as part
+26 of the statements required under section 24.2A, subsection 2,
+27 paragraph “b”.
+28 DIVISION VI
+29 URBAN RENEWAL
+30 Sec. 28. Section 15A.1, subsection 1, paragraph b, Code
+31 2026, is amended to read as follows:
+32 b. For purposes of this chapter, “economic development”
+33 means private or joint public and private investment involving
+34 the creation of new jobs and income or the retention of
+35 existing jobs and income that would otherwise be lost or the
+HF 2745.4063 (2) 91
+-14- md/jh 14/53
+
+1 provision of workforce housing.
+2 Sec. 29. Section 15A.1, subsection 2, Code 2026, is amended
+3 by adding the following new paragraph:
+4 NEW PARAGRAPH. e. Development policies that advance the
+5 development of workforce housing.
+6 Sec. 30. Section 331.403, subsection 3, paragraph b,
+7 subparagraph (19), Code 2026, is amended by striking the
+8 subparagraph.
+9 Sec. 31. Section 384.22, subsection 2, paragraph b,
+10 subparagraph (19), Code 2026, is amended by striking the
+11 subparagraph.
+12 Sec. 32. Section 403.17, subsection 10, Code 2026, is
+13 amended to read as follows:
+14 10. “Economic development area” means an area of a
+15 municipality designated by the local governing body as
+16 appropriate for commercial and industrial enterprises, public
+17 improvements related to housing and residential development,
+18 or construction of housing and residential development for low
+19 and moderate income families, including single or multifamily
+20 housing. If an urban renewal plan for an urban renewal area is
+21 based upon a finding that the area is an economic development
+22 area and that no part contains slum or blighted conditions,
+23 then the division of revenue provided in section 403.19 and
+24 stated in the plan shall be limited to twenty years from
+25 the calendar year following the calendar year in which the
+26 municipality first certifies to the county auditor the amount
+27 of any loans, advances, indebtedness, or bonds which qualify
+28 for payment from the division of revenue provided in section
+29 403.19. Such designated area shall not include agricultural
+30 land, including land which is part of a century farm, unless
+31 the owner of the agricultural land or century farm agrees to
+32 include the agricultural land or century farm in the urban
+33 renewal area. For the purposes of this subsection, “century
+34 farm” means a farm in which at least forty acres of such farm
+35 have been held in continuous ownership by the same family for
+HF 2745.4063 (2) 91
+-15- md/jh 15/53
+
+1 one hundred years or more.
+2 Sec. 33. Section 403.17, subsection 14, Code 2026, is
+3 amended to read as follows:
+4 14. “Low or and moderate income families” means those
+5 families, including single person households, earning no
+6 more than eighty percent of the higher of the median family
+7 income of the county or the statewide nonmetropolitan area as
+8 determined by the latest United States department of housing
+9 and urban development, section 8 income guidelines.
+10 Sec. 34. Section 403.17, Code 2026, is amended by adding the
+11 following new subsection:
+12 NEW SUBSECTION. 14A. “Low and moderate income family
+13 housing” means housing for low and moderate income families and
+14 includes housing that meets the requirements of section 15.353.
+15 Sec. 35. Section 403.19, subsection 2, paragraph a, Code
+16 2026, is amended to read as follows:
+17 a. That portion of the taxes each year in excess of such
+18 amount shall be allocated to and when collected be paid into a
+19 special fund of the municipality to pay the principal of and
+20 interest on loans, moneys advanced to, or indebtedness, whether
+21 funded, refunded, assumed, or otherwise, including bonds
+22 issued under the authority of section 403.9, subsection 1,
+23 incurred by the municipality to finance or refinance, in whole
+24 or in part, an urban renewal project within the area, and to
+25 provide assistance for low and moderate income family housing
+26 as provided in section 403.22. However, except as provided
+27 in paragraph “b”, taxes for the regular and voter-approved
+28 physical plant and equipment levy of a school district imposed
+29 pursuant to section 298.2; and taxes for the instructional
+30 support program of a school district imposed pursuant to
+31 section 257.19,; taxes for the payment of bonds and interest of
+32 each taxing district,; foundation property taxes of a school
+33 district imposed under section 257.3 levied against property
+34 located in an incorporated area and subject to an ordinance
+35 providing for a division of revenue adopted on or after January
+HF 2745.4063 (2) 91
+-16- md/jh 16/53
+
+1 1, 2027; taxes for emergency medical services imposed pursuant
+2 to chapter 357F, 357G, or 422D; and taxes imposed under section
+3 346.27, subsection 22, related to joint county-city buildings
+4 shall be collected against all taxable property within the
+5 taxing district without limitation by the provisions of this
+6 subsection.
+7 Sec. 36. Section 403.19, subsection 2, Code 2026, is amended
+8 by adding the following new paragraph:
+9 NEW PARAGRAPH. e. For urban renewal areas for which an
+10 ordinance providing for a division of revenue is not limited
+11 in duration under section 403.17, subsection 10, after twenty
+12 years following the effective date of this division of this
+13 Act or after twenty years from the calendar year following
+14 the calendar year in which the municipality first certifies
+15 to the county auditor the amount of any loans, advances,
+16 indebtedness, or bonds which qualify for payment from the
+17 division of revenue, whichever is later, the amount determined
+18 under paragraph “a” that may be paid into the municipality’s
+19 special fund shall not exceed sixty percent of the amount
+20 otherwise determined under paragraph “a” but for this paragraph
+21 and such excess amounts shall be allocated and paid to the
+22 respective taxing districts in the same manner as amounts under
+23 subsection 1. The municipality may exceed the limitation in
+24 this paragraph to the extent necessary for payments of bonds
+25 or other indebtedness incurred before the effective date of
+26 this division of this Act, but in such event the municipality
+27 shall not issue bonds or other indebtedness payable from such
+28 division of revenue while exceeding the limitation. This
+29 paragraph shall not apply to divisions of revenue established
+30 by community colleges under chapter 260E or rural improvement
+31 zones under chapter 357H.
+32 Sec. 37. Section 403.19, Code 2026, is amended by adding the
+33 following new subsection:
+34 NEW SUBSECTION. 3A. An ordinance providing for a division
+35 of revenue under this section that is adopted on or after the
+HF 2745.4063 (2) 91
+-17- md/jh 17/53
+
+1 effective date of this division of this Act shall be limited
+2 to twenty-three years from the calendar year following the
+3 calendar year in which the municipality first certifies to the
+4 county auditor the amount of any loans, advances, indebtedness,
+5 or bonds that qualify for payment from the division of
+6 revenue provided for in this section. The ordinance shall
+7 terminate and be of no further force and effect following the
+8 twenty-three-year period provided in this subsection. This
+9 subsection shall not apply to divisions of revenue established
+10 by community colleges under chapter 260E or rural improvement
+11 zones under chapter 357H.
+12 Sec. 38. Section 403.19, Code 2026, is amended by adding the
+13 following new subsection:
+14 NEW SUBSECTION. 12. For any fiscal year beginning on
+15 or after July 1, 2027, following written request filed with
+16 the county auditor and the board of directors of the school
+17 district, a school district may approve by resolution of the
+18 board of directors the payment from the school district’s
+19 general fund to the municipality for deposit in the special
+20 fund under this section all or a portion of the school district
+21 foundation property taxes under section 257.3 levied against
+22 property located in an incorporated area and subject to an
+23 ordinance providing for a division of revenue adopted on or
+24 after January 1, 2027, for one or more applicable fiscal years.
+25 If approved, the board of directors shall file such resolution
+26 with the county auditor. Payments approved under this
+27 subsection are voluntary and a school district is not required
+28 to pay over the revenue to the municipality unless approved
+29 by resolution. Amounts paid by a school district under this
+30 subsection shall continue to be considered foundation property
+31 taxes levied under section 257.3 and such payment shall not
+32 result in the adjustment of state foundation aid or other
+33 amounts under chapter 257.
+34 Sec. 39. REPEAL. Section 403.22, Code 2026, is repealed.
+35 Sec. 40. EFFECTIVE DATE. This division of this Act, being
+HF 2745.4063 (2) 91
+-18- md/jh 18/53
+
+1 deemed of immediate importance, takes effect upon enactment.
+2 Sec. 41. APPLICABILITY. The following applies to property
+3 taxes due and payable in fiscal years beginning on or after
+4 July 1, 2027:
+5 The portion of the section of this division of this Act
+6 excluding taxes for emergency medical services imposed pursuant
+7 to chapter 357F, 357G, or 422D from divisions of revenue by
+8 amending section 403.19, subsection 2, paragraph “a”.
+9 Sec. 42. APPLICABILITY. The following applies to property
+10 taxes due and payable in fiscal years beginning on or after
+11 July 1, 2028:
+12 The portion of the section of this division of this Act
+13 excluding taxes under section 257.3 from divisions of revenue
+14 by amending section 403.19, subsection 2, paragraph “a”.
+15 Sec. 43. APPLICABILITY. The following applies to urban
+16 renewal areas in existence on or established on or after the
+17 effective date of this division of this Act:
+18 The section of this division of this Act repealing section
+19 403.22.
+20 DIVISION VII
+21 ASSESSMENT PROCEDURES
+22 Sec. 44. Section 441.21, subsection 3, Code 2026, is amended
+23 to read as follows:
+24 3. a. “Actual value”, “taxable value”, or “assessed
+25 value” as used in other sections of the Code in relation to
+26 assessment of property for taxation shall mean the valuations
+27 as determined by this section; however, other provisions of
+28 the Code providing special methods or formulas for assessing
+29 or valuing specified property shall remain in effect, but this
+30 section shall be applicable to the extent consistent with such
+31 provisions. The assessor and department of revenue shall
+32 disclose at the written request of the taxpayer all information
+33 in any formula or method used to determine the actual value of
+34 the taxpayer’s property. In addition, for assessment years
+35 beginning on or after January 1, 2027, if the taxpayer’s
+HF 2745.4063 (2) 91
+-19- md/jh 19/53
+
+1 property has increased in actual value by ten percent or more
+2 from the immediately preceding assessment year, the assessor
+3 shall provide the taxpayer with a statement of the reasons
+4 for the increase in actual value, information specifying the
+5 portion of actual value increase attributable to a change in
+6 classification, revaluation, new construction, improvements, or
+7 renovations to the property, and all information in any formula
+8 or method used to determine the actual value.
+9 b. (1) For assessment years beginning before January
+10 1, 2018, the burden of proof shall be upon any complainant
+11 attacking such valuation as excessive, inadequate, inequitable,
+12 or capricious. However, in protest or appeal proceedings when
+13 the complainant offers competent evidence by at least two
+14 disinterested witnesses that the market value of the property
+15 is less than the market value determined by the assessor, the
+16 burden of proof thereafter shall be upon the officials or
+17 persons seeking to uphold such valuation to be assessed.
+18 (2) (1) For assessment years beginning on or after January
+19 1, 2018, the Except as provided in subparagraph (3), the burden
+20 of proof shall be upon any complainant attacking such valuation
+21 as excessive, inadequate, inequitable, or capricious. However,
+22 in protest or appeal proceedings when the complainant offers
+23 competent evidence that the market value of the property is
+24 different than the market value determined by the assessor,
+25 the burden of proof thereafter shall be upon the officials or
+26 persons seeking to uphold such valuation to be assessed.
+27 (3) (2) If the classification of a property has been
+28 previously adjudicated by the property assessment appeal board
+29 or a court as part of an appeal under this chapter, there
+30 is a presumption that the classification of the property has
+31 not changed for each of the four subsequent assessment years,
+32 unless a subsequent such adjudication of the classification of
+33 the property has occurred, and the burden of demonstrating a
+34 change in use shall be upon the person asserting a change to
+35 the property’s classification.
+HF 2745.4063 (2) 91
+-20- md/jh 20/53
+
+1 (3) For assessment years beginning on or after January 1,
+2 2027, if the taxpayer’s property actual value increased by ten
+3 percent or more from the immediately preceding assessment year,
+4 including an increase as the result of an equalization order,
+5 and the property did not change classification or primary use
+6 and the increase in actual value is not the result of new
+7 construction, improvements, or renovations to the property, the
+8 actual value so determined by the assessor is not presumed to
+9 be the actual value and in any protest or appeal the assessor
+10 shall have the burden of proof that the valuation is not
+11 excessive, inadequate, inequitable, or capricious.
+12 Sec. 45. Section 441.33, Code 2026, is amended by adding the
+13 following new subsection:
+14 NEW SUBSECTION. 3. Ex parte communications with board of
+15 review members are prohibited in protests before the board.
+16 DIVISION VIII
+17 LOCAL GOVERNMENT EFFICIENCY GRANT PROGRAM
+18 Sec. 46. NEW SECTION. 28E.20 Local government efficiency
+19 grant program.
+20 1. A local government efficiency grant fund is created
+21 and established as a separate and distinct fund in the state
+22 treasury under the control of the Iowa economic development
+23 authority. For purposes of this section, “local government”
+24 means a county, city, township, or any special-purpose district
+25 or authority.
+26 2. a. There is appropriated from the general fund of
+27 the state to the local government efficiency grant fund for
+28 the fiscal year beginning July 1, 2026, and ending July 1,
+29 2027, ten million dollars. In addition to moneys deposited
+30 in the local government efficiency grant fund pursuant to
+31 appropriations made by the general assembly, the Iowa economic
+32 development authority or the commission established under
+33 paragraph “c” may accept gifts, grants, bequests, and other
+34 private contributions, as well as state or federal funds, and
+35 shall deposit the moneys in the fund to be used for purposes
+HF 2745.4063 (2) 91
+-21- md/jh 21/53
+
+1 of this section. Moneys in the fund are appropriated to
+2 the Iowa economic development authority and shall be used
+3 only, after commission approval, to provide grants to local
+4 governments to assist in efforts to increase government
+5 efficiency, including but not limited to efforts to consolidate
+6 government positions and pursue agreements with other local
+7 governments to share services and reduce the use of property
+8 tax revenues for such shared services. Grant funds may be
+9 used by the local government for costs to implement efficiency
+10 initiatives including but not limited to service-sharing or
+11 service-consolidation initiatives and transitional or temporary
+12 costs of eliminating services.
+13 b. Notwithstanding section 8.33, moneys in the fund
+14 that remain unawarded at the close of the fiscal year shall
+15 not revert but shall remain in the fund for expenditure in
+16 succeeding fiscal years. Notwithstanding section 12C.7,
+17 subsection 2, interest earned on moneys in the local government
+18 efficiency grant fund shall be credited to the fund.
+19 c. A local government efficiency commission shall be
+20 established within the Iowa economic development authority
+21 comprised of not more than ten individuals appointed by
+22 the director of the economic development authority who have
+23 experience in local government operations and budgeting, local
+24 government planning, and cooperative extension services. The
+25 local government efficiency commission shall review and approve
+26 or deny each grant application.
+27 3. The local government efficiency commission shall
+28 establish and administer the grant program to provide for the
+29 allocation of moneys in the fund in the form of competitive
+30 grants to local governments in accordance with the purposes and
+31 objectives of this section. The rules for the program adopted
+32 by the commission shall specify the eligibility of applicants,
+33 eligible services and items for grant funding, the electronic
+34 application process, and the maximum award per grant.
+35 DIVISION IX
+HF 2745.4063 (2) 91
+-22- md/jh 22/53
+
+1 FIRSTHOME IOWA ACCOUNTS
+2 Sec. 47. Section 12G.2, Code 2026, is amended by adding the
+3 following new subsection:
+4 NEW SUBSECTION. 6. Create strategies for coordination of
+5 the program with the FirstHome Iowa program trust established
+6 in chapter 12L.
+7 Sec. 48. NEW SECTION. 12L.1 FirstHome Iowa program ——
+8 purpose and definitions.
+9 1. The general assembly finds that the general welfare and
+10 well-being of the state are directly related to homeownership
+11 of the citizens of the state, and that a vital and valid
+12 public purpose is served by the creation and implementation
+13 of programs which encourage and make possible the attainment
+14 of homeownership by the greatest number of citizens of the
+15 state. The general welfare of the citizens of the state will
+16 be enhanced by establishing a FirstHome Iowa program which
+17 allows citizens of the state to invest money in a public trust
+18 for future application to the payment of qualified homebuyer
+19 expenses. The creation of the means of encouragement for
+20 citizens to invest in such a program represents the carrying
+21 out of a vital and valid public purpose. In order to make
+22 available to the citizens of the state an opportunity to fund
+23 future first-time homeownership, it is necessary that a public
+24 trust be established in which moneys may be invested for future
+25 use.
+26 2. As used in this chapter, unless the context otherwise
+27 requires:
+28 a. “Administrative fund” means the administrative fund
+29 established under section 12L.4.
+30 b. “Beneficiary” means the individual designated by a
+31 participation agreement to benefit from advance payments of
+32 qualified homebuyer expenses on behalf of the beneficiary.
+33 c. “First-time homebuyer” means an individual who is a
+34 resident of Iowa and who does not own, either individually or
+35 jointly, a single-family or multifamily residence, and who
+HF 2745.4063 (2) 91
+-23- md/jh 23/53
+
+1 has not owned or purchased, either individually or jointly, a
+2 single-family or multifamily residence for a period of three
+3 years prior to the date of the qualified purchase for which the
+4 eligible home costs are paid or reimbursed from an account.
+5 d. “FirstHome Iowa program trust” or “trust” means the trust
+6 created under section 12L.2.
+7 e. “FirstHome Iowa program trust account” or “account”
+8 means an account within the trust that was established for
+9 the purpose of paying or reimbursing a beneficiary’s eligible
+10 qualified homebuyer expenses in connection with a qualified
+11 purchase.
+12 f. “Individual” means a natural person.
+13 g. “Participant” means an individual, individual’s legal
+14 representative, trust, or estate that has entered into a
+15 participation agreement under this chapter, either individually
+16 or jointly with the individual’s spouse, for the advance
+17 payment of qualified homebuyer expenses on behalf of a
+18 beneficiary.
+19 h. “Participation agreement” means an agreement between a
+20 participant and the trust entered into under this chapter.
+21 i. “Program fund” means the program fund established under
+22 section 12L.4.
+23 j. “Qualified homebuyer expenses” means any of the
+24 following:
+25 (1) A down payment or closing costs for the qualified
+26 purchase of a single-family residence in Iowa that is the
+27 principal residence of the beneficiary if such beneficiary is a
+28 first-time homebuyer with respect to such purchase.
+29 (2) A cost, fee, tax, or payment incurred by, or charged
+30 or assigned to, a beneficiary as part of the purchase under
+31 subparagraph (1) and listed on the statement of receipts and
+32 disbursements for the sale, including any statement prescribed
+33 by 12 C.F.R. §1026.38, as amended.
+34 (3) Any United States veterans administration funding
+35 fee incurred by, or charged or assigned to, a beneficiary in
+HF 2745.4063 (2) 91
+-24- md/jh 24/53
+
+1 connection with a veterans administration home loan guaranty
+2 program.
+3 k. “Qualified purchase” means the purchase of a
+4 single-family residence in Iowa by the account’s beneficiary
+5 ninety or more days after the date the participant first opened
+6 the account.
+7 l. “Resident” means the same as defined in section 422.4.
+8 m. “Single-family residence” means a single-family
+9 residence owned and occupied by a beneficiary as the
+10 beneficiary’s principal residence, including but not limited
+11 to a manufactured home, mobile home, condominium unit, or
+12 cooperative.
+13 Sec. 49. NEW SECTION. 12L.2 Creation of FirstHome Iowa
+14 program trust.
+15 A FirstHome Iowa program trust is created. The treasurer of
+16 state is the trustee of the trust, and has all powers necessary
+17 to carry out and effectuate the purposes, objectives, and
+18 provisions of this chapter pertaining to the trust, including
+19 the power to do all of the following:
+20 1. Make and enter into contracts necessary for the
+21 administration of the trust created under this chapter.
+22 2. Enter into agreements with any financial institution,
+23 the state, or any federal or other state agency, or other
+24 entity as required to implement this chapter.
+25 3. Carry out the duties and obligations of the trust
+26 pursuant to this chapter.
+27 4. Accept any grants, gifts, legislative appropriations,
+28 and other moneys from the state, any unit of federal, state, or
+29 local government, or any other person, firm, partnership, or
+30 corporation which the treasurer of state shall deposit into the
+31 administrative fund or the program fund.
+32 5. Carry out studies and projections so the treasurer of
+33 state may advise participants regarding present and estimated
+34 future qualified homebuyer expenses and levels of financial
+35 participation in the trust required in order to enable
+HF 2745.4063 (2) 91
+-25- md/jh 25/53
+
+1 participants to achieve their qualifying purchase objectives.
+2 6. Participate in any federal, state, or local governmental
+3 program for the benefit of the trust.
+4 7. Procure insurance against any loss in connection with the
+5 property, assets, or activities of the trust.
+6 8. Enter into participation agreements with participants.
+7 9. Make payments to or on behalf of beneficiaries for
+8 qualified homebuyer expenses pursuant to participation
+9 agreements.
+10 10. Make refunds to participants upon the termination
+11 of participation agreements, and partial nonqualified
+12 distributions to participants, pursuant to the provisions,
+13 limitations, and restrictions set forth in this chapter.
+14 11. Invest moneys from the program fund in any investments
+15 which are determined by the treasurer of state to be
+16 appropriate.
+17 12. Engage investment advisors, if necessary, to assist in
+18 the investment of trust assets.
+19 13. Contract for goods and services and engage personnel
+20 as necessary, including consultants, actuaries, managers,
+21 legal counsel, and auditors for the purpose of rendering
+22 professional, managerial, and technical assistance and advice
+23 to the treasurer of state regarding trust administration and
+24 operation.
+25 14. Establish, impose, and collect administrative fees
+26 and charges in connection with transactions of the trust for
+27 deposit in the administrative fund and provide for reasonable
+28 service charges.
+29 15. Administer the funds of the trust.
+30 16. Adopt rules pursuant to chapter 17A for the
+31 administration of the trust.
+32 Sec. 50. NEW SECTION. 12L.3 Participation agreements for
+33 trust.
+34 The trust may enter into participation agreements with
+35 participants on behalf of beneficiaries pursuant to the
+HF 2745.4063 (2) 91
+-26- md/jh 26/53
+
+1 following terms and agreements:
+2 1. Each participation agreement may require a participant
+3 to agree to invest a specific amount of money in the trust
+4 for a specific period of time for the benefit of a specific
+5 beneficiary. A participant shall not be required to make an
+6 annual contribution on behalf of a beneficiary. The maximum
+7 contribution that may be deducted for Iowa income tax purposes
+8 shall be the amount contributed by the participant during the
+9 applicable tax year, not to exceed five thousand five hundred
+10 dollars per beneficiary per year adjusted annually to reflect
+11 increases in the consumer price index.
+12 2. The execution of a participation agreement by the
+13 trust shall not guarantee in any way that qualified homebuyer
+14 expenses will be equal to projections and estimates provided by
+15 the trust or that the beneficiary named in any participation
+16 agreement will qualify for a mortgage, home loan, or other
+17 forms of credit for a qualified purchase.
+18 3. a. A beneficiary under a participation agreement may be
+19 changed as permitted under rules adopted by the treasurer of
+20 state upon written request of the participant as long as the
+21 substitute beneficiary is eligible for participation.
+22 b. Participation agreements may otherwise be freely amended
+23 throughout their terms in order to enable participants to
+24 increase or decrease the level of participation, change the
+25 designation of beneficiaries, and carry out similar matters as
+26 authorized by rule.
+27 4. Each participation agreement shall provide that the
+28 participation agreement may be canceled upon the terms and
+29 conditions, and upon payment of applicable fees and costs set
+30 forth and contained in the rules adopted by the treasurer of
+31 state.
+32 5. A participant may designate a successor in accordance
+33 with rules adopted by the treasurer of state. The designated
+34 successor shall succeed to the ownership of the account in
+35 the event of the death of the participant. In the event a
+HF 2745.4063 (2) 91
+-27- md/jh 27/53
+
+1 participant dies and has not designated a successor to the
+2 account, the following criteria shall apply:
+3 a. The beneficiary of the account, if eighteen years of
+4 age or older, shall become the owner of the account as well as
+5 remain the beneficiary upon filing the appropriate forms in
+6 accordance with rules adopted by the treasurer of state.
+7 b. If the beneficiary of the account is under the age of
+8 eighteen, account ownership shall be transferred to the first
+9 surviving parent or other legal guardian of the beneficiary to
+10 file the appropriate forms in accordance with rules adopted by
+11 the treasurer of state.
+12 Sec. 51. NEW SECTION. 12L.4 FirstHome Iowa program and
+13 administrative funds —— investment and payments.
+14 1. a. The treasurer of state shall segregate moneys
+15 received by the trust into two funds: the FirstHome Iowa
+16 program fund and the administrative fund to be used for
+17 administration of the program.
+18 b. All moneys paid by participants in connection with
+19 participation agreements shall be deposited as received into
+20 separate accounts within the program fund.
+21 c. Contributions to the trust made by participants may only
+22 be made in the form of cash.
+23 d. A participant or beneficiary may, directly or indirectly,
+24 direct the investment of any contributions to the trust or any
+25 earnings thereon no more than four times in a calendar year.
+26 2. Moneys accrued by participants in the program fund of the
+27 trust may be used for payments to or on behalf of a beneficiary
+28 for qualified homebuyer expenses.
+29 Sec. 52. NEW SECTION. 12L.5 Cancellation of agreements.
+30 A participant may cancel a participation agreement at will.
+31 Upon cancellation of a participation agreement, a participant
+32 shall be entitled to the return of the participant’s account
+33 balance.
+34 Sec. 53. NEW SECTION. 12L.6 Ownership of payments and
+35 investment income —— transfer of ownership rights.
+HF 2745.4063 (2) 91
+-28- md/jh 28/53
+
+1 1. a. A participant retains ownership of all payments
+2 made under a participation agreement up to the date of
+3 utilization for payment of qualified homebuyer expenses for the
+4 beneficiary.
+5 b. All income derived from the investment of the payments
+6 made by the participant shall be considered to be held in trust
+7 for the benefit of the beneficiary.
+8 2. In the event the FirstHome Iowa program is terminated
+9 prior to payment of qualified homebuyer expenses for the
+10 beneficiary, the participant is entitled to a refund of the
+11 participant’s account balance.
+12 3. Any amounts which may be paid to any person or persons
+13 pursuant to the FirstHome Iowa program trust but which are not
+14 listed in this section are owned by the trust.
+15 4. A participant may transfer ownership rights to another
+16 participant or may transfer funds to another account under the
+17 trust. The transfer shall be made and the property distributed
+18 in accordance with rules adopted by the treasurer of state or
+19 with the terms of the participation agreement.
+20 5. A participant shall not be entitled to utilize any
+21 interest in the trust as security for a loan.
+22 Sec. 54. NEW SECTION. 12L.7 Annual audited financial report
+23 to governor and general assembly.
+24 1. a. The treasurer of state shall submit an annual
+25 audited financial report, prepared in accordance with generally
+26 accepted accounting principles, on the operations of the trust
+27 by November 1 to the governor and the general assembly.
+28 b. The annual audit shall be made either by the auditor
+29 of state or by an independent certified public accountant
+30 designated by the auditor of state and shall include direct and
+31 indirect costs attributable to the use of outside consultants,
+32 independent contractors, and any other persons who are not
+33 state employees.
+34 2. The annual audit shall be supplemented by all of the
+35 following information prepared by the treasurer of state:
+HF 2745.4063 (2) 91
+-29- md/jh 29/53
+
+1 a. Any related studies or evaluations prepared in the
+2 preceding year.
+3 b. A summary of the benefits provided by the trust including
+4 the number of participants and beneficiaries in the trust.
+5 c. Any other information which is relevant in order to make
+6 a full, fair, and effective disclosure of the operations of the
+7 trust.
+8 Sec. 55. NEW SECTION. 12L.8 Tax considerations.
+9 State income tax treatment of the FirstHome Iowa program
+10 trust shall be as provided in section 422.7, subsections 46 and
+11 47.
+12 Sec. 56. NEW SECTION. 12L.9 Property rights to assets in
+13 trust.
+14 1. The assets of the trust shall at all times be preserved,
+15 invested, and expended solely and only for the purposes of
+16 the trust and shall be held in trust for the participants and
+17 beneficiaries.
+18 2. No property rights in the trust shall exist in favor of
+19 the state.
+20 3. The assets of the trust shall not be transferred or used
+21 by the state for any purposes other than the purposes of the
+22 trust.
+23 Sec. 57. NEW SECTION. 12L.10 Construction.
+24 This chapter shall be construed liberally in order to
+25 effectuate its purpose.
+26 Sec. 58. Section 232D.503, subsection 6, Code 2026, is
+27 amended by adding the following new paragraph:
+28 NEW PARAGRAPH. g. A FirstHome Iowa program trust account
+29 established for the minor pursuant to chapter 12L.
+30 Sec. 59. Section 422.7, Code 2026, is amended by adding the
+31 following new subsections:
+32 NEW SUBSECTION. 46. a. Subtract the contribution that may
+33 be deducted for Iowa income tax purposes as a participant in
+34 the FirstHome Iowa program trust pursuant to section 12L.3,
+35 subsection 1. For purposes of this paragraph, a participant
+HF 2745.4063 (2) 91
+-30- md/jh 30/53
+
+1 who makes a contribution on or before the date prescribed in
+2 section 422.21 for making and filing an individual income tax
+3 return, excluding extensions, or the date for making and filing
+4 an individual income tax return determined by the director
+5 pursuant to an order issued under section 421.17, subsection
+6 30, may elect to be deemed to have made the contribution on the
+7 last day of the preceding calendar year. The director, after
+8 consultation with the treasurer of state, shall prescribe by
+9 rule the manner and method by which a participant may make an
+10 election authorized by the preceding sentence.
+11 b. Add the amount resulting from the cancellation of
+12 a participation agreement refunded to the taxpayer as a
+13 participant in the FirstHome Iowa program trust to the extent
+14 previously deducted as a contribution to the trust.
+15 c. Add, to the extent previously deducted as a contribution
+16 to the trust, the amount resulting from a withdrawal or
+17 transfer made by the taxpayer from the FirstHome Iowa program
+18 trust for purposes other than the payment of qualified
+19 homebuyer expenses.
+20 NEW SUBSECTION. 47. Subtract, to the extent included,
+21 income from interest and earnings received from the FirstHome
+22 Iowa program trust created in chapter 12L.
+23 Sec. 60. Section 541B.4, Code 2026, is amended by adding the
+24 following new subsections:
+25 NEW SUBSECTION. 5. Withdrawal for deposit into FirstHome
+26 Iowa program trust account. First-time homebuyer account
+27 balances under this chapter may be withdrawn without penalty or
+28 taxation in this state if such withdrawal is deposited in an
+29 account within the FirstHome Iowa program trust under chapter
+30 12L within thirty days of the withdrawal. The treasurer of
+31 state may by rule provide for the direct transfer of moneys
+32 within an account under this chapter to a FirstHome Iowa
+33 program trust account and such transfer shall not be subject to
+34 penalty or taxation in this state.
+35 NEW SUBSECTION. 6. No new accounts. New accounts shall not
+HF 2745.4063 (2) 91
+-31- md/jh 31/53
+
+1 be established under this chapter on or after July 1, 2026.
+2 Sec. 61. Section 627.6, Code 2026, is amended by adding the
+3 following new subsection:
+4 NEW SUBSECTION. 18. The debtor’s interest, whether as
+5 participant or beneficiary, in contributions and assets,
+6 including the accumulated earnings and market increases in
+7 value, held in an account in the FirstHome Iowa program trust
+8 organized under chapter 12L.
+9 Sec. 62. Section 633.108, subsection 2, Code 2026, is
+10 amended by adding the following new paragraph:
+11 NEW PARAGRAPH. e. A FirstHome Iowa program trust account
+12 established for the minor pursuant to chapter 12L.
+13 Sec. 63. Section 633.555, subsection 1, Code 2026, is
+14 amended by adding the following new paragraph:
+15 NEW PARAGRAPH. f. An account owner or participant under
+16 a FirstHome Iowa program trust account established for the
+17 protected person pursuant to chapter 12L.
+18 Sec. 64. Section 633.678, subsection 1, Code 2026, is
+19 amended by adding the following new paragraph:
+20 NEW PARAGRAPH. f. An account owner or participant under
+21 a FirstHome Iowa program trust account established for the
+22 protected person pursuant to chapter 12L.
+23 Sec. 65. Section 633.681, subsection 1, Code 2026, is
+24 amended by adding the following new paragraph:
+25 NEW PARAGRAPH. e. An account owner or participant under
+26 a FirstHome Iowa program trust account established for the
+27 protected person pursuant to chapter 12L.
+28 Sec. 66. APPLICABILITY. The following applies to
+29 contributions made under chapter 12L on or after July 1, 2026,
+30 for tax years ending on or after that date:
+31 The section of this division of this Act enacting section
+32 422.7, subsections 46 and 47.
+33 DIVISION X
+34 VALUATIONS —— ABNORMAL TRANSACTIONS —— REAL ESTATE TRANSFER TAX
+35 FORMS
+HF 2745.4063 (2) 91
+-32- md/jh 32/53
+
+1 Sec. 67. Section 428A.7, Code 2026, is amended to read as
+2 follows:
+3 428A.7 Forms provided by director of revenue.
+4 The director of revenue shall prescribe the form of the
+5 declaration of value and shall include an appropriate place
+6 for the inclusion of special facts and circumstances relating
+7 to the actual sales price in real estate transfers including
+8 but not limited to factors that distort market value such as
+9 built-to-suit sales, sale-leaseback sales, leased fee sales,
+10 and the abnormal transactions identified in section 441.21,
+11 subsection 1, paragraph “b”, subparagraph (1). The director
+12 shall provide an adequate number of the declaration of value
+13 forms to each county recorder in the state. If the declaration
+14 of value form requires or provides for the inclusion of the
+15 social security number or federal tax identification number of
+16 a seller or buyer, the department shall provide that the social
+17 security number or federal tax identification number remains
+18 confidential and cannot be obtained by public examination.
+19 Sec. 68. Section 441.21, subsection 1, paragraph b,
+20 subparagraph (1), Code 2026, is amended to read as follows:
+21 (1) The actual value of all property subject to assessment
+22 and taxation shall be the fair and reasonable market value of
+23 such property except as otherwise provided in this section.
+24 “Market value” is defined as the fair and reasonable exchange
+25 in the year in which the property is listed and valued between
+26 a willing buyer and a willing seller, neither being under any
+27 compulsion to buy or sell and each being familiar with all
+28 the facts relating to the particular property. Sale prices
+29 of the property or comparable property in normal transactions
+30 reflecting market value, and the probable availability
+31 or unavailability of persons interested in purchasing the
+32 property, shall be taken into consideration in arriving at
+33 its market value. In arriving at market value, sale prices
+34 of property in abnormal transactions not reflecting market
+35 value shall not be taken into account, or shall be adjusted to
+HF 2745.4063 (2) 91
+-33- md/jh 33/53
+
+1 eliminate the effect of factors which distort market value,
+2 including but not limited to built-to-suit construction,
+3 sale-leaseback transactions, leased fee sales, sales to
+4 immediate family of the seller between related parties,
+5 foreclosure or other forced sales, contract sales, discounted
+6 purchase transactions or purchase of adjoining land or other
+7 land to be operated as a unit.
+8 Sec. 69. RETROACTIVE APPLICABILITY. This division of this
+9 Act applies retroactively to assessment years beginning on or
+10 after January 1, 2026.
+11 DIVISION XI
+12 LOCAL GOVERNMENT BUDGET STATEMENTS
+13 Sec. 70. Section 24.2A, subsection 1, paragraph c, Code
+14 2026, is amended by striking the paragraph.
+15 Sec. 71. Section 24.2A, subsection 1, paragraph d, Code
+16 2026, is amended to read as follows:
+17 d. “Political subdivision” means a school district, a
+18 county, or a city. In addition, for purposes of the statements
+19 required under subsection 2, paragraph “b”, only, all
+20 certifying boards that are not a political subdivision shall be
+21 considered a single political subdivision and identified under
+22 a designation of special taxing districts on such statements.
+23 Sec. 72. Section 24.2A, subsection 2, paragraph a, Code
+24 2026, is amended to read as follows:
+25 a. On or before 4:00 p.m. on March 5 of each year, each
+26 political subdivision certifying board shall file with the
+27 department of management a report containing all necessary
+28 information for the department of management to compile and
+29 calculate amounts required to be included in the statements
+30 mailed under paragraph “b” or provided under paragraph “c”. If
+31 a county or city certifying board, except a school district,
+32 fails to file all necessary information with the department of
+33 management by 4:00 p.m. on March 5, taxes levied by the county
+34 or city certifying board shall be limited to the prior year’s
+35 budget amount.
+HF 2745.4063 (2) 91
+-34- md/jh 34/53
+
+1 Sec. 73. Section 24.2A, subsection 2, paragraph b, Code
+2 2026, is amended by striking the paragraph and inserting in
+3 lieu thereof the following:
+4 b. Not later than March 15, the county auditor, using
+5 information compiled and calculated by the department of
+6 management under paragraph “a”, shall send to each property
+7 owner or taxpayer within the county by regular mail or post
+8 under paragraph “c” a statement, identified as not being a
+9 property tax bill and indicating the approximate date when
+10 a property tax bill will be delivered, but containing a
+11 minimum of all of the following, including the information
+12 in subparagraphs (3), (4), (5), (7), and (8) for each of the
+13 political subdivisions comprising the owner’s or taxpayer’s
+14 taxing district:
+15 (1) The address, property description, parcel
+16 identification number, actual value, and taxable value of the
+17 owner’s or taxpayer’s property.
+18 (2) The classification of the owner’s or taxpayer’s
+19 property, including identification of all assessment
+20 limitations under section 441.21, and identification of each
+21 property tax exemption or credit being received by the owner
+22 or taxpayer for the property for the assessment year and the
+23 immediately preceding assessment year.
+24 (3) The sum of the current fiscal year’s actual property
+25 taxes certified for levy for all of the political subdivision’s
+26 levies on the owner’s or taxpayer’s property, the percentage
+27 that such amount represents of the total taxes due on the
+28 property, and the allocation of such amounts to specified
+29 categories of the political subdivision’s services and
+30 activities.
+31 (4) The combined amount of the proposed property tax dollars
+32 to be certified for all of the political subdivision’s levies
+33 for the budget year on the owner’s or taxpayer’s property,
+34 the percentage that such amount represents of the proposed
+35 total taxes due on the property, the percentage increase of
+HF 2745.4063 (2) 91
+-35- md/jh 35/53
+
+1 such amount from the current fiscal year and the potential
+2 reasons for any increases, and the allocation of such amounts
+3 to specified categories of the political subdivision’s services
+4 and activities, including that portion of such amount subject
+5 to the limitation under section 444.25.
+6 (5) Tax amounts provided under subparagraphs (3) and (4)
+7 as a per month amount and a percentage change in the per month
+8 amount between the current fiscal year and the budget year.
+9 (6) A comparison of the combined amount of property taxes
+10 due on the owner’s or taxpayer’s property for all political
+11 subdivisions for the current fiscal year and the combined
+12 proposed amount of property taxes due on the owner’s or
+13 taxpayer’s property for all political subdivisions for the
+14 budget year, including the percentage in change in such
+15 amounts.
+16 (7) The date, time, and location of the political
+17 subdivision’s public hearing under subsection 4, including
+18 a statement of the owner or taxpayer’s ability to provide
+19 feedback at the public hearing and protest property
+20 assessments.
+21 (8) Information on how to access on the political
+22 subdivision’s internet site the political subdivision’s
+23 statements under this section and other budget documents for
+24 prior fiscal years.
+25 (9) A link to the department of management’s internet site
+26 where the property owner or taxpayer may view an example of the
+27 statement and a brief explanation of the information included
+28 on the statement.
+29 Sec. 74. Section 24.2A, subsection 2, Code 2026, is amended
+30 by adding the following new paragraph:
+31 NEW PARAGRAPH. c. For budgets for fiscal years beginning
+32 on or after July 1, 2027, statements under paragraph “b”, in
+33 lieu of regular mail, may be provided by posting the statement
+34 not later than March 15 on the political subdivision’s
+35 internet site for public viewing and shall be maintained on
+HF 2745.4063 (2) 91
+-36- md/jh 36/53
+
+1 the political subdivision’s internet site with all such prior
+2 year statements. Additionally, if the political subdivision
+3 maintains a social media account on one or more social media
+4 applications, the statement or an electronic link to the
+5 statement shall be posted on each such account on a date no
+6 later than March 15.
+7 Sec. 75. Section 24.2A, subsection 3, Code 2026, is amended
+8 to read as follows:
+9 3. The department of management shall prescribe the form
+10 for the report required under subsection 2, paragraph “a”;
+11 following consultation with the Iowa league of cities and the
+12 Iowa state association of counties, the statements required to
+13 be mailed under subsection 2, paragraph “b”, or provided under
+14 subsection 2, paragraph “c”; and the public hearing notice
+15 required under subsection 4, paragraph “b”. The statements
+16 required under subsection 2, paragraph “b”, shall be clear,
+17 concise, written in plain language, and may be presented
+18 using tables, written narrative, and graphic representations
+19 and shall contain the internet site, mailing address, and a
+20 telephone number for each political subdivision that owners
+21 and taxpayers may call if they have questions related to the
+22 statement.
+23 Sec. 76. Section 24.2A, subsection 4, paragraph b,
+24 subparagraph (4), subparagraph division (a), Code 2026, is
+25 amended to read as follows:
+26 (a) Notice of the public hearing was provided to each
+27 property owner and each taxpayer within the political
+28 subdivision in statements required under subsection 2,
+29 paragraph “b”.
+30 Sec. 77. Section 24.3, unnumbered paragraph 1, Code 2026,
+31 is amended to read as follows:
+32 A municipality shall not certify or levy in any fiscal year
+33 any tax on property subject to taxation unless and until the
+34 following estimates have been made, filed, and considered,
+35 and for school districts, the individual statements have been
+HF 2745.4063 (2) 91
+-37- md/jh 37/53
+
+1 mailed or posted, as applicable, and public hearings held, as
+2 provided in this chapter:
+3 Sec. 78. Section 331.434, subsection 3, Code 2026, is
+4 amended to read as follows:
+5 3. Following, and not until, the requirements of section
+6 24.2A are completed, the board shall set a time and place for
+7 a public hearing on the budget before the final certification
+8 date and shall publish notice of the hearing not less than
+9 ten nor more than twenty days prior to the hearing in the
+10 county newspapers selected under chapter 349. A summary of
+11 the proposed budget and a description of the procedure for
+12 protesting the county budget under section 331.436, in the form
+13 prescribed by the director of the department of management,
+14 shall be included in the notice. Proof of publication of
+15 the notice under this subsection 3 shall be filed with and
+16 preserved by the county auditor. A levy is not valid unless
+17 and until the notice is published and individual statements
+18 under section 24.2A are mailed or posted. The department of
+19 management shall prescribe the form for the public hearing
+20 notice for use by counties.
+21 Sec. 79. Section 331.435, subsection 2, Code 2026, is
+22 amended to read as follows:
+23 2. The board shall prepare and adopt a budget amendment in
+24 the same manner as the original budget as provided in section
+25 331.434, but excluding the requirements for mailing individual
+26 statements under section 24.2A, and the amendment is subject
+27 to protest as provided in section 331.436, except that the
+28 director of the department of management may by rule provide
+29 that amendments of certain types or up to certain amounts may
+30 be made without public hearing and without being subject to
+31 protest. A county budget for the ensuing fiscal year shall be
+32 amended by May 31 to allow time for a protest hearing to be
+33 held and a decision rendered before June 30. An amendment of
+34 a budget after May 31 which is properly appealed but without
+35 adequate time for hearing and decision before June 30 is void.
+HF 2745.4063 (2) 91
+-38- md/jh 38/53
+
+1 Sec. 80. Section 384.17, Code 2026, is amended to read as
+2 follows:
+3 384.17 Levy by county.
+4 At the time required by law, the county board of supervisors
+5 shall levy the taxes necessary for each city fund for the
+6 following fiscal year. The levy must be as shown in the
+7 adopted city budget and as certified by the clerk, subject to
+8 any changes made after a protest hearing, and any additional
+9 tax rates approved at a city election. A city levy is not valid
+10 until proof of publication or posting of notice of a budget
+11 hearing under section 384.16, subsection 3, is filed with the
+12 county auditor and individual statements are mailed or posted
+13 under section 24.2A.
+14 Sec. 81. Section 384.18, subsection 2, Code 2026, is amended
+15 to read as follows:
+16 2. A budget amendment must be prepared and adopted in the
+17 same manner as the original budget, as provided in section
+18 384.16, excluding the requirement for the mailing of individual
+19 statements under section 24.2A, and is subject to protest as
+20 provided in section 384.19, except that the committee may by
+21 rule provide that amendments of certain types or up to certain
+22 amounts may be made without public hearing and without being
+23 subject to protest. A city budget shall be amended by May
+24 31 of the current fiscal year to allow time for a protest
+25 hearing to be held and a decision rendered before June 30. The
+26 amendment of a budget after May 31, which is properly appealed
+27 but without adequate time for hearing and decision before June
+28 30 is void.
+29 Sec. 82. IMPLEMENTATION OF DIVISION OF ACT. Section 25B.2,
+30 subsection 3, shall not apply to this division of this Act.
+31 Sec. 83. APPLICABILITY. This division of this Act applies
+32 to political subdivision budgets for fiscal years beginning on
+33 or after July 1, 2027.
+34 DIVISION XII
+35 ELECTION DATES —— BONDS
+HF 2745.4063 (2) 91
+-39- md/jh 39/53
+
+1 Sec. 84. Section 39.2, subsection 4, paragraph d, Code 2026,
+2 is amended to read as follows:
+3 d. For any political subdivision of this state, if the
+4 special election is in whole or in part for the question of
+5 issuing bonds or other indebtedness, the first Tuesday after
+6 the first Monday in June or the first Tuesday after the first
+7 Monday in November. However, a political subdivision shall
+8 not hold an election on the question of issuing bonds or other
+9 indebtedness on two consecutive election dates authorized under
+10 this paragraph.
+11 DIVISION XIII
+12 EMERGENCY MEDICAL SERVICES LEVY
+13 Sec. 85. Section 422D.1, subsection 1, paragraph a,
+14 subparagraph (2), Code 2026, is amended to read as follows:
+15 (2) (a) An For fiscal years beginning before July 1, 2027,
+16 an ad valorem property tax not to exceed seventy-five cents per
+17 one thousand dollars of assessed value on all taxable property
+18 within the county.
+19 (b) For fiscal years beginning on or after July 1, 2027,
+20 an ad valorem property tax not to exceed one dollar and fifty
+21 cents per one thousand dollars of assessed value on all taxable
+22 property within the county. However, for counties authorized
+23 to impose the ad valorem property tax under this subparagraph
+24 for the fiscal year beginning July 1, 2026, the maximum levy
+25 rate for such county shall not exceed a rate of seventy-five
+26 cents per one thousand dollars of assessed value unless a rate
+27 in excess thereof, not to exceed one dollar and fifty cents
+28 per one thousand dollars of assessed value, is approved at an
+29 election held on or after July 1, 2026.
+30 DIVISION XIV
+31 SCHOOL DISTRICT UNSPENT BALANCES —— ON-TIME FUNDING AND
+32 MODIFIED SUPPLEMENTAL AMOUNTS
+33 Sec. 86. Section 257.7, Code 2026, is amended by adding the
+34 following new subsection:
+35 NEW SUBSECTION. 3. Unspent balances. For school budget
+HF 2745.4063 (2) 91
+-40- md/jh 40/53
+
+1 years beginning on or after July 1, 2026, a school district’s
+2 actual unspent balance from the preceding year used to
+3 calculate the authorized budget under subsection 1 shall
+4 not exceed an amount equal to thirty-five percent of the
+5 school district’s authorized expenditures for the budget year
+6 immediately preceding the base year unless a greater amount
+7 is authorized by the school budget review committee based on
+8 one or more grounds authorized for the approval of a modified
+9 supplemental amount under section 257.31.
+10 Sec. 87. Section 257.13, Code 2026, is amended to read as
+11 follows:
+12 257.13 On-time funding budget adjustment.
+13 1. a. For the school budget year beginning July 1, 2001,
+14 and succeeding budget years beginning before July 1, 2026, if a
+15 district’s actual enrollment for the budget year, determined
+16 under section 257.6, is greater than its budget enrollment for
+17 the budget year, the district shall be eligible to receive an
+18 on-time funding budget adjustment. The adjustment shall be in
+19 an amount equal to the difference between the actual enrollment
+20 for the budget year and the budget enrollment for the budget
+21 year, multiplied by the district cost per pupil.
+22 2. b. The board of directors of a school district that
+23 wishes to receive an on-time funding budget adjustment under
+24 this subsection shall adopt a resolution to receive the
+25 adjustment and notify the school budget review committee
+26 annually, but not earlier than November 1, as determined by the
+27 department of education. The school budget review committee
+28 shall establish a modified supplemental amount pursuant to
+29 subsection 1 paragraph “a”.
+30 2. a. For the school budget years beginning on or after
+31 July 1, 2026, if a district’s actual enrollment for the budget
+32 year, determined under section 257.6, is greater than its
+33 budget enrollment for the budget year, the district may request
+34 an on-time budget adjustment. The adjustment shall not exceed
+35 an amount equal to the difference between the actual enrollment
+HF 2745.4063 (2) 91
+-41- md/jh 41/53
+
+1 for the budget year and the budget enrollment for the budget
+2 year, multiplied by the district cost per pupil.
+3 b. To request an on-time budget adjustment under this
+4 subsection, the board of directors of a school district shall
+5 adopt a resolution to receive the adjustment and notify the
+6 school budget review committee on or before a date established
+7 by the committee. The school budget review committee may
+8 establish a modified supplemental amount pursuant to paragraph
+9 “a”.
+10 3. If the board of directors of a school district determines
+11 that a need exists for additional funds exceeding the on-time
+12 funding budget adjustment pursuant to this section, a request
+13 for a modified supplemental amount based upon increased
+14 enrollment may be submitted to the school budget review
+15 committee as provided in section 257.31.
+16 Sec. 88. NEW SECTION. 279.63A Unspent balance —— policy.
+17 1. The board of directors of each school district shall
+18 establish a policy that defines a targeted range and maximum
+19 amount of unspent balance of authorized expenditures,
+20 determined by a percent of authorized expenditures under
+21 section 257.7 or other methodology specified in the policy.
+22 The policy shall also state the date the policy was adopted
+23 and the date the policy was most recently reviewed or revised
+24 under subsection 2. The targeted range and maximum amount
+25 established in the policy shall be made with the intent to
+26 equalize educational opportunity, provide a good education
+27 for all the children of the school district, provide property
+28 tax relief, decrease the percentage of school costs paid from
+29 property taxes, and to provide reasonable control of school
+30 costs.
+31 2. Targeted ranges and maximum amounts defined in the policy
+32 under subsection 1 shall be reviewed annually by the board of
+33 directors and such review shall be entered in the minutes of
+34 the board and approved revisions shall be made to the policy.
+35 Sec. 89. EFFECTIVE DATE. This division of this Act, being
+HF 2745.4063 (2) 91
+-42- md/jh 42/53
+
+1 deemed of immediate importance, takes effect upon enactment.
+2 DIVISION XV
+3 HOMESTEAD CREDITS AND EXEMPTIONS
+4 Sec. 90. Section 10A.518, subsection 2, paragraph b, Code
+5 2026, is amended to read as follows:
+6 b. The rules shall require the installation of smoke
+7 detectors in existing single-family rental units and
+8 multiple-unit residential buildings. Existing single-family
+9 dwelling units shall be equipped with approved smoke detectors.
+10 A person who files for a homestead credit or exemption
+11 pursuant to chapter 425, subchapter I, shall certify that the
+12 single-family dwelling unit for which the credit or exemption
+13 is filed has a smoke detector installed in compliance with this
+14 section, or that one will be installed within thirty days of
+15 the date the filing for the credit or exemption is made. The
+16 director shall adopt rules and establish appropriate procedures
+17 to administer this subsection.
+18 Sec. 91. Section 10A.518, subsection 3, paragraph b, Code
+19 2026, is amended to read as follows:
+20 b. The rules shall require the installation of carbon
+21 monoxide alarms in existing single-family rental units and
+22 multiple-unit residential buildings that have a fuel-fired
+23 heater or appliance, a fireplace, or an attached garage.
+24 Existing single-family dwellings that have a fuel-fired heater
+25 or appliance, a fireplace, or an attached garage shall be
+26 equipped with approved carbon monoxide alarms. For purposes
+27 of this paragraph, “approved carbon monoxide alarm” means a
+28 carbon monoxide alarm that meets the standards established by
+29 the underwriters’ laboratories or is approved by the director
+30 as established by rule under subsection 5. A person who files
+31 for a homestead credit or exemption pursuant to chapter 425,
+32 subchapter I, shall certify that the single-family dwelling
+33 for which the credit or exemption is filed and that has a
+34 fuel-fired heater or appliance, a fireplace, or an attached
+35 garage, has carbon monoxide alarms installed in compliance with
+HF 2745.4063 (2) 91
+-43- md/jh 43/53
+
+1 this section, or that such alarms will be installed within
+2 thirty days of the date the filing for the credit or exemption
+3 is made. The director shall adopt rules and establish
+4 appropriate procedures to administer this subsection.
+5 Sec. 92. Section 25B.7, subsection 2, paragraph a, Code
+6 2026, is amended to read as follows:
+7 a. Homestead tax credit pursuant to section 425.1, and
+8 sections 425.2 through 425.13, and section 425.15.
+9 Sec. 93. Section 103.22, subsection 7, Code 2026, is amended
+10 to read as follows:
+11 7. Prohibit an owner of property from performing work on the
+12 owner’s principal residence, if such residence is an existing
+13 dwelling rather than new construction and is not an apartment
+14 that is attached to any other apartment or building, as those
+15 terms are defined in section 499B.2, and is not larger than a
+16 single-family dwelling, or require such owner to be licensed
+17 under this chapter. In order to qualify for inapplicability
+18 pursuant to this subsection, a residence shall qualify for the
+19 homestead tax credit or exemption.
+20 Sec. 94. Section 105.11, subsection 3, Code 2026, is amended
+21 to read as follows:
+22 3. Prohibit an owner of property from performing work on the
+23 owner’s principal residence, if such residence is an existing
+24 dwelling rather than new construction and is not larger than a
+25 single-family dwelling, or farm property, excluding commercial
+26 or industrial installations or installations in public use
+27 buildings or facilities, or require such owner to be licensed
+28 under this chapter. In order to qualify for inapplicability
+29 pursuant to this subsection, a residence shall qualify for the
+30 homestead tax credit, or exemption.
+31 Sec. 95. Section 216.12, subsection 1, paragraph e, Code
+32 2026, is amended to read as follows:
+33 e. The rental or leasing of a housing accommodation in a
+34 building which contains housing accommodations for not more
+35 than four families living independently of each other, if the
+HF 2745.4063 (2) 91
+-44- md/jh 44/53
+
+1 owner resides in one of the housing accommodations for which
+2 the owner qualifies for the homestead tax credit or exemption
+3 under section 425.1 chapter 425, subchapter I.
+4 Sec. 96. Section 321.1, subsection 6C, Code 2026, is amended
+5 to read as follows:
+6 6C. “Bona fide residence” or “bona fide address” means the
+7 current street or highway address of an individual’s residence.
+8 The bona fide residence of a person with more than one dwelling
+9 is the dwelling for which the person claims a homestead
+10 tax credit or exemption under chapter 425, subchapter I, if
+11 applicable. The bona fide residence of a homeless person is a
+12 primary nighttime residence meeting one of the criteria listed
+13 in section 48A.2, subsection 3.
+14 Sec. 97. Section 331.401, subsection 1, paragraphs e and f,
+15 Code 2026, are amended to read as follows:
+16 e. Adopt resolutions authorizing the county assessor to
+17 provide forms for homestead tax exemption and credit claimants
+18 as provided in section 425.2 chapter 425, subchapter I, and
+19 military service tax exemptions as provided in section 426A.14.
+20 f. Examine and allow or disallow claims for homestead
+21 tax exemption and credit in accordance with section 425.3
+22 chapter 425, subchapter I, and claims for military service
+23 tax exemption in accordance with chapter 426A. The board,
+24 by a single resolution, may allow or disallow the exemptions
+25 recommended by the assessor.
+26 Sec. 98. Section 331.512, subsection 3, Code 2026, is
+27 amended to read as follows:
+28 3. Carry out duties relating to the homestead tax exemption
+29 and credit as provided in chapter 425, subchapter I, and
+30 agricultural land tax credit as provided in chapters 425 and
+31 chapter 426.
+32 Sec. 99. Section 331.559, subsection 11, Code 2026, is
+33 amended to read as follows:
+34 11. Carry out duties relating to the administration of
+35 the homestead tax exemption and credit and other credits as
+HF 2745.4063 (2) 91
+-45- md/jh 45/53
+
+1 provided in sections 425.4, 425.5, 425.7, 425.9, 425.10, and
+2 425.25 chapter 425.
+3 Sec. 100. Section 404.3, subsection 1, Code 2026, is amended
+4 to read as follows:
+5 1. All qualified real estate assessed as residential
+6 property is eligible to receive an exemption from taxation
+7 based on the actual value added by the improvements. The
+8 exemption is for a period of ten years. The amount of the
+9 exemption is equal to a percent of the actual value added by
+10 the improvements, determined as follows: One hundred fifteen
+11 percent of the value added by the improvements. However, the
+12 amount of the actual value added by the improvements which
+13 shall be used to compute the exemption shall not exceed twenty
+14 thousand dollars and the granting of the exemption shall not
+15 result in the actual value of the qualified real estate being
+16 reduced below the actual value on which the homestead credit
+17 exemption is computed under section 425.1 425.1A, subsection
+18 1A.
+19 Sec. 101. Section 425.1, subsection 2, Code 2026, is amended
+20 by striking the subsection and inserting in lieu thereof the
+21 following:
+22 2. a. The homestead credit fund shall be apportioned each
+23 year so as to give a credit against the tax on each eligible
+24 homestead in the state equal to the amounts specified pursuant
+25 to paragraph “b” or “c”, as applicable.
+26 b. (1) If the owner of a homestead allowed a credit under
+27 this subchapter is any of the following, the homestead credit
+28 allowed on the homestead shall be the entire amount of tax
+29 levied on the homestead:
+30 (a) A veteran of any of the military forces of the United
+31 States who acquired the homestead under 38 U.S.C. §21.801,
+32 21.802 prior to August 6, 1991, or under 38 U.S.C. §2101, 2102.
+33 (b) A veteran as defined in section 35.1 with a permanent
+34 service-connected disability rating of one hundred percent, as
+35 certified by the United States department of veterans affairs,
+HF 2745.4063 (2) 91
+-46- md/jh 46/53
+
+1 or a permanent and total disability rating based on individual
+2 unemployability that is compensated at the one hundred percent
+3 disability rate, as certified by the United States department
+4 of veterans affairs.
+5 (c) A former member of the national guard of any state
+6 who otherwise meets the service requirements of section 35.1,
+7 subsection 2, paragraph “b”, subparagraph (2) or (7), with a
+8 permanent service-connected disability rating of one hundred
+9 percent, as certified by the United States department of
+10 veterans affairs, or a permanent and total disability rating
+11 based on individual unemployability that is compensated at the
+12 one hundred percent disability rate, as certified by the United
+13 States department of veterans affairs.
+14 (d) An individual who is a surviving spouse or a child and
+15 who is receiving dependency and indemnity compensation pursuant
+16 to 38 U.S.C. §1301 et seq., as certified by the United States
+17 department of veterans affairs.
+18 (2) (a) For an owner described in subparagraph (1),
+19 subparagraph division (a), (b), or (c), the credit allowed
+20 shall be continued to the estate of an owner who is deceased
+21 or the surviving spouse and any child, as defined in section
+22 234.1, who are the beneficiaries of a deceased owner, so long
+23 as the surviving spouse remains unmarried.
+24 (b) An individual described in subparagraph (1),
+25 subparagraph division (d), is no longer eligible for the credit
+26 upon termination of dependency and indemnity compensation under
+27 38 U.S.C. §1301 et seq.
+28 (3) An owner or a beneficiary of an owner who elects to
+29 secure the credit provided in this paragraph is not eligible
+30 for the credit provided in paragraph “c” or any other real
+31 property tax credit or exemption provided by law for veterans
+32 of military service.
+33 (4) If an owner acquires a different homestead, the
+34 credit allowed under this paragraph may be claimed on the new
+35 homestead unless the owner fails to meet the other requirements
+HF 2745.4063 (2) 91
+-47- md/jh 47/53
+
+1 of this paragraph.
+2 (5) (a) Except as provided in subparagraph division (b),
+3 the list of the names and addresses of individuals allowed
+4 a credit under this paragraph and maintained by the county
+5 recorder, county treasurer, county assessor, city assessor, or
+6 other government body is confidential information and shall
+7 not be disseminated to any person unless otherwise ordered by
+8 a court or released by the lawful custodian of the records
+9 pursuant to state or federal law. The county recorder, county
+10 treasurer, county assessor, city assessor, or other government
+11 body responsible for maintaining the names and addresses
+12 of individuals allowed a credit under this paragraph may
+13 display such credit on individual paper records and individual
+14 electronic records, including display on an internet site.
+15 (b) Upon request, a county recorder, county assessor, city
+16 assessor, or other entity may share information as described in
+17 subparagraph division (a) to a county veterans service officer
+18 for purposes of providing information on benefits and services
+19 available to veterans and their families.
+20 (6) (a) For an owner who makes an application to secure
+21 the credit provided in this paragraph before July 1, 2026,
+22 and for the beneficiary of such an owner, “homestead” shall
+23 mean the same as defined in section 425.11 for each succeeding
+24 assessment year.
+25 (b) For an owner who makes an application to secure the
+26 credit provided in this paragraph on or after July 1, 2026, and
+27 for the beneficiary of such an owner, “homestead” shall mean the
+28 same as provided in section 425.11, except the homestead shall
+29 not include appurtenances and shall not exceed one-half acre.
+30 (7) For purposes of this paragraph, “permanent and total
+31 disability rating based on individual unemployability” means
+32 a condition under which a person has either a permanent
+33 service-connected disability rating of sixty percent or two or
+34 more permanent service-connected disability conditions in which
+35 one of the conditions has at least a forty percent rating and
+HF 2745.4063 (2) 91
+-48- md/jh 48/53
+
+1 the combined rating for all the conditions is at least seventy
+2 percent, and the person has an administrative adjustment added
+3 to the service-connected disability rating, due to individual
+4 unemployability, such that the United States department of
+5 veterans affairs rates the veteran permanently and totally
+6 disabled for purposes of disability compensation.
+7 c. (1) For assessment years beginning prior to January
+8 1, 2026, unless eligible under section 425.15, Code 2026, an
+9 amount equal to the actual levy on the first four thousand
+10 eight hundred fifty dollars of actual value for each homestead.
+11 (2) For the assessment year beginning January 1, 2026,
+12 and each assessment year thereafter, unless eligible under
+13 paragraph “b”, zero.
+14 Sec. 102. Section 425.1A, subsection 1, Code 2026, is
+15 amended to read as follows:
+16 1. The following exemptions from taxation shall be allowed
+17 in addition to following application of the homestead credit
+18 exemption under subsection 1A for an owner that has attained
+19 the age of sixty-five years by January 1 of the assessment
+20 year:
+21 a. For the assessment year beginning January 1, 2023, the
+22 eligible homestead, not to exceed three thousand two hundred
+23 fifty dollars in taxable value.
+24 b. For the assessment year years beginning on or after
+25 January 1, 2024, and each succeeding assessment year, the
+26 eligible homestead, not to exceed six thousand five hundred
+27 dollars in taxable value.
+28 Sec. 103. Section 425.1A, Code 2026, is amended by adding
+29 the following new subsection:
+30 NEW SUBSECTION. 1A. For the assessment year beginning
+31 January 1, 2026, and each assessment year thereafter, an
+32 exemption from taxation of fifteen thousand dollars in taxable
+33 value shall be allowed on each eligible homestead.
+34 Sec. 104. Section 425.1A, subsection 2, Code 2026, is
+35 amended to read as follows:
+HF 2745.4063 (2) 91
+-49- md/jh 49/53
+
+1 2. Section 25B.7, subsection 1, shall not apply to the
+2 property tax exemption exemptions provided in this section.
+3 Sec. 105. Section 425.2, subsections 1 and 2, Code 2026, are
+4 amended to read as follows:
+5 1. A person who wishes to qualify for the homestead credit
+6 or exemptions allowed under this subchapter shall obtain the
+7 appropriate forms for filing for the credit from the assessor.
+8 The forms shall include the ability to claim the credit under
+9 section 425.1 and the exemptions under section 425.1A.
+10 However, a separate form shall be required for claiming a
+11 credit under section 425.1, subsection 2, paragraph “b”. The
+12 person claiming the credit or exemption shall file a verified
+13 statement and designation of homestead with the assessor for
+14 the year for which the person is first claiming the credit
+15 or exemption. The claim shall be filed not later than July
+16 1 of the year for which the person is claiming the credit or
+17 exemption. A claim filed after July 1 of the year for which the
+18 person is claiming the credit or exemption shall be considered
+19 as a claim filed for the following year.
+20 2. Upon the filing and allowance of the claim, the claim
+21 shall be allowed on that homestead for successive years without
+22 further filing as long as the property is legally or equitably
+23 owned and used as a homestead by that person or that person’s
+24 spouse on July 1 of each of those successive years, and the
+25 owner of the property being claimed as a homestead declares
+26 residency in Iowa for purposes of income taxation, and the
+27 property is occupied by that person or that person’s spouse
+28 for at least six months in each of those calendar years in
+29 which the fiscal year begins. When the property is sold or
+30 transferred, the buyer or transferee who wishes to qualify
+31 shall refile for the credit or exemption. However, when the
+32 property is transferred as part of a distribution made pursuant
+33 to chapter 598, the transferee who is the spouse retaining
+34 ownership of the property is not required to refile for the
+35 credit or exemption. Property divided pursuant to chapter 598
+HF 2745.4063 (2) 91
+-50- md/jh 50/53
+
+1 shall not be modified following the division of the property.
+2 An owner who ceases to use a property for a homestead or
+3 intends not to use it as a homestead for at least six months in
+4 a calendar year shall provide written notice to the assessor
+5 by July 1 following the date on which the use is changed. A
+6 person who sells or transfers a homestead or the personal
+7 representative of a deceased person who had a homestead at the
+8 time of death, shall provide written notice to the assessor
+9 that the property is no longer the homestead of the former
+10 claimant.
+11 Sec. 106. Section 425.2, subsection 4, Code 2026, is amended
+12 by striking the subsection.
+13 Sec. 107. Section 425.2, subsections 5 and 6, Code 2026, are
+14 amended to read as follows:
+15 5. Any person sixty-five years of age or older or any person
+16 who is disabled may request, in writing, from the appropriate
+17 assessor forms for filing for homestead tax credit. Any
+18 person sixty-five years of age or older or who is disabled
+19 may complete the form, which shall include a statement of
+20 homestead, and mail or return it to the appropriate assessor.
+21 The signature of the claimant on the statement shall be
+22 considered the claimant’s acknowledgment that all statements
+23 and facts entered on the form are correct to the best of the
+24 claimant’s knowledge.
+25 6. Upon adoption of a resolution by the county board
+26 of supervisors, any person may request, in writing, from
+27 the appropriate assessor forms for the filing for homestead
+28 tax credit. The person may complete the form, which shall
+29 include a statement of homestead, and mail or return it to
+30 the appropriate assessor. The signature of the claimant on
+31 the statement of homestead shall be considered the claimant’s
+32 acknowledgment that all statements and facts entered on the
+33 form are correct to the best of the claimant’s knowledge.
+34 Sec. 108. Section 425.8, subsection 1, Code 2026, is amended
+35 to read as follows:
+HF 2745.4063 (2) 91
+-51- md/jh 51/53
+
+1 1. The director of revenue shall prescribe the form
+2 for the making of a verified statement and designation of
+3 homestead, the form for the supporting affidavits required
+4 herein, and such other forms as may be necessary for the proper
+5 administration of this subchapter. Whenever necessary, the
+6 department of revenue shall forward to the county auditors of
+7 the several counties in the state the prescribed sample forms,
+8 and the county auditors shall furnish blank forms prepared in
+9 accordance therewith with the assessment rolls, books, and
+10 supplies delivered to the assessors. The department of revenue
+11 shall prescribe and the county auditors shall provide on the
+12 forms for claiming the homestead credit a statement to the
+13 effect that the owner realizes that the owner must give written
+14 notice to the assessor when the owner changes the use of the
+15 property.
+16 Sec. 109. Section 425.11, subsection 1, paragraph d,
+17 subparagraph (1), unnumbered paragraph 1, Code 2026, is amended
+18 to read as follows:
+19 The homestead includes the dwelling house which the owner,
+20 in good faith, is occupying as a home on July 1 of the year for
+21 which the credit or exemption is claimed and occupies as a home
+22 for at least six months during the calendar year in which the
+23 fiscal year begins, except as otherwise provided.
+24 Sec. 110. Section 425.11, subsection 1, paragraph d,
+25 subparagraph (3), Code 2026, is amended to read as follows:
+26 (3) It must not embrace more than one dwelling house, but
+27 where a homestead has more than one dwelling house situated
+28 thereon, the exemption and or credit provided for in this
+29 subchapter shall apply to the home and buildings used by the
+30 owner, but shall not apply to any other dwelling house and
+31 buildings appurtenant.
+32 Sec. 111. Section 425.11, subsection 1, paragraph e,
+33 subparagraph (2), Code 2026, is amended to read as follows:
+34 (2) For the purpose of this subchapter, the word “owner”
+35 shall be construed to mean a bona fide owner and not one for
+HF 2745.4063 (2) 91
+-52- md/jh 52/53
+
+1 the purpose only of availing the person of the benefits of this
+2 subchapter. In order to qualify for the homestead tax credit
+3 and or exemption, evidence of ownership shall be on file in the
+4 office of the clerk of the district court or recorded in the
+5 office of the county recorder at the time the owner files with
+6 the assessor a verified statement of the homestead claimed by
+7 the owner as provided in section 425.2.
+8 Sec. 112. Section 483A.24, subsection 20, Code 2026, is
+9 amended to read as follows:
+10 20. Upon payment of a fee established by rules adopted
+11 pursuant to section 483A.1 for a lifetime trout fishing
+12 license, the department shall issue a lifetime trout fishing
+13 license to a person who is at least sixty-five years of age or
+14 to a person who qualifies for the disabled veteran homestead
+15 credit under section 425.15 425.1, subsection 2, paragraph “b”.
+16 The department shall prepare an application to be used by a
+17 person requesting a lifetime trout fishing license under this
+18 subsection.
+19 Sec. 113. REPEAL. Section 425.15, Code 2026, is repealed.
+20 Sec. 114. IMPLEMENTATION. Homestead owners who have filed
+21 for or that are receiving homestead credits or exemptions under
+22 chapter 425, subchapter I, before the effective date of this
+23 division of this Act shall continue to receive such credits and
+24 exemptions for which the owner is eligible for assessment years
+25 beginning on or after January 1, 2026, without refiling, and,
+26 if the owner is eligible, shall receive the exemption under
+27 section 425.1A, subsection 1A, as enacted in this division of
+28 this Act, without filing for such exemption.
+29 Sec. 115. RETROACTIVE APPLICABILITY. This division of this
+30 Act applies retroactively to assessment years beginning on or
+31 after January 1, 2026.>
+______________________________
+NORDMAN of Dallas
+HF 2745.4063 (2) 91
+-53- md/jh 53/53

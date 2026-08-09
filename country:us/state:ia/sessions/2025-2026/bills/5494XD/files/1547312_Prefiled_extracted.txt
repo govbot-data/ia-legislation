@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED SECRETARY OF
+STATE BILL)
+A BILL FOR
+1 An Act relating to parties responsible for the confidentiality
+2 of information of participants in the address
+3 confidentiality program.
+4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5494XD (2) 91
+sc/ns
+
+S.F. _____ H.F. _____
+1 Section 1. Section 9E.7, subsection 5, Code 2026, is amended
+2 to read as follows:
+3 5. Upon request by a program participant, the assessor or
+4 the assessor’s staff recorder shall redact the requestor’s name
+5 contained in electronic documents that are displayed for public
+6 access through an internet site. The assessor and recorder
+7 shall implement and maintain a process to facilitate these
+8 requests. A fee shall not be charged for the administration
+9 of this subsection.
+10 EXPLANATION
+11 The inclusion of this explanation does not constitute agreement with
+12 the explanation’s substance by the members of the general assembly.
+13 Under current law, an assessor or the assessor’s staff must
+14 redact the name of a participant in the address confidentiality
+15 program from documents displayed for public access on an
+16 internet site, upon the participant’s request. This bill
+17 extends this requirement to recorders and requires recorders to
+18 implement and maintain a process to facilitate such requests.
+19 The bill also strikes the reference to the assessor’s staff for
+20 purposes of the requirement.
+LSB 5494XD (2) 91
+-1- sc/ns 1/1

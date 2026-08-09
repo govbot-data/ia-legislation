@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8463
+Media Type: application/pdf
+
+================================================================================
+
+Senate File 2456
+H-8463
+1 Amend Senate File 2456 as follows:
+2 1. Page 1, by striking line 3 and inserting:
+3 <1. This section applies to a person that sells a good>
+4 2. Page 1, line 7, by striking <state:> and inserting
+5 <state.>
+6 3. Page 1, by striking lines 8 through 20 and inserting:
+7 <2. If a total transaction amount, including any taxes,
+8 ends with one, two, three, four, six, seven, eight, or nine as
+9 the final digit of the number of cents for the transaction, a
+10 person may round down the number of cents to the nearest number
+11 of cents divisible by five.>
+12 4. Page 1, line 21, by striking <2.> and inserting <3.>
+______________________________
+FISHER of Tama
+SF 2456.4470 (2) 91
+-1- nls/ko 1/1

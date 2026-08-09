@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8258
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2725
+H-8258
+1 Amend House File 2725 as follows:
+2 1. Page 1, line 28, after <submit> by inserting <the data>
+3 2. Page 1, line 31, by striking <in a summary of the data>
+4 and inserting <in a separate section>
+5 3. Page 2, by striking lines 19 through 21 and inserting:
+6 <NEW SUBSECTION. 80. a. Prepare an annual condition of
+7 education report to be submitted to the governor and general
+8 assembly by April 1 of each year. The data set used for the
+9 report shall timely be made available for download.
+10 b. Implement a system for monitoring reporting errors and
+11 unavailable data in the annual condition of education report.>
+12 4. Page 6, line 9, after <in> by inserting <a separate
+13 section of>
+14 5. Page 7, line 6, after <submit> by inserting <the
+15 information>
+16 6. Page 7, line 7, by striking <in a summary of the
+17 information> and inserting <in a separate section>
+______________________________
+FETT of Warren
+HF 2725.3614 (2) 91
+-1- mb/jh 1/1

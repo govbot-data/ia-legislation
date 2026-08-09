@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5074
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2418
+S-5074
+1 Amend Senate File 2418 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 468.27, subsection 3, paragraph b, Code
+5 2026, is amended to read as follows:
+6 b. (1) A county auditor who has not filed a document
+7 described in paragraph “a” as a district parcel record with the
+8 county recorder before July 1, 2025, shall prepare and file the
+9 district parcel record on or before June 30, 2026 2027.
+10 (2) This paragraph “b” is repealed July 1, 2026 2027.
+11 Sec. 2. EFFECTIVE DATE. This Act, being deemed of immediate
+12 importance, takes effect upon enactment.>
+13 2. Title page, line 2, after <records> by inserting <, and
+14 including effective date provisions>
+______________________________
+ANNETTE SWEENEY
+SF 2418.3239 (2) 91
+-1- lh/jh 1/1

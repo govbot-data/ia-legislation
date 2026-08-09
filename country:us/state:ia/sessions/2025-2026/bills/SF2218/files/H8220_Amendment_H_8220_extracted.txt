@@ -1,0 +1,156 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8220
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2218
+H-8220
+1 Amend Senate File 2218, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <DIVISION I
+6 EDUCATION-RELATED PROVISIONS
+7 Section 1. Section 256.146, subsection 16, Code 2026, is
+8 amended to read as follows:
+9 16. a. Adopt rules to require that a background
+10 investigation be conducted by the division of criminal
+11 investigation of the department of public safety on all initial
+12 applicants for licensure. The board shall also require all
+13 initial applicants to submit a completed fingerprint packet and
+14 shall use the packet to facilitate a national criminal history
+15 background check.
+16 b. The board shall have access to, and shall review the
+17 sex offender registry information under section 692A.121
+18 available to the general public, information in the Iowa court
+19 information system available to the general public, the central
+20 registry for child abuse information established under chapter
+21 235A, and the dependent adult abuse records maintained under
+22 chapter 235B for information regarding applicants for license
+23 renewal and, every five years, for practitioners who are not
+24 subject to renewal requirements pursuant to subsection 1,
+25 paragraph “a”, subparagraph (2). The board may charge such
+26 a practitioner who is not subject to renewal requirements a
+27 reasonable fee for the review of the sex offender registry
+28 information, information in the Iowa court information system,
+29 the central registry for child abuse information, and the
+30 dependent adult abuse records.
+31 c. (1) The board shall require all initial applicants for
+32 licensure, including individuals who apply for a license under
+33 section 256.152, and all applicants for license renewal, to
+34 produce evidence of the applicant’s legal authorization to
+35 work in the United States as a condition of initial licensure
+SF 2218.3423 (1) 91
+-1- jda/jh 1/4
+
+1 or license renewal. The board shall accept as proof of an
+2 applicant’s legal authorization to work in the United States
+3 any of the following:
+4 (a) A document that establishes both employment
+5 authorization and identity, as described in 8 U.S.C.
+6 §1324a(b)(1)(B).
+7 (b) A document that evidences employment authorization,
+8 as described in 8 U.S.C. §1324a(b)(1)(C), and a document that
+9 establishes the identity of the applicant, as described in 8
+10 U.S.C. §1324a(b)(1)(D).
+11 (2) The board shall require all practitioners who are
+12 not subject to renewal requirements pursuant to subsection
+13 1, paragraph “a”, subparagraph (2), to produce evidence
+14 of the practitioner’s legal authorization to work in the
+15 United States every five years as a condition of remaining
+16 licensed. The board shall accept as proof of a practitioner’s
+17 legal authorization to work in the United States any of the
+18 following:
+19 (a) A document that establishes both employment
+20 authorization and identity, as described in 8 U.S.C.
+21 §1324a(b)(1)(B).
+22 (b) A document that evidences employment authorization,
+23 as described in 8 U.S.C. §1324a(b)(1)(C), and a document that
+24 establishes the identity of the practitioner, as described in 8
+25 U.S.C. §1324a(b)(1)(D).
+26 Sec. 2. Section 256E.7, subsection 2, Code 2026, is amended
+27 by adding the following new paragraph:
+28 NEW PARAGRAPH. 0w. Be subject to and comply with the
+29 requirements of section 280.37 relating to the verification of
+30 the identity and employment eligibility of all individuals who
+31 have accepted an offer of employment in the same manner as a
+32 school district.
+33 Sec. 3. Section 256F.4, subsection 2, Code 2026, is amended
+34 by adding the following new paragraph:
+35 NEW PARAGRAPH. v. Be subject to and comply with the
+SF 2218.3423 (1) 91
+-2- jda/jh 2/4
+
+1 requirements of section 280.37 relating to the verification of
+2 the identity and employment eligibility of all individuals who
+3 have accepted an offer of employment in the same manner as a
+4 school district.
+5 Sec. 4. NEW SECTION. 280.37 Verification of identity and
+6 eligibility to work in the United States.
+7 The board of directors of each school district and the
+8 authorities in charge of each accredited nonpublic school
+9 shall verify the identity and employment eligibility of
+10 all individuals who have accepted an offer of employment in
+11 accordance with 8 U.S.C. §1324a.
+12 Sec. 5. APPLICABILITY. The following applies to all
+13 applications for initial licensure, and all applications for
+14 license renewal, that are submitted to the board of educational
+15 examiners on or after the effective date of this division of
+16 this Act:
+17 The section of this division of this Act amending section
+18 256.146.
+19 DIVISION II
+20 PROVIDING FALSE SOCIAL SECURITY NUMBERS —— PENALTIES
+21 Sec. 6. NEW SECTION. 91F.1 Definitions.
+22 As used in this chapter unless the context otherwise
+23 requires:
+24 1. “Department” means the department of workforce
+25 development.
+26 2. “Employer” means a person who employs an employee in this
+27 state for wages.
+28 Sec. 7. NEW SECTION. 91F.2 Employment of persons with false
+29 social security numbers prohibited.
+30 An employer shall not hire or continue to employ an employee
+31 who the employer knows to have provided the employer with a
+32 social security number on any documentation for employment that
+33 does not belong to the employee.
+34 Sec. 8. NEW SECTION. 91F.3 Enforcement —— penalties.
+35 1. The department shall enforce this chapter.
+SF 2218.3423 (1) 91
+-3- jda/jh 3/4
+
+1 2. An employer who violates section 91F.2 shall be subject
+2 to a civil penalty of ten thousand dollars to be collected by
+3 the department.
+4 3. For a fourth or subsequent violation of subsection 91F.2,
+5 in addition to the civil penalty provided in subsection 1,
+6 an employer shall cease operations at the location where the
+7 violation occurred until any individual who holds a majority
+8 ownership interest in the employer, and all managerial staff
+9 at the location, participate in training developed by the
+10 department regarding compliance with this chapter.
+11 Sec. 9. Section 714.8, Code 2026, is amended by adding the
+12 following new subsections:
+13 NEW SUBSECTION. 23. For the purpose of retaining or
+14 obtaining employment, or any other thing of value, falsely
+15 provides the employer or prospective employer with a social
+16 security number that does not belong to that person.
+17 NEW SUBSECTION. 24. An employer knowingly providing a
+18 potential employee with a fraudulent social security number for
+19 the purpose of hiring the potential employee.>
+20 2. Title page, by striking lines 1 through 5 and inserting
+21 <An Act relating to employment-related matters, including
+22 by modifying provisions related to the verification of the
+23 identity and employment eligibility of individuals by the
+24 board of educational examiners, school districts, accredited
+25 nonpublic schools, charter schools, and innovation zone
+26 schools, the provision of a false social security number to an
+27 employer, prospective employer, or a potential employee, making
+28 penalties applicable, and including applicability provisions.>
+______________________________
+BODEN of Warren
+SF 2218.3423 (1) 91
+-4- jda/jh 4/4

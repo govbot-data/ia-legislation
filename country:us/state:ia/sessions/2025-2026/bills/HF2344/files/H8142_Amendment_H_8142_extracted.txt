@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8142
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2344
+H-8142
+1 Amend House File 2344 as follows:
+2 1. Page 1, after line 27 by inserting:
+3 <Sec. ___. NEW SECTION. 507B.4D Automobile partial loss
+4 settlements —— child restraint systems.
+5 1. If an automobile insurance policy provides for the
+6 settlement of a first-party automobile partial loss, a person
+7 shall include the value of any child restraint system that
+8 is located in an automobile at the time the automobile is
+9 subject to a partial loss. For purposes of this subsection,
+10 “automobile” has the same meaning as defined in section 321.1,
+11 subsection 42, paragraph “d”, and “child restraint system” has
+12 the same meaning as defined in section 321.446, subsection 7.
+13 2. The commissioner shall adopt rules pursuant to chapter
+14 17A as necessary to administer this section.
+15 Sec. ___. APPLICABILITY. The section of this Act enacting
+16 section 507B.4D applies to first-party automobile partial
+17 losses for automobiles that are subject to a partial loss
+18 occurring on or after July 1, 2026.>
+19 2. Title page, by striking lines 1 and 2 and inserting <An
+20 Act relating to child restraint systems, including the use of
+21 child restraint systems by certain children traveling in motor
+22 vehicles and the inclusion of the value of child restraint
+23 systems in certain insurance settlements, and including
+24 applicability provisions.>
+25 3. By renumbering as necessary.
+______________________________
+YOUNG of Dallas
+HF 2344.3173 (1) 91
+-1- th/ns 1/1

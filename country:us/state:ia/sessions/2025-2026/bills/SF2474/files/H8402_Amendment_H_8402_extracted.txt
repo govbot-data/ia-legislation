@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8402
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2474
+H-8402
+1 Amend Senate File 2474, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 256.32A, subsection 5, Code 2026, is
+4 amended to read as follows:
+5 5. This section is repealed July 1, 2027 2032.>
+6 2. Title page, by striking lines 1 through 4 and inserting
+7 <An Act relating to education, including by modifying
+8 provisions related to the Iowa dyslexia board and requiring
+9 the department of education to prepare a report related
+10 to cardiac emergency response plans and automated external
+11 defibrillators.>
+12 3. By renumbering as necessary.
+______________________________
+WELDON of Polk
+SF 2474.4183 (1) 91
+-1- jda/jh 1/1

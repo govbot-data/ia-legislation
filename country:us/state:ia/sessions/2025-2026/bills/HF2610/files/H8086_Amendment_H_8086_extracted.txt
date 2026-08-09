@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8086
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2610
+H-8086
+1 Amend House File 2610 as follows:
+2 1. Page 6, after line 2 by inserting:
+3 <Sec. ___. Section 257.11, Code 2026, is amended by adding
+4 the following new subsections:
+5 NEW SUBSECTION. 4. The department may authorize the
+6 recipient of a grant awarded pursuant to this section to
+7 deposit all or a portion of the grant award into a protected
+8 investment or endowment account. The principal shall not be
+9 expended. Dividends and interest earnings may be expended for
+10 career academy program development and sustainability.
+11 NEW SUBSECTION. 5. For purposes of this section, a regional
+12 center may include a physical facility, a career academy
+13 program, or both.>
+14 2. Title page, by striking line 4 and inserting <common
+15 course numbering systems, the implementation of a statewide
+16 corequisite model in Iowa community colleges, and the career
+17 academy fund.>
+18 3. By renumbering as necessary.
+______________________________
+KRESSIG of Black Hawk
+HF 2610.3063 (1) 91
+-1- mb/jh 1/1

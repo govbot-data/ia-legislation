@@ -1,0 +1,100 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5195
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2562
+S-5195
+1 Amend House File 2562, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, before line 1 by inserting:
+4 <DIVISION I
+5 CARE FACILITY PLACEMENT>
+6 2. Page 7, after line 24 by inserting:
+7 <Sec. ___. NEW SECTION. 144H.6 Division of aging and
+8 disability services —— notification.
+9 1. Upon completion of a physician’s certification pursuant
+10 to section 144H.2, and prior to a person authorized to consent
+11 taking any action under section 144H.3, the patient’s attending
+12 physician shall forward a copy of the physician’s certification
+13 to the department’s division of aging and disability services.
+14 2. At least ten days prior to a care facility or an
+15 attending physician petitioning the court for an order
+16 under section 144H.5, the care facility or the patient’s
+17 attending physician shall forward a copy of the petition to the
+18 department’s division of aging and disability services.
+19 3. Upon granting a petition pursuant to section 144H.5,
+20 the court shall forward a copy of the court order to the
+21 department’s division of aging and disability services.
+22 4. A receiving care facility placing a patient pursuant
+23 to section 144H.3, or a court order under section 144H.5,
+24 shall notify the department’s division of aging and disability
+25 services upon completion of the patient’s placement at the
+26 receiving care facility.>
+27 3. Page 7, line 25, by striking <144H.6> and inserting
+28 <144H.7>
+29 4. Page 7, line 33, by striking <144H.7> and inserting
+30 <144H.8>
+31 5. Page 8, line 9, by striking <144H.8> and inserting
+32 <144H.9>
+33 6. Page 8, after line 11 by inserting:
+34 <DIVISION ___
+35 PERSONS AUTHORIZED TO CONSENT —— CONTINGENT ON ENACTMENT OF
+HF 2562.4087 (2) 91
+-1- ak/ko 1/3
+
+1 LEGISLATION
+2 Sec. ___. Section 144H.1, subsection 6, as enacted in
+3 Division I of this Act, is amended to read as follows:
+4 6. “Person authorized to consent” means an individual,
+5 in the same order of priority prescribed in section 144A.7,
+6 subsection 1, paragraph “b”, who shall be guided by the express
+7 or implied intentions of the patient and who is reasonably
+8 available, willing, and competent to consent, refuse to
+9 consent, or withdraw consent on a patient’s behalf.
+10 Sec. ___. CONTINGENT EFFECTIVE DATE. This division of this
+11 Act takes effect only if 2026 Iowa Acts, House File 2305, or
+12 successor legislation, amends section 144A.7, subsection 1,
+13 paragraph “b”, and is substantially similar to the following
+14 language:
+15 b. If a patient does not have an attorney in fact, a
+16 guardian appointed pursuant to chapter 633, or a guardian
+17 who has obtained court approval in accordance with section
+18 232D.401, subsection 4, paragraph “a”, the decision may be made
+19 by any of the following individuals, who shall be guided by the
+20 express or implied intentions of the patient, in the following
+21 order of priority if no individual in the previous priority
+22 is reasonably available, willing, and competent to make the
+23 decision:
+24 (1) The patient’s spouse.
+25 (2) An adult child of the patient or, if the patient
+26 has more than one adult child, the decision agreed to by a
+27 majority of the adult children who are reasonably available for
+28 consultation with the patient’s attending provider.
+29 (3) A parent of the patient or if the patient has more than
+30 one parent, the decision agreed to by both parents if both
+31 are reasonably available for consultation with the patient’s
+32 attending provider.
+33 (4) An adult sibling of the patient or, if the patient
+34 has more than one adult sibling, the decision agreed to by a
+35 majority of the adult siblings who are reasonably available for
+HF 2562.4087 (2) 91
+-2- ak/ko 2/3
+
+1 consultation with the patient’s attending provider.
+2 (5) The decision agreed to by a majority of the patient’s
+3 adult relatives, including but not limited to grandchildren,
+4 grandparents, aunts, uncles, nieces, nephews, stepchildren,
+5 stepparents, and stepsiblings who are reasonably available for
+6 consultation with the patient’s attending provider.
+7 (6) A close adult friend.>
+8 7. Title page, line 2, after <adults> by inserting <, and
+9 including effective date provisions>
+10 8. By renumbering as necessary.
+______________________________
+MARK COSTELLO
+HF 2562.4087 (2) 91
+-3- ak/ko 3/3

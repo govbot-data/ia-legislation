@@ -1,0 +1,80 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8238
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2739
+H-8238
+1 Amend the amendment, H-8233, to House File 2739, as follows:
+2 1. Page 1, after line 3 by inserting:
+3 <Section 1. NEW SECTION. 135.196 Iowa benefit exchange
+4 fund —— enhanced premium credits —— appropriation.
+5 1. As used in this section, “enhanced premium tax credit”
+6 means the advanced premium tax credit under 26 U.S.C.
+7 §36B(3)(A).
+8 2. The department and the department of insurance and
+9 financial services shall cooperate and develop an internet
+10 site to be located on the internet site of the department to
+11 effectuate this section.
+12 3. An Iowa benefit exchange fund is created in the state
+13 treasury under the control of the department. Moneys in the
+14 fund are to be used for the sole purpose of providing subsidies
+15 to persons whose applications have been approved pursuant to
+16 this section. Moneys in the fund are not subject to section
+17 8.33. Notwithstanding section 12C.7, subsection 2, interest or
+18 earnings on moneys in the fund shall be credited to the fund.
+19 4. The purpose of the fund is to provide funding for the
+20 establishment of a state-based health insurance subsidy to
+21 mitigate the impact of the reduction in the enhanced federal
+22 advanced premium tax credits after the 2025 tax year.
+23 5. For the fiscal year beginning July 1, 2026, and ending
+24 June 30, 2027, there is appropriated from the general fund of
+25 the state to the department to be credited to the Iowa benefit
+26 exchange fund, an amount sufficient to implement this section
+27 until such time that the enhanced federal advanced premium
+28 tax credits are restored to a level equaling or exceeding the
+29 amount of the enhanced premium tax credit available to persons
+30 during the 2025 tax year.
+31 6. Beginning July 1, 2026, in order to qualify for a subsidy
+32 to mitigate the impact of the reduction in enhanced federal
+33 advanced premium tax credits, a person who is a resident may
+34 submit an application to the department in a manner specified
+35 by the department. The application shall include identical
+H 8233.3556 (2) 91
+-1- jm/jh 1/2
+
+1 information submitted by a person as if applying for health
+2 insurance coverage under the federal Patient Protection and
+3 Affordable Care Act, Pub. L. No. 111-148, including personal
+4 information, household income, immigration status, and any
+5 current or available health insurance coverage.
+6 7. a. For the tax year beginning on or after January 1,
+7 2026, but before January 1, 2027, and upon approval of the
+8 application by the department, an amount equal to the enhanced
+9 premium tax credit the person would have received as if the
+10 enhanced premium tax credit did not expire shall be provided to
+11 the person to offset the cost of the health insurance coverage.
+12 b. The amount provided shall be based upon the calculation
+13 for the enhanced premium tax credits during the 2025 tax year.
+14 c. The amount provided may be retroactive to January 1,
+15 2026, if the person qualified for such credits, or to the
+16 date the person would have qualified for enhanced premium tax
+17 credits in 2026, whichever is earlier.
+18 8. The department shall adopt rules pursuant to chapter 17A
+19 to administer this section.>
+20 2. Page 2, by striking lines 6 through 10.
+21 3. Page 2, after line 12 by inserting:
+22 <___. Title page, line 5, after <services,> by inserting
+23 <creating the Iowa benefit exchange fund to supplement enhanced
+24 premium credits,>>
+25 4. Page 2, line 15, by striking <and applicability>
+26 5. By renumbering as necessary.
+______________________________
+ZABNER of Johnson
+______________________________
+SRINIVAS of Polk
+H 8233.3556 (2) 91
+-2- jm/jh 2/2

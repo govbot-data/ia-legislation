@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8135
+Media Type: application/pdf
+
+================================================================================
+
+House File 2645
+H-8135
+1 Amend House File 2645 as follows:
+2 1. Page 1, by striking lines 5 through 13 and inserting:
+3 <(1) Every person who receives a citation, is arrested, or
+4 otherwise enters any criminal proceeding who elects to opt in
+5 to the electronic court notification system after establishment
+6 by the state court administrator.
+7 (2) Every person who is a victim or witness associated
+8 with a criminal justice proceeding who elects to opt in to the
+9 electronic court notification system.
+10 (3) Any attorney representing a person in a criminal
+11 justice proceeding or a legal guardian of a person involved
+12 in a criminal justice proceeding who elects to opt in to the
+13 electronic court notification system.>
+14 2. Page 1, line 14, by striking <Opt-out> and inserting
+15 <Opt-in>
+16 3. Page 1, line 19, by striking <opt-out> and inserting
+17 <opt-in>
+18 4. By renumbering as necessary.
+______________________________
+LEVIN of Johnson
+HF 2645.3126 (2) 91
+-1- as/js 1/1

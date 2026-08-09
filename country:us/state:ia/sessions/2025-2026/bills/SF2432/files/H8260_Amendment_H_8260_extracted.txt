@@ -1,0 +1,323 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8260
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2432
+H-8260
+1 Amend Senate File 2432, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 1, before line 1 by inserting:
+4 <DIVISION I
+5 CITY BOARDS OF HEALTH —— CITY HEALTH DEPARTMENTS>
+6 2. Page 2, after line 16 by inserting:
+7 <DIVISION ___
+8 CITY LIBRARY OVERSIGHT
+9 Sec. ___. Section 8A.209, subsection 4, Code 2026, is
+10 amended by adding the following new paragraph:
+11 NEW PARAGRAPH. d. Enforces age-appropriate policies that
+12 prohibit minors from accessing materials deemed inappropriate
+13 for minors and allow parents access to monitor their child’s
+14 borrowing activity. Each eligible library shall submit to the
+15 department an annual report providing proof of age-appropriate
+16 policies as prescribed by the department. For purposes of this
+17 paragraph, “age-appropriate” means topics and messages suitable
+18 to particular ages based on developing cognitive, emotional,
+19 and behavioral capacity typical for the age. “Age-appropriate”
+20 does not include any material with descriptions or visual
+21 depictions of a sex act as defined in section 702.17.
+22 Sec. ___. NEW SECTION. 8A.212 State library —— standards
+23 and accreditation program.
+24 The state library shall provide performance measures to
+25 encourage the ongoing development of high-quality public
+26 library service in the state. The state library shall use the
+27 most recent edition of “In Service to Iowa: Public Library
+28 Measures of Quality” as the manual for the state library’s
+29 standards program. The use of such manual for the program does
+30 not include standards relating to American library association
+31 standards or Iowa library association standards. The state
+32 library’s standards and accreditation program shall not
+33 require libraries to adhere to American library association
+34 principles. Iowa’s voluntary public library standards program
+35 is established to give public libraries a tool to identify
+SF 2432.3616 (2) 91
+-1- dg/ko 1/9
+
+1 strengths for improvement. The program shall be used to
+2 document the condition of public library service in Iowa, to
+3 distribute direct state aid funding, and to meet statutory
+4 requirements. Program information shall be available on the
+5 state library’s official internet site.
+6 Sec. ___. Section 8A.222, Code 2026, is amended to read as
+7 follows:
+8 8A.222 Local financial support.
+9 1. Commencing July 1, 1977, each city within its corporate
+10 boundaries and each county within the unincorporated area of
+11 the county shall levy a tax of at least six and three-fourths
+12 cents per thousand dollars of assessed value on the taxable
+13 property or at least the monetary equivalent thereof when all
+14 or a portion of the funds are obtained from a source other than
+15 taxation, for the purpose of providing financial support to the
+16 public library which that provides library services within the
+17 respective jurisdictions.
+18 2. A library shall not receive moneys collected under this
+19 section if the library is in violation of the age-appropriate
+20 policies described in section 8A.209.
+21 Sec. ___. Section 22.7, subsection 13, Code 2026, is amended
+22 to read as follows:
+23 13. a. The Except as otherwise provided in paragraphs “b”
+24 and “c”, records of a library which that, by themselves or when
+25 examined with other public records, would reveal the identity
+26 of the library patron checking out or requesting an item or
+27 information from the library.
+28 b. The records shall be released to a criminal or
+29 juvenile justice agency only pursuant to an investigation of
+30 a particular person or organization suspected of committing
+31 a known crime. The records shall be released only upon a
+32 judicial determination that a rational connection exists
+33 between the requested release of information and a legitimate
+34 end and that the need for the information is cogent and
+35 compelling.
+SF 2432.3616 (2) 91
+-2- dg/ko 2/9
+
+1 c. The records shall be released to the parent or guardian
+2 of a library patron who is a minor child upon the request of the
+3 parent or guardian.
+4 Sec. ___. Section 336.10, Code 2026, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 3. A library shall not receive moneys from
+7 this fund if the library is in violation of the age-appropriate
+8 policies described in section 8A.209.
+9 Sec. ___. NEW SECTION. 336.20 Age-appropriate material.
+10 1. a. The board of library trustees shall adopt and enforce
+11 age-appropriate policies for the library, as described in
+12 section 8A.209. Such policies shall apply to any mobile and
+13 temporary services, events, and retailers on library property.
+14 Any violations of a policy that are not remedied within thirty
+15 days shall constitute a violation of law and may be referred
+16 to the county attorney. A library that is in violation of
+17 age-appropriate policies and requirements is not eligible to
+18 receive public funds.
+19 b. If a library enters an agreement pursuant to chapter 28E
+20 for the purpose of providing library services to a school, such
+21 agreement shall provide that the age-appropriate policies of
+22 the school will be enforced. Parental permissions granted to
+23 a minor for the library, pursuant to subsection 2, shall not
+24 apply to the student during school use of the library.
+25 2. The library board shall review all library materials to
+26 determine if the materials are age-appropriate, as defined in
+27 section 8A.209, subsection 4, paragraph “d”. Material deemed
+28 inappropriate for minors shall not be accessible to minors
+29 unless parental approval has been given for each specific item.
+30 3. The board shall establish a procedure for a citizen
+31 residing in the library’s service area to challenge the board’s
+32 determination that an item is age-appropriate. If a hearing is
+33 held, the board must allow three minutes of public comment for
+34 each person wishing to speak and up to thirty minutes total of
+35 public comment.
+SF 2432.3616 (2) 91
+-3- dg/ko 3/9
+
+1 Sec. ___. NEW SECTION. 336.21 Transparency —— publication
+2 of library information.
+3 1. The board of library trustees shall publish all of the
+4 following information related to the board’s oversight of the
+5 library on the library’s internet site:
+6 a. A detailed explanation of the procedures or policies in
+7 effect for the parent or guardian of a library patron who is
+8 a minor to request the removal of material that is available
+9 to the patron in the library. Each library shall prominently
+10 display the detailed explanation on the library’s internet
+11 site.
+12 b. A detailed explanation of the procedures or policies in
+13 effect to request the review of decisions made by the board
+14 of trustees of the library, including the appeal process
+15 established pursuant to section 336.22.
+16 2. The board of library trustees shall adopt a policy
+17 describing the procedures for the parent or guardian of a
+18 library patron who is a minor or a citizen residing in the
+19 library’s service area to review the age-appropriate materials
+20 available in the library. The policy shall include a process
+21 for a minor’s parent or guardian to request that the minor
+22 not have access to certain materials. The policy shall be
+23 prominently displayed on the library’s internet site and the
+24 board of library trustees shall, at least annually, provide
+25 a written or electronic copy of the policy to the parent or
+26 guardian of each library patron who is a minor.
+27 3. The identity of a parent or guardian who requests the
+28 removal of material that is available to library patrons who
+29 are minors pursuant to subsection 1, paragraph “a”, shall
+30 be confidential and shall not be a public record subject to
+31 disclosure under chapter 22.
+32 4. This section shall not be construed to require the board
+33 of library trustees to distribute any materials in a manner
+34 that would infringe on the intellectual property rights of any
+35 person.
+SF 2432.3616 (2) 91
+-4- dg/ko 4/9
+
+1 Sec. ___. NEW SECTION. 336.22 Appeal —— governing body
+2 meeting agenda —— public comment.
+3 1. Upon appeal of a decision of the board of trustees of
+4 the library filed with the governing body, the governing body
+5 shall place the library board decision specified in the appeal
+6 on the agenda of the next regular meeting of the governing body
+7 or on the agenda of the governing body meeting held within
+8 thirty days of receipt of the appeal filed in accordance with
+9 this subsection. If the decision relates to age-appropriate
+10 material, the governing body may halt access to the subject
+11 materials until the governing body holds the meeting at which
+12 the decision is presented and discussed. The meeting notice
+13 shall include a brief description of the decision.
+14 2. The governing body shall provide sufficient time to
+15 receive public comment on the decision. The governing body
+16 shall allow each interested member of the public to speak at
+17 the meeting regarding the decision, but may impose a time limit
+18 on the amount of time a member of the public is allowed to speak
+19 if the time limit is the same for each speaker and necessary
+20 due to the amount of people wishing to speak.
+21 Sec. ___. NEW SECTION. 395.1 City libraries —— oversight by
+22 city council.
+23 1. The city council has all administrative, financial,
+24 oversight, and policy authority of any city library under the
+25 city’s jurisdiction.
+26 2. The city shall enter an agreement pursuant to chapter
+27 28E with any friends of the library group or similar nonprofit
+28 organization existing in the city. The purpose of the
+29 agreement is to assist the library in ensuring enforcement of
+30 policies of the library.
+31 3. The city council may appoint a library director. A
+32 candidate for library director shall submit an application. A
+33 candidate’s application shall be a public record. A public
+34 hearing shall be held on the potential hiring before the city
+35 council votes to appoint a library director.
+SF 2432.3616 (2) 91
+-5- dg/ko 5/9
+
+1 Sec. ___. NEW SECTION. 395.2 City library board.
+2 1. The city council may create an advisory library board of
+3 trustees or dissolve an existing library board of trustees with
+4 a two-thirds vote of the city council. Any existing library
+5 board shall be reconstituted or redesigned as an advisory
+6 board, serving solely in an advisory capacity to the city
+7 council, until the city council votes to amend the makeup or
+8 dissolve the board.
+9 2. The library board of trustees shall be appointed by
+10 the city council. Appointees shall submit applications as
+11 prescribed by the city council. A candidate’s application
+12 shall be a public record. A public hearing on the potential
+13 appointment shall take place before the city council may vote
+14 to confirm the appointment. A library board shall comply with
+15 section 4A.12.
+16 3. Library boards shall serve an advisory role to the
+17 city council to provide recommendations on library services,
+18 programs, budgeting priorities, and long-range planning, and
+19 may submit reports to the city council as requested.
+20 Sec. ___. NEW SECTION. 395.3 Age-appropriate material.
+21 1. a. The city council shall adopt and enforce
+22 age-appropriate policies for the library, as described in
+23 section 8A.209. Such policies shall apply to any mobile and
+24 temporary services, events, and retailers on library property.
+25 Any violations of a policy that are not remedied within thirty
+26 days shall constitute a violation of law and may be referred
+27 to the county attorney. A city library that is in violation of
+28 age-appropriate policies and requirements is not eligible to
+29 receive public funds.
+30 b. If a library enters an agreement pursuant to chapter 28E
+31 for the purpose of providing library services to a school, such
+32 agreement shall provide that the age-appropriate policies of
+33 the school will be enforced. Parental permissions granted to
+34 a minor for the library, pursuant to subsection 2, shall not
+35 apply to the student during school use of the library.
+SF 2432.3616 (2) 91
+-6- dg/ko 6/9
+
+1 2. The library board shall review all library materials to
+2 determine if the materials are age-appropriate, as defined in
+3 section 8A.209, subsection 4, paragraph “d”. Material deemed
+4 inappropriate for minors shall not be accessible to minors
+5 unless parental approval has been given for each specific item.
+6 3. The board shall establish a procedure for a citizen
+7 residing in the library’s service area to challenge the board’s
+8 determination that an item is age-appropriate. If a hearing is
+9 held, the board must allow three minutes of public comment for
+10 each person wishing to speak and up to thirty minutes total of
+11 public comment.
+12 Sec. ___. NEW SECTION. 395.4 Transparency —— publication of
+13 city library information.
+14 1. The city council shall publish all of the following
+15 information related to the council’s oversight of the library
+16 on the library’s internet site:
+17 a. A detailed explanation of the procedures or policies in
+18 effect for the parent or guardian of a library patron who is
+19 a minor to request the removal of material that is available
+20 to the patron in the library. Each library shall prominently
+21 display the detailed explanation on the library’s internet
+22 site.
+23 b. A detailed explanation of the procedures or policies in
+24 effect to request the review of decisions made by the board
+25 of trustees of the library, including the appeal process
+26 established pursuant to section 395.5.
+27 2. The city council shall adopt a policy describing the
+28 procedures for the parent or guardian of a library patron who
+29 is a minor or a citizen residing in the library’s service
+30 area to review the age-appropriate materials available in the
+31 library. The policy shall include a process for a minor’s
+32 parent or guardian to request that the minor not have access to
+33 certain materials. The policy shall be prominently displayed
+34 on the library’s internet site and the city council shall, at
+35 least annually, provide a written or electronic copy of the
+SF 2432.3616 (2) 91
+-7- dg/ko 7/9
+
+1 policy to the parent or guardian of each library patron who is
+2 a minor.
+3 3. The identity of a parent or guardian who requests the
+4 removal of material that is available to library patrons who
+5 are minors pursuant to subsection 1, paragraph “a”, shall
+6 be confidential and shall not be a public record subject to
+7 disclosure under chapter 22.
+8 4. This section shall not be construed to require the city
+9 council to distribute any materials in a manner that would
+10 infringe on the intellectual property rights of any person.
+11 Sec. ___. NEW SECTION. 395.5 Appeal —— city council meeting
+12 agenda —— public comment.
+13 1. Upon appeal of a decision of the board of trustees of
+14 the library filed with the city council, the city council shall
+15 place the library board decision specified in the appeal on
+16 the agenda of the next regular meeting of the city council
+17 or on the agenda of the city council meeting held within
+18 thirty days of receipt of the appeal filed in accordance with
+19 this subsection. If the decision relates to age-appropriate
+20 material, the city council may halt access to the subject
+21 materials until the city council holds the council meeting at
+22 which the decision is presented and discussed. The meeting
+23 notice shall include a brief description of the decision.
+24 2. The city council shall provide sufficient time to receive
+25 public comment on the decision. The council shall allow
+26 each interested member of the public to speak at the meeting
+27 regarding the decision, but may impose a time limit on the
+28 amount of time a member of the public is allowed to speak if the
+29 time limit is the same for each speaker and necessary due to
+30 the amount of people wishing to speak.
+31 Sec. ___. REPEAL. Section 392.5, Code 2026, is repealed.>
+32 3. Page 2, before line 17 by inserting:
+33 <DIVISION ___
+34 EFFECTIVE DATE>
+35 4. Title page, by striking lines 1 through 3 and inserting
+SF 2432.3616 (2) 91
+-8- dg/ko 8/9
+
+1 <An Act relating to city governance, including the elimination
+2 of a city’s ability to create a city board of health or city
+3 health department, and city library oversight, and including
+4 effective date provisions.>
+5 5. By renumbering as necessary.
+______________________________
+WHEELER of Sioux
+SF 2432.3616 (2) 91
+-9- dg/ko 9/9

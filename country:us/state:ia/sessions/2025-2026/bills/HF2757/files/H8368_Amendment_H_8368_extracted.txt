@@ -1,0 +1,106 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8368
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2757
+H-8368
+1 Amend House File 2757 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 NUCLEAR ELECTRIC GENERATION FACILITIES —— SALES AND USE TAX
+5 EXEMPTIONS>
+6 2. Page 3, line 13, before <Act> by inserting <division of
+7 this>
+8 3. Page 3, after line 16 by inserting:
+9 <DIVISION ___
+10 WIND ENERGY CONVERSION PROPERTY —— SURCHARGE
+11 Sec. ___. NEW SECTION. 476.53B Wind energy conversion
+12 property —— surcharge.
+13 1. It is the intent of the general assembly that the
+14 surcharge imposed under this section serve as a partial offset
+15 to the revenue reductions resulting from exemptions for nuclear
+16 electric generation facilities under section 423.3, subsection
+17 111.
+18 2. For purposes of this section, “wind energy conversion
+19 property” means the same as defined in section 427B.26.
+20 3. In addition to property taxes due and payable in fiscal
+21 years beginning on or after July 1, 2027, a surcharge is
+22 imposed on all wind energy conversion property valued under
+23 section 427B.26 in an amount equal to the difference, but not
+24 less than zero, between the following using the wind energy
+25 conversion property’s net acquisition cost as the actual value
+26 of the property:
+27 a. The amount of property taxes that would be due and
+28 payable if the wind energy conversion property were assessed
+29 as industrial property under section 441.21, subsection 5,
+30 paragraph “c”, using the wind energy conversion property’s net
+31 acquisition cost as the actual value of the property, and taxed
+32 at the levy rates applicable to industrial property in the
+33 taxing district where the property is located.
+34 b. The amount of property taxes due and payable on the wind
+35 energy conversion property for the applicable fiscal year.
+HF 2757.4020 (2) 91
+-1- sb/jh 1/3
+
+1 4. The surcharge imposed under this section shall apply
+2 to all wind energy conversion property subject to special
+3 valuation under section 427B.26, whether such property
+4 commenced commercial operation before or after the effective
+5 date of this division of this Act.
+6 5. The surcharge amount due under this section for each
+7 fiscal year in which property taxes are due and payable on
+8 the wind energy conversion property shall be calculated by
+9 the county assessor of the county in which the wind energy
+10 conversion property is located.
+11 6. The surcharge imposed under this section shall be
+12 assessed, billed, and collected by the county assessor and
+13 county treasurer of the county in which the wind energy
+14 conversion property is located, in the same manner and subject
+15 to the same penalties, interest, and enforcement provisions
+16 as property taxes imposed on wind energy conversion property
+17 subject to special valuation under section 427B.26.
+18 7. The proceeds of the surcharge imposed under this section
+19 shall be distributed as follows:
+20 a. Fifty percent shall be apportioned and paid by the county
+21 treasurer to the taxing authorities in the taxing district
+22 where the wind energy conversion property is located in the
+23 same proportions as property taxes due and payable are imposed
+24 for the same fiscal year. Such amounts shall be used by each
+25 recipient taxing authority to reduce the taxing authority’s
+26 property tax dollars levied on all property in the succeeding
+27 fiscal year.
+28 b. Fifty percent shall be remitted by the county treasurer
+29 to the treasurer of state for deposit in the general fund of
+30 the state.
+31 8. The surcharge imposed under this section is in addition
+32 to, and not in lieu of, any other tax, fee, or financial
+33 obligation imposed on wind energy conversion property or its
+34 owner or operator under any other provision of law. Payment
+35 of the surcharge shall not be credited against, or otherwise
+HF 2757.4020 (2) 91
+-2- sb/jh 2/3
+
+1 reduce, any other tax or financial obligation of the wind
+2 energy conversion property owner or operator.
+3 9. The department of revenue shall, by January 1, 2028,
+4 and January 1 of each year thereafter, prepare and submit to
+5 the general assembly a report detailing, for the most recently
+6 completed fiscal year, the total amount of surcharges collected
+7 statewide; the amount distributed to each taxing authority in
+8 each county; the amount remitted to the general fund; and the
+9 estimated reduction in property tax levies achieved in each
+10 taxing district as the result of the surcharge.>
+11 4. Title page, line 1, by striking <creating> and inserting
+12 <relating to taxes on electric generation facilities,
+13 including>
+14 5. Title page, line 3, after <facilities> by inserting <and
+15 a surcharge for wind energy conversion property>
+16 6. By renumbering as necessary.
+______________________________
+THOMSON of Floyd
+HF 2757.4020 (2) 91
+-3- sb/jh 3/3

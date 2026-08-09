@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5163
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2596
+S-5163
+1 Amend the amendment, S-5159, to House File 2596, as amended,
+2 passed, and reprinted by the House, as follows:
+3 1. Page 3, by striking lines 19 through 21 and inserting:
+4 <(b) The grain dealer files a bond with the department. If
+5 the credit-sale contract is a deferred-payment contract, the
+6 amount of the bond is one hundred thousand dollars. If the
+7 credit-sale contract is a deferred-pricing contract, the amount
+8 of the bond is three hundred thousand dollars. The bond shall
+9 be payable to the department.>
+10 2. Page 5, after line 35 by inserting:
+11 <___. Page 7, after line 11 by inserting:
+12 <Sec. ___. Section 203D.3, subsection 2, paragraph f, Code
+13 2026, is amended to read as follows:
+14 f. Interest, Any asset, including earnings on investments,
+15 property, or securities acquired through the use of moneys in
+16 the fund. Any such asset in the form of money shall not be
+17 expended by the department unless to indemnify eligible claims
+18 under this chapter.
+19 Sec. ___. Section 203D.3, subsection 4, paragraph b, Code
+20 2026, is amended by striking the paragraph and inserting in
+21 lieu thereof the following:
+22 b. Pay for expenses directly related to the inspection of
+23 grain dealers under chapter 203 and warehouse operators under
+24 chapter 203C.>>
+25 3. By renumbering as necessary.
+______________________________
+MIKE ZIMMER
+S 5159.3855 (2) 91
+-1- da/js 1/1

@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8138
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2711
+H-8138
+1 Amend House File 2711 as follows:
+2 1. Page 5, after line 16 by inserting:
+3 <Sec. ___. NEW SECTION. 19B.9 Affirmative action report.
+4 The department of administrative services and the state
+5 board of regents shall submit an annual report to the general
+6 assembly regarding the impact of the elimination of state
+7 affirmative action plans on compliance with the federal Civil
+8 Rights Act of 1964, Pub. L. No. 88-352, Tit. IX of the federal
+9 Education Amendments Act of 1972, 20 U.S.C. §1681 et seq.,
+10 section 504 of the federal Rehabilitation Act of 1973, 29
+11 U.S.C. §794, and federal grant requirements.>
+12 2. By renumbering as necessary.
+______________________________
+COOLING of Linn
+HF 2711.3160 (1) 91
+-1- sc/ns 1/1

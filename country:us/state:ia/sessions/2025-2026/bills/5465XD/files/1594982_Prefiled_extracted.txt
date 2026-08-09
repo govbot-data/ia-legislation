@@ -1,0 +1,408 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+INSURANCE AND FINANCIAL
+SERVICES BILL)
+A BILL FOR
+1 An Act relating to life insurance, permissible third parties,
+2 and financial exploitation of eligible adults.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5465XD (5) 91
+nls/ko
+
+S.F. _____ H.F. _____
+1 Section 1. Section 502.806, subsection 3, paragraph b, Code
+2 2026, is amended to read as follows:
+3 b. Fifteen business days after the date on which the
+4 broker-dealer or investment adviser first delayed disbursement
+5 of the funds or transaction, unless the administrator requests
+6 the broker-dealer or investment adviser to extend the delay,
+7 in which case the delay shall expire no more than twenty-five
+8 business days after the date on which the broker-dealer or
+9 investment adviser first delayed the disbursement of the funds
+10 or the transaction extended pursuant to paragraph “c”.
+11 Sec. 2. Section 502.806, subsection 3, Code 2026, is amended
+12 by adding the following new paragraphs:
+13 NEW PARAGRAPH. c. If the internal review under subsection
+14 2, paragraph “d”, continues to support the broker-dealer,
+15 investment adviser, or qualified individual’s reasonable belief
+16 that the disbursement or transaction will likely result in
+17 or contribute to the financial exploitation of an eligible
+18 adult, the broker-dealer or investment adviser may extend the
+19 delay beyond the initial delay under paragraph “b” for no more
+20 than twenty-five business days after the date on which the
+21 broker-dealer or investment adviser first delayed disbursement
+22 of the funds or transaction, unless extended pursuant to
+23 paragraph “d”.
+24 NEW PARAGRAPH. d. If the internal review under subsection
+25 2, paragraph “d”, continues to support the broker-dealer,
+26 investment adviser, or qualified individual’s reasonable belief
+27 that the disbursement or transaction will likely result in or
+28 contribute to the financial exploitation of an eligible adult,
+29 the broker-dealer or investment adviser may extend the delay
+30 beyond the delay under paragraph “c” for no more than fifty-five
+31 business days after the date on which the broker-dealer or
+32 investment adviser first delayed disbursement of the funds or
+33 transaction.
+34 Sec. 3. Section 507E.8, subsection 1, paragraphs a and b,
+35 Code 2026, are amended to read as follows:
+LSB 5465XD (5) 91
+-1- nls/ko 1/10
+
+S.F. _____ H.F. _____
+1 a. For purposes of an arrest resulting from a criminal
+2 violation of any provision of the Code subject to the
+3 jurisdiction of the commissioner established as a result of an
+4 investigation pursuant to this chapter or chapter 502, 502A,
+5 507A, 508, 523A, 523C, 523D, or 523I.
+6 b. While conducting an investigation or engaged in an
+7 assignment authorized by this chapter or chapter 502, 502A,
+8 507A, 508, 523A, 523C, 523D, or 523I.
+9 Sec. 4. NEW SECTION. 508.101 Definitions.
+10 As used in this chapter, unless the context otherwise
+11 requires:
+12 1. “Disbursement” means an attempt to withdraw money or
+13 access a benefit from a life insurance policy, an annuity, or
+14 any other policy, contract, or account, irrespective of whether
+15 the request is classified as a surrender, loan, withdrawal,
+16 partial withdrawal, accelerated benefit, or otherwise.
+17 2. “Eligible adult” means the same as defined in section
+18 502.801.
+19 3. “Financial exploitation” means the same as defined in
+20 section 502.801.
+21 4. “Permissible third party” means any of the following:
+22 a. An individual the eligible adult previously designated
+23 who may be contacted about the eligible adult’s policy,
+24 contract, or account.
+25 b. A person otherwise permitted pursuant to any state or
+26 federal law or rule to receive the notification described in
+27 section 508.103.
+28 5. “Qualified individual” means any of the following:
+29 a. An insurance producer who has completed at least two
+30 hours of continuing education focused on how to identify
+31 suspected or attempted exploitation of an eligible adult,
+32 including common signs indicating the financial exploitation of
+33 an eligible adult, and how to provide notification regarding
+34 the suspected or attempted exploitation of an eligible adult.
+35 b. An individual who has completed training pursuant to
+LSB 5465XD (5) 91
+-2- nls/ko 2/10
+
+S.F. _____ H.F. _____
+1 section 508.105.
+2 Sec. 5. NEW SECTION. 508.102 Notification to commissioner.
+3 1. If an insurer or qualified individual reasonably
+4 believes financial exploitation of an eligible adult has
+5 occurred, was attempted, or is being attempted, the insurer
+6 or qualified individual may notify the commissioner when the
+7 insurer or qualified individual makes a determination that
+8 financial exploitation may have occurred, been attempted, or
+9 is being attempted.
+10 2. An insurer or qualified individual who, acting
+11 reasonably and in good faith, makes a disclosure of information
+12 to the commissioner pursuant to this chapter or under chapter
+13 507E shall be immune from administrative or civil liability
+14 that might otherwise arise from such disclosure or from a
+15 failure to notify the eligible adult of the disclosure. This
+16 section shall not abrogate or modify any existing statutory or
+17 common law privileges or immunities.
+18 Sec. 6. NEW SECTION. 508.103 Notification to permissible
+19 third party.
+20 1. If an insurer or qualified individual reasonably
+21 believes financial exploitation of an eligible adult has
+22 occurred, was attempted, or is being attempted, the insurer
+23 or qualified individual may notify a permissible third party.
+24 Notification to a permissible third party is not required prior
+25 to the insurer’s, qualified individual’s, commissioner’s, or
+26 other relevant agency’s review or investigation into financial
+27 exploitation.
+28 2. An insurer or qualified individual shall not notify a
+29 permissible third party if the insurer or qualified individual
+30 reasonably suspects such permissible third party of financial
+31 exploitation or other abuse of the eligible adult.
+32 3. An eligible adult may voluntarily provide to an insurer
+33 contact information for the eligible adult’s permissible third
+34 parties. An insurer or qualified individual shall not be held
+35 administratively or civilly liable for failing to request
+LSB 5465XD (5) 91
+-3- nls/ko 3/10
+
+S.F. _____ H.F. _____
+1 the contact information for the eligible adult’s permissible
+2 third parties. An insurer or qualified individual who, acting
+3 reasonably and in good faith, complies with this section shall
+4 be immune from administrative or civil liability that may
+5 arise from disclosing the eligible adult’s information to a
+6 permissible third party.
+7 Sec. 7. NEW SECTION. 508.104 Disbursements or transactions
+8 —— delay.
+9 1. If an insurer or qualified individual reasonably
+10 believes a disbursement or transaction is likely to result in,
+11 or contribute to, the financial exploitation of an eligible
+12 adult, the insurer or qualified individual may initiate an
+13 internal review of the requested disbursement or transaction.
+14 2. An insurer may delay a disbursement or transaction
+15 from an eligible adult’s policy, contract, or account, or a
+16 policy, contract, or account on which an eligible adult is a
+17 beneficiary, if all of the following apply:
+18 a. The insurer or qualified individual reasonably believes,
+19 after initiating an internal review under subsection 1, that
+20 the requested disbursement or transaction will likely result
+21 in or contribute to the financial exploitation of the eligible
+22 adult.
+23 b. Immediately, but in no event more than seven business
+24 days after the disbursement or transaction is delayed, the
+25 insurer provides written notification of the delay and the
+26 reason for the delay to all persons authorized to transact
+27 business on the policy, contract, or account. An insurer or
+28 qualified individual shall not notify a person authorized to
+29 transact business on the policy, contract, or account if the
+30 insurer or qualified individual reasonably believes the person
+31 has committed financial exploitation, attempted financial
+32 exploitation, committed or attempted insurance fraud, or
+33 committed or attempted other abuse of the eligible adult.
+34 c. Within seven business days after the disbursement or
+35 transaction is delayed, the insurer notifies the commissioner
+LSB 5465XD (5) 91
+-4- nls/ko 4/10
+
+S.F. _____ H.F. _____
+1 of the delay and provides to the commissioner the reason
+2 for the delay, including the status of the internal review
+3 initiated under subsection 1.
+4 d. The insurer continues the internal review of the
+5 suspected or attempted financial exploitation of the eligible
+6 adult, as necessary, and provides the commissioner with updates
+7 upon request.
+8 3. Any delay of a disbursement or transaction authorized by
+9 this section will expire upon the first to occur of any of the
+10 following:
+11 a. A final determination by the insurer that the
+12 disbursement or transaction will not result in or contribute to
+13 financial exploitation of the eligible adult.
+14 b. Fifteen business days after the date on which the insurer
+15 first delayed disbursement of the funds or the transaction,
+16 unless extended pursuant to paragraph “c”.
+17 c. Provided the internal review under subsection 2,
+18 paragraph “d”, continues to support the insurer or qualified
+19 individual’s reasonable belief that the disbursement or
+20 transaction will likely result in or contribute to the
+21 financial exploitation of an eligible adult, the insurer may
+22 extend the delay beyond the initial delay under paragraph “b”
+23 for no more than twenty-five business days after the date on
+24 which the insurer first delayed disbursement of the funds or
+25 the transaction, unless extended pursuant to paragraph “d”.
+26 d. Provided the internal review under subsection 2,
+27 paragraph “d”, continues to support the insurer or qualified
+28 individual’s reasonable belief that the disbursement or
+29 transaction will likely result in or contribute to the
+30 financial exploitation of an eligible adult, the insurer may
+31 extend the delay beyond the delay under paragraph “c” for no
+32 more than fifty-five business days after the date on which the
+33 insurer first delayed disbursement of the funds or transaction.
+34 4. Notwithstanding subsection 3, upon petition of the
+35 commissioner, the insurer who initiated a delay pursuant to
+LSB 5465XD (5) 91
+-5- nls/ko 5/10
+
+S.F. _____ H.F. _____
+1 this section, or another interested party, a court of competent
+2 jurisdiction may enter an order terminating, extending, or
+3 modifying the delay of the disbursement or transaction and may
+4 order any other protective relief deemed necessary.
+5 5. The commissioner may adopt rules pursuant to chapter
+6 17A regarding the form and manner of notifications under this
+7 section.
+8 6. An insurer or qualified individual who, acting
+9 reasonably and in good faith, complies with the requirements
+10 of this section or chapter 507E shall be immune from
+11 administrative or civil liability that may arise from a delay
+12 in a disbursement or transaction initiated pursuant to this
+13 section.
+14 Sec. 8. NEW SECTION. 508.105 Training requirements.
+15 1. An insurer shall provide training to supervisors and
+16 employees employed by the insurer who handle or advise on
+17 complaints, possible fraud, and investigations no later than
+18 June 30, 2027. The training shall include instruction on all
+19 of the following:
+20 a. Identifying suspected or attempted exploitation
+21 of an eligible adult, including common signs indicating
+22 financial exploitation of an eligible adult and how to provide
+23 notification regarding the suspected or attempted exploitation
+24 of an eligible adult.
+25 b. Privacy and confidentiality requirements.
+26 2. An insurer shall provide the training required under
+27 subsection 1 as soon as reasonably practicable after the date
+28 a supervisor or employee begins employment with or becomes
+29 affiliated or associated with the insurer, but no later than
+30 one year after that date.
+31 3. An insurer shall not be required to provide training
+32 under this section to a qualified individual employed by the
+33 insurer.
+34 4. The commissioner may adopt rules pursuant to chapter 17A
+35 specifying the content and method of training required under
+LSB 5465XD (5) 91
+-6- nls/ko 6/10
+
+S.F. _____ H.F. _____
+1 this section.
+2 Sec. 9. NEW SECTION. 508.106 Records.
+3 An insurer shall provide access to or copies of records
+4 that are relevant to the suspected or attempted financial
+5 exploitation of an eligible adult to the commissioner and
+6 to law enforcement, either as part of a referral to the
+7 commissioner or law enforcement, or upon the request of the
+8 commissioner or law enforcement pursuant to an investigation.
+9 The records may include historical records as well as records
+10 relating to the most recent transactions and disbursement
+11 requests from the policies, contracts, or accounts that may
+12 indicate financial exploitation of an eligible adult. All
+13 records made available to the commissioner or law enforcement
+14 pursuant to this section shall be considered confidential
+15 public records under chapter 22 and shall not be available
+16 for examination by the public pursuant to section 22.2. This
+17 section shall not be construed to limit or otherwise impede the
+18 authority of the commissioner to access or examine the books
+19 and records of insurers as otherwise provided by law.
+20 Sec. 10. CODE EDITOR DIRECTIVE. The Code editor is directed
+21 to designate sections 508.1 through 508.39, as amended by
+22 this Act, as subchapter I of chapter 508 entitled “General
+23 Provisions”, and to designate sections 508.101 through 508.106,
+24 as enacted by this Act, as subchapter II of chapter 508
+25 entitled “Financial Exploitation of Eligible Adults”.
+26 EXPLANATION
+27 The inclusion of this explanation does not constitute agreement with
+28 the explanation’s substance by the members of the general assembly.
+29 This bill relates to life insurance, permissible third
+30 parties, and financial exploitation of eligible adults.
+31 Under current law, a delay of a disbursement or transaction
+32 involving the money, assets, or property of an eligible adult
+33 will expire upon the first to occur of: (1) a determination by
+34 the broker-dealer or investment adviser that the disbursement
+35 or transaction will not result in or contribute to financial
+LSB 5465XD (5) 91
+-7- nls/ko 7/10
+
+S.F. _____ H.F. _____
+1 exploitation of the eligible adult, or (2) 15 days after the
+2 first delay, unless extended, in which case the delay shall
+3 expire no more than 25 days after the date the disbursement or
+4 transaction was first delayed. Under the bill, any delay of a
+5 disbursement or transaction will expire upon the first to occur
+6 of: (1) a determination by the broker-dealer or investment
+7 adviser that the disbursement or transaction will not result in
+8 or contribute to financial exploitation, or (2) 15 days after
+9 the date the broker-dealer or investment adviser first delayed
+10 the disbursement or transaction, unless extended, (3) if the
+11 15-day delay is extended, 25 days after the date of the initial
+12 delay, or (4) if the 25-day delay is extended, 55 days after
+13 the date of the initial delay. “Eligible adult” and “qualified
+14 individual” are defined by the bill.
+15 Under the bill, if an insurer or qualified individual
+16 reasonably believes financial exploitation of an eligible
+17 adult has occurred, was attempted, or is being attempted, the
+18 insurer or qualified individual may notify the commissioner of
+19 insurance (commissioner) when it is determined that financial
+20 exploitation may have occurred, been attempted, or is being
+21 attempted. An insurer or qualified individual who makes a
+22 disclosure of information to the commissioner under the bill
+23 or under Code chapter 507E shall be immune from administrative
+24 or civil liability for failure to notify the eligible adult of
+25 the disclosure.
+26 If an insurer or qualified individual reasonably believes
+27 financial exploitation of an eligible adult has occurred, was
+28 attempted, or is being attempted, the insurer or qualified
+29 individual may notify a permissible third party designated
+30 by the eligible adult, but is not required to, prior to a
+31 review or investigation into the financial exploitation. An
+32 insurer or qualified individual shall not notify a permissible
+33 third party that they are suspected of financial exploitation
+34 or other abuse of the eligible adult. An eligible adult
+35 may voluntarily provide contact information for permissible
+LSB 5465XD (5) 91
+-8- nls/ko 8/10
+
+S.F. _____ H.F. _____
+1 third parties to an insurer, but an insurer or qualified
+2 individual shall not be held liable for failing to request such
+3 information.
+4 An insurer or qualified individual who, acting reasonably
+5 and in good faith, complies with the bill shall be immune
+6 from administrative or civil liability that may arise from
+7 disclosing the eligible adult’s information to a permissible
+8 third party.
+9 If an insurer or qualified individual reasonably believes
+10 a disbursement or transaction is likely to result in, or
+11 contribute to, the financial exploitation of an eligible
+12 adult, they may initiate an internal review of the requested
+13 disbursement or transaction. The insurer may delay a
+14 disbursement or transaction from an eligible adult’s policy,
+15 contract, or account, or a policy, contract, or account on
+16 which an eligible adult is a beneficiary, if the insurer or
+17 qualified individual reasonably believes the disbursement
+18 or transaction will likely result in or contribute to the
+19 financial exploitation of an eligible adult; the insurer
+20 provides written notification of the delay and the reason for
+21 the delay to all persons authorized to transact business on
+22 the policy, contract, or account, except if such person is
+23 reasonably believed to have committed or attempted financial
+24 exploitation, insurance fraud, or other abuse of the eligible
+25 adult; the insurer notifies the commissioner of the delay
+26 and provides the reason for the delay; and the insurer
+27 continues the internal review of the suspected or attempted
+28 financial exploitation of the eligible adult and provides the
+29 commissioner with updates upon request.
+30 Delay of a disbursement or transaction will expire upon
+31 the first to occur of a final determination by the insurer
+32 that the disbursement or transaction will not result in or
+33 contribute to financial exploitation, 15 days after the date on
+34 which the insurer first delayed disbursement of the funds or
+35 the transaction, unless extended, 25 business days after the
+LSB 5465XD (5) 91
+-9- nls/ko 9/10
+
+S.F. _____ H.F. _____
+1 date on which the insurer first delayed disbursement, unless
+2 extended, or 55 days after the date on which the insurer first
+3 delayed disbursement. Upon petition of the commissioner, the
+4 insurer, or another interested party, a court of competent
+5 jurisdiction may enter an order terminating, extending, or
+6 modifying the delay of the disbursement or transaction and may
+7 order any other protective relief necessary.
+8 The commissioner may adopt rules regarding the form
+9 and manner of notifications under the bill. An insurer or
+10 qualified individual who complies with the requirements of the
+11 bill shall be immune from any liability that may arise from
+12 such delay in a disbursement or transaction.
+13 An insurer shall provide training to supervisors and
+14 employees employed by the insurer, except employees who are
+15 qualified individuals, who handle or advise on complaints,
+16 possible fraud, and investigations no later than June 30,
+17 2027. The training shall include the requirements detailed in
+18 the bill. An insurer shall provide the required training as
+19 soon as reasonably practicable, but at least within one year
+20 after the date a supervisor or employee begins employment with
+21 or becomes affiliated or associated with the insurer. The
+22 commissioner may adopt rules specifying the content and method
+23 of training.
+24 An insurer shall provide access to or copies of records
+25 that are relevant to financial exploitation of an eligible
+26 adult to the commissioner and to law enforcement, either as
+27 part of a referral or upon the request of the commissioner or
+28 law enforcement pursuant to an investigation. The records may
+29 include historical records as well as records relating to the
+30 most recent financial exploitation of an eligible adult. All
+31 records made available to the commissioner or law enforcement
+32 shall be considered confidential public records and shall not
+33 be available for examination by the public.
+34 The bill makes conforming changes to Code section
+35 507E.8(1)(a) and (b) (law enforcement authority).
+LSB 5465XD (5) 91
+-10- nls/ko 10/10

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8023
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2216
+H-8023
+1 Amend House File 2216 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 124.414, subsection 1, paragraph b,
+4 Code 2026, is amended to read as follows:
+5 b. “Drug paraphernalia” does not include hypodermic any of
+6 the following:
+7 (1) Hypodermic needles or syringes if manufactured,
+8 delivered, sold, or possessed for a lawful purpose.
+9 (2) Fentanyl test strips, xylazine test strips, or other
+10 materials used or intended for use in testing for the presence
+11 of fentanyl, xylazine, or a fentanyl or xylazine analog in a
+12 substance.
+13 (3) Other drug-checking equipment used to inform
+14 individuals of whether a substance has been adulterated by the
+15 presence of a synthetic opioid, another controlled substance,
+16 or undisclosed chemical compound or contaminant.
+17 (4) Materials used by agents of organizations that provide
+18 harm reduction services authorized by the state, a county, a
+19 municipality, or a public health department in the processing.
+20 preparing, packaging, repackaging, storing, or containing of
+21 a nominal amount of a controlled substance for the purpose of
+22 confirmatory testing.
+23 (5) Drug-checking equipment used, purchased, transported,
+24 or distributed by agents of organizations that provide harm
+25 reduction services authorized by the state, a county, a
+26 municipality, or a public health department.>
+27 2. Title page, by striking lines 1 and 2 and inserting
+28 <An Act relating to criminal offenses, including exclusions
+29 to the definition of drug paraphernalia and restitution for
+30 the torture, injury, or killing of a police service dog, and
+31 modifying penalties.>
+______________________________
+LOHSE of Polk
+HF 2216.2276 (2) 91
+-1- as/js 1/1

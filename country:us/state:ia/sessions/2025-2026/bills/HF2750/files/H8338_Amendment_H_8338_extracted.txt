@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8338
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2750
+H-8338
+1 Amend the amendment, H-8333, to House File 2750, as follows:
+2 1. By striking page 1, line 1, through page 2, line 5, and
+3 inserting:
+4 <Amend House File 2750 as follows:
+5 1. By striking everything after the enacting clause and
+6 inserting:
+7 <Section 1. NEW SECTION. 533C.1004 Wire transmission fees.
+8 1. For purposes of this section, “wire transmission” means
+9 money transmission by wire to or from locations abroad.
+10 2. In addition to any other fee required by law for a wire
+11 transmission, a licensee or the licensee’s authorized delegate
+12 shall collect from a customer a fee of five dollars for each
+13 wire transmission equal to or less than five hundred dollars,
+14 and in addition to such fee, if applicable, an amount equal to
+15 two percent of the amount of the wire transmission in excess
+16 of five hundred dollars.
+17 3. The fees collected under subsection 2 shall be remitted
+18 quarterly by the licensee or the licensee’s authorized
+19 delegate to the department of revenue in the form and manner
+20 prescribed by the department of revenue, in consultation with
+21 the department of public safety. All required forms and
+22 remittances shall be filed with the department of revenue no
+23 later than the fifteenth day of the month following the close
+24 of each calendar quarter.
+25 4. The department of revenue shall account for all fees
+26 remitted under subsection 3 and pay ninety percent of the
+27 same to the office to combat human trafficking established in
+28 section 80.45, and deposit the remaining ten percent in the
+29 general fund of the state.
+30 5. a. The department of revenue, in consultation with the
+31 department of public safety, shall enforce the provisions of
+32 this section.
+33 b. If a licensee or licensee’s authorized delegate fails
+34 to comply with subsection 3, the department of revenue shall
+35 notify the superintendent who may suspend or revoke the
+H 8333.3929 (1) 91
+-1- nls/ko 1/2
+
+1 licensee’s license under section 533C.901, and may issue an
+2 order suspending or revoking the designation of an authorized
+3 delegate under section 533C.902. Notification of a suspension
+4 under this paragraph shall be delivered to the commissioner of
+5 public safety and the department of revenue.
+6 c. Upon request by the department of revenue, the
+7 superintendent may file a claim against the surety bond of the
+8 licensee on behalf of the state.>>
+______________________________
+WICHTENDAHL of Linn
+H 8333.3929 (1) 91
+-2- nls/ko 2/2

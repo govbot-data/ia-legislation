@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8222
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2686
+H-8222
+1 Amend House File 2686 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 256.165, subsection 1, paragraph b,
+5 Code 2026, is amended to read as follows:
+6 b. (1) The board shall issue a transitional coaching
+7 authorization to an individual applicant who is at least
+8 twenty-one years of age and who provides verification of an
+9 offer of a coaching position by a school or a consortium of
+10 schools, but who has not completed the coursework required
+11 for a coaching authorization as specified in paragraph “a”.
+12 A transitional coaching authorization is valid for not more
+13 than one year, shall not be renewed, and is valid only in
+14 the school or consortium of schools making the offer of the
+15 coaching position. A consortium of schools may include a
+16 school district, a school district school attendance center,
+17 or an accredited nonpublic school, or any combination thereof.
+18 However, prior to issuing a transitional coaching authorization
+19 to an individual under this paragraph “b”, the board shall
+20 ensure that the individual meets satisfies all of the following
+21 requirements:
+22 (1) Completes a shortened course of training relating to the
+23 code of professional rights and responsibilities, practices,
+24 and ethics developed in accordance with section 256.146,
+25 subsection 1, paragraph “a”, by the board specifically for
+26 transitional coaches.
+27 (2) (a) Completes The applicant successfully completes the
+28 child and dependent adult abuse mandatory reporter training
+29 required by sections section 232.69 and 235B.16.
+30 (3) (b) Completes The applicant successfully completes
+31 a nationally recognized concussion in youth sports training
+32 course.
+33 (4) (c) Complies The applicant complies with the background
+34 investigation requirements established by the board pursuant to
+35 section 256.146, subsection 16.
+HF 2686.3330 (1) 91
+-1- jda/jh 1/2
+
+1 (d) The applicant successfully completes training related
+2 to cardiopulmonary resuscitation.
+3 (e) The applicant successfully completes training related
+4 to how use an automated external defibrillator.
+5 (2) (a) A transitional coaching authorization shall expire
+6 one year after the date of issuance.
+7 (b) A transitional coaching authorization shall not be
+8 renewed.
+9 (3) The board shall allow an individual who holds a
+10 transitional coaching authorization to convert the transitional
+11 coaching authorization to a coaching authorization if the
+12 individual does any of the following:
+13 (a) Successfully completes the requirements established in
+14 paragraph “a”.
+15 (b) Successfully completes the fundamentals of coaching
+16 course created by the national federation of state high school
+17 associations.
+18 Sec. 2. APPLICABILITY. This Act applies transitional
+19 coaching authorizations issued by the board of educational
+20 examiners pursuant to section 256.165 on or after July 1,
+21 2027.>
+22 2. Title page, by striking lines 1 and 2 and inserting
+23 <An Act modifying provisions related to transitional coaching
+24 authorizations issued by the board of educational examiners and
+25 including applicability provisions.>
+______________________________
+BODEN of Warren
+HF 2686.3330 (1) 91
+-2- jda/jh 2/2

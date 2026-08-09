@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8171
+Media Type: application/pdf
+
+================================================================================
+
+House File 2672
+H-8171
+1 Amend House File 2672 as follows:
+2 1. Page 8, after line 31 by inserting:
+3 <6. a. (1) The total statewide capacity of the community
+4 solar program established under this section shall be no
+5 greater than two hundred fifty megawatts of alternating current
+6 nameplate capacity.
+7 (2) On or before January 1, 2030, the commission shall
+8 prepare and submit a report to the general assembly evaluating
+9 the costs and benefits of the community solar program for
+10 the purpose of assisting the general assembly in determining
+11 whether additional capacity is in the public interest. This
+12 subparagraph is repealed July 1, 2030.
+13 b. No more than one-tenth of one percent of the total
+14 acres within a county shall be authorized for utilization by
+15 community solar facilities. This paragraph shall not apply to
+16 a community solar facility located on a brownfield site.>
+______________________________
+LUNDGREN of Dubuque
+HF 2672.3114 (1) 91
+-1- sb/js 1/1

@@ -1,0 +1,301 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5226
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2757
+S-5226
+1 Amend House File 2757, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. NEW SECTION. 262.101 Nuclear energy workforce
+6 fund —— appropriation —— report.
+7 1. A nuclear energy workforce fund is established in the
+8 office of the treasurer of state under the control of the state
+9 board of regents. The fund consists of the contributions
+10 made to the fund pursuant to section 423.3, subsection 111,
+11 and any other appropriations made to the fund. Moneys in the
+12 fund shall be separate from the general fund of the state
+13 and shall not be considered part of the general fund of the
+14 state. Moneys in the fund shall be used only as specified
+15 in this section and shall be appropriated only for the uses
+16 specified. Moneys in the fund are not subject to section 8.33
+17 and shall not be transferred, used, obligated, appropriated,
+18 or otherwise encumbered, except as provided in this section.
+19 Notwithstanding section 12C.7, subsection 2, interest or
+20 earnings on moneys deposited in the fund shall be credited to
+21 the fund.
+22 2. Moneys in the fund are appropriated to the board for the
+23 purpose of establishing and maintaining programs and equipment
+24 at one or more institutions of higher education governed by the
+25 board that support nuclear energy workforce programs.
+26 3. Beginning January 15, 2028, and each January 15
+27 thereafter, the board shall submit a report to the general
+28 assembly regarding the progress and implementation of
+29 the nuclear energy workforce programs established at the
+30 institutions governed by the board. The reports shall include
+31 but are not limited to the numbers of students and educators
+32 participating in the programs and the allocation of funds
+33 appropriated for the programs.
+34 Sec. 2. Section 423.3, subsection 80, paragraph c, Code
+35 2026, is amended by adding the following new subparagraph:
+HF 2757.4283 (1) 91
+-1- jm/jh 1/8
+
+1 NEW SUBPARAGRAPH. (3) (a) With regard to a written
+2 contract with a designated exempt entity described in paragraph
+3 “a”, subparagraph (1), that is a nuclear electric generation
+4 facility, the sales price of building materials, supplies,
+5 equipment, or services is exempt from tax by this subsection
+6 only to the extent the building materials, supplies, equipment,
+7 or services in the performance of the construction contract are
+8 completely consumed in the activities prior to the ending of
+9 the sales tax exemption associated with the applicable unit of
+10 the facility pursuant to subsection 111.
+11 (b) This subparagraph is repealed July 1, 2051.
+12 Sec. 3. Section 423.3, Code 2026, is amended by adding the
+13 following new subsection:
+14 NEW SUBSECTION. 111. a. (1) The sales price of tangible
+15 personal property or specified digital products sold to or of
+16 services furnished to a nuclear electric generation facility
+17 directly and primarily used in any of the following activities:
+18 (a) Site preparation.
+19 (b) Construction.
+20 (c) Reconstruction.
+21 (d) Expansion.
+22 (e) Replacement.
+23 (f) Alteration.
+24 (g) Repair.
+25 (h) Safe storage.
+26 (i) Restarting after a period of decommissioning of the
+27 nuclear electric generation facility.
+28 (2) For a nuclear electric generation facility that
+29 is undertaking an activity described in subparagraph (1),
+30 subparagraph division (i), the exemption applies to the sales
+31 price of tangible personal property or specified digital
+32 products sold to or of services furnished to such a facility
+33 occurring on or after January 1, 2026, and ends when the
+34 nuclear electric generation facility begins or restarts
+35 commercial operation.
+HF 2757.4283 (1) 91
+-2- jm/jh 2/8
+
+1 (3) For all other activities that do not apply under
+2 subparagraph (2), the exemption applies to the sales price of
+3 tangible personal property or specified digital products sold
+4 to or of services furnished to a nuclear electric generation
+5 facility when permissible in the agreement under paragraph “c”,
+6 and ends when the nuclear electric generation facility begins
+7 or restarts commercial operation.
+8 (4) This exemption applies to the sales price of tangible
+9 personal property or specified digital products sold to
+10 or of services furnished to a nuclear electric generation
+11 facility that are directly and primarily used in the activities
+12 described in this paragraph “a” such that the activity results
+13 in a new nuclear electric generation facility, an increased
+14 nameplate capacity for an existing nuclear electric generation
+15 facility, or the restart of a decommissioned nuclear electric
+16 generation facility.
+17 b. (1) During the period the nuclear electric generation
+18 facility is receiving the exemption under this subsection
+19 not to exceed four years of the exemption period, and as a
+20 condition of receiving the exemption under this subsection,
+21 the nuclear electric generation facility shall make an annual
+22 contribution to the nuclear energy workforce fund created in
+23 section 262.101, in the amount of two thousand two hundred
+24 dollars for each megawatt of nameplate capacity the nuclear
+25 electric generation facility is approved to produce by the Iowa
+26 utilities commission. The contribution shall be made to the
+27 department for deposit into the nuclear energy workforce fund
+28 created in section 262.101 during the exemption period the
+29 annual contribution is required.
+30 (2) The nuclear electric generation facility shall repay
+31 the aggregate amount of the sales and use tax exemptions and
+32 refunds claimed in the calendar year for which the nuclear
+33 electric generation facility did not make the required
+34 contribution. Any repayment shall be considered a tax payment
+35 due and payable to the department by the nuclear electric
+HF 2757.4283 (1) 91
+-3- jm/jh 3/8
+
+1 generation facility, and the failure to make the repayment may
+2 be treated by the department in the same manner as a failure to
+3 pay the tax shown due, or required to be shown due, with the
+4 filing of a return or deposit form.
+5 c. The nuclear electric generation facility shall enter
+6 into an agreement with the economic development authority. The
+7 agreement must include all of the following information:
+8 (1) The person entering into the agreement with the
+9 authority.
+10 (2) (a) The date when a nuclear electric generation
+11 facility is eligible for the exemption under this subsection.
+12 (b) For a nuclear electric generation facility that
+13 is undertaking an activity described in paragraph “a”,
+14 subparagraph (1), subparagraph division (i), eligibility for
+15 the exemption as described in this subsection begins January
+16 1, 2026.
+17 (3) The date on which commercial operation of the facility
+18 is expected to commence.
+19 (4) The date on which the repayment provision in paragraph
+20 “f” is triggered.
+21 (5) Approval of the nameplate capacity for the nuclear
+22 electric generation facility by the Iowa utilities commission.
+23 (6) The due date for the contributions required by paragraph
+24 “b”.
+25 (7) Proof of the initial contribution required by paragraph
+26 “b”.
+27 d. The nuclear electric generation facility shall file
+28 an annual report with the department due on the next January
+29 31 after entering the agreement under paragraph “c”, and by
+30 each January 31 thereafter, until such time that the nuclear
+31 electric generation facility no longer qualifies for the
+32 exemption. The report shall contain all of the following
+33 information:
+34 (1) The aggregate sales price amount of exempt tangible
+35 personal property or digital products sold and services
+HF 2757.4283 (1) 91
+-4- jm/jh 4/8
+
+1 furnished from the previous calendar year under this
+2 subsection, including for information purposes only, tangible
+3 personal property, specified digital products, and services
+4 that are also exempt under another subsection of this section.
+5 (2) Evidence the nuclear electric generation facility made
+6 the contribution required by paragraph “b”.
+7 (3) Any other information required by the department.
+8 e. A nuclear electric generation facility shall notify
+9 the department within thirty days of the date of delivering
+10 notification to the applicable regional transmission operators
+11 that commercial operation has been achieved.
+12 f. A nuclear electric generation facility that does not
+13 commence or restart commercial operation within twelve and
+14 one-half years of the later of the issuance of the certificate
+15 of public convenience, use, and necessity under chapter 476A
+16 for the applicable unit of the facility or the placement
+17 of the first safety-related concrete for such unit shall
+18 repay the entire amount of the sales and use tax exemptions
+19 the nuclear electric generation facility claimed under this
+20 subsection and refunds claimed under section 423.4, subsection
+21 1, and the entire amount of sales and use tax exemptions
+22 that contractors, subcontractors, and builders claimed for
+23 building materials, supplies, equipment, and services in the
+24 performance of a written construction contract with the nuclear
+25 electric generation facility under subsection 80, reduced by
+26 any contribution made under paragraph “b” of this subsection.
+27 Any repayment shall be considered a tax payment due and payable
+28 to the department by the nuclear electric generation facility,
+29 and the failure to make the repayment may be treated by the
+30 department in the same manner as a failure to pay the tax shown
+31 due, or required to be shown due, with the filing of a return or
+32 deposit form.
+33 g. The department shall issue guidance within thirty
+34 days of the effective date of this Act regarding acceptable
+35 documentation for exemption qualification and exemption
+HF 2757.4283 (1) 91
+-5- jm/jh 5/8
+
+1 certificate procedures.
+2 h. The department may adopt rules pursuant to chapter 17A
+3 to administer this subsection.
+4 i. As used in this subsection:
+5 (1) “Commercial operation” means the date on which a nuclear
+6 electric generation facility delivers notification to the
+7 applicable regional transmission operator that the nuclear
+8 electric generation facility has begun operating.
+9 (2) “Nuclear electric generation facility” means a facility
+10 commencing or restarting commercial operations of at least
+11 one unit of the facility on or after January 1, 2028, that is
+12 located in this state, uses nuclear fission, fusion, or other
+13 nuclear processes to generate electricity for sale or for use
+14 in the transmission or distribution grid and is licensed by
+15 the federal nuclear regulatory commission. A “nuclear electric
+16 generation facility” includes facilities undergoing restart
+17 after a decommissioning period and facilities in advanced
+18 stages of development or obtaining federal licensing from
+19 the United States nuclear regulatory commission. A “nuclear
+20 electric generation facility” includes all of the following:
+21 (a) Nuclear reactors, reactor fuel cores, reactor vessels,
+22 steam generators, heat exchangers, turbine systems, control
+23 rods, instrumentation, cooling systems, fuel handling and
+24 storage systems, radiation shielding, radiation sources and
+25 other primary nuclear generation components, and spent fuel
+26 storage.
+27 (b) Structures and buildings housing nuclear generation
+28 systems, including containment buildings, auxiliary buildings,
+29 cooling towers, water intake or discharge structures, and
+30 on-site storage facilities directly related to nuclear
+31 operations.
+32 (c) Electrical generation and transformation equipment,
+33 including turbines, generators, switchgear, transformers,
+34 inverters, transmission structures, conductors, substations,
+35 and associated power conditioning and control equipment.
+HF 2757.4283 (1) 91
+-6- jm/jh 6/8
+
+1 (d) Equipment and systems used for safety, security,
+2 radiation monitoring, emergency power, operator training,
+3 maintenance training, safety-related equipment storage, and
+4 warehousing.
+5 (e) Environmental protection required for operation of the
+6 facility.
+7 (f) System materials, components, equipment, storage,
+8 structures, and buildings associated with integrated systems
+9 that enhance the flexibility of the system in delivering energy
+10 to the electrical grid, including but not limited to the
+11 following:
+12 (i) Systems that store and utilize thermal energy or
+13 electrical energy from the nuclear electric generating facility
+14 prior to delivering energy to the grid.
+15 (ii) Energy storage systems that utilize a transmission
+16 system interconnection to the same physical substation as the
+17 nuclear electric generating facility.
+18 (g) Materials, supplies, and components permanently
+19 incorporated into or consumed in the construction, repair, or
+20 maintenance of a nuclear electric generation facility.
+21 (h) Digital control systems, software, cybersecurity,
+22 infrastructure, and physical security systems and equipment
+23 used in the safe and compliant operation of the nuclear
+24 electric generation facility.
+25 (i) Equipment, materials, systems, and services required to
+26 restart operations at a previously operational nuclear electric
+27 generation facility that has ceased commercial operation,
+28 including but not limited to refurbishment, modernization,
+29 regulatory compliance upgrades, and relicensing activities.
+30 (3) “Site preparation” means the same as “site preparation
+31 activities” defined in subsection 95, paragraph “f”.
+32 j. This subsection is repealed on July 1, 2051.
+33 Sec. 4. Section 423.4, subsection 1, paragraph a, Code 2026,
+34 is amended by adding the following new subparagraph:
+35 NEW SUBPARAGRAPH. (11) (a) A nuclear electric generation
+HF 2757.4283 (1) 91
+-7- jm/jh 7/8
+
+1 facility as defined in section 423.3, subsection 111.
+2 (b) This subparagraph is repealed July 1, 2051.
+3 Sec. 5. APPLICABILITY. Except as otherwise provided, this
+4 Act applies to tangible personal property or specified digital
+5 projects sold to or of services furnished to a nuclear electric
+6 generation facility when permissible under section 423.3,
+7 subsection 111, paragraph “c”, if enacted by this Act.
+8 Sec. 6. RETROACTIVE APPLICABILITY. This Act applies
+9 retroactively to January 1, 2026, for tangible personal
+10 property or specified digital projects sold to or of services
+11 furnished to a nuclear electric generation facility that is
+12 undertaking an activity described in section 423.3, subsection
+13 111, paragraph “a”, subparagraph (1), subparagraph subdivision
+14 (i), if enacted by this Act.>
+15 2. Title page, by striking lines 1 through 4 and inserting
+16 <An Act relating to nuclear electric generation facilities
+17 by creating sales and use tax exemptions and refunds, making
+18 appropriations to the state board of regents for establishing
+19 and maintaining a nuclear energy workforce, making penalties
+20 applicable, and including applicability and retroactive
+21 applicability provisions.>
+______________________________
+DAN DAWSON
+HF 2757.4283 (1) 91
+-8- jm/jh 8/8

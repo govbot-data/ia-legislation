@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5160
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2401
+S-5160
+1 Amend Senate File 2401 as follows:
+2 1. Page 8, line 21, by striking <subsection> and inserting
+3 <subsections>
+4 2. Page 8, after line 32 by inserting:
+5 <NEW SUBSECTION. 11. a. For the magistrate term commencing
+6 August 1, 2027, the judicial election district magistrate
+7 appointing commission shall give priority to an applicant who
+8 served or is serving as a magistrate for the term immediately
+9 preceding August 1, 2027.
+10 (1) If the number of vacancies in the judicial election
+11 district equals or exceeds the number of prioritized
+12 applicants, the commission shall appoint all prioritized
+13 applicants.
+14 (2) If the number of vacancies in the judicial election
+15 district is less than the number of prioritized applicants, the
+16 commission shall appoint only prioritized applicants.
+17 b. This subsection is repealed July 31, 2031.>
+18 3. Page 13, line 10, after <The> by inserting <portion of
+19 the>
+______________________________
+JASON SCHULTZ
+SF 2401.3763 (1) 91
+(amending this SF 2401 to CONFORM to HF 2706)
+-1- lh/ns 1/1

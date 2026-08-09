@@ -1,0 +1,60 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5026
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2224
+S-5026
+1 Amend Senate File 2224 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 256.7, subsection 26, paragraph a,
+4 subparagraph (4), Code 2026, is amended to read as follows:
+5 (4) The rules shall provide for the establishment of
+6 high-quality standards for computer science education taught
+7 by elementary, middle, and high schools, in accordance with
+8 the goal established under section 284.6A, subsection 1,
+9 setting a foundation for personal and professional success
+10 in a high-technology, knowledge-based Iowa economy. The
+11 high-quality standards for computer science education must
+12 require that all levels and grades of computer science
+13 instruction include instruction related to the fundamental
+14 concepts of evolving computer science technologies and
+15 artificial intelligence, including instruction that explains
+16 what artificial intelligence is, how artificial intelligence
+17 works, and the societal and ethical impacts of artificial
+18 intelligence.>
+19 2. Page 1, after line 18 by inserting:
+20 <Sec. ___. Section 256.16, subsection 1, Code 2026, is
+21 amended by adding the following new paragraph:
+22 NEW PARAGRAPH. p. Include preparation in computer science,
+23 artificial intelligence, and computational thinking that is
+24 appropriate to the grade level and subject area in which
+25 the student who is enrolled in the practitioner preparation
+26 program will teach. A higher education institution providing
+27 practitioner preparation may satisfy this requirement by
+28 requiring a student who is enrolled in the practitioner
+29 preparation program to complete a dedicated course or
+30 module, or by integrating such preparation into the existing
+31 practitioner preparation program.>
+32 3. Page 1, after line 33 by inserting:
+33 <Sec. ___. APPLICABILITY. The following applies to
+34 students admitted to an approved practitioner preparation
+35 program on or after July 1, 2028:
+SF 2224.2849 (1) 91
+-1- jda/jh 1/2
+
+1 The section of this Act amending section 256.16.>
+2 4. Title page, by striking lines 1 through 5 and inserting
+3 <An Act relating to computer science education, including by
+4 modifying provisions related to standards for computer science
+5 education, the curriculum provided to students enrolled in
+6 grades nine through twelve, and practitioner preparation
+7 programs, and including applicability provisions.>
+8 5. By renumbering as necessary.
+______________________________
+LYNN EVANS
+SF 2224.2849 (1) 91
+-2- jda/jh 2/2

@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5083
+Media Type: application/pdf
+
+================================================================================
+
+Senate File 2380
+S-5083
+1 Amend Senate File 2380 as follows:
+2 1. Page 1, after line 8 by inserting:
+3 <2. “Good-faith attempt” includes but is not limited to
+4 the utilization of an industry-recognized program or platform
+5 designed to assist internet site operators in complying
+6 with internet site accessibility regulations, the hiring or
+7 contracting with an entity that specializes in assisting
+8 internet site operators in complying with internet site
+9 accessibility regulations, or an attempt to comply with
+10 accessibility regulations deemed reasonable by the court.>
+11 2. Page 1, line 9, by striking <2.> and inserting <3.>
+12 3. Page 1, line 12, by striking <3.> and inserting <4.>
+______________________________
+JEFF TAYLOR
+SF 2380.3275 (1) 91
+-1- lh/jh 1/1

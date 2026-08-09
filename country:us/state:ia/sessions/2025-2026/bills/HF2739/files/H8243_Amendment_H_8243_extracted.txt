@@ -1,0 +1,72 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8243
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2739
+H-8243
+1 Amend the amendment, H-8234, to House File 2739, as follows:
+2 1. Page 1, after line 1 by inserting:
+3 <___. Page 2, by striking lines 20 through 30 and inserting:
+4 <1. Commencing with the calendar year beginning January
+5 1, 2026, and for subsequent calendar years, each health
+6 maintenance organization transacting business in this state
+7 shall be subject to a health care-related tax payable to
+8 the director of revenue in an amount equal to ninety-five
+9 hundredths of one percent of the applicable percentage of
+10 taxable funds.>
+11 ___. Page 3, lines 11 and 12, by striking <current rate in
+12 effect> and inserting <rate>
+13 ___. Page 3, line 18, by striking <current rate in effect>
+14 and inserting <rate>
+15 ___. Page 6, by striking lines 18 through 23 and inserting:
+16 <Sec. ___. TEMPORARY PROVISIONS FOR THE HEALTH CARE-RELATED
+17 TAX AND PREPAYMENTS FOR CALENDAR YEAR 2026. Notwithstanding
+18 section 432B.2, subsection 1, if enacted by this division
+19 of this Act, each health care maintenance organization
+20 transacting business in this state shall be subject to a health
+21 care-related tax payable to the director of revenue in an
+22 amount equal to three and one-half percent of the applicable
+23 percentage of taxable funds as defined in section 432B.1,
+24 if enacted by this division of this Act, for the period in
+25 calendar year beginning January 1, 2026, and ending September
+26 30, 2026. The difference between the amount of taxes collected
+27 pursuant to this section and the amount of tax that would be
+28 collected by imposing the rate under section 432B.2, subsection
+29 1, if enacted by this division of this Act, shall not be
+30 subject to prepayment under section 432B.3, subsection 1, if
+31 enacted by this division of this Act.>
+32 ___. Page 6, lines 24 and 25, by striking <This division of
+33 this Act> and inserting <The following>
+34 ___. Page 6, line 31, by striking <Act.> and inserting
+35 <Act:>
+H 8234.3577 (1) 91
+-1- ns/jh 1/2
+
+1 ___. Page 6, after line 31 by inserting:
+2 <The section of this division of this Act enacting the
+3 temporary provisions for the health care-related tax and
+4 prepayments for calendar year 2026.
+5 Sec. ___. EFFECTIVE DATE. Unless otherwise provided, this
+6 division of this Act, being deemed of immediate importance,
+7 takes effect upon enactment.>>
+8 2. Page 1, by striking lines 24 through 31 and inserting:
+9 <NEW SUBPARAGRAPH. (02) (a) For the fiscal year beginning
+10 July 1, 2027, the transfer pursuant to this paragraph shall not
+11 exceed fifty percent of the difference between the adjusted
+12 revenue estimate, as defined in section 8.54, for the fiscal
+13 year and the net general fund appropriation for the fiscal
+14 year.
+15 (b) For the fiscal year beginning July 1, 2028, the transfer
+16 pursuant to this paragraph shall not exceed fifty percent
+17 of the difference between the adjusted revenue estimate, as
+18 defined in section 8.54, for the fiscal year and the net
+19 general fund appropriation for the fiscal year.>>
+20 3. By renumbering as necessary.
+______________________________
+LUNDGREN of Dubuque
+H 8234.3577 (1) 91
+-2- ns/jh 2/2
