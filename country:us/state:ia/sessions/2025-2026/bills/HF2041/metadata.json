@@ -32,13 +32,23 @@
       }
     },
     {
-      "description": "Subcommittee: Vondran, Gjerde and Holt. H.J. 01/14.",
+      "description": "Subcommittee: Vondran, Gjerde and Holt.",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/28/2026 12:00PM RM 103 (Cancelled).",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
       }
     }
   ],
@@ -86,7 +96,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T22:23:30.324296Z"
   }
 }

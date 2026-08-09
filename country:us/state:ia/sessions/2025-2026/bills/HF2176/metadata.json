@@ -20,7 +20,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Public Safety. H.J. 01/27.",
+      "description": "Introduced, referred to Public Safety.",
       "date": "2026-01-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -29,7 +29,39 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Meggers, Gosa and Gustoff.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/03/2026 9:45AM House Lounge.",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -77,7 +109,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:25Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T23:03:07.905914Z"
   }
 }

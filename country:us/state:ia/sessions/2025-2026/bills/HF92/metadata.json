@@ -65,6 +65,84 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:24Z"
       }
+    },
+    {
+      "description": "Subcommittee: Holt, Gjerde and Nordman.",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: [].",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending amendment and passage.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 23. Nays, 0. Excused, 2.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as HF 2777.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,7 +189,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:27Z",
     "text_extraction_latest_update": "2026-07-21T20:48:50.068057Z"
   }
 }

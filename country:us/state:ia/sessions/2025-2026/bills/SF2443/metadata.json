@@ -44,6 +44,73 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:24Z"
       }
+    },
+    {
+      "description": "Amendment S-5090 filed, adopted.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 45, nays 0.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Read first time, referred to State Government.",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Wulf, Johnson, R. and Jones.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -59,6 +126,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reprinted",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/attachments/SF2443.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/SF2443.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprinted Marked Up",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGRM/91/attachments/SF2443.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/attachments/SF2443.html?layout=false",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -67,6 +164,17 @@
         },
         {
           "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/SF2443.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S-5090",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5090.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -90,7 +198,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T21:41:54.350296Z"
   }
 }

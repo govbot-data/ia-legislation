@@ -48,6 +48,393 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:23Z"
       }
+    },
+    {
+      "description": "Amendment S-5034 filed, adopted.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 47, nays 0.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Read first time, passed on file.",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment H-8128 filed.",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Substituted for HF 2505.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment H-8149 filed.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Point of order raised on amendment H-8149, ruled not germane.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules for immediate consideration of amendment H-8149, yeas 30, nays 63.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules failed.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment H-8146 filed.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Point of order raised on amendment H-8146, ruled not germane.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules for immediate consideration of amendment H-8146, yeas 30, nays 63.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules failed.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment H-8148 filed.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Point of order raised on amendment H-8148, ruled not germane.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules for immediate consideration of amendment H-8148, yeas 29, nays 63.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Motion to suspend rules failed.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment H-8128 adopted.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Passed House, yeas 74, nays 19.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Message from House, with amendment S-5068.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment S-5161 to S-5068 filed, adopted.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Senate concurred with S-5068, as amended.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 38, nays 7.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Senate amendment H-8317 filed.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendment H-8317.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Passed House, yeas 72, nays 21.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Explanation of vote.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Message from House.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled, signed by President and Speaker, and sent to Governor.",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -63,6 +450,66 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled with Governor's Action",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/attachments/SF2399.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/SF2399.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/attachments/SF2399.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2399.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprinted",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/attachments/SF2399.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/SF2399.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprinted Marked Up",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGRM/91/attachments/SF2399.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/Attachments/SF2399_GovLetter.pdf?layout=false",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -76,10 +523,130 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment S-5034",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5034.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8128",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8128.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8149",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8149.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8146",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8146.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8148",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8148.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S-5068",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5068.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S-5161",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5161.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8317",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8317.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Enrolled Bill (PDF)",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/Attachments/SF2399_GovLetter.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Acts Chapter 1159",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1159.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "IA Acts, 2025-2026",
+      "citation": "Chapter 1159",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1159.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SF 2399&ga=91",
@@ -94,7 +661,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T21:35:40.418998Z"
   }
 }

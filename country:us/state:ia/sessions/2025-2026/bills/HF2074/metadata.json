@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "alcohol",
     "alcoholic beverages",
     "city government",
     "entertainment",
@@ -22,7 +21,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to State Government. H.J. 01/14.",
+      "description": "Introduced, referred to State Government.",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -31,7 +30,85 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Collins, Siegrist and Zabner.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/28/2026 8:00AM RM 304.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending amendment and passage.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 23. Nays, 0. Excused, 0.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as HF 2325.",
+      "date": "2026-02-06",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
       }
     }
   ],
@@ -79,7 +156,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:25Z",
+    "logs_latest_update": "2026-08-09T06:56:27Z",
     "text_extraction_latest_update": "2026-07-21T22:20:54.417061Z"
   }
 }

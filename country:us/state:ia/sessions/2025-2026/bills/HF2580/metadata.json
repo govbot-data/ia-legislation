@@ -21,7 +21,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, placed on calendar. H.J. 02/18.",
+      "description": "Introduced, placed on calendar.",
       "date": "2026-02-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -29,7 +29,39 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:26Z"
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Amendments H-8225, H-8226, H-8227 and H-8228 filed.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Placed on calendar under unfinished business.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Amendment H-8403 filed.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
       }
     }
   ],
@@ -59,6 +91,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment H-8225",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8225.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8403",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8403.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -77,7 +131,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:26Z",
+    "logs_latest_update": "2026-08-09T06:56:27Z",
     "text_extraction_latest_update": "2026-07-21T21:09:20.783513Z"
   }
 }

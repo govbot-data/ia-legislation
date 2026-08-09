@@ -8,8 +8,13 @@
   ],
   "subject": [
     "business entities",
+    "captive companies",
     "insurance",
-    "reinsurance"
+    "reinsurance",
+    "reports",
+    "revenue department",
+    "tax credits",
+    "tax returns"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -42,6 +47,83 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:23Z"
       }
+    },
+    {
+      "description": "Fiscal note.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment S-5197 filed.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Attached to HF 2766.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment S-5204 filed, adopted.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Amendment S-5197 out of order.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "HF 2766 substituted.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
     }
   ],
   "sponsorships": [
@@ -70,9 +152,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment S-5197",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5197.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment S-5204",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5204.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal note 04/16/2026",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/FN/1604453.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -88,7 +204,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T19:17:17.698737Z"
   }
 }

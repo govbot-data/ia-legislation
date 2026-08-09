@@ -9,8 +9,11 @@
   "subject": [
     "general assembly",
     "legislative branch",
+    "lobbying",
     "resolutions",
-    "resolutions-policy"
+    "resolutions-policy",
+    "state legislation",
+    "state senate"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -31,6 +34,62 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:23Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Placed on calendar.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Amendment S-5008 filed, lost.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Resolution adopted.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Explanation of vote.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -60,6 +119,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment S-5008",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5008.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -78,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T22:59:51.553058Z"
   }
 }

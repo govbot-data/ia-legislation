@@ -30,7 +30,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, placed on calendar. H.J. 02/16.",
+      "description": "Introduced, placed on calendar.",
       "date": "2026-02-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -38,7 +38,84 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Fiscal note.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Amendment H-8112 filed.",
+      "date": "2026-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Placed on calendar under unfinished business.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Amendment H-8112 withdrawn.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Amendment H-8331 filed, adopted.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "SF 2280 substituted.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -68,9 +145,43 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment H-8112",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8112.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8331",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8331.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal note 02/23/2026",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/FN/1600980.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -86,7 +197,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T21:46:33.219593Z"
   }
 }

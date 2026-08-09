@@ -20,7 +20,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Ways and Means. H.J. 02/09.",
+      "description": "Introduced, referred to Ways and Means.",
       "date": "2026-02-09",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -29,7 +29,85 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Jones, Bloomingdale and McBurney.",
+      "date": "2026-02-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/26/2026 12:00PM RM 305.",
+      "date": "2026-02-25",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 24. Nays, 1.",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as HF 2780.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
       }
     }
   ],
@@ -77,7 +155,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:25Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T23:07:49.068951Z"
   }
 }

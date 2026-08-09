@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Introduced, referred to Health and Human Services. H.J. 01/15.",
+    "description": "Introduced, referred to Health and Human Services.",
     "occurred_at": "2026-01-15",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",

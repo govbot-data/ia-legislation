@@ -1,0 +1,127 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SSB 3167",
+  "title": "A bill for an act relating to interviews conducted with a child subsequent to a report of child abuse.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [
+    "child abuse",
+    "health and human services department",
+    "informed consent",
+    "juvenile justice",
+    "law enforcement officers",
+    "reports"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ia-2025_2026-ssb3167"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Introduced, referred to Judiciary.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Reichman, Bisignano, and Shipley.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/17/2026 9:30AM Senate Lounge.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends amendment and passage.",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as SF 2416.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "COMMITTEE ON JUDICIARY",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"COMMITTEE ON JUDICIARY\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/SSB3167.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/SSB3167.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=SSB 3167&ga=91",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-08-09T06:56:27Z"
+  }
+}

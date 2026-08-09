@@ -20,7 +20,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Environmental Protection. H.J. 01/27.",
+      "description": "Introduced, referred to Environmental Protection.",
       "date": "2026-01-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -29,7 +29,83 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:26Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Wengryn, Johnson, C. and Madison.",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/05/2026 12:30PM RM 304.",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends amendment and passage.",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 9. Nays, 4. Excused, 4.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as HF 2640.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -77,7 +153,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:26Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T20:25:17.854099Z"
   }
 }

@@ -20,7 +20,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, placed on Ways and Means calendar. H.J. 04/13.",
+      "description": "Introduced, placed on Ways and Means calendar.",
       "date": "2026-04-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -28,7 +28,234 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Passed House, yeas 95, nays 0.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Explanation of vote.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Message from House.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Read first time, referred to Ways and Means.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Driscoll, Quirmbach, and Sweeney.",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 04/27/2026 12:30PM Senate Lounge.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends amendment and passage.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-05-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Amendment S-5250 filed, adopted.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 46, nays 0.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Senate amendment H-8472 filed.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "House concurred in Senate amendment H-8472.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Passed House, yeas 86, nays 0.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Explanation of vote.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Message from House.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled, signed by Speaker and President, and sent to Governor.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
       }
     }
   ],
@@ -45,6 +272,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled with Governor's Action",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/attachments/HF2765.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/HF2765.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/attachments/HF2765.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2765.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -58,10 +315,64 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment S-5250",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S5250.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8472",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8472.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Enrolled Bill (PDF)",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/Attachments/HF2765_GovLetter.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Acts Chapter 1189",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1189.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "IA Acts, 2025-2026",
+      "citation": "Chapter 1189",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1189.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 2765&ga=91",
@@ -76,7 +387,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:27Z",
     "text_extraction_latest_update": "2026-07-21T19:02:08.070907Z"
   }
 }

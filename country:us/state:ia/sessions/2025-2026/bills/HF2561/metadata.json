@@ -25,7 +25,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Public Safety. H.J. 02/16.",
+      "description": "Introduced, referred to Public Safety.",
       "date": "2026-02-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -34,7 +34,73 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:26Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Meggers, Gjerde and Hermanson.",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/18/2026 8:30AM RM 19.",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending amendment and passage.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 22. Nays, 0. Excused, 1.",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as HF 2658.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -82,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:26Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T22:50:30.677522Z"
   }
 }

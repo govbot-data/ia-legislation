@@ -6,7 +6,15 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "area education agencies",
+    "charter schools",
+    "extracurricular activities",
+    "innovation zone schools",
+    "school districts",
+    "school finance",
+    "students"
+  ],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
@@ -16,7 +24,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Appropriations. H.J. 02/23.",
+      "description": "Introduced, referred to Appropriations.",
       "date": "2026-02-23",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -25,7 +33,39 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Gehlbach, Matson and Stone.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 03/04/2026 8:30AM RM 304.",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
       }
     }
   ],
@@ -73,7 +113,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T19:10:57.745721Z"
   }
 }

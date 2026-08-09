@@ -96,6 +96,114 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:23Z"
       }
+    },
+    {
+      "description": "Subcommittee: Gruenhagen, Koelker, and Petersen.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/22/2026 12:00PM Room 217 Conference Room.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Placed on Ways and Means calendar.",
+      "date": "2026-02-12",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 44, nays 0.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled, signed by Speaker and President, and sent to Governor.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,6 +219,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled with Governor's Action",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/attachments/HF992.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/HF992.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/attachments/HF992.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF992.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -124,10 +262,42 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Signed Enrolled Bill (PDF)",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/Attachments/HF992_GovLetter.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "documents": [],
-  "citations": [],
+  "documents": [
+    {
+      "note": "Acts Chapter 1167",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1167.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "IA Acts, 2025-2026",
+      "citation": "Chapter 1167",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1167.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 992&ga=91",
@@ -142,7 +312,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T21:29:36.031773Z"
   }
 }

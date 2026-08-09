@@ -11,7 +11,6 @@
     "athletics",
     "health and human services department",
     "information technology",
-    "infrastructure",
     "rebuild iowa infrastructure fund",
     "renewable energy",
     "technology reinvestment fund"
@@ -25,7 +24,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, placed on Appropriations calendar. H.J. 04/29.",
+      "description": "Introduced, placed on Appropriations calendar.",
       "date": "2026-04-29",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -33,7 +32,52 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "NOBA: House Full Approps",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Amendment H-8479 filed, adopted.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "SF 2484 substituted.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -63,6 +107,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment H-8479",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8479.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -81,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T23:23:05.166849Z"
   }
 }

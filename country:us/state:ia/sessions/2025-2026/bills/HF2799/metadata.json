@@ -7,18 +7,14 @@
     "bill"
   ],
   "subject": [
-    "business assistance",
     "business incentives for growth program",
-    "economic development",
     "economic development authority",
-    "education",
+    "education department",
     "industrial new jobs training program",
     "job training",
-    "labor and employment",
     "major economic growth attraction program",
     "tax credits",
-    "transmission lines",
-    "utilities",
+    "transmitting utilities",
     "utilities commission"
   ],
   "abstracts": [],
@@ -50,6 +46,137 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:54:25Z"
       }
+    },
+    {
+      "description": "Amendment H-8480 filed, adopted.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Passed House, yeas 78, nays 7.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Message from House.",
+      "date": "2026-05-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Read first time, attached to SF 2506.",
+      "date": "2026-05-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Substituted for SF 2506.",
+      "date": "2026-05-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 41, nays 0.",
+      "date": "2026-05-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-05-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Reported correctly enrolled, signed by Speaker and President, and sent to Governor.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Fiscal note.",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Signed by Governor.",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
     }
   ],
   "sponsorships": [
@@ -65,6 +192,51 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled with Governor's Action",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/attachments/HF2799.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGEG/91/HF2799.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/attachments/HF2799.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2799.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Reprinted",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/attachments/HF2799.html",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGR/91/HF2799.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Introduced",
       "links": [
         {
@@ -73,6 +245,28 @@
         },
         {
           "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/HF2799.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment H-8480",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8480.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Signed Enrolled Bill (PDF)",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/LGE/91/Attachments/HF2799_GovLetter.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -91,9 +285,40 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal note 05/19/2026",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/FN/1605187.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Acts Chapter 1199",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1199.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "IA Acts, 2025-2026",
+      "citation": "Chapter 1199",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1199.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 2799&ga=91",
@@ -108,7 +333,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:25Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T19:11:23.688076Z"
   }
 }

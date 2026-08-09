@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Resolution filed, laid over under Rule 25. H.J. 02/23.",
+    "description": "Resolution filed, laid over under Rule 25.",
     "occurred_at": "2026-02-23",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",

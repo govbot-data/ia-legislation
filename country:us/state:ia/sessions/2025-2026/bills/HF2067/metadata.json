@@ -9,7 +9,6 @@
   "subject": [
     "alcoholic beverages",
     "breweries",
-    "fees",
     "retail"
   ],
   "abstracts": [],
@@ -31,6 +30,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:26Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Collins, Baeth and Wilz, H.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/27/2026 8:15AM RM 304.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Tabled until future meeting.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -78,7 +107,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:26Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T21:42:11.176351Z"
   }
 }

@@ -7,7 +7,6 @@
     "bill"
   ],
   "subject": [
-    "law enforcement",
     "rights",
     "victims"
   ],
@@ -30,6 +29,36 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:25Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Lawler, Fett and Wessel-Kroeschell.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/16/2026 12:00PM RM 19.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Tabled until future meeting.",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -85,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:25Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T20:54:14.233455Z"
   }
 }

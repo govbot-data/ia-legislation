@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Introduced, placed on calendar. H.J. 02/18.",
+    "description": "Introduced, placed on calendar.",
     "occurred_at": "2026-02-18",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",

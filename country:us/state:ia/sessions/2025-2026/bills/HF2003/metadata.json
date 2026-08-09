@@ -7,12 +7,10 @@
     "bill"
   ],
   "subject": [
-    "education",
+    "education department",
     "pilot programs",
     "school districts",
-    "schools",
-    "special education",
-    "students"
+    "special education"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -33,6 +31,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:24Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Fett, Gehlbach and Matson.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/29/2026 12:30PM RM 304.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
       }
     }
   ],
@@ -80,7 +110,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T23:03:00.787597Z"
   }
 }

@@ -7,14 +7,13 @@
     "bill"
   ],
   "subject": [
+    "airway constricting diseases",
     "arenas",
     "athletics",
-    "buildings",
     "carnivals",
-    "drugs",
+    "children",
     "epinephrine",
     "food establishments",
-    "juveniles",
     "schools"
   ],
   "abstracts": [],
@@ -39,13 +38,13 @@
       }
     },
     {
-      "description": "Subcommittee: Barker, Ehlert and Ingels. H.J. 01/14.",
+      "description": "Subcommittee: Barker, Ehlert and Ingels.",
       "date": "2026-01-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:56:29Z"
       }
     },
     {
@@ -56,6 +55,52 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:24Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 18. Nays, 0. Excused, 3.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as HF 2203.",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:29Z"
       }
     }
   ],
@@ -103,7 +148,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:29Z",
     "text_extraction_latest_update": "2026-07-21T21:01:19.791151Z"
   }
 }

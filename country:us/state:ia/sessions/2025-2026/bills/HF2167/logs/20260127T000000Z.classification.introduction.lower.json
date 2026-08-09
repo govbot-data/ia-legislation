@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Introduced, referred to Agriculture. H.J. 01/27.",
+    "description": "Introduced, referred to Agriculture.",
     "occurred_at": "2026-01-27",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",

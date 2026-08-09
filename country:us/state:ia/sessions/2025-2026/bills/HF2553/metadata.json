@@ -8,11 +8,8 @@
   ],
   "subject": [
     "durable medical equipment",
-    "health and human services department",
     "medical assistance",
-    "medical care",
-    "pilot programs",
-    "public assistance"
+    "pilot programs"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -23,7 +20,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Health and Human Services. H.J. 02/16.",
+      "description": "Introduced, referred to Health and Human Services.",
       "date": "2026-02-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -32,7 +29,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:26Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Rereferred to Appropriations.",
+      "date": "2026-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -80,7 +87,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:26Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T21:35:23.112571Z"
   }
 }

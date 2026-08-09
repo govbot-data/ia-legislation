@@ -9,7 +9,8 @@
   "subject": [
     "criminal offenders",
     "felonies",
-    "prostitution"
+    "prostitution",
+    "sexual activity"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -30,6 +31,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:23Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Schultz, Blake, and Bousselot.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -77,7 +88,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T20:22:23.639218Z"
   }
 }

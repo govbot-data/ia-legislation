@@ -9,10 +9,8 @@
   "subject": [
     "corporations",
     "nonprofit entities",
-    "sales",
     "sales taxes",
     "tax exemptions",
-    "trails",
     "use taxes",
     "water"
   ],
@@ -25,7 +23,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, placed on Ways and Means calendar. H.J. 04/15.",
+      "description": "Introduced, placed on Ways and Means calendar.",
       "date": "2026-04-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -33,7 +31,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:26Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Fiscal note.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -65,7 +73,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal note 04/17/2026",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/FN/1604475.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -81,7 +101,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:26Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T21:29:40.197573Z"
   }
 }

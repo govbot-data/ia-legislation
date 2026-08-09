@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Introduced, referred to Judiciary. H.J. 02/11.",
+    "description": "Introduced, referred to Judiciary.",
     "occurred_at": "2026-02-11",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",

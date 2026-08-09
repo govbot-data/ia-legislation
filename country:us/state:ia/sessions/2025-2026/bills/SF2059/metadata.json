@@ -7,9 +7,12 @@
     "bill"
   ],
   "subject": [
+    "administrative services department",
     "departments of state government",
     "executive branch",
+    "misdemeanors",
     "public officers",
+    "regents board",
     "state employees",
     "whistleblower protection"
   ],
@@ -32,6 +35,38 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:25Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Bousselot, Bisignano, and Green.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/27/2026 10:30AM Room 217 Conference Room.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
       }
     }
   ],
@@ -79,7 +114,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:25Z",
+    "logs_latest_update": "2026-08-09T06:56:27Z",
     "text_extraction_latest_update": "2026-07-21T20:30:22.958318Z"
   }
 }

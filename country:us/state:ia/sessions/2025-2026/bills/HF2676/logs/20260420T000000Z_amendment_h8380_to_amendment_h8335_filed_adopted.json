@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Amendment H-8380 to amendment H-8335 filed, adopted.",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 2676&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 2676"
+}

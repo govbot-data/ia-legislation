@@ -21,7 +21,7 @@
   ],
   "actions": [
     {
-      "description": "Introduced, referred to Education. H.J. 01/21.",
+      "description": "Introduced, referred to Education.",
       "date": "2026-01-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -30,17 +30,39 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     },
     {
-      "description": "Subcommittee: Shipley, Ramirez and Stone. H.J. 01/21.",
+      "description": "Subcommittee: Shipley, Ramirez and Stone.",
       "date": "2026-01-21",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/09/2026 12:30PM RM 102.",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-02-10",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -88,7 +110,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T20:43:54.276445Z"
   }
 }

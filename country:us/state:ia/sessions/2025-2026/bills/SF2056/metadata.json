@@ -8,7 +8,8 @@
   ],
   "subject": [
     "consumer affairs",
-    "nets",
+    "electric utilities",
+    "home energy assistance",
     "processing and production",
     "tax refunds",
     "utilities"
@@ -32,6 +33,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:23Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Driscoll, Drey, and Webster.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:28Z"
       }
     }
   ],
@@ -79,7 +90,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-08-09T06:56:28Z",
     "text_extraction_latest_update": "2026-07-21T20:40:47.920143Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed House, yeas 70, nays 18.",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.iowa.gov/legislation/billTracking/billHistory?billName=HF 2763&ga=91",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HF 2763"
+}

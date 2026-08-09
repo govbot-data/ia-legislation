@@ -9,12 +9,8 @@
   "subject": [
     "ethanol",
     "excise taxes",
-    "farming",
-    "fuel taxes",
     "gasoline",
-    "implements of husbandry",
-    "processing and production",
-    "tax exemptions"
+    "implements of husbandry"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -34,6 +30,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:54:24Z"
+      }
+    },
+    {
+      "description": "SF 2493 substituted.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
+      }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:56:27Z"
       }
     }
   ],
@@ -81,7 +99,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:56:27Z",
     "text_extraction_latest_update": "2026-07-21T19:35:26.203247Z"
   }
 }
