@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8051
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2493
+H-8051
+1 Amend House File 2493 as follows:
+2 1. Page 3, after line 14 by inserting:
+3 <Sec. ___. Section 256C.5, subsection 1, paragraph c, Code
+4 2026, is amended to read as follows:
+5 c. “Preschool budget enrollment” means the figure that is
+6 equal to fifty percent of the actual enrollment of eligible
+7 students in the preschool programming provided by a school
+8 district approved to participate in the preschool program on
+9 October 1 of the base year, or the first Monday in October if
+10 October 1 falls on a Saturday or Sunday.
+11 Sec. ___. Section 256C.5, subsection 2, paragraph a, Code
+12 2026, is amended to read as follows:
+13 a. For the initial school year for which a school district
+14 approved to participate in the preschool program receives that
+15 approval and implements the preschool program, the funding for
+16 the preschool foundation aid payable to that school district
+17 shall be paid from the appropriation made for that school year
+18 in section 256C.6, Code 2011, or in another appropriation
+19 made for purposes of this chapter. For that school year, the
+20 preschool foundation aid payable to the school district is
+21 the product of the regular program state cost per pupil for
+22 the school year multiplied by sixty percent of the school
+23 district’s eligible student enrollment on the date in the
+24 school year determined by rule.>
+25 2. By renumbering as necessary.
+______________________________
+EHLERT of Linn
+HF 2493.2924 (1) 91
+-1- mb/md 1/1

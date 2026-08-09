@@ -1,0 +1,763 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5218
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2479
+S-5218
+1 Amend Senate File 2479 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 FY 2026-2027 APPROPRIATIONS
+6 Section 1. DEPARTMENT OF ADMINISTRATIVE SERVICES.
+7 1. There is appropriated from the general fund of the state
+8 to the department of administrative services for the fiscal
+9 year beginning July 1, 2026, and ending June 30, 2027, the
+10 following amounts, or so much thereof as is necessary, to be
+11 used for the purposes designated:
+12 a. For salaries, support, maintenance, and miscellaneous
+13 purposes, and for not more than the following full-time
+14 equivalent positions:
+15 .................................................. $ 3,602,306
+16 ............................................... FTEs 50.00
+17 b. For the payment of utility costs, and for not more than
+18 the following full-time equivalent positions:
+19 .................................................. $ 4,487,598
+20 ............................................... FTEs 1.00
+21 Notwithstanding section 8.33, moneys appropriated
+22 for utility costs in this lettered paragraph that remain
+23 unencumbered or unobligated at the close of the fiscal year
+24 shall not revert but shall remain available for expenditure
+25 for the purposes designated until the close of the succeeding
+26 fiscal year.
+27 c. For Terrace Hill operations, and for not more than the
+28 following full-time equivalent positions:
+29 .................................................. $ 460,884
+30 ............................................... FTEs 4.37
+31 d. For state library services:
+32 (1) For salaries, support, maintenance, and miscellaneous
+33 purposes, and for not more than the following full-time
+34 equivalent positions:
+35 .................................................. $ 2,626,613
+SF 2479.4235 (1) 91
+-1- sc/ns 1/20
+
+1 ............................................... FTEs 19.00
+2 (2) For the enrich Iowa program established under section
+3 8A.209:
+4 .................................................. $ 2,464,823
+5 e. (1) For support of the state’s historical resources, and
+6 for not more than the following full-time equivalent positions:
+7 .................................................. $ 3,804,774
+8 ............................................... FTEs 37.00
+9 (2) The department shall coordinate historical and cultural
+10 activities with the tourism office of the economic development
+11 authority to promote attendance at the state historical
+12 building and at the state’s historic sites.
+13 f. For administration and support of the state’s historic
+14 sites, and for not more than the following full-time equivalent
+15 positions:
+16 .................................................. $ 425,751
+17 ............................................... FTEs 3.00
+18 2. Any moneys and premiums collected by the department
+19 for workers’ compensation shall be segregated into a separate
+20 workers’ compensation fund in the state treasury to be used
+21 for payment of state employees’ workers’ compensation claims
+22 and administrative costs. Notwithstanding section 8.33,
+23 unencumbered or unobligated moneys remaining in this workers’
+24 compensation fund at the end of the fiscal year shall not
+25 revert but shall remain available for expenditure for purposes
+26 of the fund in subsequent fiscal years.
+27 Sec. 2. DEPARTMENT OF ADMINISTRATIVE SERVICES ——
+28 REVOLVING FUNDS. There is appropriated to the department of
+29 administrative services for the fiscal year beginning July
+30 1, 2026, and ending June 30, 2027, from the revolving funds
+31 designated in chapter 8A and from internal service funds
+32 created by the department such amounts as the department deems
+33 necessary for the operation of the department consistent with
+34 the requirements of chapter 8A.
+35 Sec. 3. DEPARTMENT OF ADMINISTRATIVE SERVICES —— STATE
+SF 2479.4235 (1) 91
+-2- sc/ns 2/20
+
+1 EMPLOYEE HEALTH INSURANCE ADMINISTRATION CHARGE. For the
+2 fiscal year beginning July 1, 2026, and ending June 30, 2027,
+3 the monthly per contract administrative charge which may be
+4 assessed by the department of administrative services shall be
+5 $2.00 per contract on all health insurance plans administered
+6 by the department.
+7 Sec. 4. AUDITOR OF STATE.
+8 1. There is appropriated from the general fund of the state
+9 to the office of the auditor of state for the fiscal year
+10 beginning July 1, 2026, and ending June 30, 2027, the following
+11 amount, or so much thereof as is necessary, to be used for the
+12 purposes designated:
+13 For salaries, support, maintenance, and miscellaneous
+14 purposes, and for not more than the following full-time
+15 equivalent positions:
+16 .................................................. $ 1,002,686
+17 ............................................... FTEs 98.00
+18 2. The auditor of state may retain additional full-time
+19 equivalent positions as is reasonable and necessary to
+20 perform governmental subdivision audits which are reimbursable
+21 pursuant to section 11.20 or 11.21, to perform audits which are
+22 requested by and reimbursable from the federal government, and
+23 to perform work requested by and reimbursable from departments
+24 or agencies pursuant to section 11.5A or 11.5B. The auditor
+25 of state shall notify the department of management, the
+26 legislative fiscal committee, and the legislative services
+27 agency of the additional full-time equivalent positions
+28 retained.
+29 3. The auditor of state shall allocate moneys from the
+30 appropriation in this section solely for audit work related to
+31 the annual comprehensive financial report, federally required
+32 audits, and investigations of embezzlement, theft, or other
+33 significant financial irregularities until the audit of the
+34 annual comprehensive financial report is complete.
+35 Sec. 5. IOWA ETHICS AND CAMPAIGN DISCLOSURE BOARD. There
+SF 2479.4235 (1) 91
+-3- sc/ns 3/20
+
+1 is appropriated from the general fund of the state to the
+2 Iowa ethics and campaign disclosure board for the fiscal year
+3 beginning July 1, 2026, and ending June 30, 2027, the following
+4 amount, or so much thereof as is necessary, to be used for the
+5 purposes designated:
+6 For salaries, support, maintenance, and miscellaneous
+7 purposes, and for not more than the following full-time
+8 equivalent positions:
+9 .................................................. $ 1,045,432
+10 ............................................... FTEs 7.00
+11 Sec. 6. GOVERNOR AND LIEUTENANT GOVERNOR. There is
+12 appropriated from the general fund of the state to the offices
+13 of the governor and the lieutenant governor for the fiscal year
+14 beginning July 1, 2026, and ending June 30, 2027, the following
+15 amounts, or so much thereof as is necessary, to be used for the
+16 purposes designated:
+17 1. GENERAL OFFICE
+18 For salaries, support, maintenance, and miscellaneous
+19 purposes, and for not more than the following full-time
+20 equivalent positions:
+21 .................................................. $ 2,864,932
+22 ............................................... FTEs 25.00
+23 2. TERRACE HILL QUARTERS
+24 For the governor’s quarters at Terrace Hill, including
+25 salaries, support, maintenance, and miscellaneous purposes, and
+26 for not more than the following full-time equivalent positions:
+27 .................................................. $ 144,222
+28 ............................................... FTEs 2.00
+29 Sec. 7. DEPARTMENT OF INSPECTIONS, APPEALS, AND
+30 LICENSING. There is appropriated from the general fund of the
+31 state to the department of inspections, appeals, and licensing
+32 for the fiscal year beginning July 1, 2026, and ending June
+33 30, 2027, the following amounts, or so much thereof as is
+34 necessary, to be used for the purposes designated:
+35 1. ADMINISTRATION DIVISION
+SF 2479.4235 (1) 91
+-4- sc/ns 4/20
+
+1 For salaries, support, maintenance, and miscellaneous
+2 purposes, and for not more than the following full-time
+3 equivalent positions:
+4 .................................................. $ 808,285
+5 ............................................... FTEs 11.55
+6 2. ADMINISTRATIVE HEARINGS DIVISION
+7 For salaries, support, maintenance, and miscellaneous
+8 purposes, and for not more than the following full-time
+9 equivalent positions:
+10 .................................................. $ 654,983
+11 ............................................... FTEs 23.00
+12 3. INVESTIGATIONS
+13 a. For salaries, support, maintenance, and miscellaneous
+14 purposes, and for not more than the following full-time
+15 equivalent positions:
+16 .................................................. $ 2,769,231
+17 ............................................... FTEs 56.00
+18 b. By December 1, 2026, the department shall submit a
+19 report to the general assembly concerning the department’s
+20 activities relative to fraud in public assistance programs for
+21 the fiscal year beginning July 1, 2025, and ending June 30,
+22 2026. The report must include but is not limited to a summary
+23 of the number of cases investigated, case outcomes, overpayment
+24 dollars identified, amount of cost avoidance, and actual
+25 dollars recovered.
+26 4. HEALTH FACILITIES
+27 a. For salaries, support, maintenance, and miscellaneous
+28 purposes, and for not more than the following full-time
+29 equivalent positions:
+30 .................................................. $ 6,206,128
+31 ............................................... FTEs 132.00
+32 b. The department shall make all of the following
+33 information available to the public as part of the department’s
+34 development efforts to revise the department’s internet site:
+35 (1) The number of inspections of health facilities
+SF 2479.4235 (1) 91
+-5- sc/ns 5/20
+
+1 conducted by the department annually by type of service
+2 provider and type of inspection.
+3 (2) The total annual operations budget for the department
+4 that is associated with health facilities regulation, including
+5 general fund appropriations and federal contract dollars
+6 received by type of service provider inspected.
+7 (3) The total number of full-time equivalent positions
+8 in the department that are associated with health facilities
+9 regulation, to include the number of full-time equivalent
+10 positions serving in a supervisory capacity, and serving as
+11 surveyors, inspectors, or monitors in the field by type of
+12 service provider inspected.
+13 (4) Identification of state and federal survey trends,
+14 cited regulations, the scope and severity of deficiencies
+15 identified, and federal and state fines assessed and collected
+16 concerning nursing and assisted living facilities and programs.
+17 c. It is the intent of the general assembly that the
+18 department continuously solicit input from health facilities
+19 regulated by the department to assess and improve the
+20 department’s level of collaboration and to identify new
+21 opportunities for cooperation.
+22 5. EMPLOYMENT APPEAL BOARD
+23 a. For salaries, support, maintenance, and miscellaneous
+24 purposes, and for not more than the following full-time
+25 equivalent positions:
+26 .................................................. $ 510,782
+27 ............................................... FTEs 11.00
+28 b. The employment appeal board shall be reimbursed by the
+29 department for all costs associated with hearings conducted
+30 under chapter 91C related to contractor registration. The
+31 board may expend, in addition to the amount appropriated under
+32 this subsection, additional amounts as are directly billable
+33 to the department under this subsection and to retain the
+34 additional full-time equivalent positions as needed to conduct
+35 hearings required pursuant to chapter 91C.
+SF 2479.4235 (1) 91
+-6- sc/ns 6/20
+
+1 c. The employment appeal board may temporarily exceed and
+2 draw more than the amount appropriated in this subsection and
+3 incur a negative cash balance as long as there are receivables
+4 of federal funds equal to or greater than the negative balance
+5 and the amount appropriated in this subsection is not exceeded
+6 at the close of the fiscal year.
+7 6. IOWA OFFICE OF CIVIL RIGHTS
+8 a. For salaries, support, maintenance, and miscellaneous
+9 purposes, and for not more than the following full-time
+10 equivalent positions:
+11 .................................................. $ 1,538,921
+12 ............................................... FTEs 30.00
+13 b. The Iowa office of civil rights may enter into a contract
+14 with a nonprofit organization to provide legal assistance to
+15 resolve civil rights complaints.
+16 7. LABOR SERVICES
+17 a. For salaries, support, maintenance, and miscellaneous
+18 purposes, and for not more than the following full-time
+19 equivalent positions:
+20 .................................................. $ 2,965,719
+21 ............................................... FTEs 50.00
+22 b. Notwithstanding section 8.33, moneys appropriated in
+23 this subsection that remain unencumbered or unobligated at the
+24 close of the fiscal year shall not revert but shall remain
+25 available for expenditure for the purposes designated until the
+26 close of the succeeding fiscal year.
+27 8. DIVISION OF WORKERS’ COMPENSATION
+28 a. For salaries, support, maintenance, and miscellaneous
+29 purposes, and for not more than the following full-time
+30 equivalent positions:
+31 .................................................. $ 3,381,044
+32 ............................................... FTEs 26.00
+33 b. Notwithstanding section 8.33, moneys appropriated in
+34 this subsection that remain unencumbered or unobligated at the
+35 close of the fiscal year shall not revert but shall remain
+SF 2479.4235 (1) 91
+-7- sc/ns 7/20
+
+1 available for expenditure for the purposes designated until the
+2 close of the succeeding fiscal year.
+3 9. PROFESSIONAL LICENSING
+4 For salaries, support, maintenance, and miscellaneous
+5 purposes, and for not more than the following full-time
+6 equivalent positions:
+7 .................................................. $ 1,627,969
+8 ............................................... FTEs 139.00
+9 10. APPROPRIATION REALLOCATION
+10 Notwithstanding section 8.39, the department of inspections,
+11 appeals, and licensing, in consultation with the department of
+12 management, may reallocate moneys appropriated in this section
+13 as necessary to best fulfill the needs of the department
+14 of inspections, appeals, and licensing provided for in the
+15 appropriation. However, the department of inspections,
+16 appeals, and licensing shall not reallocate moneys appropriated
+17 for labor services or the division of workers’ compensation.
+18 Sec. 8. DEPARTMENT OF INSPECTIONS, APPEALS, AND LICENSING
+19 —— LICENSE OR REGISTRATION FEES.
+20 1. For the fiscal year beginning July 1, 2026, and ending
+21 June 30, 2027, the department of inspections, appeals, and
+22 licensing shall collect any license or registration fees or
+23 electronic transaction fees generated during the fiscal year
+24 as a result of licensing and registration activities under
+25 chapters 99B, 137C, 137D, and 137F.
+26 2. From the fees collected by the department under this
+27 section on behalf of a municipal corporation with which
+28 the department has an agreement pursuant to section 137F.3,
+29 through a statewide electronic licensing system operated by
+30 the department, notwithstanding section 137F.6, subsection 2,
+31 the department shall remit the amount of those fees to the
+32 municipal corporation for whom the fees were collected less
+33 any electronic transaction fees collected by the department to
+34 enable electronic payment.
+35 3. From the fees collected by the department under this
+SF 2479.4235 (1) 91
+-8- sc/ns 8/20
+
+1 section, other than those fees described in subsection 2,
+2 the department shall deposit the amount of $290,435 into the
+3 general fund of the state prior to June 30, 2027.
+4 4. From the fees collected by the department under this
+5 section, other than those fees described in subsections 2 and
+6 3, the department shall retain the remainder of the fees for
+7 the purposes of enforcing the provisions of chapters 99B, 137C,
+8 137D, and 137F. Notwithstanding section 8.33, moneys retained
+9 by the department pursuant to this subsection that remain
+10 unencumbered or unobligated at the close of the fiscal year
+11 shall not revert but shall remain available for expenditure
+12 for the purposes of enforcing the provisions of chapters 99B,
+13 137C, 137D, and 137F during the succeeding fiscal year. The
+14 department shall provide an annual report to the department
+15 of management and the legislative services agency on fees
+16 billed and collected and expenditures from the moneys retained
+17 by the department in a format determined by the department
+18 of management in consultation with the legislative services
+19 agency.
+20 Sec. 9. DEPARTMENT OF INSPECTIONS, APPEALS, AND LICENSING
+21 —— RACING AND GAMING COMMISSION —— RACING AND GAMING
+22 REGULATION. There is appropriated from the gaming regulatory
+23 revolving fund created in section 99F.20 to the racing and
+24 gaming commission of the department of inspections, appeals,
+25 and licensing for the fiscal year beginning July 1, 2026, and
+26 ending June 30, 2027, the following amount, or so much thereof
+27 as is necessary, to be used for the purposes designated:
+28 For salaries, support, maintenance, and miscellaneous
+29 purposes for regulation, administration, and enforcement of
+30 pari-mutuel racetracks, excursion boat gambling, gambling
+31 structure laws, sports wagering, and fantasy sports contests,
+32 and for not more than the following full-time equivalent
+33 positions:
+34 .................................................. $ 8,049,999
+35 ............................................... FTEs 57.70
+SF 2479.4235 (1) 91
+-9- sc/ns 9/20
+
+1 Sec. 10. DEPARTMENT OF INSPECTIONS, APPEALS, AND LICENSING
+2 —— ROAD USE TAX FUND. There is appropriated from the road
+3 use tax fund created in section 312.1 to the administrative
+4 hearings division of the department of inspections, appeals,
+5 and licensing for the fiscal year beginning July 1, 2026, and
+6 ending June 30, 2027, the following amount, or so much thereof
+7 as is necessary, to be used for the purposes designated:
+8 For salaries, support, maintenance, and miscellaneous
+9 purposes:
+10 .................................................. $ 1,623,897
+11 Sec. 11. DEPARTMENT OF INSURANCE AND FINANCIAL SERVICES
+12 —— COMMERCE REVOLVING FUND. There is appropriated from the
+13 commerce revolving fund created in section 546.12 to the
+14 department of insurance and financial services for the fiscal
+15 year beginning July 1, 2026, and ending June 30, 2027, the
+16 following amounts, or so much thereof as is necessary, to be
+17 used for the purposes designated:
+18 1. BANKING DIVISION
+19 For salaries, support, maintenance, and miscellaneous
+20 purposes, and for not more than the following full-time
+21 equivalent positions:
+22 .................................................. $ 14,881,690
+23 ............................................... FTEs 79.00
+24 2. CREDIT UNION DIVISION
+25 For salaries, support, maintenance, and miscellaneous
+26 purposes, and for not more than the following full-time
+27 equivalent positions:
+28 .................................................. $ 3,018,710
+29 ............................................... FTEs 16.00
+30 3. INSURANCE DIVISION
+31 a. For salaries, support, maintenance, and miscellaneous
+32 purposes, and for not more than the following full-time
+33 equivalent positions:
+34 .................................................. $ 11,010,719
+35 ............................................... FTEs 131.85
+SF 2479.4235 (1) 91
+-10- sc/ns 10/20
+
+1 b. The insurance division expenditures for examination
+2 purposes may exceed the projected receipts, refunds, and
+3 reimbursements, estimated pursuant to section 505.7, subsection
+4 7, including the expenditures for retention of additional
+5 personnel, if the expenditures are fully reimbursable and the
+6 division first does all of the following:
+7 (1) Notifies the department of management, the legislative
+8 services agency, and the legislative fiscal committee of the
+9 need for the expenditures.
+10 (2) Files with each of the entities named in subparagraph
+11 (1) the legislative and regulatory justification for the
+12 expenditures, along with an estimate of the expenditures.
+13 Sec. 12. DEPARTMENT OF INSURANCE AND FINANCIAL SERVICES ——
+14 GENERAL FUND. There is appropriated from the general fund of
+15 the state to the department of insurance and financial services
+16 for the fiscal year beginning July 1, 2026, and ending June 30,
+17 2027, the following amount, or so much thereof as is necessary,
+18 to be used for the purposes designated:
+19 For deposit in the captive insurance regulatory and
+20 supervision fund created in section 521J.12 for use as provided
+21 in section 521J.12, including salaries, support, maintenance,
+22 and miscellaneous purposes, and for not more than the following
+23 full-time equivalent positions:
+24 .................................................. $ 450,000
+25 ............................................... FTEs 2.00
+26 Sec. 13. DEPARTMENT OF MANAGEMENT. There is appropriated
+27 from the general fund of the state to the department of
+28 management for the fiscal year beginning July 1, 2026, and
+29 ending June 30, 2027, the following amounts, or so much thereof
+30 as is necessary, to be used for the purposes designated:
+31 1. For enterprise resource planning, providing for a
+32 salary model administrator, conducting performance audits, the
+33 department’s LEAN process, and criminal and juvenile justice
+34 planning; for salaries, support, maintenance, and miscellaneous
+35 purposes; and for not more than the following full-time
+SF 2479.4235 (1) 91
+-11- sc/ns 11/20
+
+1 equivalent positions:
+2 .................................................. $ 3,666,154
+3 ............................................... FTEs 29.00
+4 2. a. For the division of information technology; for
+5 salaries, support, maintenance, and miscellaneous purposes; and
+6 for not more than the following full-time equivalent positions:
+7 .................................................. $ 4,421,887
+8 ............................................... FTEs 24.39
+9 b. Of the moneys appropriated in this subsection, $325,000
+10 is allocated to providing cybersecurity services to local
+11 governments.
+12 Sec. 14. DEPARTMENT OF MANAGEMENT —— INFORMATION TECHNOLOGY
+13 —— REVOLVING AND INTERNAL FUNDS.
+14 1. There is appropriated to the department of management
+15 for the fiscal year beginning July 1, 2026, and ending June
+16 30, 2027, from the revolving funds designated in chapter 8,
+17 subchapter XI, and from internal service funds created under
+18 section 8.92, such amounts as the department deems necessary
+19 for the operation of the department pursuant to and consistent
+20 with the requirements of chapter 8, subchapter XI.
+21 2. a. Notwithstanding section 321A.3, subsection 1, for the
+22 fiscal year beginning July 1, 2026, and ending June 30, 2027,
+23 the first $750,000 collected and transferred to the treasurer
+24 of state with respect to the fees for transactions involving
+25 the furnishing of a certified abstract of a vehicle operating
+26 record under section 321A.3, subsection 1, shall be transferred
+27 to the IowAccess revolving fund created in section 8.90 for
+28 the purposes of developing, implementing, maintaining, and
+29 expanding electronic access to government records as provided
+30 by law.
+31 b. All fees collected with respect to transactions
+32 involving IowAccess shall be deposited in the IowAccess
+33 revolving fund created under section 8.90 and shall be used
+34 only for the support of IowAccess projects.
+35 Sec. 15. DEPARTMENT OF MANAGEMENT —— ROAD USE TAX
+SF 2479.4235 (1) 91
+-12- sc/ns 12/20
+
+1 FUND. There is appropriated from the road use tax fund created
+2 in section 312.1 to the department of management for the fiscal
+3 year beginning July 1, 2026, and ending June 30, 2027, the
+4 following amount, or so much thereof as is necessary, to be
+5 used for the purposes designated:
+6 For salaries, support, maintenance, and miscellaneous
+7 purposes:
+8 .................................................. $ 56,000
+9 Sec. 16. IPERS —— GENERAL OFFICE. There is appropriated
+10 from the Iowa public employees’ retirement fund created in
+11 section 97B.7 to the Iowa public employees’ retirement system
+12 for the fiscal year beginning July 1, 2026, and ending June 30,
+13 2027, the following amount, or so much thereof as is necessary,
+14 to be used for the purposes designated:
+15 For salaries, support, maintenance, and other operational
+16 purposes to pay the costs of the Iowa public employees’
+17 retirement system, and for not more than the following
+18 full-time equivalent positions:
+19 .................................................. $ 26,330,702
+20 ............................................... FTEs 110.00
+21 Sec. 17. IOWA PUBLIC INFORMATION BOARD. There is
+22 appropriated from the general fund of the state to the Iowa
+23 public information board for the fiscal year beginning July
+24 1, 2026, and ending June 30, 2027, the following amount, or
+25 so much thereof as is necessary, to be used for the purposes
+26 designated:
+27 For salaries, support, maintenance, and miscellaneous
+28 purposes, and for not more than the following full-time
+29 equivalent positions:
+30 .................................................. $ 496,227
+31 ............................................... FTEs 4.00
+32 Sec. 18. DEPARTMENT OF REVENUE.
+33 1. There is appropriated from the general fund of the state
+34 to the department of revenue for the fiscal year beginning July
+35 1, 2026, and ending June 30, 2027, the following amount, or
+SF 2479.4235 (1) 91
+-13- sc/ns 13/20
+
+1 so much thereof as is necessary, to be used for the purposes
+2 designated:
+3 a. For salaries, support, maintenance, and miscellaneous
+4 purposes, and for not more than the following full-time
+5 equivalent positions:
+6 .................................................. $ 15,349,678
+7 ............................................... FTEs 166.66
+8 b. From the moneys appropriated in this subsection, the
+9 department shall use $400,000 to pay the direct costs of
+10 compliance related to the collection and distribution of local
+11 sales and services taxes imposed pursuant to chapter 423B.
+12 2. The director of revenue shall prepare and issue a state
+13 appraisal manual and the revisions to the state appraisal
+14 manual as provided in section 421.17, subsection 17, without
+15 cost to a city or county.
+16 Sec. 19. DEPARTMENT OF REVENUE —— MOTOR VEHICLE FUEL TAX
+17 FUND. There is appropriated from the motor vehicle fuel tax
+18 fund created pursuant to section 452A.77 to the department of
+19 revenue for the fiscal year beginning July 1, 2026, and ending
+20 June 30, 2027, the following amount, or so much thereof as is
+21 necessary, to be used for the purposes designated:
+22 For salaries, support, maintenance, and miscellaneous
+23 purposes, and for administration and enforcement of the
+24 provisions of chapter 452A and the motor vehicle fuel tax
+25 program:
+26 .................................................. $ 1,305,775
+27 Sec. 20. SECRETARY OF STATE. There is appropriated from
+28 the general fund of the state to the office of the secretary of
+29 state for the fiscal year beginning July 1, 2026, and ending
+30 June 30, 2027, the following amounts, or so much thereof as is
+31 necessary, to be used for the purposes designated:
+32 1. ADMINISTRATION AND ELECTIONS
+33 a. For salaries, support, maintenance, and miscellaneous
+34 purposes, and for not more than the following full-time
+35 equivalent positions:
+SF 2479.4235 (1) 91
+-14- sc/ns 14/20
+
+1 .................................................. $ 2,566,697
+2 ............................................... FTEs 19.25
+3 b. The state department or agency that provides data
+4 processing services to support voter registration file
+5 maintenance and storage shall provide those services without
+6 charge.
+7 2. BUSINESS SERVICES
+8 For salaries, support, maintenance, and miscellaneous
+9 purposes, and for not more than the following full-time
+10 equivalent positions:
+11 .................................................. $ 1,568,795
+12 ............................................... FTEs 16.75
+13 Sec. 21. SECRETARY OF STATE —— ADDRESS CONFIDENTIALITY
+14 PROGRAM REVOLVING FUND. There is appropriated from the address
+15 confidentiality program revolving fund created in section 9.8
+16 to the office of the secretary of state for the fiscal year
+17 beginning July 1, 2026, and ending June 30, 2027, the following
+18 amount, or so much thereof as is necessary, to be used for the
+19 purposes designated:
+20 For salaries, support, maintenance, and miscellaneous
+21 purposes:
+22 .................................................. $ 195,400
+23 Sec. 22. SECRETARY OF STATE FILING FEES REFUND.
+24 Notwithstanding the obligation to collect fees pursuant to the
+25 provisions of section 489.122, subsection 1, paragraphs “c” and
+26 “s”, section 490.122, subsection 1, paragraph “a”, and section
+27 504.113, subsection 1, paragraphs “a”, “c”, “d”, “j”, “k”,
+28 “l”, and “m”, for the fiscal year beginning July 1, 2026, the
+29 secretary of state may refund these fees to the filer pursuant
+30 to rules established by the secretary of state. The decision
+31 of the secretary of state not to issue a refund under rules
+32 established by the secretary of state is final and not subject
+33 to review pursuant to chapter 17A.
+34 Sec. 23. TREASURER OF STATE.
+35 1. There is appropriated from the general fund of the
+SF 2479.4235 (1) 91
+-15- sc/ns 15/20
+
+1 state to the office of treasurer of state for the fiscal year
+2 beginning July 1, 2026, and ending June 30, 2027, the following
+3 amounts, or so much thereof as is necessary, to be used for the
+4 purposes designated:
+5 a. For salaries, support, maintenance, and miscellaneous
+6 purposes, and for not more than the following full-time
+7 equivalent positions:
+8 .................................................. $ 1,046,415
+9 ............................................... FTEs 28.00
+10 b. For deposit in the administrative fund of the Iowa ABLE
+11 savings plan trust created in section 12I.4, for implementation
+12 and administration activities of the Iowa ABLE savings plan
+13 trust:
+14 .................................................. $ 200,000
+15 2. The office of treasurer of state shall supply
+16 administrative support for the executive council.
+17 Sec. 24. TREASURER OF STATE —— ROAD USE TAX FUND. There
+18 is appropriated from the road use tax fund created in section
+19 312.1 to the office of treasurer of state for the fiscal year
+20 beginning July 1, 2026, and ending June 30, 2027, the following
+21 amount, or so much thereof as is necessary, to be used for the
+22 purposes designated:
+23 For enterprise resource management costs related to the
+24 distribution of road use tax fund moneys:
+25 .................................................. $ 316,788
+26 Sec. 25. IOWA UTILITIES COMMISSION.
+27 1. There is appropriated from the commerce revolving fund
+28 created in section 546.12 to the Iowa utilities commission for
+29 the fiscal year beginning July 1, 2026, and ending June 30,
+30 2027, the following amount, or so much thereof as is necessary,
+31 to be used for the purposes designated:
+32 For salaries, support, maintenance, and miscellaneous
+33 purposes, and for not more than the following full-time
+34 equivalent positions:
+35 .................................................. $ 12,080,831
+SF 2479.4235 (1) 91
+-16- sc/ns 16/20
+
+1 ............................................... FTEs 80.00
+2 2. The Iowa utilities commission may expend additional
+3 moneys, including moneys for additional personnel, if those
+4 additional expenditures are actual expenses which exceed the
+5 moneys budgeted for utility regulation and the expenditures are
+6 fully reimbursable. Before the commission expends or encumbers
+7 an amount in excess of the moneys budgeted for regulation, the
+8 commission shall first do all of the following:
+9 a. Notify the department of management, the legislative
+10 services agency, and the legislative fiscal committee of the
+11 need for the expenditures.
+12 b. File with each of the entities named in paragraph “a” the
+13 legislative and regulatory justification for the expenditures,
+14 along with an estimate of the expenditures.
+15 Sec. 26. CHARGES —— IOWA UTILITIES COMMISSION AND
+16 DEPARTMENT OF INSURANCE AND FINANCIAL SERVICES. The Iowa
+17 utilities commission and each division of the department of
+18 insurance and financial services shall include in its charges
+19 assessed or revenues generated an amount sufficient to cover
+20 the amount stated in its appropriation and any state-assessed
+21 indirect costs determined by the department of administrative
+22 services.
+23 Sec. 27. IOWA PRODUCTS. As a condition of receiving an
+24 appropriation, any agency appropriated moneys pursuant to
+25 this division of this Act shall give first preference when
+26 purchasing a product to an Iowa product or a product produced
+27 by an Iowa-based business, and shall give second preference to
+28 a United States product or a product produced by a business
+29 based in the United States.
+30 Sec. 28. LIMITATION OF STANDING APPROPRIATION.
+31 Notwithstanding the standing appropriation in the following
+32 designated section for the fiscal year beginning July 1, 2026,
+33 and ending June 30, 2027, the amount appropriated from the
+34 general fund of the state pursuant to that section for the
+35 following designated purpose shall not exceed the following
+SF 2479.4235 (1) 91
+-17- sc/ns 17/20
+
+1 amount:
+2 For the enforcement of chapter 453D relating to tobacco
+3 product manufacturers under section 453D.8:
+4 .................................................. $ 17,525
+5 DIVISION II
+6 DEPOSIT OF CERTAIN FEES
+7 Sec. 29. Section 10A.519, subsection 3, Code 2026, is
+8 amended by adding the following new paragraph:
+9 NEW PARAGRAPH. c. The fees collected by the director
+10 under this subsection shall be deposited in the licensing and
+11 regulation fund created in section 10A.507.
+12 Sec. 30. Section 10A.519, subsection 7, Code 2026, is
+13 amended to read as follows:
+14 7. a. A consumer fireworks fee fund is created in the state
+15 treasury under the control of the director. Notwithstanding
+16 section 12C.7, interest or earnings on moneys in the consumer
+17 fireworks fee fund shall be credited to the consumer fireworks
+18 fee fund. Moneys in the fund are appropriated to the director
+19 to be used to fulfill the responsibilities of the director for
+20 the administration and enforcement of this section and section
+21 10A.520 and to provide grants pursuant to paragraph “b”. The
+22 fund shall include the fees collected by the director under the
+23 fee schedule established pursuant to subsection 3 and the fees
+24 collected by the director under section 10A.520 for wholesaler
+25 registration.
+26 b. The director shall establish a local fire protection and
+27 emergency medical service providers grant program to provide
+28 grants in the following order of priority:
+29 (1) a. Local fire protection service providers and
+30 local emergency medical service providers to establish or
+31 provide fireworks safety education programming to members of
+32 the public, and for the purchase of necessary enforcement,
+33 protection, or emergency response equipment related to the sale
+34 and use of consumer fireworks in this state.
+35 (2) b. Local volunteer fire protection service providers
+SF 2479.4235 (1) 91
+-18- sc/ns 18/20
+
+1 for the purchase of necessary enforcement, protection, or
+2 emergency response equipment.
+3 Sec. 31. Section 10A.520, subsection 3, Code 2026, is
+4 amended to read as follows:
+5 3. The director shall establish an annual registration fee
+6 of one thousand dollars for wholesalers of consumer fireworks
+7 within the state. Registration fees collected pursuant to
+8 this section shall be deposited in the consumer fireworks fee
+9 fund created in section 10A.519 licensing and regulation fund
+10 created in section 10A.507.
+11 Sec. 32. Section 90A.10, subsection 1, Code 2026, is amended
+12 to read as follows:
+13 1. Moneys collected pursuant to section 90A.9 from a
+14 professional boxing event are appropriated to the department
+15 of inspections, appeals, and licensing and shall be used by
+16 the commissioner to award grants to organizations that promote
+17 amateur boxing matches in this state deposited in the licensing
+18 and regulation fund created in section 10A.507. All other
+19 moneys collected by the commissioner pursuant to this chapter
+20 are appropriated to the department of inspections, appeals, and
+21 licensing and shall be used by the commissioner to administer
+22 this chapter. Section 8.33 applies only to moneys in excess
+23 of the first twenty thousand dollars appropriated each fiscal
+24 year.
+25 Sec. 33. Section 99B.58, Code 2026, is amended to read as
+26 follows:
+27 99B.58 Electrical or mechanical amusement devices —— special
+28 fund deposit of fees.
+29 Fees collected by the department pursuant to sections
+30 99B.53 and 99B.56 shall be deposited in a special fund created
+31 in the state treasury. Moneys in the fund are appropriated
+32 to the department of inspections, appeals, and licensing
+33 and the department of public safety for administration and
+34 enforcement of this subchapter, including employment of
+35 necessary personnel. The distribution of moneys in the fund
+SF 2479.4235 (1) 91
+-19- sc/ns 19/20
+
+1 to the department of inspections, appeals, and licensing and
+2 the department of public safety shall be pursuant to a written
+3 policy agreed upon by the departments. Notwithstanding section
+4 12C.7, subsection 2, interest or earnings on moneys deposited
+5 in the fund shall be credited to the fund. Notwithstanding
+6 section 8.33, moneys remaining in the fund at the end of a
+7 fiscal year shall not revert to the general fund of the state
+8 the licensing and regulation fund created in section 10A.507.
+9 Sec. 34. Section 505.7, subsection 3, Code 2026, is amended
+10 to read as follows:
+11 3. Forty percent of the nonexamination Nonexamination
+12 revenues payable to the division of insurance or the department
+13 of revenue in connection with the regulation of insurance
+14 companies or other entities subject to the regulatory
+15 jurisdiction of the division shall be deposited in the commerce
+16 revolving fund created in section 546.12 and shall be subject
+17 to annual appropriation to the division for its operations
+18 and is also subject to expenditure under subsection 6. The
+19 remaining Unobligated nonexamination revenues payable to the
+20 division of insurance or the department of revenue shall may be
+21 deposited in the general fund of the state.
+22 Sec. 35. TRANSFER OF MONEYS. On the effective date of
+23 this division of this Act, unencumbered and unobligated moneys
+24 remaining in the consumer fireworks fee fund created in section
+25 10A.519, Code 2026, and the special fund created in section
+26 99B.58, Code 2026, shall be transferred to the licensing and
+27 regulation fund created in section 10A.507.>
+______________________________
+DENNIS GUTH
+SF 2479.4235 (1) 91
+-20- sc/ns 20/20

@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8425
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2772
+H-8425
+1 Amend House File 2772 as follows:
+2 1. Page 19, after line 15 by inserting:
+3 <DIVISION ___
+4 STATE MINIMUM HOURLY WAGE
+5 Sec. ___. Section 91D.1, subsection 1, paragraphs a and d,
+6 Code 2026, are amended to read as follows:
+7 a. (1) The state hourly wage shall be at least $6.20 as
+8 of April 1, 2007, and $7.25 as of January 1, 2008 $10.00 as of
+9 July 1, 2026, $12.50 as of July 1, 2027, and $15.00 as of July
+10 1, 2028.
+11 (2) The state hourly wage, including the state hourly wage
+12 for the first ninety calendar days of employment provided in
+13 paragraph “d”, shall be increased annually on July 1, beginning
+14 July 1, 2029, by the same percentage as the cost-of-living
+15 increase, if any, in federal social security benefits
+16 authorized during the previous state fiscal year by the federal
+17 social security administration pursuant to section 215 of the
+18 federal Social Security Act, 42 U.S.C. §415. In no case shall
+19 the state hourly wage be decreased.
+20 d. An employer is not required to pay an employee the
+21 applicable state hourly wage provided in paragraph “a” until the
+22 employee has completed ninety calendar days of employment with
+23 the employer. An employer shall pay an employee who has not
+24 completed ninety calendar days of employment with the employer
+25 an hourly wage of at least $5.30 as of April 1, 2007, and $6.35
+26 as of January 1, 2008, $9.10 as of July 1, 2026, $11.60 as of
+27 July 1, 2027, and $14.10 as of July 1, 2028.
+28 Sec. ___. Section 91D.1, subsection 1, paragraph c, Code
+29 2026, is amended by striking the paragraph.
+30 Sec. ___. Section 91D.1, subsection 1, Code 2026, is amended
+31 by adding the following new paragraph:
+32 NEW PARAGRAPH. e. A county or city may establish a minimum
+33 wage that exceeds the state hourly wage and the federal minimum
+34 wage.>
+35 2. Title page, by striking lines 5 and 6 and inserting
+HF 2772.4303 (2) 91
+-1- nls/ko 1/2
+
+1 <certain regents institutions; codifying the housing renewal
+2 program; and increasing the state minimum hourly wage.>
+3 3. By renumbering as necessary.
+______________________________
+WICHTENDAHL of Linn
+HF 2772.4303 (2) 91
+-2- nls/ko 2/2

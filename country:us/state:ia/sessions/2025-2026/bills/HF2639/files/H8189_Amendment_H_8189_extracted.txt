@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8189
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2639
+H-8189
+1 Amend House File 2639 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 701.14 Discovery depositions
+5 involving alleged victims under fourteen years of age ——
+6 procedures and protections.
+7 1. Discovery depositions in a criminal action involving
+8 an alleged victim under fourteen years of age shall only be
+9 permitted upon a showing of good cause and an application to
+10 the court that includes but is not limited to:
+11 a. The reasons why the deposition is necessary to the
+12 defense.
+13 b. Facts believed to be known only by the proposed deponent.
+14 c. Ambiguities, inconsistencies, or voids in the proposed
+15 deponent’s prior statements that require clarification.
+16 d. Information needed to evaluate or challenge the
+17 credibility of the proposed deponent.
+18 e. Information necessary to identify or locate other
+19 witnesses or evidence.
+20 f. Whether the proposed deponent has counsel.
+21 g. A description of efforts made to obtain the information
+22 sought through other discovery methods, including review
+23 of a forensic interview of the proposed deponent, if made
+24 available, or depositions of other witnesses listed in the
+25 trial information.
+26 2. Such application may initially be made ex parte at the
+27 request of defense counsel.
+28 3. The deposition shall be conducted at the county
+29 courthouse with a judge available in person or, if not
+30 available in person, by phone should deposition issues arise.
+31 4. The deponent shall be entitled to have counsel present
+32 during the deposition to assert objections and protect the
+33 deponent’s interests. If the deponent is not otherwise
+34 represented, the court shall appoint counsel.>
+HF 2639.3319 (1) 91
+-1- as/js 1/2
+
+______________________________
+OLSON of Polk
+HF 2639.3319 (1) 91
+-2- as/js 2/2

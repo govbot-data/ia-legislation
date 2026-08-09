@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8411
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2768
+H-8411
+1 Amend House File 2768 as follows:
+2 1. Page 5, line 27, by striking <6,206,128> and inserting
+3 <8,606,128>
+4 2. Page 5, line 28, by striking <132.00> and inserting
+5 <162.00>
+6 3. Page 6, after line 18 by inserting:
+7 <d. Of the moneys appropriated in this subsection,
+8 $2,400,000 is allocated to employ additional nursing facility
+9 inspectors and assisted living program monitors to perform
+10 additional safety inspections.>
+11 4. Page 20, after line 24 by inserting:
+12 <DIVISION ___
+13 NURSING FACILITIES INSPECTIONS
+14 Sec. ___. Section 135C.16, subsection 1, Code 2026, is
+15 amended to read as follows:
+16 1. In addition to the inspections required by sections
+17 135C.9 and 135C.38, the department shall make or cause to
+18 be made such further unannounced inspections as it deems
+19 necessary to adequately enforce this chapter. At least one
+20 general unannounced inspection shall be conducted for each
+21 health care facility, other than a nursing facility, within
+22 a thirty-month period. On average, at least one general
+23 unannounced inspection shall be conducted for each nursing
+24 facility within a twelve-month period. The inspector shall
+25 show identification to the person in charge of the facility
+26 and state that an inspection is to be made before beginning
+27 the inspection. An employee of the department who gives
+28 unauthorized advance notice of an inspection made or planned
+29 to be made under this subsection or section 135C.38 shall be
+30 disciplined as determined by the director, except that if the
+31 employee is employed pursuant to the merit system provisions of
+32 chapter 8A, subchapter IV, the discipline shall not exceed the
+33 discipline authorized pursuant to that subchapter.
+34 Sec. ___. Section 135C.38, subsection 1, paragraph a,
+35 subparagraph (1), subparagraph divisions (a) and (b), Code
+HF 2768.4234 (2) 91
+-1- sc/ns 1/5
+
+1 2026, are amended to read as follows:
+2 (a) Within two one working days day for a complaint
+3 determined by the department to be an alleged immediate
+4 jeopardy situation.
+5 (b) Within ten five working days for a complaint determined
+6 by the department to be an alleged high-level, nonimmediate
+7 jeopardy situation.
+8 DIVISION ___
+9 LONG-TERM CARE WORKFORCE TAX INCENTIVES
+10 Sec. ___. NEW SECTION. 135E.1 Iowa supports direct care
+11 professionals relocation tax credit.
+12 1. A taxpayer may claim a one-time direct care professional
+13 relocation tax credit of three thousand dollars if the taxpayer
+14 includes all of the following with the taxpayer’s tax return:
+15 a. Evidence that the taxpayer resided in another state prior
+16 to residing in Iowa.
+17 b. Proof of employment as a direct care professional in Iowa
+18 at the time of filing the tax return.
+19 c. A written acknowledgment that if the taxpayer does not
+20 continue to work at least one thousand five hundred hours
+21 per year in Iowa as a direct care professional for three
+22 consecutive years after the date the tax return is filed, the
+23 taxpayer shall be subject to a pro rata repayment of the tax
+24 credit.
+25 2. Any credit in excess of the tax liability is refundable.
+26 In lieu of claiming a refund, the taxpayer may elect to have
+27 the overpayment shown on the taxpayer’s final, completed return
+28 credited to the tax liability for the following tax year.
+29 3. A person who claims the tax credit under this section
+30 shall not be eligible to claim the retention tax credit under
+31 section 135E.2 for at least three calendar years following the
+32 tax year in which the person claims the tax credit under this
+33 section.
+34 4. A tax credit certificate issued under this section shall
+35 not be transferred to any other person.
+HF 2768.4234 (2) 91
+-2- sc/ns 2/5
+
+1 5. The department of inspections, appeals, and licensing,
+2 in consultation with the department of revenue, shall adopt
+3 rules pursuant to chapter 17A to administer this section.
+4 6. For purposes of this section, “direct care professional”
+5 means a person, regardless of job title, who provides
+6 supportive services and care to people who are aging, or
+7 experiencing illness or disability, and includes but is
+8 not limited to personal and home care aides, nursing aides,
+9 orderlies and attendants, and home health aides.
+10 Sec. ___. NEW SECTION. 135E.2 Iowa supports direct care
+11 professionals retention tax credit.
+12 1. A taxpayer may claim a direct care professional retention
+13 tax credit of two thousand dollars for the tax year beginning
+14 January 1, 2027, if the taxpayer includes all of the following
+15 with the taxpayer’s tax return:
+16 a. Documentation that the taxpayer worked at least one
+17 thousand five hundred hours in the immediately preceding tax
+18 year as a direct care professional.
+19 b. Proof of employment as a direct care professional in Iowa
+20 at the time of filing the tax return.
+21 c. A written acknowledgment that if the taxpayer does not
+22 continue to work at least one thousand five hundred hours
+23 per year in Iowa as a direct care professional for three
+24 consecutive years following the first day of the calendar year
+25 in which the credit is issued, the taxpayer is subject to a pro
+26 rata repayment of the tax credit.
+27 2. For the tax year beginning January 1, 2030, a taxpayer
+28 may be eligible to claim a direct care professional retention
+29 tax credit every three calendar years if the taxpayer
+30 provides the documentation, proof, and written acknowledgment
+31 required under subsection 1 with the claim, and provides
+32 documentation that the taxpayer has complied fully with all of
+33 the requirements prescribed under subsection 1 for the most
+34 recently claimed prior tax credit under this section.
+35 3. Any credit in excess of the tax liability is refundable.
+HF 2768.4234 (2) 91
+-3- sc/ns 3/5
+
+1 In lieu of claiming a refund, the taxpayer may elect to have
+2 the overpayment shown on the taxpayer’s final, completed return
+3 credited to the tax liability for the following tax year.
+4 4. A tax credit certificate issued under this section shall
+5 not be transferred to any other person.
+6 5. The department of inspections, appeals, and licensing,
+7 in consultation with the department of revenue, shall adopt
+8 rules pursuant to chapter 17A to administer this section.
+9 6. For the purposes of this section, “direct care
+10 professional” means a person, regardless of job title, who
+11 provides supportive services and care to individuals who are
+12 aging, or experiencing illness or disability, and includes but
+13 is not limited to personal and home care aides, nursing aides,
+14 orderlies and attendants, and home health aides.
+15 Sec. ___. NEW SECTION. 422.12R Iowa supports direct care
+16 professionals relocation tax credit.
+17 The taxes imposed under this subchapter, less any credits
+18 allowed under section 422.12, shall be reduced by an Iowa
+19 supports direct care professionals relocation tax credit
+20 allowed under section 135E.1.
+21 Sec. ___. NEW SECTION. 422.12S Iowa supports direct care
+22 professionals retention tax credit.
+23 The taxes imposed under this subchapter, less any credits
+24 allowed under section 422.12, shall be reduced by an Iowa
+25 supports direct care professionals retention tax credit allowed
+26 under section 135E.2.
+27 Sec. ___. APPLICABILITY. This division of this Act applies
+28 to tax years beginning on or after January 1, 2027.>
+29 5. Title page, line 10, after <commission> by inserting
+30 <, regulating inspection requirements for nursing facilities,
+31 creating a tax incentive for long-term care professionals, and
+32 including applicability provisions>
+33 6. By renumbering as necessary.
+HF 2768.4234 (2) 91
+-4- sc/ns 4/5
+
+______________________________
+R. JOHNSON of Polk
+HF 2768.4234 (2) 91
+-5- sc/ns 5/5

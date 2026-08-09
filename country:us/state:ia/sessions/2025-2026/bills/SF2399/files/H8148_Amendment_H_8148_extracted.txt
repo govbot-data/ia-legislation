@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8148
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2399
+H-8148
+1 Amend the amendment, H-8128, to Senate File 2399, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. Page 1, before line 5 by inserting:
+4 <<Section 1. Section 8.57E, Code 2026, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 5. A county that incurs increased personnel
+7 costs due to this Act may annually apply to the department of
+8 management for reimbursement from the taxpayer relief fund for
+9 the amount of increased costs. For the fiscal year beginning
+10 July 1, 2026, and for each fiscal year thereafter, there is
+11 appropriated from the taxpayer relief fund to the department
+12 of management an amount necessary to pay reimbursements under
+13 this subsection. The department of management shall adopt
+14 rules pursuant to chapter 17A to administer this subsection,
+15 including but not limited to application requirements.>
+16 2. Page 4, after line 8 by inserting:
+17 <Sec. ___. DEPARTMENT OF PUBLIC SAFETY —— JAIL FACILITY
+18 SPACE. The department of public safety, in coordination
+19 with the department of corrections, shall conduct a study to
+20 determine the total jail space available within the state.
+21 The department of public safety shall submit to the general
+22 assembly a report detailing the department’s findings by
+23 December 31 2026.>>
+24 3. Page 4, line 10, after <relating to> by inserting
+25 <corrections, including>
+26 4. Page 4, line 10, after <conditions> by inserting <and
+27 jail facility space, and making appropriations>
+28 5. By renumbering as necessary.
+______________________________
+GOSA of Scott
+H 8128.3201 (2) 91
+-1- as/js 1/1

@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8126
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2667
+H-8126
+1 Amend House File 2667 as follows:
+2 1. Page 1, by striking lines 9 through 15 and inserting:
+3 <1. The department shall coordinate with the institute
+4 for transportation at the Iowa state university of science
+5 and technology to oversee a statewide urban design and
+6 specifications board that is responsible for developing the
+7 statewide urban design standards and specifications. The board
+8 shall publish a design manual and a specifications manual on
+9 an internet site of the Iowa state university of science and
+10 technology.>
+11 2. Page 1, after line 19 by inserting:
+12 <b. Two members appointed by the American council of
+13 engineering companies.>
+14 3. Page 1, line 20, by striking <b.> and inserting <c.>
+15 4. Page 1, line 20, by striking <Two members> and inserting
+16 <One member>
+17 5. Page 1, line 22, by striking <c.> and inserting <d.>
+18 6. Page 1, line 22, by striking <Two members> and inserting
+19 <One member>
+20 7. Page 1, line 23, by striking <d.> and inserting <e.>
+21 8. Page 1, line 23, by striking <Two members> and inserting
+22 <One member>
+23 9. Page 1, line 25, by striking <e.> and inserting <f.>
+24 10. Page 1, line 27, by striking <f.> and inserting <g.>
+25 11. Page 1, line 28, by striking <g.> and inserting <h.>
+26 12. Page 1, line 29, by striking <h.> and inserting <i.>
+27 13. Page 1, line 31, by striking <i.> and inserting <j.>
+28 14. Page 1, line 33, by striking <j.> and inserting <k.>
+29 15. Page 1, after line 34 by inserting:
+30 <l. One member appointed by the Iowa state building and
+31 construction trades council.
+32 3. Each member of the board appointed by the director,
+33 the American council of engineering companies, the Iowa state
+34 association of counties, or the Iowa league of cities must be a
+35 professional engineer licensed under chapter 542B.>
+HF 2667.3146 (1) 91
+-1- th/ns 1/2
+
+1 16. Page 1, line 35, by striking <3.> and inserting <4.>
+2 17. Page 2, line 3, by striking <4.> and inserting <5.>
+3 18. Page 2, line 9, by striking <5.> and inserting <6.>
+4 19. Page 2, line 10, by striking <department’s> and
+5 inserting <Iowa state university of science and technology’s>
+6 20. Page 2, line 15, by striking <6.> and inserting <7.>
+7 21. Page 2, by striking lines 16 through 26.
+8 22. By striking page 2, line 29, through page 3, line 2, and
+9 inserting:
+10 <NEW SUBSECTION. 24. a. Prior to a city council approving
+11 a city street project that does not match the department of
+12 transportation’s design standards and specifications, the
+13 person responsible for managing the project shall submit
+14 a report to the city council describing the costs for the
+15 project that will be incurred as a result of the project not
+16 matching the department of transportation’s design standards
+17 and specifications.
+18 b. A city shall not modify the approved project design
+19 standards and specifications after a project has begun.>
+20 23. Title page, by striking lines 1 through 4 and
+21 inserting <An Act relating to project design standards and
+22 specifications, including by providing for a statewide urban
+23 design and specifications board and requiring certain reports
+24 to city councils regarding noncompliant projects.>
+25 24. By renumbering as necessary.
+______________________________
+JONES of Clay
+HF 2667.3146 (1) 91
+-2- th/ns 2/2

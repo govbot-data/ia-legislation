@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5146
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2470
+S-5146
+1 Amend Senate File 2470 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. NEW SECTION. 68B.9 Prohibition on buying
+4 or selling event-driven contracts relating to legislative or
+5 governmental actions.
+6 A public employee, public official, or lobbyist, or an
+7 immediate family member of the public employee, public
+8 official, or lobbyist, shall not buy or sell an event-driven
+9 contract on a designated contract market relating to state or
+10 local legislative or other governmental actions. As used in
+11 this section, “event-driven contract” and “designated contract
+12 market” mean the same as defined in section 99H.1.>
+13 2. Title page, line 3, after <state,> by inserting
+14 <prohibiting certain trades,>
+15 3. By renumbering as necessary.
+______________________________
+HERMAN C. QUIRMBACH
+SF 2470.3728 (1) 91
+-1- jm/jh 1/1

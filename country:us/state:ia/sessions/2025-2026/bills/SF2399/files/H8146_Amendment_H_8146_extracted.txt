@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8146
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2399
+H-8146
+1 Amend the amendment, H-8128, to Senate File 2399, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. Page 1, before line 5 by inserting:
+4 <Section 1. Section 331.442, subsection 4, Code 2026, is
+5 amended to read as follows:
+6 4. The proposition of issuing bonds for a general county
+7 purpose is not carried or adopted unless the vote in favor of
+8 the proposition is equal to at least sixty percent of the total
+9 vote cast for and against the proposition at the election. If
+10 the proposition of issuing the general county purpose bonds is
+11 approved by the voters, the board may proceed with the issuance
+12 of the bonds. However, for a proposition to issue bonds
+13 related in whole or in part to the construction, renovation, or
+14 expansion of a jail, the proposition is not carried or adopted
+15 unless the vote in favor of the proposition exceeds fifty
+16 percent of the total vote cast for and against the proposition
+17 at election.
+18 Sec. ___. Section 384.26, subsection 4, Code 2026, is
+19 amended to read as follows:
+20 4. The proposition of issuing general corporate purpose
+21 bonds is not carried or adopted unless the vote in favor of the
+22 proposition is equal to at least sixty percent of the total
+23 vote cast for and against the proposition at the election.
+24 If the proposition of issuing the general corporate purpose
+25 bonds is approved by the voters, the city may proceed with
+26 the issuance of the bonds. However, for a proposition to
+27 issue bonds related in whole or in part to the construction,
+28 renovation, or expansion of a jail, the proposition is not
+29 carried or adopted unless the vote in favor of the proposition
+30 exceeds fifty percent of the total vote cast for and against
+31 the proposition at election.>
+32 2. Page 4, by striking line 10 and inserting <relating to
+33 corrections, including bonds issued for jail construction,
+34 renovation, or expansion, and bail and bond amounts and
+35 conditions.>
+H 8128.3196 (2) 91
+-1- as/js 1/2
+
+1 3. By renumbering as necessary.
+______________________________
+ZABNER of Johnson
+H 8128.3196 (2) 91
+-2- as/js 2/2

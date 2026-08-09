@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8285
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2200
+H-8285
+1 Amend House File 2200, as passed by the House, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 123.3, Code 2026, is amended by adding
+4 the following new subsection:
+5 NEW SUBSECTION. 5A. “Authorized noninstitutional investor”
+6 means a person who has an ownership interest in a business that
+7 manufactures, imports, bottles, sells at wholesale, or sells
+8 at retail alcoholic beverages, if the person meets all of the
+9 following criteria:
+10 a. The ownership interest of the person does not exceed five
+11 percent of the entire ownership interest of the business that
+12 manufactures, imports, bottles, sells at wholesale, or sells
+13 at retail alcoholic beverages.
+14 b. The person is not engaged as a director, officer,
+15 employee, broker, or agent of the business that manufactures,
+16 imports, bottles, sells at wholesale, or sells at retail
+17 alcoholic beverages.>
+18 2. Page 3, after line 15 by inserting:
+19 <Sec. ___. NEW SECTION. 123.45A Authorized noninstitutional
+20 investor —— ownership interest —— exception.
+21 1. Notwithstanding any other provision of law to the
+22 contrary, an authorized noninstitutional investor of a business
+23 engaged in the manufacturing, importing, bottling, selling at
+24 wholesale, or selling at retail of alcoholic beverages may
+25 directly or indirectly have an ownership interest in another
+26 licensee or permittee authorized under this chapter to sell
+27 at retail alcoholic beverages, if the person remains only
+28 an authorized noninstitutional investor of the licensee or
+29 permittee authorized under this chapter to sell at retail
+30 alcoholic beverages.
+31 2. Any authorized noninstitutional investor of a business
+32 engaged in the manufacturing, importing, bottling, or selling
+33 at wholesale of alcoholic beverages that is also an authorized
+34 noninstitutional investor of another business holding a retail
+35 alcohol license issued under this chapter shall annually
+HF 2200.3760.S (1) 91
+-1- mb 1/2
+
+1 disclose the ownership interest to the department in a manner
+2 prescribed by the director. Notwithstanding chapter 22,
+3 the disclosure made under this subsection shall be kept
+4 confidential by the department.>
+5 3. Title page, line 1, by striking <prohibited>
+6 4. By renumbering as necessary.
+HF 2200.3760.S (1) 91
+-2- mb 2/2

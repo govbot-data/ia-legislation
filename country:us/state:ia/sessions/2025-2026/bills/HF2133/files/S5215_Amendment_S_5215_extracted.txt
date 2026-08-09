@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5215
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2133
+S-5215
+1 Amend House File 2133, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 124.204, subsection 4, Code 2026, is
+5 amended by adding the following new paragraph:
+6 NEW PARAGRAPH. cq. 7-Hydroxymitragynine (methyl
+7 (E)-2[(2S,3S,7aS,12bS)-3-ethyl-7a-hydroxy-8-methoxy-2,3,4,6,7,12b-
+8 hexahydro-1H-indolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate)
+9 concentrated at a level above four hundred parts per million on
+10 a dry-weight basis as well as any synthetic, semisynthetic,
+11 chemically altered, laboratory-produced, or otherwise
+12 chemically transformed, whether by fermentation, enzymatic
+13 production, or other natural processes, compound that is
+14 structurally, chemically, or pharmacologically derived from
+15 naturally occurring kratom alkaloids or 7-hydroxymitragynine.
+16 Such substances include all salts; isomers, including optical,
+17 stereo, geometric, or structural isomers; analogues, including
+18 ethers, esters, and other analogues; metabolites; derivatives;
+19 pro-drugs; and homologs thereof, whether or not such forms are
+20 explicitly listed, when the compound does not occur naturally
+21 within unadulterated kratom plant material. The following are
+22 expressly excluded for purposes of this paragraph:
+23 (1) Natural Mitragyna speciosa leaf.
+24 (2) Naturally derived full-spectrum kratom extracts that
+25 have not been adulterated with synthetic or semi-synthetic
+26 substances.
+27 (3) Any extract exhibiting an alkaloid profile naturally
+28 achievable through traditional extraction, concentration, or
+29 purification methods without chemical modification.
+30 Sec. 2. NEW SECTION. 124F.1 Definitions.
+31 As used in this chapter, unless the context otherwise
+32 requires:
+33 1. “Attractive to children” means a quality of a product
+34 that is any of the following:
+35 a. Manufactured in the shape of humans, cartoons, or
+HF 2133.3593 (2) 91
+-1- as/js 1/4
+
+1 animals.
+2 b. Manufactured in a form that bears any reasonable
+3 resemblance to an existing candy product that is familiar to
+4 the public as a widely distributed, branded food product such
+5 that a product could be mistaken for the branded product,
+6 especially by children.
+7 c. Contains any color additives except for natural color
+8 additives.
+9 2. “Kratom extract” means a substance or compound
+10 obtained by extraction of the kratom leaf that is intended
+11 for ingestion, contains more than trace amounts of Mitragyna
+12 speciosa, and does not contain any controlled substances or
+13 levels of residual solvents higher than is allowed in the
+14 United States pharmacopeia as publish by the United States
+15 pharmacopeial convention.
+16 3. “Kratom leaf” means the leaf of the kratom plant,
+17 Mitragyna speciosa, in fresh or dehydrated form, and subjected
+18 to no postharvest processing other than drying or size
+19 reduction, and to cleaning or sterilization through application
+20 of heat, steam, pressurization, irradiation, or other standard
+21 treatments applied to food ingredients.
+22 4. “Kratom product” means a food or dietary supplement that
+23 meets all of the following conditions:
+24 a. Consists of or contains kratom leaf or kratom extract.
+25 b. Does not contain any synthesized kratom alkaloids
+26 or other synthesized kratom constituents, or synthesized
+27 metabolites of any kratom constituent.
+28 c. Does not contain a level of 7-hydroxymitragynine
+29 concentrated at a level above four hundred parts per million
+30 on a dry-weight basis.
+31 5. “Processor” means a person that manufactures, packages,
+32 labels, or distributes kratom products or advertises,
+33 represents, or holds itself out as manufacturing, preparing,
+34 packaging, or labeling kratom products.
+35 6. “Synthesized alkaloids” means alkaloids that have
+HF 2133.3593 (2) 91
+-2- as/js 2/4
+
+1 undergone directed physical, chemical, or biosynthetic
+2 processes that result in changes to the substance’s chemical
+3 composition.
+4 Sec. 3. NEW SECTION. 124F.2 Restrictions.
+5 1. A person shall not sell, offer for sale, provide, or
+6 distribute kratom leaf or a kratom product to a person under
+7 twenty-one years of age.
+8 2. An online retailer or marketplace of kratom leaf or a
+9 kratom product shall implement an age-verification system to
+10 ensure compliance with subsection 1.
+11 3. An individual, business, or other entity shall
+12 not produce, sell, or distribute a kratom product that is
+13 attractive to children.
+14 Sec. 4. NEW SECTION. 124F.3 Penalties.
+15 1. The department of health and human services may assess
+16 against a retailer or processor found to be in violation of
+17 section 124F.2 a civil penalty of up to one thousand dollars
+18 for the first offense and up to five thousand dollars for a
+19 second offense.
+20 2. A retailer or processor committing a third or subsequent
+21 violation shall be assessed a civil penalty of at least five
+22 thousand dollars but not more than twenty thousand dollars and
+23 shall be prohibited from selling kratom products for up to
+24 three years.
+25 3. A retailer does not violate section 124F.2 if it is shown
+26 by a preponderance of the evidence that the retailer relied
+27 in good faith upon the representation of the manufacturer,
+28 processor, packer, or distributor of food represented to be a
+29 kratom product.>
+30 2. Title page, by striking lines 1 through 2 and inserting
+31 <An Act regulating the sale, production, and distribution of
+32 kratom, providing penalties, and making penalties applicable.>
+HF 2133.3593 (2) 91
+-3- as/js 3/4
+
+______________________________
+CARRIE KOELKER
+HF 2133.3593 (2) 91
+-4- as/js 4/4

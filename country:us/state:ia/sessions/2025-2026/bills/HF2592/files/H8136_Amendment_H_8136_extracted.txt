@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8136
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2592
+H-8136
+1 Amend House File 2592 as follows:
+2 1. Page 1, after line 6 by inserting:
+3 <Sec. ___. Section 12B.10, subsection 5, Code 2026, is
+4 amended by adding the following new paragraph:
+5 NEW PARAGRAPH. c. A political subdivision may obtain a
+6 competitive quote directly from an eligible institution for an
+7 investment exceeding twelve months or using nonstandard terms.>
+8 2. Page 1, after line 18 by inserting:
+9 <Sec. ___. Section 12B.10A, subsection 2, Code 2026, is
+10 amended by adding the following new paragraph:
+11 NEW PARAGRAPH. d. Among authorized investments of the same
+12 type and comparable maturity, a political subdivision investing
+13 public funds shall select the investment offering the highest
+14 rate of return.>
+15 3. Page 2, after line 18 by inserting:
+16 <Sec. ___. NEW SECTION. 12B.10E Public funds investment
+17 transparency.
+18 1. a. A financial institution or joint investment trust
+19 eligible to receive public funds pursuant to the laws of this
+20 state shall maintain publicly accessible historical rate
+21 data for a minimum of one year and shall post on a publicly
+22 accessible internet site at least once per week all of the
+23 following:
+24 (1) Current rates for daily liquid or demand deposit
+25 products available to a public entity.
+26 (2) Fixed-term investment rates available to a public
+27 entity that range from one month to twelve months.
+28 (3) Any applicable investment threshold, capacity limit, or
+29 minimum or maximum deposit amount associated with those rates.
+30 b. Any rate that a financial institution or joint investment
+31 trust posts on an internet site must reflect offerings
+32 available to a public entity at the time of publication and
+33 clearly identify any promotional or limited availability rate.
+34 2. A local government investing operating funds directly in
+35 a publicly offered deposit product or joint investment trust
+HF 2592.3150 (2) 91
+-1- sc/ns 1/2
+
+1 shall document the settlement date of each investment, the
+2 investment type, the amount invested, and the rate received in
+3 a public quarterly financial report.>
+4 4. By renumbering as necessary.
+______________________________
+BERGAN of Winneshiek
+HF 2592.3150 (2) 91
+-2- sc/ns 2/2

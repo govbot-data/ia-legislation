@@ -1,0 +1,137 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8452
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House Amendment to
+Senate File 2284
+H-8452
+1 Amend the House amendment, S-5192, to Senate File 2284, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. Page 1, line 5, by striking <subsection> and inserting
+4 <subsections>
+5 2. Page 1, after line 16 by inserting:
+6 <NEW SUBSECTION. 3A. “Highway” means as defined in section
+7 321.1 and includes a street.
+8 Sec. ___. Section 321P.3, Code 2026, is amended by adding
+9 the following new subsection:
+10 NEW SUBSECTION. 4. a. Except as provided in paragraph
+11 “b”, a local authority shall not operate more than two mobile
+12 systems.
+13 b. (1) A local authority with a population between ninety
+14 thousand and two hundred thousand based on the most recent
+15 federal decennial census may operate up to four mobile systems.
+16 (2) A city with a population of more than two hundred
+17 thousand based on the most recent federal decennial census may
+18 operate up to five mobile systems. Notwithstanding section
+19 321P.8, a city that operates five mobile systems shall deposit
+20 all revenue retained by the city as a result of the use of the
+21 mobile system that generates the lowest amount of revenue each
+22 month in a fund the city maintains for first responder pension
+23 and benefits including but not limited to trust and agency
+24 funds, if established pursuant to section 384.6.>
+25 ___. Page 2, after line 2 by inserting:
+26 <Sec. ___. Section 321P.5, subsection 1, paragraphs b and c,
+27 Code 2026, are amended to read as follows:
+28 b. (1) A local authority shall not operate a mobile
+29 automated or remote system for traffic law enforcement unless
+30 permanent signs meeting the requirements as specified in the
+31 department manual on uniform traffic-control devices and giving
+32 notice of the local authority’s use of a mobile system within
+33 the boundaries of the local authority are posted at every
+34 location where a highway enters the boundaries of the local
+35 authority.
+S 5192.4441.S (1) 91
+-1- mb 1/4
+
+1 (2) In addition to the required signage under subparagraph
+2 (1), a local authority operating a mobile system shall place
+3 nonpermanent signs giving notice of the mobile system at least
+4 five hundred feet but not more than one thousand feet along the
+5 approach of the highway where the mobile system is used. Signs
+6 placed pursuant to this subparagraph shall be removed when the
+7 mobile system is relocated.
+8 c. Signs required under this subsection shall be erected
+9 by the local authority at the local authority’s expense and,
+10 except for signs required under paragraph “b”, subparagraph
+11 (2), at least thirty days prior to a system enforcing any
+12 detected violations. Signs required under this subsection must
+13 be illuminated in accordance with the department manual on
+14 uniform traffic-control devices.
+15 Sec. ___. Section 321P.5, Code 2026, is amended by adding
+16 the following new subsections:
+17 NEW SUBSECTION. 1A. If a sign is required along the
+18 approach of the highway where a system is used, the local
+19 authority shall not erect or place the sign at a location
+20 that has a different speed limit than the speed limit that is
+21 enforced by the system.
+22 NEW SUBSECTION. 1B. A local authority that does not hold a
+23 valid permit to use an automated or remote system for traffic
+24 law enforcement, as required in section 321P.2, shall not erect
+25 or place a sign giving notice that a system is used.>>
+26 3. Page 1, after line 17 by inserting:
+27 <<Sec. ___. Section 321P.8, Code 2026, is amended by adding
+28 the following new subsection:
+29 NEW SUBSECTION. 3. Notwithstanding subsections 1 and 2, a
+30 local authority that operates one or more mobile systems shall
+31 deposit one-half of the revenue retained by the local authority
+32 as a result of the local authority’s use of the mobile systems
+33 in accordance with subsections 1 and 2 and one-half of the
+34 revenue retained by the local authority as a result of the
+35 local authority’s use of the mobile systems in a fund the
+S 5192.4441.S (1) 91
+-2- mb 2/4
+
+1 local authority maintains for first responder pension and
+2 benefits including but not limited to trust and agency funds,
+3 if established pursuant to section 384.6. If a city operates
+4 five mobile systems, this subsection applies to only the four
+5 mobile systems that generate the highest amount of revenues
+6 each month.>
+7 4. Page 2, by striking line 16 and inserting <authorized
+8 under section 321P.20 or 321P.24, as applicable.>
+9 5. Page 3, line 4, after <year.> by inserting <A search log
+10 maintained pursuant to this subsection is a confidential record
+11 under section 22.7.>
+12 6. Page 3, by striking lines 13 through 16 and inserting:
+13 <3. An entity that maintains a search log shall establish a
+14 process to audit the search log and the entity shall audit the
+15 search log at least every four months in accordance with the
+16 entity’s audit process.>
+17 7. Page 3, line 29, before <applicable> by inserting <the
+18 entity’s>
+19 8. Page 4, line 2, by striking <a copy of an> and inserting
+20 <any>
+21 9. Page 4, line 25, by striking <counsel, an insurer, or
+22 another person> and inserting <counsel or an insurer>
+23 10. Page 5, line 22, by striking <one year> and inserting
+24 <two years>
+25 11. Page 5, line 24, by striking <one year.> and inserting
+26 <two years.>
+27 12. Page 5, line 34, by striking <person> and inserting
+28 <nongovernmental entity>
+29 13. Page 5, line 35, by striking <person’s> and inserting
+30 <nongovernmental entity’s>
+31 14. Page 6, after line 2 by inserting:
+32 <Sec. ___. EFFECTIVE DATE.
+33 1. The sections of this Act amending section 321P.5 take
+34 effect October 1, 2026.
+35 2. The sections of this Act enacting sections 321P.20,
+S 5192.4441.S (1) 91
+-3- mb 3/4
+
+1 321P.21, 321P.22, 321P.23, 321P.24, 321P.25, and 321P.26 take
+2 effect January 1, 2027.
+3 3. The section of this Act repealing section 321P.4 takes
+4 effect January 1, 2027.>>
+5 15. Page 6, by striking lines 3 and 4 and inserting:
+6 <___. Title page, lines 2 and 3, by striking <and making
+7 penalties applicable.> and inserting <providing penalties, and
+8 including effective date provisions.>>
+9 16. By renumbering as necessary.
+S 5192.4441.S (1) 91
+-4- mb 4/4

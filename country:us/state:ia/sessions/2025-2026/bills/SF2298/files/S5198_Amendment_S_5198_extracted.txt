@@ -1,0 +1,119 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5198
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2298
+S-5198
+1 Amend Senate File 2298 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 533A.8, subsection 5, paragraph a, Code
+5 2026, is amended to read as follows:
+6 a. Maintain a separate bank trust account or dedicated
+7 account in which all payments received from debtors for the
+8 benefit of creditors shall be deposited and in which all
+9 payments shall remain until a remittance is made to either the
+10 debtor or the creditor.
+11 Sec. 2. Section 533A.8, subsection 5, paragraph d, Code
+12 2026, is amended by striking the paragraph.
+13 Sec. 3. Section 533A.8, subsection 6, Code 2026, is amended
+14 to read as follows:
+15 6. If the debt management program is not based on a model
+16 which requires the licensee or any licensee to receive money or
+17 evidences thereof from the debtor to distribute to the debtor’s
+18 creditors, both of the following shall apply:
+19 a. The the debtor shall maintain full control of and access
+20 to any moneys set aside for payment to creditors.
+21 b. The licensee may not receive consideration from any third
+22 party in connection with services rendered to a debtor.
+23 Sec. 4. Section 533A.8, Code 2026, is amended by adding the
+24 following new subsection:
+25 NEW SUBSECTION. 10A. If a debtor who has contracted with
+26 a licensee to settle a debt has executed a debt settlement
+27 agreement with a creditor to settle such debt and has made at
+28 least one payment pursuant to that agreement, and the debtor
+29 subsequently fails to complete the payment terms required under
+30 that debt settlement agreement, the licensee shall attempt to
+31 renegotiate, resolve, reduce, or otherwise alter the terms of
+32 the debt with the creditor and shall not request or receive
+33 an additional fee from the debtor for any additional debt
+34 management service provided by the licensee for that debt.
+35 This subsection does not prohibit a licensee from requesting
+SF 2298.4038 (1) 91
+(amending this SF 2298 to CONFORM to HF 2326)
+-1- nls/ko 1/3
+
+1 or receiving payment of any outstanding balance of the fee
+2 required by the contract between the licensee and debtor for
+3 that debt.
+4 Sec. 5. Section 533A.9, subsection 4, Code 2026, is amended
+5 by striking the subsection and inserting in lieu thereof the
+6 following:
+7 4. If a debt management program is not based on a model that
+8 requires the licensee or another licensee to receive money or
+9 evidences thereof from the debtor to distribute to the debtor’s
+10 creditors, a licensee may not request or receive payment of
+11 any fee or consideration for debt management services provided
+12 under a debt management program unless all of the following are
+13 true:
+14 a. The licensee has renegotiated, resolved, reduced, or
+15 otherwise altered the terms of at least one debt pursuant to a
+16 resolution agreement or other contractual agreement executed
+17 by the debtor and the creditor.
+18 b. The debtor has made at least one payment pursuant to the
+19 resolution agreement or other contractual agreement entered
+20 into under paragraph “a”.
+21 c. To the extent that debts enrolled in the debt management
+22 program are renegotiated, resolved, reduced, or otherwise
+23 altered individually, the fee or consideration for the debt
+24 management service bears the same proportional relationship to
+25 the total fee or consideration for renegotiating, resolving,
+26 reducing, or otherwise altering the terms of the entire debt
+27 balance as the individual debt amount bears to the entire debt
+28 amount, not to exceed thirty percent of the total amount of
+29 debt enrolled by the debtor at the time of enrollment in the
+30 debt management program. The individual debt amount and the
+31 entire debt amount are those owed at the time the debt was
+32 enrolled in the debt management program. The percent charged
+33 is the same for each individual debt enrolled in the debt
+34 management program.
+35 Sec. 6. Section 533A.9, subsection 5, Code 2026, is amended
+SF 2298.4038 (1) 91
+(amending this SF 2298 to CONFORM to HF 2326)
+-2- nls/ko 2/3
+
+1 by striking the subsection and inserting in lieu thereof the
+2 following:
+3 5. a. Notwithstanding any provision of this section to
+4 the contrary, the total aggregate fee or consideration charged
+5 by a licensee for all debt management services provided by the
+6 licensee to a debtor shall not exceed thirty percent of the
+7 total amount of debt enrolled by the debtor at the time of
+8 enrollment in the debt management program.
+9 b. A licensee may assess and collect the fee for debt
+10 management services on a per-debt basis as a debt is
+11 renegotiated, settled, reduced, or otherwise altered in a
+12 manner consistent with this section and applicable federal law.
+13 Sec. 7. Section 533A.9, Code 2026, is amended by adding the
+14 following new subsection:
+15 NEW SUBSECTION. 6. If a debt settlement agreement between a
+16 debtor and a creditor to settle a debt provides for the debtor
+17 to make more than one payment to the creditor, the licensee
+18 shall request or receive payment from the debtor of any fee for
+19 debt management services provided with respect to that debt
+20 incrementally over not less than one quarter of the length of
+21 the debtor’s period of repayment to such creditor.
+22 Sec. 8. Section 538A.2, subsection 2, Code 2026, is amended
+23 by adding the following new paragraph:
+24 NEW PARAGRAPH. i. A person licensed to engage in the
+25 business of debt management under section 533A.2, when acting
+26 within the course and scope of that license.>
+______________________________
+JEFF REICHMAN
+SF 2298.4038 (1) 91
+(amending this SF 2298 to CONFORM to HF 2326)
+-3- nls/ko 3/3

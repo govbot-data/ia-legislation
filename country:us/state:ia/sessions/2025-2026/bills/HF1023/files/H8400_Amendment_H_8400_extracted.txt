@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8400
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 1023
+H-8400
+1 Amend the Senate amendment, H-8393, to House File 1023, as
+2 passed by the House, as follows:
+3 1. Page 1, after line 3 by inserting:
+4 <<Sec. ___. Section 97B.11, subsection 3, paragraph a,
+5 subparagraphs (1) and (2), Code 2026, are amended to read as
+6 follows:
+7 (1) “Applicable employee percentage” means the percentage
+8 rate equal to forty percent of the required contribution
+9 rate for members in regular service. For the fiscal year
+10 beginning July 1, 2026, and for each fiscal year thereafter,
+11 the system shall increase the applicable employee percentage
+12 calculated under this subparagraph for that fiscal year by the
+13 amount necessary to fund the annual adjustment to the monthly
+14 retirement allowance provided under section 97B.49A.
+15 (2) “Applicable employer percentage” means the percentage
+16 rate equal to sixty percent of the required contribution
+17 rate for members in regular service. For the fiscal year
+18 beginning July 1, 2026, and for each fiscal year thereafter,
+19 the system shall decrease the applicable employer percentage
+20 calculated under this subparagraph for that fiscal year by the
+21 amount necessary to fund the annual adjustment to the monthly
+22 retirement allowance provided under section 97B.49A.>
+23 2. Page 1, after line 32 by inserting:
+24 <Sec. ___. Section 97B.49A, Code 2026, is amended by adding
+25 the following new subsection:
+26 NEW SUBSECTION. 5. Annual adjustment of allowance. A
+27 member who retires on or after July 1, 2026, and who receives a
+28 monthly retirement allowance under this section, shall have the
+29 monthly retirement allowance adjusted as follows:
+30 a. On each July 1, the monthly retirement allowance
+31 authorized in this section and payable to a member retired
+32 prior to that date, and to a beneficiary or contingent
+33 annuitant entitled to a monthly retirement allowance prior
+34 to that date, shall be adjusted by adding to the monthly
+35 retirement allowance payable on that date an amount equal to
+H 8393.4179 (1) 91
+-1- sc/ns 1/2
+
+1 the sum of one percent of the monthly retirement allowance
+2 payable on that date.
+3 b. A retired member, beneficiary, or contingent annuitant
+4 shall not be eligible for an annual readjustment of allowance
+5 provided in this subsection unless the member has attained the
+6 age of fifty-five years prior to the member’s termination of
+7 employment.
+8 c. A retired member, beneficiary, or contingent annuitant
+9 that receives an annual adjustment of allowance provided in
+10 this subsection shall not be eligible for the retirement
+11 dividends under section 97B.49F.>
+12 3. Page 3, after line 3 by inserting:
+13 <___. Title page, lines 2 and 3, by striking <who are
+14 employed in a protection occupation>>
+15 4. By renumbering as necessary.
+______________________________
+GEARHART of Clayton
+H 8393.4179 (1) 91
+-2- sc/ns 2/2

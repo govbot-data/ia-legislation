@@ -1,0 +1,959 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+TRANSPORTATION BILL)
+A BILL FOR
+1 An Act relating to matters under the purview of the department
+2 of transportation, and including applicability provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5412XD (5) 91
+th/ns
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 CHAUFFEUR’S INSTRUCTION PERMITS
+3 Section 1. Section 321.1, subsection 20A, Code 2026, is
+4 amended to read as follows:
+5 20A. “Driver’s license” means any license or permit issued
+6 to a person to operate a motor vehicle on the highways of
+7 this state, including but not limited to a restricted work,
+8 special minor’s restricted, temporary restricted, or temporary
+9 license and an instruction, chauffeur’s instruction, commercial
+10 learner’s, or temporary permit. For purposes of license
+11 suspension, revocation, bar, disqualification, cancellation, or
+12 denial under this chapter and chapters 321A, 321C, and 321J,
+13 “driver’s license” includes any privilege to operate a motor
+14 vehicle.
+15 Sec. 2. Section 321.180, subsection 3, Code 2026, is amended
+16 by striking the subsection.
+17 Sec. 3. Section 321.180, subsection 4, Code 2026, is amended
+18 to read as follows:
+19 4. The instruction permit, chauffeur’s instruction permit,
+20 and commercial learner’s permit are subject to suspension or
+21 revocation for the same reasons and in the same manner as
+22 suspension or revocation of a driver’s license.
+23 Sec. 4. Section 321.191, subsection 1, Code 2026, is amended
+24 to read as follows:
+25 1. Instruction permits. The fee for an instruction
+26 permit, other than a special instruction permit, chauffeur’s
+27 instruction permit, or commercial learner’s permit, is six
+28 dollars. The fee for a special instruction permit is ten
+29 dollars. The fee for a chauffeur’s instruction permit or
+30 commercial learner’s permit is twelve dollars.
+31 Sec. 5. Section 321.196, subsection 1, Code 2026, is amended
+32 to read as follows:
+33 1. Except as otherwise provided, if the licensee is between
+34 the ages of seventeen years eleven months and seventy-eight
+35 years on the date of issuance of the license, a driver’s
+LSB 5412XD (5) 91
+-1- th/ns 1/25
+
+S.F. _____ H.F. _____
+1 license, other than an instruction permit, chauffeur’s
+2 instruction permit, or commercial learner’s permit issued
+3 under section 321.180, expires eight years from the licensee’s
+4 birthday anniversary occurring in the year of issuance, but
+5 not to exceed the licensee’s eightieth birthday. If the
+6 licensee is under the age of seventeen years eleven months
+7 or age seventy-eight or over, the license is effective for a
+8 period of two years from the licensee’s birthday anniversary
+9 occurring in the year of issuance. A licensee whose license is
+10 restricted due to vision or other physical deficiencies may be
+11 required to renew the license every two years. If a licensee
+12 is a foreign national who is temporarily present in this state,
+13 the license shall be issued only for the length of time the
+14 foreign national is authorized to be present as verified by the
+15 department, not to exceed two years.
+16 Sec. 6. Section 321J.1, subsection 7, Code 2026, is amended
+17 to read as follows:
+18 7. “Driver’s license” means any license or permit issued
+19 to a person to operate a motor vehicle on the highways of this
+20 state, including but not limited to a driver’s, commercial
+21 driver’s, temporary restricted, or temporary license and an
+22 instruction, chauffeur’s instruction, commercial learner’s, or
+23 temporary permit.
+24 Sec. 7. Section 321M.1, subsection 5, Code 2026, is amended
+25 to read as follows:
+26 5. “Driver’s license” means any license or permit issued
+27 to a person to operate a motor vehicle on the highways of this
+28 state, including but not limited to a driver’s, commercial
+29 driver’s, temporary restricted, or temporary license and an
+30 instruction, chauffeur’s instruction, commercial learner’s, or
+31 temporary permit.
+32 Sec. 8. CHAUFFEUR’S INSTRUCTION PERMIT VALIDITY. A
+33 chauffeur’s instruction permit issued before the effective
+34 date of this division of this Act shall remain valid until the
+35 expiration date listed on the permit. Until the expiration
+LSB 5412XD (5) 91
+-2- th/ns 2/25
+
+S.F. _____ H.F. _____
+1 of the permit, the permittee may continue to operate a motor
+2 vehicle in accordance with section 321.180, subsection 3, Code
+3 2026.
+4 DIVISION II
+5 ELECTRONIC ACCIDENT REPORTS
+6 Sec. 9. Section 321.266, subsections 2 and 3, Code 2026, are
+7 amended to read as follows:
+8 2. The driver of a vehicle involved in an accident resulting
+9 in injury to or death of any person, or total property damage
+10 to an apparent extent of one thousand five hundred dollars or
+11 more, shall, submit a written report of the accident to the
+12 department within seventy-two hours after the accident, forward
+13 a written report of the accident to the department. However,
+14 such report is not required when the accident is investigated
+15 by a law enforcement agency.
+16 3. Every law enforcement officer who, in the regular course
+17 of duty, investigates a motor vehicle accident of which report
+18 must be made as required in subsections 1 and 2, either at
+19 the time of and at the scene of the accident or thereafter by
+20 interviewing participants or witnesses, shall, submit a written
+21 report of the accident to the department within twenty-four
+22 hours after completing such investigation, forward a written
+23 report of such accident to the department.
+24 Sec. 10. Section 321.271, subsections 1 and 2, Code 2026,
+25 are amended to read as follows:
+26 1. All accident reports filed by a driver of a vehicle
+27 involved in an accident as required under section 321.266 shall
+28 be in writing. The report must be in an electronic format and
+29 submitted in a manner approved by the department. The report
+30 shall be without prejudice to the individual so reporting and
+31 shall be for the confidential use of the department, except
+32 that upon the request of any person involved in the accident,
+33 the person’s insurance company or its agent, or the attorney
+34 for such person, the department shall disclose the identity
+35 and address of other persons involved in the accident and may
+LSB 5412XD (5) 91
+-3- th/ns 3/25
+
+S.F. _____ H.F. _____
+1 disclose the name of the insurance companies with whom the
+2 other persons have liability insurance. The department, upon
+3 written request of the person making the report, shall provide
+4 the person with a copy of that person’s report. The written
+5 report filed with the department shall not be admissible in or
+6 used in evidence in any civil or criminal case arising out of
+7 the facts on which the report is based.
+8 2. All written reports filed by a law enforcement officer
+9 as required under section 321.266, or by an officer’s or
+10 emergency responder’s employer under section 321.267A, shall
+11 be in writing. The report must be in an electronic format and
+12 submitted in a manner approved by the department. A report
+13 filed pursuant to section 321.266 shall be made available to
+14 any party to an accident, the party’s insurance company or
+15 its agent, the party’s attorney, the federal motor carrier
+16 safety administration, or the attorney general, on written
+17 request to the department and the payment of a fee of four
+18 dollars for each copy. If a copy of an investigating officer’s
+19 report of a motor vehicle accident filed with the department
+20 is retained by the law enforcement agency of the officer
+21 who filed the report, a copy shall be made available to any
+22 party to the accident, the party’s insurance company or its
+23 agent, the party’s attorney, the federal motor carrier safety
+24 administration, other law enforcement agencies, or the attorney
+25 general, on written request and the payment of a fee. However,
+26 the attorney general and the federal motor carrier safety
+27 administration shall not be required by the department or the
+28 law enforcement agency to pay a fee for a copy of a report filed
+29 by a law enforcement or investigating officer.
+30 DIVISION III
+31 ELECTRONIC APPLICATIONS FOR DRIVER’S LICENSES AND NONOPERATOR’S
+32 IDENTIFICATION CARDS
+33 Sec. 11. Section 321.189, subsection 3, Code 2026, is
+34 amended by striking the subsection.
+35 Sec. 12. Section 321.190, Code 2026, is amended by adding
+LSB 5412XD (5) 91
+-4- th/ns 4/25
+
+S.F. _____ H.F. _____
+1 the following new subsections:
+2 NEW SUBSECTION. 3. Renewal. A person may renew a
+3 nonoperator’s identification card and, if eligible pursuant to
+4 rules adopted by the department, may do so electronically. The
+5 department shall renew a nonoperator’s identification card upon
+6 payment of the required fee.
+7 NEW SUBSECTION. 4. Rules. The department shall adopt rules
+8 pursuant to chapter 17A to administer this section.
+9 Sec. 13. Section 321.195, Code 2026, is amended to read as
+10 follows:
+11 321.195 Replacement of driver’s licenses and nonoperator’s
+12 identification cards.
+13 1. A Prior to the expiration of a driver’s license or
+14 nonoperator’s identification card, a person may apply for a
+15 replacement, and may do so electronically if eligible pursuant
+16 to rules adopted by the department. The fee of ten dollars
+17 shall be charged for the replacement of a driver’s license or
+18 nonoperator’s identification card is ten dollars.
+19 2. If a person’s driver’s license or nonoperator’s
+20 identification card contains inaccurate information, the
+21 person shall return the driver’s license or nonoperator’s
+22 identification card to the department and the department
+23 shall issue a replacement license or identification card, as
+24 applicable.
+25 3. If a driver’s license or nonoperator’s identification
+26 card issued under this chapter is lost or destroyed, the person
+27 to whom the license or card was issued must furnish proof
+28 satisfactory to the department that the driver’s license or
+29 nonoperator’s identification card has been lost or destroyed in
+30 order to obtain a replacement.
+31 4. The department shall adopt rules pursuant to chapter 17A
+32 to administer this section.
+33 Sec. 14. APPLICABILITY. This division of this Act applies
+34 on and after March 1, 2027, or the date the department of
+35 transportation submits to the Iowa administrative code editor
+LSB 5412XD (5) 91
+-5- th/ns 5/25
+
+S.F. _____ H.F. _____
+1 for publication in the Iowa administrative bulletin a statement
+2 by the director of transportation that the applicable phase
+3 of the department of transportation’s new records system is
+4 implemented, whichever is earlier. The department shall also
+5 forward a copy of the statement to the Iowa Code editor.
+6 DIVISION IV
+7 RECORDS SYSTEM
+8 Sec. 15. Section 321.1, Code 2026, is amended by adding the
+9 following new subsection:
+10 NEW SUBSECTION. 059A. “Records system” means the records
+11 system described in section 321.31.
+12 Sec. 16. Section 321.24, subsections 2 and 9, Code 2026, are
+13 amended to read as follows:
+14 2. The county treasurer shall maintain in the county record
+15 records system information contained on the registration
+16 receipt. The information shall be accessible by registration
+17 number and shall be open for public inspection during
+18 reasonable business hours. Copies Information the department
+19 requires shall be sent to the department in the manner and at
+20 the time the department directs.
+21 9. The county treasurer or the department, as applicable,
+22 shall maintain in the county or department records system the
+23 information contained on the certificate of title and the name
+24 and address of the previous owner. The information must be
+25 accessible by title certificate number for a period of three
+26 years from the date of notification of cancellation of title
+27 or date that a new title has been issued as provided in this
+28 chapter. Copies Information the department requires shall
+29 be sent to the department in the manner and at the time the
+30 department directs. The department shall designate a uniform
+31 system of title numbers to indicate the county of issuance.
+32 Sec. 17. Section 321.31, Code 2026, is amended to read as
+33 follows:
+34 321.31 Records system.
+35 A state and county records system shall be maintained in the
+LSB 5412XD (5) 91
+-6- th/ns 6/25
+
+S.F. _____ H.F. _____
+1 following manner:
+2 1. State records system.
+3 a. The department shall install and maintain a records
+4 system which for use by the department and county treasurers.
+5 The records system must contain records of vehicle
+6 registrations and certificates of title, and information
+7 from those documents, including the registration certificate
+8 number, the dates of perfection and cancellation of security
+9 interests, as applicable, information from the registration
+10 receipt, any supporting documents, the name and address of
+11 the vehicle owner, current and previous registration number,
+12 vehicle identification number, make, model, style, date of
+13 purchase, registration certificate number, maximum gross
+14 weight, weight, list price or value of the vehicle as fixed by
+15 the department, fees paid, date of payment, and the name and
+16 address of the previous owner. The records system must contain
+17 records relating to the department’s duties under section
+18 307.27. The records system must may also contain a record of
+19 the certificate of title including such other information as
+20 the department deems necessary. The information to be kept in
+21 the records system shall be entered within forty-eight hours
+22 after receipt insofar as is practical practicable. The records
+23 system shall constitute constitutes the permanent record of
+24 ownership of each vehicle titled under the laws of this state.
+25 b. 2. The department may make photostatic, microfilm, or
+26 other photographic copies, including electronic copies, of
+27 certificates of title, registration receipts, or other records,
+28 reports, or documents which are required to be retained by
+29 the department. When copies have been made, the department
+30 may destroy the original records in such manner as prescribed
+31 by the director. The photostatic, microfilm, or other
+32 photographic copies, when no longer of use, may be destroyed in
+33 the manner prescribed by the director, subject to the approval
+34 of the state records commission. Photostatic, microfilm, or
+35 other photographic copies Copies of records shall be admissible
+LSB 5412XD (5) 91
+-7- th/ns 7/25
+
+S.F. _____ H.F. _____
+1 in evidence when duly certified and authenticated by the
+2 officer having custody and control of the copies of records.
+3 Records of vehicle certificates of title may be destroyed seven
+4 years after the date of issue or five years after the date of
+5 issuance if the vehicle’s registration has been delinquent for
+6 five or more consecutive years.
+7 c. 3. The director shall maintain a in the records
+8 system a record of delinquent accounts owed to the state
+9 using information provided through the computerized data bank
+10 established in section 421.17. The department and county
+11 treasurers shall use the information maintained in the records
+12 system to determine if applicants for renewal of registration
+13 have delinquent accounts, charges, fees, loans, taxes, or
+14 other indebtedness owed to or being collected by the state as
+15 provided pursuant to section 421.65. The director and the
+16 director of revenue shall establish procedures for updating
+17 the delinquent accounts records to add and remove accounts, as
+18 applicable.
+19 2. County records system.
+20 a. Each county treasurer’s office shall maintain a county
+21 records system for vehicle registration and certificate
+22 of title documents. The records system must consist of
+23 information from the certificate of title, including the
+24 date of perfection and cancellation of security interests,
+25 information from the registration receipt, and the name and
+26 address of the previous owner. The information shall be
+27 maintained in a manner approved by the department.
+28 b. Records of vehicle certificates of title for vehicles
+29 that are delinquent for five or more consecutive years may be
+30 destroyed by the county treasurer. Automated files, optical
+31 disks, microfiche records, and photostatic, microfilm or other
+32 photographic copies of records shall be admissible in evidence
+33 when duly certified and authenticated by the officer having
+34 custody and control of the records.
+35 Sec. 18. Section 321.40, subsections 4, 6, 7, and 8, Code
+LSB 5412XD (5) 91
+-8- th/ns 8/25
+
+S.F. _____ H.F. _____
+1 2026, are amended to read as follows:
+2 4. The county treasurer shall refuse to renew the
+3 registration of a vehicle registered to a person when notified
+4 by the department through the distributed teleprocessing
+5 network records system that the person has not paid restitution
+6 as defined under section 910.1, subsection 10, to a clerk
+7 of the court located within the state. Each clerk of court
+8 shall, on a daily basis, notify the department through the Iowa
+9 court information system of the full name and social security
+10 number of all persons who owe delinquent restitution and whose
+11 restitution obligation has been satisfied or canceled. This
+12 subsection does not apply to the transfer of a registration or
+13 the issuance of a new registration.
+14 6. a. The department or the county treasurer shall refuse
+15 to renew the registration of a vehicle registered to the
+16 applicant if the department or the county treasurer knows that
+17 the applicant has a delinquent account, charge, fee, loan,
+18 taxes, or other indebtedness owed to or being collected by the
+19 state, from information provided pursuant to sections 421.17
+20 and 421.65. An applicant may contest this action by initiating
+21 a contested case proceeding with the agency that referred the
+22 debt for collection pursuant to section 421.65. The department
+23 of revenue and the department of transportation shall notify
+24 the county treasurers through the distributed teleprocessing
+25 network records system of persons who owe such a delinquent
+26 account, charge, fee, loan, taxes, or other indebtedness.
+27 b. A county treasurer, in cooperation with the department
+28 of revenue, may collect from a person applying for renewal of
+29 a vehicle registration delinquent taxes, including penalties
+30 and interest owed to the state, and nontax liabilities being
+31 collected by the central collection unit of the department
+32 of revenue pursuant to section 421.17, subsection 27. The
+33 applicant may remit full payment of the balance owed including
+34 applicable penalties and interest, along with a processing
+35 fee of five dollars, to the county treasurer at the time of
+LSB 5412XD (5) 91
+-9- th/ns 9/25
+
+S.F. _____ H.F. _____
+1 registration renewal. Upon full payment of the required
+2 balance owed including applicable penalties and interest, the
+3 processing fee, and the vehicle registration fee, the county
+4 treasurer shall issue the registration to the person. A county
+5 treasurer collecting on behalf of the department of revenue
+6 shall update the vehicle registration records through the
+7 distributed teleprocessing network records system on a daily
+8 basis for all persons who have paid taxes or other balances
+9 owed pursuant to this subsection. A county treasurer shall
+10 forward all funds collected for the department of revenue to
+11 the department of revenue.
+12 7. a. The department or the county treasurer shall
+13 refuse to renew the registration of a vehicle registered
+14 to an applicant if the department or the county treasurer
+15 knows that the applicant has not paid a civil penalty imposed
+16 on the applicant pursuant to section 321N.3, subsection
+17 3. An applicant may contest this action by initiating a
+18 contested case proceeding with the department. The department
+19 shall notify the county treasurers through the distributed
+20 teleprocessing network records system of persons who have not
+21 paid such civil penalties.
+22 b. The county treasurer of the county of an applicant’s
+23 residence and in which the applicant’s vehicle is registered,
+24 in cooperation with the department, may collect a civil
+25 penalty imposed on the applicant pursuant to section 321N.3,
+26 subsection 3, when the applicant applies for renewal of a
+27 vehicle registration. The applicant may remit full payment of
+28 the civil penalty, along with a processing fee of five dollars,
+29 to the county treasurer at the time of registration renewal.
+30 Upon full payment of the civil penalty, the processing fee,
+31 and the vehicle registration fee, the county treasurer shall
+32 issue the registration to the applicant. A county treasurer
+33 collecting a civil penalty on behalf of the department pursuant
+34 to this subsection shall update the vehicle registration
+35 records through the distributed teleprocessing network records
+LSB 5412XD (5) 91
+-10- th/ns 10/25
+
+S.F. _____ H.F. _____
+1 system on a daily basis for all applicants who have paid civil
+2 penalties pursuant to this subsection. A county treasurer
+3 shall forward all funds collected on behalf of the department
+4 to the department.
+5 8. The county treasurer shall refuse to renew the
+6 registration of a vehicle registered to an applicant if the
+7 county treasurer knows that the applicant has one or more
+8 uncontested, delinquent parking tickets issued pursuant
+9 to section 321.236, subsection 1, paragraph “b”, owing to
+10 the county, or owing to a city with which the county has
+11 an agreement authorized under section 331.553. However, a
+12 county treasurer may renew the registration if the treasurer
+13 determines that an error was made by the county or city in
+14 identifying the vehicle involved in the parking violation or
+15 if the citation has been dismissed as against the owner of the
+16 vehicle pursuant to section 321.484. This subsection does
+17 not apply to the transfer of a registration or the issuance
+18 of a new registration. Notwithstanding section 28E.10, a
+19 county treasurer may shall utilize the department’s vehicle
+20 registration and titling records system to facilitate the
+21 purposes of this subsection.
+22 Sec. 19. Section 321.46, subsections 2 and 5, Code 2026, are
+23 amended to read as follows:
+24 2. Upon filing the application for a new initial
+25 registration and a new title, the applicant shall pay a title
+26 fee of thirty dollars, an annual registration fee prorated
+27 for the remaining unexpired months of the registration year,
+28 and a fee for new registration if applicable. A manufacturer
+29 applying for a certificate of title pursuant to section
+30 322G.12 shall pay a title fee of twenty dollars. However, a
+31 title fee shall not be charged to a manufactured or mobile
+32 home retailer applying for a certificate of title for a used
+33 mobile home or manufactured home, titled in Iowa, as required
+34 under section 321.45, subsection 4. The county treasurer, if
+35 satisfied of the genuineness and regularity of the application,
+LSB 5412XD (5) 91
+-11- th/ns 11/25
+
+S.F. _____ H.F. _____
+1 and in the case of a mobile home or manufactured home, that
+2 taxes are not owing under chapter 435, and that applicant has
+3 complied with all the requirements of this chapter, shall issue
+4 a new certificate of title and, except for a mobile home,
+5 manufactured home, or a vehicle returned to and accepted by a
+6 manufacturer as described in section 322G.12, a registration
+7 card to the purchaser or transferee, shall cancel the prior
+8 registration for the vehicle, and shall forward the necessary
+9 copies to the department use the records system to update the
+10 necessary information on the date of issuance, as prescribed
+11 in section 321.24. Mobile homes or manufactured homes titled
+12 under chapter 448 that have been subject under section 446.18
+13 to a public bidder sale in a county shall be titled in the
+14 county’s name, with no fee, and the county treasurer shall
+15 issue the title.
+16 5. The seller or transferor may file an affidavit on forms
+17 prescribed and provided by the department with any county
+18 treasurer certifying the sale or transfer of ownership of the
+19 vehicle and the assignment and delivery of the certificate of
+20 title for the vehicle. Upon receipt of the affidavit, the
+21 county treasurer shall file the affidavit with the copy of the
+22 registration receipt for the vehicle on file in the treasurer’s
+23 office and on that day the treasurer shall note receipt of
+24 the affidavit in the vehicle registration and titling records
+25 system. Upon filing the affidavit, it shall be presumed
+26 that the seller or transferor has assigned and delivered the
+27 certificate of title for the vehicle. For a leased vehicle,
+28 the lessor licensed pursuant to chapter 321F or the lessee may
+29 file an affidavit as provided in this subsection certifying
+30 that the lease has expired or been terminated and the date that
+31 the leased vehicle was surrendered to the lessor.
+32 Sec. 20. Section 321.47, subsection 2, paragraph a, Code
+33 2026, is amended to read as follows:
+34 a. The persons entitled under the laws of descent and
+35 distribution to the possession and ownership of a vehicle
+LSB 5412XD (5) 91
+-12- th/ns 12/25
+
+S.F. _____ H.F. _____
+1 owned in whole or in part by a decedent who died intestate,
+2 upon filing an affidavit stating the name and date of death
+3 of the decedent, the right to possession and ownership of
+4 the persons filing the affidavit, and that there has been no
+5 administration of the decedent’s estate, which instrument must
+6 also contain an agreement by the affiant to indemnify creditors
+7 of the decedent who would be entitled to levy execution upon
+8 the motor vehicle to the extent of the value of the motor
+9 vehicle, shall, upon complying with the other title transfer
+10 requirements of this chapter, be issued a registration card
+11 for the decedent’s interest in the vehicle and a certificate
+12 of title to the vehicle. If a decedent died testate, and
+13 either the will is not probated or is admitted to probate
+14 without administration, the persons entitled to the possession
+15 and ownership of a vehicle owned in whole or in part by the
+16 decedent may file an affidavit and, upon complying with the
+17 other title transfer requirements of this chapter, shall be
+18 issued a registration card for the decedent’s interest in
+19 the vehicle and a certificate of title to the vehicle. The
+20 affidavit must contain the same information and indemnity
+21 agreement as is required in cases of intestacy under this
+22 subsection. For a death occurring before January 1, 2025, a
+23 requirement of chapter 450 shall not be considered satisfied by
+24 the filing of the affidavit provided for in this subsection.
+25 If, from upon review of the records in the office of the county
+26 treasurer system, there appear to be any liens on the vehicle,
+27 the certificate of title must contain a statement of the liens
+28 unless the application is accompanied by proper evidence of
+29 the satisfaction or extinction of such liens. Evidence of
+30 extinction includes but is not limited to an affidavit of the
+31 applicant stating that a security interest was foreclosed as
+32 provided in chapter 554, article 9, part 6. The department
+33 shall waive the certificate of title fee and surcharge required
+34 under sections 321.20, 321.20A, 321.23, 321.46, 321.52, and
+35 321.52A if the person entitled to possession and ownership of
+LSB 5412XD (5) 91
+-13- th/ns 13/25
+
+S.F. _____ H.F. _____
+1 a vehicle, as provided in this subsection, is the surviving
+2 spouse of a decedent.
+3 Sec. 21. Section 321.50, subsections 3, 5, and 6, Code 2026,
+4 are amended to read as follows:
+5 3. Upon receipt of the application, the certificate of
+6 title, if any, and the required fee, the county treasurer shall
+7 note the security interest and the date of perfection of the
+8 security interest on the certificate of title. The county
+9 treasurer shall also note the security interest and the date
+10 of perfection of the security interest in the county records
+11 system. Upon receipt of a certificate of title issued by a
+12 foreign jurisdiction, on which a security interest has been
+13 noted, the county treasurer shall note the security interest
+14 and the date the security interest was noted on the foreign
+15 certificate of title, if available, or if not, the date of
+16 issuance of the foreign certificate of title, on the face of
+17 the new certificate of title. The county treasurer shall also
+18 note the security interest and the date that was noted on the
+19 certificate of title in the county records system. The county
+20 treasurer shall then deliver the certificate of title to the
+21 first secured party as shown thereon.
+22 5. a. Except as provided in section 321.48, subsection
+23 1, paragraph “b”, when a security interest is discharged, the
+24 holder shall note a cancellation of the security interest
+25 on the face of the certificate of title over the holder’s
+26 signature or may note the cancellation of the security interest
+27 on a separate, notarized release form or letter. The holder
+28 shall deliver the certificate of title and the form or letter,
+29 if applicable, to any county treasurer. In the case of a
+30 security interest that has been delivered by electronic means,
+31 the holder shall notify the department or the county treasurer,
+32 in a manner prescribed by the department, of the release of
+33 the security interest. The county treasurer shall immediately
+34 note the cancellation of the security interest on the face of
+35 the certificate of title, if applicable, and in the county
+LSB 5412XD (5) 91
+-14- th/ns 14/25
+
+S.F. _____ H.F. _____
+1 records system. The county treasurer shall on the same day
+2 deliver the certificate of title, if applicable, and the
+3 separate, notarized release form or letter, if applicable,
+4 to the then first secured party or, if there is no such
+5 person, to the person as directed by the owner, in writing,
+6 on a form prescribed by the department or, if there is no
+7 person designated, then to the owner. The cancellation of
+8 the security interest shall be noted on the certificate of
+9 title by the county treasurer without charge. The holder of a
+10 security interest discharged by payment who fails to release
+11 the security interest within fifteen days after being requested
+12 in writing to do so shall forfeit to the person making the
+13 payment the sum of twenty-five dollars.
+14 b. If a lien has been released by the lienholder but has
+15 not been sent to the county of record for clearance of the
+16 lien, any county may note the release on the face of the title
+17 and shall notify the county of record that the lien has been
+18 released as of the specified date and make entry upon the
+19 computer records system. Notification to the county of record
+20 shall be made by an automated statewide in the records system
+21 or by sending a photocopy of the released title to the county
+22 of record.
+23 c. When a security interest is discharged, the lienholder
+24 shall note the cancellation of the security interest on
+25 the face of the title and, if applicable, may note the
+26 cancellation of the security interest on a form prescribed
+27 by the department and deliver a copy of the form in lieu of
+28 the title to the department or to any county treasurer. The
+29 form may be delivered by electronic means. The department or
+30 county treasurer, as applicable, shall note the release of the
+31 security interest upon in the statewide computer records system
+32 and the county’s records. A copy of the form, if used, shall be
+33 attached to the title by the lienholder, if the title is held
+34 by the lienholder, and shall be evidence of the release of the
+35 security interest. If the title is held by the lienholder, the
+LSB 5412XD (5) 91
+-15- th/ns 15/25
+
+S.F. _____ H.F. _____
+1 lienholder shall deliver the title to the first lienholder,
+2 or if there is no such person, to the person as designated by
+3 the owner, or if there is no such person designated, to the
+4 owner. If a certificate of title has not been issued, upon
+5 release of a security interest, the lienholder shall notify the
+6 department or the county treasurer, in a manner prescribed by
+7 the department, of the release of the security interest.
+8 d. For purposes of this subsection, a security interest
+9 noted on an Iowa certificate of title and appearing in the
+10 statewide computer records system and the county’s records
+11 shall be presumed to be discharged upon presentation of a
+12 valid certificate of title subsequently issued by a foreign
+13 jurisdiction on which the security interest is no longer noted.
+14 6. Notwithstanding subsection 5, when an application for
+15 registration and issuance of a certificate of title is made
+16 by the means described in section 321.20, subsection 2, and
+17 the application includes a certificate of title upon which a
+18 security interest has been discharged by the secured party
+19 and the cancellation of the security interest is noted by the
+20 secured party on the certificate of title above the secured
+21 party’s signature, the county treasurer shall not require any
+22 other notation of the cancellation of the security interest on
+23 the face of the certificate of title, and the county treasurer
+24 shall update such release on the applicable program or computer
+25 records system. A dealer licensed under chapter 322 or chapter
+26 322C is authorized to sell such a vehicle pursuant to section
+27 321.48, subsection 1, paragraph “b”.
+28 Sec. 22. Section 321.153, subsection 2, Code 2026, is
+29 amended to read as follows:
+30 2. The distributed teleprocessing network records system
+31 shall be used in the collection, receipting, accounting, and
+32 reporting of any fee collected through the registration renewal
+33 or title process, with sufficient time and financial resources
+34 provided for implementation.
+35 Sec. 23. Section 321.198, subsection 3, Code 2026, is
+LSB 5412XD (5) 91
+-16- th/ns 16/25
+
+S.F. _____ H.F. _____
+1 amended to read as follows:
+2 3. A person whose period of validity of the person’s
+3 driver’s license is extended under this section may file an
+4 application in accordance with rules adopted by the department
+5 to have the person’s record of issuance of a driver’s license
+6 retained in the department’s record records system during the
+7 period for which the driver’s license remains valid. If a
+8 person has had the record of issuance of the person’s driver’s
+9 license removed from the department’s records system, the
+10 person shall have the person’s record of driver’s license
+11 issuance reentered by the department upon request if the
+12 request is accompanied by a letter from the applicable person’s
+13 commanding officer verifying the military service.
+14 Sec. 24. Section 331.553, subsection 8, Code 2026, is
+15 amended to read as follows:
+16 8. Pursuant to an agreement under chapter 28E, collect
+17 delinquent parking fines on behalf of a city in conjunction
+18 with renewal of motor vehicle registrations pursuant to section
+19 321.40. If the agreement provides for a fee to be paid to or
+20 retained by the county treasurer from the collection of parking
+21 fines, such fees shall be credited to the county general fund.
+22 Fines collected pursuant to this subsection shall be remitted
+23 biannually to the city. Notwithstanding section 28E.10, a
+24 county treasurer may shall utilize the state department of
+25 transportation’s vehicle registration and titling records
+26 system described in section 321.31 to facilitate the purposes
+27 of this subsection.
+28 Sec. 25. TRANSITION. County treasurers shall continue
+29 to perform all duties related to the county records system
+30 described in section 321.31, subsection 2, Code 2026, and shall
+31 retain and maintain the records contained in the county records
+32 system prior to the applicability of this division of this Act.
+33 Sec. 26. APPLICABILITY. This division of this Act applies
+34 on and after December 1, 2028, or the date the department of
+35 transportation submits to the Iowa administrative code editor
+LSB 5412XD (5) 91
+-17- th/ns 17/25
+
+S.F. _____ H.F. _____
+1 for publication in the Iowa administrative bulletin a statement
+2 by the director of transportation that the applicable phase
+3 of the department of transportation’s new records system is
+4 implemented, whichever is earlier. The department shall also
+5 forward a copy of the statement to the Iowa Code editor.
+6 DIVISION V
+7 ELECTRONIC COMMUNICATIONS
+8 Sec. 27. Section 321.11, subsections 2 and 4, Code 2026, are
+9 amended to read as follows:
+10 2. Notwithstanding subsection 1, personal information
+11 shall not be disclosed to a requester, except as provided in
+12 18 U.S.C. §2721, unless the person whose personal information
+13 is requested has provided express written consent allowing
+14 disclosure of the person’s personal information. As used in
+15 this section, “personal information” means information that
+16 identifies a person, including a person’s photograph, social
+17 security number, driver’s license number, name, address,
+18 telephone number, electronic mail address, and medical or
+19 disability information, but does not include information on
+20 vehicular accidents, driving violations, and driver’s status
+21 or a person’s zip code.
+22 4. The department shall not release personal information
+23 that is in the form of a person’s photograph or digital image
+24 or a digital reproduction of a person’s photograph, or the
+25 person’s telephone number or electronic mail address, to a
+26 person other than an officer or employee of a law enforcement
+27 agency, an employee of a federal or state agency or political
+28 subdivision in the performance of the employee’s official
+29 duties, a contract employee of the department of inspections,
+30 appeals, and licensing in the conduct of an investigation, or a
+31 licensed private investigation agency or a licensed security
+32 service or a licensed employee of either, regardless of whether
+33 a person has provided express written consent to disclosure of
+34 the information. The department may collect reasonable fees
+35 for copies of records or other services provided pursuant to
+LSB 5412XD (5) 91
+-18- th/ns 18/25
+
+S.F. _____ H.F. _____
+1 this section or section 22.3, 321.10, or 622.46.
+2 Sec. 28. NEW SECTION. 321.16A Electronic communications.
+3 1. As used in this section:
+4 a. “Document” means information that the department is
+5 required or authorized to provide to a person, and that is
+6 eligible, as determined by the department, to be delivered
+7 by electronic communication. “Document” includes but is
+8 not limited to a notification, reminder, or other piece of
+9 correspondence, other than a notice of a sanction.
+10 b. “Electronic communication” means a document provided
+11 electronically by the department and includes any of the
+12 following:
+13 (1) Sending a document to an electronic mail address or
+14 telephone number at which the recipient has specifically given
+15 consent to receive documents.
+16 (2) Posting a document on an electronic network provided by
+17 the department that is accessible via the internet, a mobile
+18 application, computer, mobile device, tablet, or any other
+19 electronic device, or on the department’s internet site, along
+20 with a separate electronic mail notification of the posting
+21 sent to the address at which the recipient has consented to
+22 receive notification or by any other delivery method to which
+23 the recipient has given consent.
+24 c. “Notice of a sanction” means notice of bar, cancellation,
+25 denial, disqualification, downgrade, revocation, or suspension
+26 delivered by the department under this chapter or chapter 321A,
+27 321E, 321F, 321H, 321J, 321L, 321N, 322, 322A, 322C, 325A, 326,
+28 327B, or 452A.
+29 d. “Recipient” means a person who receives electronic
+30 communication from the department under this chapter or chapter
+31 321A, 321E, 321F, 321H, 321J, 321L, 321N, 322, 322A, 322C,
+32 325A, 326, 327B, or 452A.
+33 2. a. Subject to the requirements and limitations of
+34 this section and except as expressly prohibited by law, the
+35 department may use electronic communication to deliver a
+LSB 5412XD (5) 91
+-19- th/ns 19/25
+
+S.F. _____ H.F. _____
+1 document, other than a notice of a sanction, to a recipient.
+2 The department may also use electronic means to store and
+3 present a document delivered by electronic communication.
+4 b. The department may use electronic communication to
+5 deliver a document to a recipient if all of the following
+6 occur:
+7 (1) The recipient has affirmatively consented to such
+8 method of delivery and has not withdrawn the consent.
+9 (2) The recipient, before giving consent, is provided with
+10 clear and conspicuous information concerning the rights of the
+11 recipient and additional information, in accordance with rules
+12 adopted by the department pursuant to chapter 17A, including
+13 the use and protection of the recipient’s personal information,
+14 as defined in section 321.11.
+15 (3) The recipient consents, or confirms consent, to
+16 receive electronic communication in a manner that reasonably
+17 demonstrates that the recipient can access electronic
+18 communications in the method that the department will use for
+19 electronic communications.
+20 3. The department shall not use electronic communication
+21 to deliver notice of a sanction. Notice of a sanction must be
+22 delivered in accordance with section 321.16. This subsection
+23 does not prohibit the department from using electronic
+24 communication to send a courtesy copy of a notice of a sanction
+25 by electronic means if the recipient has consented to receive
+26 courtesy copies of a notice of a sanction, and if the copy is
+27 available for electronic communication.
+28 4. This section does not affect requirements of content or
+29 timing of any notice or document required under applicable law.
+30 5. a. A withdrawal of consent by a recipient does not
+31 affect the legal effectiveness, validity, or enforceability
+32 of a document delivered by electronic communication to the
+33 recipient prior to the withdrawal of consent.
+34 b. A withdrawal of consent is effective within a reasonable
+35 period of time after the department receives notice of the
+LSB 5412XD (5) 91
+-20- th/ns 20/25
+
+S.F. _____ H.F. _____
+1 withdrawal.
+2 6. This section does not apply to a document electronically
+3 delivered by the department prior to the effective date of this
+4 division of this Act if, before the effective date of this
+5 division of this Act, the recipient received or consented to
+6 receive a document in an electronic form otherwise allowed by
+7 law.
+8 7. The department may deliver a document by any other
+9 delivery method permitted by law other than by electronic
+10 communication if either of the following occurs:
+11 a. The department attempted to use electronic communication
+12 to deliver a document to a recipient and has a reasonable basis
+13 for believing that the document has not been received.
+14 b. The department becomes aware that the electronic mail
+15 address or telephone number provided by the recipient is no
+16 longer valid.
+17 8. The department is authorized to collect telephone
+18 numbers and electronic mail addresses on any department
+19 application. Telephone numbers and electronic mail addresses
+20 collected pursuant to this subsection shall be used and
+21 disclosed only as authorized under this section or section
+22 321.11.
+23 9. The department’s use of a recipient’s telephone number or
+24 electronic mail address for electronic communication shall not
+25 constitute a disclosure under section 321.11.
+26 10. The department shall adopt rules pursuant to chapter 17A
+27 to administer this section.
+28 Sec. 29. APPLICABILITY. This division of this Act applies
+29 on and after December 1, 2028, or the date the department
+30 of transportation submits to the Iowa administrative code
+31 editor for publication in the Iowa administrative bulletin a
+32 statement by the director of transportation that the department
+33 of transportation’s electronic communications system is
+34 implemented, whichever is earlier. The department shall also
+35 forward a copy of the statement to the Iowa Code editor.
+LSB 5412XD (5) 91
+-21- th/ns 21/25
+
+S.F. _____ H.F. _____
+1 EXPLANATION
+2 The inclusion of this explanation does not constitute agreement with
+3 the explanation’s substance by the members of the general assembly.
+4 This bill relates to matters under the purview of the
+5 department of transportation (DOT).
+6 CHAUFFEUR’S INSTRUCTION PERMITS. Under current law, a
+7 chauffeur’s instruction permit is valid for up to two years
+8 for the operation of a motor vehicle, other than a commercial
+9 motor vehicle, as a chauffeur when the permittee is accompanied
+10 by a person who possesses a valid class D driver’s license
+11 (chauffeur’s license) or commercial driver’s license and who
+12 is occupying a seat beside the permittee. Code section 321.1
+13 defines a chauffeur as a person who operates a motor vehicle,
+14 including a school bus, to transport people for pay, with
+15 various exceptions.
+16 The bill eliminates the chauffeur’s instruction permit.
+17 Under current law and the bill, a person may apply for a class
+18 D driver’s license, and neither a knowledge test nor a driving
+19 test is required if the person holds a valid driver’s license.
+20 The person must pass a vision screening and have a clear
+21 driving record for the previous two years.
+22 ELECTRONIC ACCIDENT REPORTS. Under current law, the
+23 driver of a vehicle involved in an accident resulting in
+24 injury to or death of any person, or total property damage to
+25 an apparent extent of $1,500 or more, must within 72 hours
+26 after the accident forward a written report of the accident
+27 to the DOT. However, such report is not required when the
+28 accident is investigated by a law enforcement agency. Every
+29 law enforcement officer who, in the regular course of duty,
+30 investigates a motor vehicle accident of which report must be
+31 made, must forward a written report of such accident to the DOT
+32 within 24 hours after completing such investigation.
+33 The bill requires these written reports, as well as
+34 reports of accidents involving law enforcement officers or
+35 other emergency responders, to be submitted to the DOT in an
+LSB 5412XD (5) 91
+-22- th/ns 22/25
+
+S.F. _____ H.F. _____
+1 electronic format and in a manner approved by the DOT.
+2 ELECTRONIC APPLICATIONS FOR DRIVER’S LICENSES AND
+3 NONOPERATOR’S IDENTIFICATION CARDS. Under current law,
+4 a person may be eligible to renew a driver’s license
+5 electronically pursuant to rules adopted by the DOT. The bill
+6 authorizes a person to renew a nonoperator’s identification
+7 card electronically if the person is eligible pursuant to
+8 rules adopted by the DOT. The bill also authorizes a person
+9 to replace a driver’s license or nonoperator’s identification
+10 card electronically if the person is eligible pursuant to rules
+11 adopted by the DOT. The fee to replace a driver’s license or
+12 nonoperator’s identification card is $10.
+13 The DOT is currently required, pursuant to Code section
+14 321.189(6), to develop educational media to raise awareness
+15 of a person’s eligibility to apply for a replacement driver’s
+16 license or nonoperator’s identification card electronically
+17 upon attaining the age of 21.
+18 This division of the bill applies on and after March 1, 2027,
+19 or the date the DOT submits to the Iowa administrative code
+20 editor for publication in the Iowa administrative bulletin a
+21 statement by the director of transportation that the applicable
+22 phase of the DOT’s new records system is implemented, whichever
+23 is earlier. The DOT is also required to forward a copy of the
+24 statement to the Iowa Code editor.
+25 RECORDS SYSTEM. Pursuant to current law, the DOT maintains a
+26 motor vehicle records system which is used for various purposes
+27 relating to the administration of Code chapter 321 by the DOT.
+28 In addition, each county treasurer must maintain a county
+29 records system for vehicle registration and certificate of
+30 title documents. The county records system is required to be
+31 maintained in a manner approved by the DOT. The bill strikes
+32 the requirement for county treasurers to maintain a county
+33 records system, and instead requires the DOT to maintain a
+34 records system that both the DOT and county treasurers must use
+35 for vehicle-related recordkeeping. The bill harmonizes various
+LSB 5412XD (5) 91
+-23- th/ns 23/25
+
+S.F. _____ H.F. _____
+1 references in Code chapters 321 (motor vehicles and law of the
+2 road) and 331 (county home rule implementation) to the records
+3 system.
+4 County treasurers are required to continue to perform
+5 all duties related to the county records system prior to the
+6 applicability of this division of the bill.
+7 This division of the bill applies on and after December 1,
+8 2028, or the date the DOT submits to the Iowa administrative
+9 code editor for publication in the Iowa administrative
+10 bulletin a statement by the director of transportation that
+11 the applicable phase of the DOT’s new records system is
+12 implemented, whichever is earlier. The DOT is also required to
+13 forward a copy of the statement to the Iowa Code editor.
+14 ELECTRONIC COMMUNICATIONS. The bill adds a person’s
+15 electronic mail address to the definition of “personal
+16 information” for purposes of DOT records, and prohibits the DOT
+17 from disclosing a person’s electronic mail address or telephone
+18 number, other than to specified parties, regardless of the
+19 person’s consent to the disclosure.
+20 The bill authorizes the DOT to communicate using electronic
+21 methods to provide documents including notifications,
+22 reminders, and other pieces of correspondence, other than a
+23 notice of a sanction, to persons who consent to the electronic
+24 communication. In accordance with current law, unless a
+25 different method of giving notice is expressly prescribed, the
+26 DOT must give notice, including notice of a sanction under the
+27 bill, by personal delivery to the person, by personal service
+28 in the manner of original notice by rule of civil procedure,
+29 or by first class mail addressed to the person at the address
+30 shown in the DOT’s records.
+31 This division of the bill applies on and after December 1,
+32 2028, or the date the DOT submits to the Iowa administrative
+33 code editor for publication in the Iowa administrative bulletin
+34 a statement by the director of transportation that the DOT’s
+35 new electronic communications system is implemented, whichever
+LSB 5412XD (5) 91
+-24- th/ns 24/25
+
+S.F. _____ H.F. _____
+1 is earlier. The DOT is also required to forward a copy of the
+2 statement to the Iowa Code editor.
+LSB 5412XD (5) 91
+-25- th/ns 25/25

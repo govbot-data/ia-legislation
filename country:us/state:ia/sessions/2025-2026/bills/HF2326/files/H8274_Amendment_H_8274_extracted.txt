@@ -1,0 +1,66 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8274
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2326
+H-8274
+1 Amend House File 2326 as follows:
+2 1. Page 1, after line 19 by inserting:
+3 <Sec. ___. Section 533A.8, Code 2026, is amended by adding
+4 the following new subsection:
+5 NEW SUBSECTION. 10A. If a debtor who has contracted with
+6 a licensee to settle a debt has executed a debt settlement
+7 agreement with a creditor to settle such debt and has made at
+8 least one payment pursuant to that agreement, and the debtor
+9 subsequently fails to complete the payment terms required under
+10 that debt settlement agreement, the licensee shall attempt to
+11 renegotiate, resolve, reduce, or otherwise alter the terms of
+12 the debt with the creditor and shall not request or receive
+13 an additional fee from the debtor for any additional debt
+14 management service provided by the licensee for that debt.
+15 This subsection does not prohibit a licensee from requesting
+16 or receiving payment of any outstanding balance of the fee
+17 required by the contract between the licensee and debtor for
+18 that debt.>
+19 2. Page 2, by striking line 9 and inserting <amount, not
+20 to exceed thirty percent of the total amount of debt enrolled
+21 by the debtor at the time of enrollment in the debt management
+22 program. The individual debt amount and the entire debt
+23 amount>
+24 3. Page 2, by striking lines 13 and 14 and inserting:
+25 <Sec. ___. Section 533A.9, subsection 5, Code 2026, is
+26 amended by striking the subsection and inserting in lieu
+27 thereof the following:
+28 5. a. Notwithstanding any provision of this section to
+29 the contrary, the total aggregate fee or consideration charged
+30 by a licensee for all debt management services provided by the
+31 licensee to a debtor shall not exceed thirty percent of the
+32 total amount of debt enrolled by the debtor at the time of
+33 enrollment in the debt management program.
+34 b. A licensee may assess and collect the fee for debt
+35 management services on a per-debt basis as a debt is
+HF 2326.3695 (2) 91
+-1- nls/ko 1/2
+
+1 renegotiated, settled, reduced, or otherwise altered in a
+2 manner consistent with this section and applicable federal
+3 law.>
+4 4. Page 2, before line 15 by inserting:
+5 <Sec. ___. Section 533A.9, Code 2026, is amended by adding
+6 the following new subsection:
+7 NEW SUBSECTION. 6. If a debt settlement agreement between a
+8 debtor and a creditor to settle a debt provides for the debtor
+9 to make more than one payment to the creditor, the licensee
+10 shall request or receive payment from the debtor of any fee for
+11 debt management services provided with respect to that debt
+12 incrementally over not less than one quarter of the length of
+13 the debtor’s period of repayment to such creditor.>
+14 5. By renumbering as necessary.
+______________________________
+LAWLER of Johnson
+HF 2326.3695 (2) 91
+-2- nls/ko 2/2

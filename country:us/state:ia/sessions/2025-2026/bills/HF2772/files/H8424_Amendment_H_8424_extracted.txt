@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8424
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2772
+H-8424
+1 Amend House File 2772 as follows:
+2 1. Page 19, after line 15 by inserting:
+3 <DIVISION ___
+4 COMMUNITY-BASED WAGE ENFORCEMENT PROGRAM
+5 Sec. ___. Section 91A.2, Code 2026, is amended by adding the
+6 following new subsection:
+7 NEW SUBSECTION. 01. “Community-based organization” means a
+8 legal aid or community-based nonprofit organization that has
+9 a minimum of five years’ experience working with employees
+10 or advocating on behalf of employees as well as a successful
+11 record of facilitating successful complaints that have been
+12 filed by employees with the director under section 91A.10.
+13 Sec. ___. NEW SECTION. 91A.16 Community-based wage
+14 enforcement program.
+15 1. The director shall establish a community-based wage
+16 enforcement program. The director shall enter into contracts
+17 with participating community-based organizations to provide
+18 funds and other resources to facilitate effective, cooperative
+19 community-based enforcement of this chapter and chapter
+20 91D. Funds and other resources shall be used to increase
+21 the capacity and expertise of community-based organizations
+22 in order to improve the education of employees regarding the
+23 rights and remedies provided by this chapter and chapter 91D
+24 and to secure successful resolution of complaints filed with
+25 the director under section 91A.10. All education and services
+26 under this section shall be provided at no cost to employees
+27 and accessible to any employee in this state.
+28 2. The program shall provide for but is not limited to all
+29 of the following services by community-based organizations:
+30 a. Education for employees regarding the rights provided by
+31 this chapter and chapter 91D, which may be conducted jointly
+32 with staff of the department of inspections, appeals, and
+33 licensing and other relevant agencies and organizations.
+34 b. Direct assistance by a worker advocate to assist
+35 employees who seek to file a complaint under section 91A.10.
+HF 2772.4304 (1) 91
+-1- nls/ko 1/2
+
+1 c. Legal assistance to employees who seek to file a
+2 complaint under section 91A.10.
+3 d. Additional assistance for employees who are members
+4 of marginalized communities or who are not native English
+5 speakers.
+6 e. Assistance to the director in monitoring for compliance
+7 with and conducting investigations under this chapter and
+8 chapter 91D.>
+9 2. Title page, by striking lines 5 and 6 and inserting
+10 <certain regents institutions; codifying the housing renewal
+11 program; and establishing a community-based wage enforcement
+12 program.>
+13 3. By renumbering as necessary.
+______________________________
+GOSA of Scott
+HF 2772.4304 (1) 91
+-2- nls/ko 2/2

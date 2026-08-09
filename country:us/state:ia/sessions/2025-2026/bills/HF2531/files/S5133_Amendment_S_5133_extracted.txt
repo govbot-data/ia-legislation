@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5133
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2531
+S-5133
+1 Amend House File 2531, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, line 10, after <resources.> by inserting
+4 <“Minerals” does not mean minerals as defined in section 208.2.>
+5 2. Page 1, line 34, after <resources.> by inserting
+6 <“Minerals” does not mean minerals as defined in section 208.2.>
+7 3. Page 4, line 33, after <resources.> by inserting
+8 <“Severed mineral interest” does not include an interest in any
+9 resource listed in the definition of “mineral” under section
+10 208.2.>
+______________________________
+COMMITTEE ON LOCAL GOVERNMENT
+SCOTT WEBSTER, CHAIRPERSON
+HF 2531.3263 (4) 91
+-1- ms/js 1/1

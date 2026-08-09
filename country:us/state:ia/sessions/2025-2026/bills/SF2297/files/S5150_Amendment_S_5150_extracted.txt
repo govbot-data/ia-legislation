@@ -1,0 +1,68 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5150
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2297
+S-5150
+1 Amend Senate File 2297 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 97B.17, Code 2026, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 6. The system may release the legal name
+7 and city of last known address of a member or beneficiary to
+8 the treasurer of state for purposes of assisting the system in
+9 locating the member or beneficiary.
+10 Sec. 2. Section 97B.18, Code 2026, is amended to read as
+11 follows:
+12 97B.18 Statement of accumulated credit.
+13 After the expiration of each calendar year and prior to July
+14 1 of the succeeding year, the system shall furnish each member
+15 with a statement of the member’s accumulated contributions and
+16 benefit credits accrued under this chapter up to the end of
+17 that calendar year over the prior four quarters and additional
+18 information the system deems useful to a member. The system
+19 may furnish an estimate of the credits as of the projected
+20 normal retirement date of the member under section 97B.45. The
+21 records of the system as shown by the statement as to the wages
+22 of each individual member for a year and the periods of payment
+23 shall be conclusive for the purpose of this chapter, except as
+24 otherwise provided in this chapter.
+25 Sec. 3. Section 97B.48, subsection 6, Code 2026, is amended
+26 to read as follows:
+27 6. Effective July 1, 2005, monthly Monthly retirement
+28 allowance payments shall be directly deposited without charge
+29 to a retired member’s account via electronic funds transfer.
+30 A In lieu of electronic funds transfers, a retired member
+31 may elect to receive monthly allowance payments in the form
+32 of a reloadable payment card for which the system shall not
+33 charge an administrative fee, or as paper warrants in lieu
+34 of electronic funds transfers, but for which the system
+35 shall charge an administrative fee for processing such paper
+SF 2297.3273 (1) 91
+(amending this SF 2297 to CONFORM to HF 2345)
+-1- sc/ns 1/2
+
+1 warrants. However, the system may, for good cause shown, waive
+2 the administrative fee. The fee may be automatically deducted
+3 from the monthly retirement allowance before the warrant is
+4 issued to the retired member.
+5 Sec. 4. Section 411.5, subsection 6, Code 2026, is amended
+6 by adding the following new paragraph:
+7 NEW PARAGRAPH. d. The system may release the legal name
+8 and city of last known address of a member or beneficiary to
+9 the treasurer of state for purposes of assisting the system in
+10 locating the member or beneficiary.
+11 Sec. 5. EFFECTIVE DATE. This Act, being deemed of immediate
+12 importance, takes effect upon enactment.>
+13 2. Title page, line 2, after <system> by inserting <and the
+14 municipal fire and police retirement system>
+______________________________
+CHERIELYNN WESTRICH
+SF 2297.3273 (1) 91
+(amending this SF 2297 to CONFORM to HF 2345)
+-2- sc/ns 2/2

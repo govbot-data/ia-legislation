@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5028
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 990
+S-5028
+1 Amend House File 990, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, before line 1 by inserting:
+4 <Section 1. Section 124E.4, subsection 1, paragraph b, Code
+5 2026, is amended by striking the paragraph.
+6 Sec. ___. Section 124E.4, subsection 1, paragraph d,
+7 subparagraph (1), Code 2026, is amended to read as follows:
+8 (1) The patient’s full name, Iowa residence address, date
+9 of birth, and telephone number.
+10 Sec. ___. Section 124E.4, subsection 2, paragraph a, Code
+11 2026, is amended to read as follows:
+12 a. The patient’s full name, Iowa residence address, and date
+13 of birth.>
+14 2. Page 1, line 2, by striking <2025> and inserting <2026>
+15 3. Page 1, line 11, by striking <2025> and inserting <2026>
+16 4. Title page, line 1, before <licensure> by inserting
+17 <issuance of medical cannabidiol registration cards and>
+18 5. By renumbering as necessary.
+______________________________
+SCOTT WEBSTER
+HF 990.2389 (2) 91
+-1- ss/ko 1/1

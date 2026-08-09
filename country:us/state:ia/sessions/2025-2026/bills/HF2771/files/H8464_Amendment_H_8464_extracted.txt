@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8464
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2771
+H-8464
+1 Amend the amendment, H-8404, to House File 2771, as follows:
+2 1. Page 13, line 35, after <1.> by inserting <a.>
+3 2. Page 14, lines 6 and 7, by striking <designated, in the
+4 following order of priority> and inserting <designated>
+5 3. Page 14, by striking lines 8 through 11.
+6 4. Page 14, line 12, by striking < b. (1)>
+7 5. Page 14, line 16, by striking <(2)> and inserting <b.>
+8 6. Page 14, line 16, by striking <paragraph> and inserting
+9 <subsection>
+10 7. Page 14, after line 28 by inserting:
+11 <Sec. ___. Section 455E.11, Code 2026, is amended by adding
+12 the following new subsection:
+13 NEW SUBSECTION. 3. There is appropriated from the
+14 groundwater protection fund to the state university of Iowa for
+15 the fiscal year beginning July 1, 2026, and for each fiscal
+16 year thereafter, six hundred thousand dollars to support the
+17 Iowa water quality information system as administered by the
+18 IIHR —— hydroscience and engineering within the college of
+19 engineering of the state university of Iowa.>
+20 8. By renumbering as necessary.
+______________________________
+LEVIN of Johnson
+H 8404.4244 (2) 91
+-1- sb/js 1/1

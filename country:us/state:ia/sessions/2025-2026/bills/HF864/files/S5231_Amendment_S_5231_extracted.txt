@@ -1,0 +1,166 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5231
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 864
+S-5231
+1 Amend House File 864, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 554J.1 Definitions.
+5 For purposes of this chapter:
+6 1. “Application” means a software application or electronic
+7 service that a user may run or direct on a mobile device.
+8 2. “Commercial entity” means a legally recognized business
+9 entity.
+10 3. “Digital identification” means information stored on a
+11 digital network that may be accessed by a commercial entity and
+12 that serves as proof of the identity of an individual.
+13 4. “Interactive computer service” means the same as defined
+14 in 47 U.S.C. §230.
+15 5. “Minor” means an individual under eighteen years of age.
+16 6. “Mobile device” means a device described by all of the
+17 following:
+18 a. The device is small enough to be held and operated in
+19 hand.
+20 b. The device provides a cellular or wireless connection to
+21 the internet.
+22 c. The device has the ability to run an application.
+23 7. “News-gathering organization” means any of the following:
+24 a. An employee of a newspaper, news publication, or other
+25 commercial entity with the primary purpose of serving as a
+26 source of current news and public interest stories, who is
+27 acting within the course and scope of that employment and can
+28 provide documentation of that employment.
+29 b. An employee of a radio broadcast station, television
+30 broadcast station, cable television operator, or wire service
+31 who is acting within the course and scope of that employment
+32 and can provide documentation of that employment.
+33 8. “Pornographic for minors” means material or a performance
+34 described by all of the following:
+35 a. The average person, applying contemporary community
+HF 864.4340 (1) 91
+-1- dg/jh 1/5
+
+1 standards, would find that the material or performance, taken
+2 as a whole, has a tendency to cater or appeal to a prurient
+3 interest of minors.
+4 b. The material or performance depicts nudity, sexual
+5 conduct, the condition of human genitals when in a state of
+6 sexual stimulation or arousal, or sadomasochistic abuse in a
+7 way which is patently offensive to the average person applying
+8 contemporary adult community standards with respect to what is
+9 suitable for minors.
+10 c. The material or performance, taken as a whole, lacks
+11 serious literary, artistic, political, or scientific value for
+12 minors.
+13 9. “Provider” means all of the following:
+14 a. An internet service provider.
+15 b. A cloud service provider.
+16 c. A wireless service provider.
+17 d. An internet search engine.
+18 e. An information service as defined in 47 U.S.C. §153.
+19 f. A telecommunications service as defined in 47 U.S.C.
+20 §153.
+21 g. A cable service as defined in 47 U.S.C. §522.
+22 h. An affiliate or a subsidiary of an entity listed in
+23 paragraphs “a” through “g”.
+24 10. “Substantial portion” means thirty-three percent or more
+25 of the total amount of data publicly available on an internet
+26 site or application.
+27 11. “Transactional data” means a sequence of information
+28 that documents an exchange, agreement, or transfer between an
+29 individual, commercial entity, or third party.
+30 Sec. 2. NEW SECTION. 554J.2 Age verification.
+31 1. A person shall not operate an internet site, an
+32 application, or a segment of an internet site or application,
+33 including on a social media platform, that contains a
+34 substantial portion of content pornographic for minors unless
+35 the person uses reasonable age verification to prevent minors
+HF 864.4340 (1) 91
+-2- dg/jh 2/5
+
+1 from accessing such content.
+2 2. Reasonable age verification shall include any of the
+3 following:
+4 a. Requiring an individual to provide digital
+5 identification.
+6 b. A method that is commercially reasonable given a person’s
+7 scope of business and that relies on transactional data to
+8 verify an individual’s age.
+9 c. A method approved by the attorney general by rule.
+10 3. A person that performs reasonable age verification under
+11 this section, including a third party that contracts with a
+12 person to perform reasonable age verification for the person,
+13 shall not retain, sell, lease, or otherwise disseminate any
+14 identifying information of an individual subject to reasonable
+15 age verification unless retention or dissemination of the
+16 identifying information is required by law or a court order.
+17 4. A person that performs reasonable age verification
+18 under this section, including a third party that contracts
+19 with a person to perform reasonable age verification for the
+20 person, shall use reasonable methods given the person’s scope
+21 of business to secure all data collected and transmitted under
+22 this section.
+23 Sec. 3. NEW SECTION. 554J.3 Limitations.
+24 1. This chapter shall not apply to any of the following:
+25 a. A bona fide news or public interest broadcast, news
+26 recording, report, or event.
+27 b. A news-gathering organization.
+28 c. An internet service provider, an internet service
+29 provider’s affiliates and subsidiaries, a search engine,
+30 or a cloud service provider solely for providing access or
+31 connection to an internet site or other information or content
+32 on the internet, in a facility, on a system, or on a network
+33 not under the internet service provider’s, affiliate’s,
+34 subsidiary’s, search engine’s, or cloud service provider’s
+35 control. This subsection shall not apply if the internet
+HF 864.4340 (1) 91
+-3- dg/jh 3/5
+
+1 service provider, affiliate, subsidiary, search engine, or
+2 cloud service provider was responsible for the creation of the
+3 content pornographic for minors.
+4 2. This chapter shall not be construed to impose liability
+5 on a user of an interactive computer service on the internet.
+6 3. This chapter shall not be construed to impose liability
+7 on a provider solely for providing access or connection to
+8 an internet site, system, or network that contains material
+9 pornographic for minors provided that the internet site,
+10 system, or network is not under the provider’s control. For
+11 purposes of this subsection, “access or connection” includes
+12 but is not limited to transmitting, downloading, providing
+13 intermediate storage for, and providing access software for
+14 data.
+15 Sec. 4. NEW SECTION. 554J.4 Enforcement and penalties.
+16 1. The attorney general shall enforce this chapter, seek
+17 injunctions for violations of this chapter, and bring actions
+18 against a person thought to be in violation of this chapter.
+19 2. Each time an individual accesses an internet site
+20 or application not in compliance with this chapter shall
+21 constitute a separate violation.
+22 3. a. A violation of this chapter is punishable by a civil
+23 penalty of up to one thousand dollars per violation. A person
+24 in violation of this chapter shall not accrue civil penalties
+25 of more than ten thousand dollars in a single day.
+26 b. Civil penalties collected under this section shall be
+27 deposited into the general fund of the state.
+28 Sec. 5. NEW SECTION. 554J.5 Rules.
+29 The attorney general shall adopt rules pursuant to chapter
+30 17A to implement and administer this chapter.>
+31 2. Title page, by striking lines 1 through 3 and inserting
+32 <An Act requiring persons who operate certain internet sites,
+33 applications, or a segment of an internet site or application
+34 that contains material pornographic for minors to perform
+35 reasonable age verification.>
+HF 864.4340 (1) 91
+-4- dg/jh 4/5
+
+______________________________
+KEVIN ALONS
+HF 864.4340 (1) 91
+-5- dg/jh 5/5

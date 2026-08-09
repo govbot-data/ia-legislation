@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5118
+Media Type: application/pdf
+
+================================================================================
+
+House File 2583
+S-5118
+1 Amend House File 2583, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 2, line 1, after <owner> by inserting <currently
+4 constructing, operating, or maintaining an electric
+5 transmission line or who has been issued a franchise under
+6 section 478.4>
+7 2. Page 2, line 5, after <commission.> by inserting <An
+8 electric transmission line owner who seeks to construct an
+9 electric transmission line, and who has not previously filed
+10 an emergency response plan with the commission, shall file an
+11 initial emergency response plan with the commission within
+12 ninety days after the filing of a petition under section
+13 478.2.>
+14 3. Page 2, line 15, by striking <projected> and inserting
+15 <projected, after an initial assessment of the nature and scope
+16 of the damage to the transmission line and initial information
+17 from any impacted utility providing electricity to end user
+18 customers,>
+19 4. Page 2, line 16, after <service> by inserting <to end
+20 user customers>
+21 5. Page 2, line 22, by striking <affected> and inserting <of
+22 the affected end user customers and the impacted franchise>
+23 6. Page 3, line 4, by striking <hundred> and inserting
+24 <thousand>
+25 7. Page 3, line 5, by striking <one> and inserting <ten>
+______________________________
+COMMITTEE ON COMMERCE
+MIKE BOUSSELOT, CHAIRPERSON
+HF 2583.3444 (3) 91
+-1- sb/js 1/1

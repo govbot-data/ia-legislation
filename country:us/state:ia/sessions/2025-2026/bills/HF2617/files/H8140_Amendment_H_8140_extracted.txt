@@ -1,0 +1,370 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8140
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2617
+H-8140
+1 Amend House File 2617 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 321.88, Code 2026, is amended to read
+5 as follows:
+6 321.88 Failure of owner to claim.
+7 If the owner does not appear within forty days, the motor
+8 vehicle shall be deemed abandoned and the officer having
+9 possession of the motor vehicle shall proceed as provided in
+10 section 321.89, subsections 3 and 5.
+11 Sec. 2. Section 321.89, Code 2026, is amended by striking
+12 the section and inserting in lieu thereof the following:
+13 321.89 Abandoned vehicles.
+14 1. Authority to tow and impound. An abandoned vehicle may
+15 be towed and impounded as follows:
+16 a. If an abandoned vehicle is located on public property:
+17 (1) Except as provided in subparagraph (2), a police
+18 authority shall tow and impound the vehicle.
+19 (2) Alternatively, a police authority may hire a
+20 garagekeeper to tow and impound the vehicle, and the police
+21 authority shall provide the garagekeeper with the name and
+22 address of the registered owner and, if applicable, any
+23 lienholder and known claimants of the vehicle.
+24 b. If an abandoned vehicle is located on private property:
+25 (1) A police authority may tow and impound the vehicle.
+26 (2) A person who owns the private property or is otherwise
+27 in control of the private property may hire a garagekeeper
+28 to tow and impound the abandoned vehicle without a police
+29 authority’s initiative.
+30 2. Required notice.
+31 a. Within ten days after towing an abandoned vehicle,
+32 the person who impounded the vehicle shall give notice to
+33 the registered owner of the vehicle and, if applicable, any
+34 lienholder and known claimants of the vehicle.
+35 b. Notice must include all of the following:
+HF 2617.3165 (1) 91
+-1- th/ns 1/10
+
+1 (1) A description of the year, make, model, and vehicle
+2 identification number of the vehicle.
+3 (2) The location of the vehicle.
+4 (3) A statement that the person has twenty days to reclaim
+5 the vehicle or personal property from inside the vehicle, and
+6 that the twenty-day reclamation period began on the date the
+7 notice was given.
+8 (4) A statement that the vehicle cannot be reclaimed until
+9 the person pays all towing and impound fees and the costs of
+10 giving notice.
+11 (5) A statement that the registered owner may retrieve
+12 personal property from inside the vehicle without reclaiming
+13 the vehicle or paying a fee, and that the registered owner will
+14 have only one opportunity to retrieve the personal property.
+15 (6) A statement that failure to reclaim the vehicle or
+16 personal property within twenty days after notice was given
+17 constitutes a waiver of any interest in the vehicle or personal
+18 property.
+19 (7) A statement that failure to reclaim the vehicle
+20 or personal property is deemed consent for the person who
+21 impounded the vehicle to sell or dispose of the vehicle and
+22 personal property inside the vehicle, as applicable.
+23 (8) If the abandoned vehicle was taken into custody by
+24 a garagekeeper without a police authority’s initiative, a
+25 statement that the garagekeeper may claim a lien as described
+26 in section 321.90, subsection 1.
+27 (9) If the abandoned vehicle was taken into custody by
+28 a police authority or by a garagekeeper hired by a police
+29 authority, a statement that a person who disputes the
+30 assessment of fees or the planned disposition of the vehicle or
+31 personal property may request an evidentiary hearing before the
+32 police authority to contest those matters.
+33 c. Notice shall be deemed given when mailed if notice
+34 is sent by certified mail, regular mail, or parcel delivery
+35 service with a tracking number. Alternatively, a peace officer
+HF 2617.3165 (1) 91
+-2- th/ns 2/10
+
+1 may give notice by personally delivering a copy of the notice
+2 to the proper person who must sign an affidavit of service and
+3 such notice shall be deemed given when delivered.
+4 d. Notwithstanding paragraph “a”, if it is impossible to
+5 determine with reasonable certainty the identity and address
+6 of the last registered owner or any lienholder, notice by one
+7 publication in one newspaper of general circulation in the area
+8 where the vehicle was abandoned is sufficient. The published
+9 notice shall be published within the same time requirements
+10 and provide the same information required under paragraph “b”.
+11 Notice published in a newspaper may contain multiple listings
+12 of abandoned vehicles.
+13 e. A garagekeeper that impounds an abandoned vehicle shall
+14 display at the garagekeeper’s place of business in a manner
+15 that is readily visible to visitors and on the garagekeeper’s
+16 internet site, if applicable, the garagekeeper’s hours of
+17 operation, telephone number, and corporate or business name,
+18 if applicable.
+19 f. A garagekeeper that tows an abandoned vehicle shall
+20 display on both sides of the towing vehicle, in a manner that
+21 is readily visible, the garagekeeper’s corporate or business
+22 name, if applicable, address, and telephone number.
+23 3. Reclamation.
+24 a. The registered owner of an abandoned vehicle may reclaim
+25 the vehicle upon payment of all towing, notice, and impoundment
+26 fees. For purposes of calculating impoundment fees, a
+27 garagekeeper shall not charge a fee based on calendar days, but
+28 may charge a fee based on periods of twenty-four hours.
+29 b. A garagekeeper shall provide an itemized invoice that
+30 includes the vehicle identification number and describes all
+31 fees assessed when a vehicle is reclaimed. When a garagekeeper
+32 ceases a tow and returns the vehicle to the registered owner,
+33 the garagekeeper shall accept payment by credit card, subject
+34 to a card-use surcharge, if applicable, in addition to other
+35 forms of payment. A garagekeeper that has custody of an
+HF 2617.3165 (1) 91
+-3- th/ns 3/10
+
+1 abandoned vehicle shall not charge a storage fee for a day that
+2 the garagekeeper is not open to the public for at least eight
+3 hours.
+4 c. Prior to driving an abandoned vehicle away from the
+5 premises, the registered owner shall present to the police
+6 authority or garagekeeper, as applicable, a valid driver’s
+7 license and proof of financial liability coverage as provided
+8 in section 321.20B.
+9 4. Personal property retrieval. The registered owner of
+10 an abandoned vehicle may retrieve personal property only once
+11 while a garagekeeper has custody of the owner’s vehicle and
+12 only during the normal business hours of the garagekeeper.
+13 The registered owner must provide the garagekeeper a written
+14 list of the personal property that is inside the vehicle and
+15 the garagekeeper shall gather the listed personal property
+16 from inside the vehicle and hand the personal property to
+17 the registered owner. Retrieving personal property does not
+18 constitute reclaiming the vehicle.
+19 5. Inspection. A lienholder who receives notice under
+20 subsection 2 may inspect the condition of an impounded vehicle.
+21 A garagekeeper may charge a lienholder a fee not to exceed one
+22 hundred dollars to inspect the vehicle. If such a request is
+23 made and when the fee is paid, the garagekeeper shall allow
+24 a representative of the lienholder onto the garagekeeper’s
+25 premises to inspect the vehicle, subject to safety and security
+26 procedures established by the garagekeeper for the area where
+27 vehicles are stored.
+28 6. Recordkeeping. A garagekeeper shall keep a record of
+29 the relevant details of each abandoned vehicle the garagekeeper
+30 towed or impounded for at least three years after the vehicle
+31 was reclaimed or sold.
+32 7. Limited liability. An owner, lienholder, or other
+33 claimant of an abandoned vehicle shall not have a cause of
+34 action against a garagekeeper for action taken pursuant to this
+35 section if the garagekeeper provided notice in accordance with
+HF 2617.3165 (1) 91
+-4- th/ns 4/10
+
+1 subsection 2.
+2 8. Failure to act. If a person who received notice did not
+3 ask for a hearing, reclaim an abandoned vehicle, or retrieve
+4 personal property within the twenty-day reclaiming period, the
+5 person forfeits ownership of the vehicle and a court shall not
+6 recognize the person’s title, right, claim, or interest in the
+7 abandoned vehicle, or personal property inside the vehicle.
+8 9. Vehicles sold for highway use.
+9 a. If an abandoned vehicle has not been reclaimed, the
+10 person who impounded the vehicle shall make a determination as
+11 to whether the vehicle will be sold for use upon the highways.
+12 If the vehicle is sold for use upon the highways, the vehicle
+13 shall be sold at a public auction.
+14 b. The purchaser of an abandoned vehicle sold at a public
+15 auction takes title free and clear of all liens and claims of
+16 ownership and is entitled to register the vehicle and receive
+17 a certificate of title. The person who impounded the vehicle
+18 shall provide a sales receipt to the purchaser.
+19 10. Vehicles sold for junk or scrap.
+20 a. If an abandoned vehicle has not been reclaimed and is not
+21 sold at public auction for use upon the highways, it shall be
+22 sold for junk, or demolished and sold as scrap.
+23 b. The purchaser of an abandoned vehicle sold for junk or
+24 scrap takes title free and clear of all liens and claims of
+25 ownership. The person who impounded the vehicle shall provide
+26 a sales receipt to the purchaser.
+27 c. If the vehicle is sold to a demolisher for junk, the
+28 demolisher shall make application for a junking certificate
+29 to the county treasurer within thirty days of purchase and
+30 shall surrender the sales receipt in lieu of the certificate of
+31 title.
+32 11. Sale proceeds.
+33 a. If a police authority did not hire a garagekeeper, the
+34 police authority shall reimburse itself from the proceeds
+35 of the sale of an abandoned vehicle. Except for costs of
+HF 2617.3165 (1) 91
+-5- th/ns 5/10
+
+1 bookkeeping and other administrative costs, the police
+2 authority may retain proceeds from the sale for expenses
+3 incurred, including but not limited to expenses for any of the
+4 following:
+5 (1) The public auction.
+6 (2) Towing the vehicle.
+7 (3) Impounding the vehicle.
+8 (4) Giving notice pursuant to subsection 2.
+9 (5) Inspecting the vehicle.
+10 b. Any remainder from the proceeds of a sale shall be held
+11 for the owner of the vehicle or lienholder for ninety days.
+12 After ninety days, unclaimed proceeds shall be deposited in the
+13 road use tax fund.
+14 c. If the proceeds from a sale of an abandoned vehicle
+15 are insufficient to cover the incurred expenses, the police
+16 authority shall be paid from the road use tax fund. The last
+17 owner of the vehicle is liable for reimbursing the road use tax
+18 fund, including jointly and severally if there was more than
+19 one owner.
+20 d. If a garagekeeper sells an abandoned vehicle at a public
+21 auction, the garagekeeper may retain all proceeds from the
+22 sale.
+23 e. The department shall adopt rules pursuant to chapter
+24 17A providing a claims process for a police authority to
+25 obtain moneys from the road use tax fund to cover expenses
+26 incurred, including expenses owed to a garagekeeper hired by
+27 a police authority to tow and impound an abandoned vehicle.
+28 If a garagekeeper was hired by a police authority, the
+29 police authority shall file a claim with the department for
+30 reimbursement of towing fees which shall be paid from the road
+31 use tax fund.
+32 12. Definitions. As used in this section, and sections
+33 321.90 and 321.91:
+34 a. “Abandoned vehicle” means any of the following:
+35 (1) A vehicle that has been left unattended on public
+HF 2617.3165 (1) 91
+-6- th/ns 6/10
+
+1 property for more than twenty-four hours and lacks current
+2 registration plates or two or more wheels or other parts which
+3 render the vehicle totally inoperable.
+4 (2) A vehicle that has remained illegally on public property
+5 for more than twenty-four hours.
+6 (3) A vehicle that has been illegally parked on private
+7 property or has been placed on private property without the
+8 consent of the owner or person in control of the property for
+9 more than twenty-four hours.
+10 (4) A vehicle that has been legally impounded by order of
+11 a police authority and has not been reclaimed for a period
+12 of ten days. However, a police authority may declare the
+13 vehicle abandoned within the ten-day period by commencing the
+14 notification process in subsection 2.
+15 (5) A vehicle parked on a highway determined by a police
+16 authority to create a hazard to other vehicle traffic.
+17 (6) A vehicle that has been impounded pursuant to section
+18 321J.4B by order of a court and the vehicle owner has not paid
+19 the impoundment fees after notification by the person or agency
+20 responsible for impounding the vehicle.
+21 b. “Demolisher” means a person licensed under chapter 321H
+22 whose business it is to convert a vehicle to junk, processed
+23 scrap, or scrap metal, or otherwise to wreck or dismantle
+24 vehicles.
+25 c. “Garagekeeper” means any operator of a parking place or
+26 establishment, motor vehicle storage facility, or establishment
+27 for the servicing, repair, or maintenance of motor vehicles.
+28 d. “Personal property” means property that is located inside
+29 an abandoned vehicle and not attached to the vehicle.
+30 e. “Police authority” means the state patrol, any law
+31 enforcement agency of a county or city, or any special security
+32 officer employed by the state board of regents under section
+33 262.13.
+34 Sec. 3. Section 321.90, subsection 1, Code 2026, is amended
+35 to read as follows:
+HF 2617.3165 (1) 91
+-7- th/ns 7/10
+
+1 1. Garagekeepers and abandoned motor vehicles. Any motor
+2 vehicle left in a garage operated for commercial purposes
+3 after the period for which the vehicle was to remain on the
+4 premises shall, after notice by certified mail to the last
+5 known registered owner of the vehicle addressed to the owner’s
+6 last known address of record to reclaim the vehicle within
+7 ten days of the date of the notice, be deemed an abandoned
+8 motor vehicle unless reclaimed by the owner within such ten-day
+9 period or the owner notifies the garagekeeper in writing within
+10 such period of time that such vehicle is not an abandoned motor
+11 vehicle and shall be reported by the garagekeeper to the police
+12 authority. If the identity or address of the last registered
+13 owner of the motor vehicle cannot be determined, the vehicle
+14 shall be deemed an abandoned motor vehicle on the eleventh
+15 day after the period for which the vehicle was to remain on
+16 the premises unless reclaimed by the owner within the ten-day
+17 period or the owner notifies the garagekeeper in writing within
+18 such period of time that such vehicle is not an abandoned motor
+19 vehicle and shall be reported by the garagekeeper to the police
+20 authority. All abandoned motor vehicles left in garages may
+21 be taken into custody by a police authority upon the request
+22 of the garagekeeper and sold in accordance with the procedures
+23 set forth in section 321.89, subsection 5, unless the motor
+24 vehicle is reclaimed. The proceeds of the sale shall be first
+25 applied to the garagekeeper’s charges for towing and storage,
+26 and any surplus proceeds shall be distributed in accordance
+27 with section 321.89, subsection 5. Nothing in this section
+28 shall be construed to impair any lien of a garagekeeper under
+29 the laws of this state, or the right of a garagekeeper to
+30 foreclose the garagekeeper’s lien, provided that a garagekeeper
+31 shall be deemed to have abandoned the garagekeeper’s artisan
+32 lien when such vehicle is taken into custody by the police
+33 authority. For the purposes of this section “garagekeeper”
+34 means any operator of a parking place or establishment, motor
+35 vehicle storage facility, or establishment for the servicing,
+HF 2617.3165 (1) 91
+-8- th/ns 8/10
+
+1 repair, or maintenance of motor vehicles.
+2 Sec. 4. Section 321.90, subsection 2, paragraphs c, d, e,
+3 and g, Code 2026, are amended to read as follows:
+4 c. If the police authority finds that the application is
+5 executed in proper form, and shows that the motor vehicle
+6 has been abandoned upon the property of the applicant, or if
+7 it shows that the motor vehicle is not abandoned but that
+8 the applicant appears to be the rightful owner, the police
+9 authority shall follow appropriate notification procedures
+10 as set forth in section 321.89, subsection 3, except that in
+11 the case of an order for disposal obtained pursuant to section
+12 555B.8, subsection 3, no notification is required.
+13 d. If the abandoned motor vehicle is not reclaimed in
+14 accordance with section 321.89, subsection 3, or no lienholder
+15 objects to the disposal in the case of an owner-applicant,
+16 the police authority shall give the applicant a certificate
+17 of authority allowing the applicant to obtain a junking
+18 certificate for the motor vehicle. The applicant shall make
+19 application for a junking certificate to the county treasurer
+20 within thirty days of receipt of the certificate of authority
+21 and surrender the certificate of authority in lieu of the
+22 certificate of title. The demolisher shall accept the junking
+23 certificate in lieu of the certificate of title to the motor
+24 vehicle.
+25 e. Notwithstanding any other provisions of this section and
+26 sections 321.89 and 321.91, any person, firm, corporation, or
+27 unit of government upon whose property or in whose possession
+28 is found any abandoned motor vehicle, or any person being
+29 the owner of a motor vehicle whose title certificate is
+30 faulty, lost, or destroyed, may dispose of such motor vehicle
+31 to a demolisher for junk without a title and without the
+32 notification procedures of section 321.89, subsection 3, if the
+33 motor vehicle lacks an engine or two or more wheels or other
+34 structural part which renders the vehicle totally inoperable.
+35 The police authority shall give the applicant a certificate
+HF 2617.3165 (1) 91
+-9- th/ns 9/10
+
+1 of authority. The owner shall apply to the county treasurer
+2 for a junking certificate within thirty days of receipt of the
+3 certificate of authority and shall surrender the certificate of
+4 authority in lieu of the certificate of title.
+5 g. Any proceeds from the sale of an abandoned motor vehicle
+6 to a demolisher under this section, by one other than the
+7 owner of the vehicle, except the sale of a vehicle pursuant
+8 to an order for disposal obtained pursuant to section 555B.8,
+9 subsection 3, shall first be applied to that person’s expenses
+10 in effecting the sale, including storage, towing, and disposal
+11 charges, and any surplus shall be distributed in accordance
+12 with section 321.89, subsection 5. The proceeds from the sale
+13 of a vehicle disposed of pursuant to section 555B.8, subsection
+14 3, shall be distributed in accordance with section 555B.9.>
+______________________________
+JONES of Clay
+HF 2617.3165 (1) 91
+-10- th/ns 10/10

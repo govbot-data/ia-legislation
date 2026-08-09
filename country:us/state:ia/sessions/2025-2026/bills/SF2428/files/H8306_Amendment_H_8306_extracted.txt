@@ -1,0 +1,575 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8306
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2428
+H-8306
+1 Amend Senate File 2428, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 256.9, Code 2026, is amended by adding
+6 the following new subsection:
+7 NEW SUBSECTION. 80. Develop and distribute to school
+8 districts a training program and training materials for members
+9 of a student’s individualized education program team that is
+10 related to the least restrictive environment requirements under
+11 the federal Individuals with Disabilities Education Act, 20
+12 U.S.C. §1400 et seq.
+13 Sec. 2. Section 256.11, subsection 10, unnumbered paragraph
+14 1, Code 2026, is amended to read as follows:
+15 The state board shall establish, and the department
+16 shall use, for the school year commencing July 1, 2021, and
+17 each succeeding school year, an accreditation, monitoring,
+18 and enforcement process for school districts and nonpublic
+19 schools seeking accreditation pursuant to this subsection and
+20 subsections 11 and 12. In applying and taking monitoring and
+21 enforcement action under this subsection and subsections 11 and
+22 12, the department shall consider the timeliness and accuracy
+23 of the information a school district or nonpublic school
+24 provides to the department, including potential underreporting
+25 or late reporting of data related to school discipline and
+26 school safety necessary to monitor and implement the provisions
+27 of chapter 280. The process established shall include all of
+28 the following requirements:
+29 Sec. 3. NEW SECTION. 256.20 Schools for students requiring
+30 special education or students with behavioral issues —— pilot
+31 project.
+32 1. The department shall develop and administer a pilot
+33 program that requires a rural school district and an urban
+34 school district to each establish an attendance center to
+35 be used to provide educational services, including special
+SF 2428.3863 (1) 91
+-1- jda/jh 1/15
+
+1 education services, to eligible students who are enrolled
+2 in the rural school district or urban school district, as
+3 applicable.
+4 2. The department shall determine the rural school district
+5 and urban school district that will be required to participate
+6 in the pilot program. A rural school district or an urban
+7 school district shall not be required to participate in the
+8 pilot program unless any one of the following applies:
+9 a. The rural school district or urban school district agrees
+10 to participate in the pilot program and provides notice to the
+11 department indicating that the rural school district or urban
+12 school district has the ability to fully fund the rural school
+13 district’s or urban school district’s participation in the
+14 pilot program.
+15 b. The department fully funds the rural school district’s
+16 or urban school district’s participation in the pilot program
+17 using moneys appropriated by the general assembly for purposes
+18 of this section.
+19 3. The department, in consultation with the rural school
+20 district and urban school district, shall determine all of the
+21 following:
+22 a. The courses of study and curricula that the rural school
+23 district and urban school district will provide to eligible
+24 students as part of the pilot program.
+25 b. The instructional facilities that the rural school
+26 district and urban school district will use to provide
+27 educational services to eligible students as part of the pilot
+28 program.
+29 4. a. Annually, on or before June 1 of each year, the rural
+30 school district and urban school district shall submit to the
+31 department an annual report that contains all of the following:
+32 (1) The number of eligible students who participated in the
+33 pilot program during the current school year.
+34 (2) Information related to the academic performance of
+35 eligible students who participated in the pilot program during
+SF 2428.3863 (1) 91
+-2- jda/jh 2/15
+
+1 the current school year.
+2 (3) Feedback from eligible students who participated in the
+3 pilot program during the current school year related to the
+4 effectiveness of the pilot program.
+5 (4) Feedback from the parents or guardians of eligible
+6 students who participated in the pilot program during the
+7 current school year related to the effectiveness of the pilot
+8 program.
+9 (5) Feedback from teachers who provided educational
+10 services to eligible students who participated in the
+11 pilot program during the current school year related to the
+12 effectiveness of the pilot program.
+13 (6) Challenges associated with operating the pilot program.
+14 (7) Recommendations related to how to improve the pilot
+15 program.
+16 (8) Any other information requested by the department that
+17 will allow the department to monitor and assess the pilot
+18 program.
+19 b. Annually, on or before June 30 of each year, the
+20 department shall compile the annual reports submitted to the
+21 department pursuant to paragraph “a” and shall submit the
+22 compilation to the general assembly.
+23 5. As used in this section:
+24 a. “Eligible student” means any of the following:
+25 (1) Children requiring special education, as defined in
+26 section 256B.2.
+27 (2) A student whose emotional, social, or behavioral
+28 needs interfere with the student’s ability to be successful
+29 in the regular educational environment, even with the use of
+30 supplementary aids and services.
+31 b. “Rural school district” means a school district as
+32 described in chapter 274 that is located in a county with a
+33 population of greater than seventeen thousand five hundred but
+34 less than eighteen thousand, and that contains a city with a
+35 population of greater than five thousand four hundred, but less
+SF 2428.3863 (1) 91
+-3- jda/jh 3/15
+
+1 than five thousand five hundred, all according to the 2020
+2 federal decennial census.
+3 c. “Urban school district” means a school district as
+4 described in chapter 274 with a total enrollment of at least
+5 seven thousand students.
+6 6. This section is repealed July 1, 2031.
+7 Sec. 4. Section 256E.7, subsection 2, Code 2026, is amended
+8 by adding the following new paragraph:
+9 NEW PARAGRAPH. 0n. Be subject to and comply with the
+10 requirements of section 279.65B relating to the discipline of
+11 students who cause violent or nonviolent disruptions in the
+12 same manner as a school district.
+13 Sec. 5. Section 256F.4, subsection 2, Code 2026, is amended
+14 by adding the following new paragraph:
+15 NEW PARAGRAPH. v. Be subject to and comply with the
+16 requirements of section 279.65B relating to the discipline of
+17 students who cause violent or nonviolent disruptions in the
+18 same manner as a school district.
+19 Sec. 6. Section 279.65A, subsection 3, Code 2026, is amended
+20 to read as follows:
+21 3. The policies must be consistent with the all of the
+22 following:
+23 a. The provisions of chapter 256B, and the administrative
+24 rules adopted by the state board for purposes of chapter 256B,
+25 the.
+26 b. The federal Individuals with Disabilities Education Act,
+27 20 U.S.C. §1400 et seq., and the
+28 c. The federal Rehabilitation Act of 1973, as amended and
+29 codified in 29 U.S.C. §701 et seq.
+30 d. Section 279.65B.
+31 Sec. 7. NEW SECTION. 279.65B Discipline of students who
+32 cause violent or nonviolent disruptions.
+33 1. As used in this section:
+34 a. “Nonviolent disruption” includes but is not limited to a
+35 disruption to classroom instruction that is a result of any of
+SF 2428.3863 (1) 91
+-4- jda/jh 4/15
+
+1 the following:
+2 (1) Disorderly conduct.
+3 (2) Abusive or profane language.
+4 (3) Bullying, as defined under section 280.28.
+5 (4) Repeatedly disruptive behavior.
+6 b. “Principal” means the same as defined in section 256.145.
+7 “Principal” includes all of the following:
+8 (1) An assistant principal.
+9 (2) A vice principal.
+10 (3) An administrator who is responsible for the day-to-day
+11 operations of an attendance center.
+12 c. “Teacher” means the same as defined in section 256.145.
+13 d. “Violent disruption” includes but is not limited to
+14 a disruption to classroom instruction that is a result of a
+15 threat of violence or an incident of violence that results in
+16 any of the following:
+17 (1) Injury.
+18 (2) Property damage.
+19 (3) Assault, as defined under section 708.1.
+20 2. a. (1) A teacher may remove or cause to be removed a
+21 student who causes a nonviolent disruption from the teacher’s
+22 classroom and place the student under the supervision of the
+23 principal of the attendance center in which the classroom is
+24 located, or the principal’s designee, for at least thirty
+25 minutes, as determined by the principal or the principal’s
+26 designee.
+27 (2) (a) A student who is enrolled in kindergarten through
+28 grade five, and who was removed from the classroom pursuant
+29 to subparagraph (1), shall not be readmitted to the teacher’s
+30 classroom until after the principal, or the principal’s
+31 designee, and the teacher meet to discuss the readmission of
+32 the student.
+33 (b) A student who is enrolled in grades six through twelve,
+34 and who was removed from the classroom pursuant to subparagraph
+35 (1), shall not be readmitted to the teacher’s classroom until
+SF 2428.3863 (1) 91
+-5- jda/jh 5/15
+
+1 after the principal, or the principal’s designee, and the
+2 teacher meet to discuss the readmission of the student. Such
+3 student shall not be readmitted to the teacher’s classroom
+4 until, at the earliest, the immediately subsequent school day.
+5 (3) The principal, or the principal’s designee, shall
+6 inform the teacher of the disciplinary actions taken against
+7 the student removed from the classroom pursuant to subparagraph
+8 (1) as soon as is reasonably possible after the student’s
+9 removal.
+10 (4) A student who is removed from the classroom pursuant to
+11 subparagraph (1) shall be required to make up any work that the
+12 student missed while the student was under the supervision of
+13 the principal or the principal’s designee.
+14 (5) If a student is removed from a teacher’s classroom
+15 pursuant to subparagraph (1) more than once, the teacher or
+16 teachers who removed the student from the classroom; the
+17 principal of the attendance center in which the classroom
+18 or classrooms are located; a qualified guidance counselor
+19 licensed by the board of educational examiners under chapter
+20 256, subchapter VII, part 3; the student’s parent or legal
+21 guardian, if the student is not an emancipated minor; and the
+22 student shall participate in a meeting to discuss the student’s
+23 nonviolent disruptions and to establish a behavioral plan and
+24 a course of discipline to correct the student’s behavior,
+25 which may include locating the student in an alternative
+26 learning environment, including a therapeutic classroom, when
+27 appropriate.
+28 b. (1) A teacher shall remove or cause to be removed a
+29 student who causes a violent disruption from the teacher’s
+30 classroom and place the student under the supervision of the
+31 principal of the attendance center in which the classroom is
+32 located, or the principal’s designee.
+33 (2) (a) A student who is enrolled in kindergarten through
+34 grade five, and who was removed from the classroom pursuant
+35 to subparagraph (1), shall not be readmitted to the teacher’s
+SF 2428.3863 (1) 91
+-6- jda/jh 6/15
+
+1 classroom until after the principal, or the principal’s
+2 designee, and the teacher meet to discuss the readmission of
+3 the student.
+4 (b) A student who is enrolled in grades six through twelve,
+5 and who was removed from the classroom pursuant to subparagraph
+6 (1), shall not be readmitted to the teacher’s classroom until
+7 after the principal, or the principal’s designee, and the
+8 teacher meet to discuss the readmission of the student. Such
+9 student shall not be readmitted to the teacher’s classroom
+10 until, at the earliest, the immediately subsequent school day.
+11 (c) Notwithstanding any policy adopted by the oversight
+12 review committee pursuant to subsection 4, paragraph “a”, a
+13 student shall not be readmitted to a teacher’s classroom if all
+14 of the following criteria are satisfied:
+15 (i) The teacher removed the student from the teacher’s
+16 classroom because the student caused a violent disruption that
+17 included the student assaulting the teacher.
+18 (ii) The teacher does not consent to allowing the student to
+19 return to the teacher’s classroom.
+20 3. a. If the principal determines that disciplinary
+21 action should be taken against a student who was removed from
+22 a teacher’s classroom pursuant to subsection 2, then the
+23 principal shall do all of the following:
+24 (1) Take such disciplinary action.
+25 (2) Provide written and, if possible, electronic notice of
+26 such disciplinary action to the student’s parent or guardian.
+27 b. (1) If a student was removed from a teacher’s classroom
+28 pursuant to subsection 2 two or more times in a semester, or
+29 the trimester or quarter equivalent, then the principal shall
+30 discipline the student by doing any of the following:
+31 (a) Assigning the student to either in-school or
+32 out-of-school suspension.
+33 (b) Recommending to the superintendent that the student be
+34 located in an alternative learning environment that has been
+35 approved by the superintendent.
+SF 2428.3863 (1) 91
+-7- jda/jh 7/15
+
+1 (2) If a student was removed from a teacher’s classroom
+2 pursuant to subsection 2 because the student’s conduct,
+3 statements, or other actions were severe or pervasive, and,
+4 if requested by the teacher, then the principal shall impose
+5 the maximum amount of punishment applicable to such conduct,
+6 statements, or other actions as provided in policies adopted
+7 by the board of directors of the school district, including
+8 placing the student in an alternative learning environment that
+9 has been approved by the superintendent.
+10 4. a. The board of directors of a school district shall
+11 require each attendance center within the school district
+12 to create an oversight review committee that is responsible
+13 for developing a policy, consistent with this section, that
+14 establishes when a student who has been removed from the
+15 classroom pursuant to subsection 2 may be readmitted to the
+16 classroom.
+17 b. The oversight review committee must consist of all of the
+18 following members:
+19 (1) Two teachers who work in the attendance center and who
+20 must be selected by the teachers of the attendance center.
+21 (2) One administrative employee, mental health
+22 professional, or behavioral interventionist who works in the
+23 attendance center and who must be selected by the principal of
+24 the attendance center.
+25 c. The oversight review committee may issue recommendations
+26 related to when a student who was removed from a teacher’s
+27 classroom pursuant to subsection 2, paragraph “a”, subparagraph
+28 (1), should be readmitted to the teacher’s classroom.
+29 5. If a student who has an individualized education program
+30 was removed from a teacher’s classroom pursuant to subsection
+31 2, then all of the following shall apply:
+32 a. (1) All of the following individuals shall, if
+33 practicable, participate in the meeting of the student’s
+34 individualized education program team that takes place
+35 immediately subsequent to the student’s exclusion from the
+SF 2428.3863 (1) 91
+-8- jda/jh 8/15
+
+1 classroom:
+2 (a) The teacher who removed the student from the classroom
+3 pursuant to subsection 2.
+4 (b) Any teacher who is not described in subparagraph
+5 division (a) and who provides classroom instruction to the
+6 student.
+7 (c) Any other employee of the school district who does not
+8 hold a license issued by the board of educational examiners,
+9 including para-educators and bus drivers, and who was directly
+10 involved in the student’s conduct, statements, or other actions
+11 that led to the student’s exclusion from the classroom.
+12 (2) If a teacher or other employee is not able to
+13 participate in the meeting of the student’s individualized
+14 education program team that takes place immediately subsequent
+15 to the student’s exclusion from the classroom, as required
+16 under subparagraph (1), then the teacher or other employee
+17 shall review the minutes or summary of the meeting prepared by
+18 the individualized education program team pursuant to paragraph
+19 “b”, subparagraph (2), and shall provide written notice to the
+20 student’s individualized education program team indicating that
+21 the teacher or other employee has read the minutes or summary.
+22 b. (1) In the meeting of the student’s individualized
+23 education program team that takes place immediately subsequent
+24 to the student’s exclusion from the classroom, the student’s
+25 individualized education program team shall discuss all of the
+26 following:
+27 (a) The appropriateness of the student’s current
+28 educational programming.
+29 (b) Whether adjustments need to be made to the student’s
+30 individualized education program to address the student’s
+31 behaviors.
+32 (c) Whether the student’s current placement or an
+33 alternative learning environment would best provide the student
+34 with a free appropriate public education.
+35 (d) The accommodations, modifications, and adaptations that
+SF 2428.3863 (1) 91
+-9- jda/jh 9/15
+
+1 are required to allow the student to be successful in a general
+2 education setting, what supports are needed to assist the
+3 teacher and other school district employees in providing those
+4 accommodations, modifications, and adaptations, and whether it
+5 is possible for the school district to provide those supports,
+6 accommodations, modifications, and adaptations.
+7 (e) Whether and to what extent the provision of special
+8 education services and activities in the general education
+9 environment will impact the student and the other students in
+10 the classroom.
+11 (2) If a teacher or other employee is not able to
+12 participate in the meeting of the student’s individualized
+13 education program team that takes place immediately subsequent
+14 to the student’s exclusion from the classroom, as required
+15 under paragraph “a”, subparagraph (1), then the student’s
+16 individualized education program team shall prepare minutes or
+17 a summary of the meeting and provide the minutes or summary to
+18 the teacher or other employee.
+19 c. If the student was removed from the classroom five or
+20 more times within any fifteen-consecutive-school-day period,
+21 then the student’s individualized education program team shall
+22 meet to discuss the student’s behavior.
+23 6. A teacher may appeal all of the following to the board of
+24 directors of the school district:
+25 a. A principal’s refusal to allow the teacher to remove a
+26 student from the teacher’s classroom pursuant to subsection 2.
+27 b. A principal’s readmission of a student to the teacher’s
+28 classroom prior to the time such student should have been
+29 readmitted pursuant to subsection 2.
+30 7. The board of directors of a school district shall
+31 immediately grant a teacher a leave of absence for physical
+32 recovery with full pay for not more than three days if the
+33 teacher is injured due to a student’s violent disruption;
+34 provided, however, that the board of directors of a school
+35 district may grant a teacher such a leave of absence for four
+SF 2428.3863 (1) 91
+-10- jda/jh 10/15
+
+1 or more days if the teacher provides to the board of directors
+2 of the school district a note from a physician indicating that
+3 such a leave of absence is needed.
+4 8. a. Each principal of an attendance center shall make a
+5 mental health professional, guidance counselor, or behavioral
+6 interventionist available to students, teachers, and other
+7 school employees to address the immediate trauma associated
+8 with a violent disruption or nonviolent disruption, upon the
+9 request of a teacher.
+10 b. Notwithstanding paragraph “a”, a mental health
+11 professional, guidance counselor, or behavioral interventionist
+12 shall not provide any mental health services to a student who
+13 is less than eighteen years of age to address the immediate
+14 trauma associated with a violent disruption or nonviolent
+15 disruption unless the student’s parent or guardian consents to
+16 the student receiving such mental health services, or unless
+17 the student is an emancipated minor.
+18 9. Each principal shall carry out the principal’s
+19 responsibilities under this section in an expeditious manner,
+20 and shall do all of the following in an expeditious manner:
+21 a. Carry out all manifestation determination review
+22 meetings, as required under section 504 of the federal
+23 Rehabilitation Act, 29 U.S.C. §794.
+24 b. Impose the appropriate amount of punishment in accordance
+25 with policies adopted by the board of directors of the school
+26 district and federal law.
+27 c. Perform functional behavior assessments as needed.
+28 d. Adjust behavioral intervention plans as needed.
+29 10. This section shall not be construed to do any of the
+30 following:
+31 a. Infringe on any right provided to any student under
+32 federal law, including but not limited to all of the following:
+33 (1) Section 504 of the federal Rehabilitation Act, 29 U.S.C.
+34 §794.
+35 (2) The federal Individuals with Disabilities Education
+SF 2428.3863 (1) 91
+-11- jda/jh 11/15
+
+1 Act, 20 U.S.C. §1400 et seq.
+2 (3) The federal Family Educational Rights and Privacy Act,
+3 20 U.S.C. §1232g.
+4 (4) The federal Americans with Disabilities Act of 1990, 42
+5 U.S.C. §12101 et seq.
+6 b. Supersede, abrogate, or preempt any federal law, rule,
+7 or regulation.
+8 c. Relieve any person from any duties, obligations, or
+9 requirements imposed by federal law.
+10 Sec. 8. NEW SECTION. 279.89 Teacher authority to request a
+11 meeting of a student’s individualized education program team.
+12 1. For purposes of this section:
+13 a. “Administrator” means the same as defined in section
+14 256.145.
+15 b. “Teacher” means the same as defined in section 256.145.
+16 2. A teacher may request a meeting of a student’s
+17 individualized education program team at any time by submitting
+18 an electronic or written request to an administrator.
+19 3. An administrator may deny a teacher’s request for a
+20 meeting of a student’s individualized education program team
+21 submitted pursuant to subsection 2; provided, however, that
+22 such a denial must satisfy all of the following requirements:
+23 a. Be provided to the teacher in writing.
+24 b. Describe why applicable federal law does not require the
+25 meeting of the student’s individualized education program team.
+26 Sec. 9. NEW SECTION. 279.90 Individualized education
+27 programs and section 504 plan requirements.
+28 1. a. The board of directors of each school district shall
+29 ensure all of the following:
+30 (1) That each student’s individualized education program
+31 is accessible to, and read by, each school district employee
+32 who is responsible for the implementation of the student’s
+33 individualized education program, including regular education
+34 teachers, special education teachers, and any other service
+35 providers.
+SF 2428.3863 (1) 91
+-12- jda/jh 12/15
+
+1 (2) Each teacher and service provider described in
+2 subparagraph (1) is informed of all of the following:
+3 (a) The teacher’s or service provider’s specific
+4 responsibilities related to implementing the student’s
+5 individualized education program.
+6 (b) The specific accommodations, modifications, and
+7 supports that must be provided for the student in accordance
+8 with the student’s individualized education program.
+9 b. After a regular education teacher has read a student’s
+10 individualized education program pursuant to paragraph “a”,
+11 the regular education teacher shall provide written notice
+12 to the special education teacher who is on the student’s
+13 individualized education program team indicating that the
+14 regular education teacher has read the individualized education
+15 program.
+16 2. Each teacher employed by the school district who teaches
+17 a student who has a plan under section 504 of the federal
+18 Rehabilitation Act, 29 U.S.C. §794, shall read the plan. After
+19 the teacher has read the plan, the teacher shall provide
+20 written notice to any special education teacher who provides
+21 special education services to the student, or to the principal
+22 of the attendance center, indicating that the teacher has read
+23 the plan.
+24 3. At least one para-educator or other employee of the
+25 school district who assists a teacher in providing classroom
+26 instruction to a student who has an individualized education
+27 program, or to a student who has a plan under section 504 of
+28 the federal Rehabilitation Act, 29 U.S.C. §794, shall attend
+29 all meetings related to the student’s individualized education
+30 program or plan under section 504 of the federal Rehabilitation
+31 Act, 29 U.S.C. §794. If practicable, meetings related to
+32 a student’s individualized education program or plan under
+33 section 504 of the federal Rehabilitation Act, 29 U.S.C. §794,
+34 that a para-educator or other employee is required to attend
+35 pursuant to this subsection shall take place during normal
+SF 2428.3863 (1) 91
+-13- jda/jh 13/15
+
+1 business hours.
+2 4. The board of directors of each school district shall
+3 provide training to all members of a student’s individualized
+4 education program team related to the least restrictive
+5 environment requirements under the federal Individuals with
+6 Disabilities Education Act, 20 U.S.C. §1400 et seq., that
+7 is based on the training program and training materials
+8 distributed by the director of the department of education to
+9 the school district pursuant to section 256.9, subsection 80.
+10 Sec. 10. Section 284.6, subsection 3, Code 2026, is amended
+11 to read as follows:
+12 3. A school district shall develop a district professional
+13 development plan. The district professional development plan
+14 shall include must satisfy all of the following requirements:
+15 a. Include a description of the means by which the school
+16 district will provide access to all teachers in the district to
+17 professional development programs or offerings that meet the
+18 requirements of subsection 1. The plan shall align
+19 b. Align all professional development with the school
+20 district’s long-range student learning goals and the Iowa
+21 teaching standards. The plan shall indicate
+22 c. Indicate the school district’s approved professional
+23 development provider or providers.
+24 d. Include programs and offerings for all teachers to
+25 support serving students with disabilities.
+26 e. Include information related to all of the following:
+27 (1) The general requirements related to providing a free
+28 appropriate public education, including the school district’s
+29 obligation to identify and evaluate a student who may have a
+30 disability.
+31 (2) The provision of supports and services through
+32 a student’s individualized education program, including
+33 each individual teacher’s responsibilities relating to the
+34 development and implementation of a student’s individualized
+35 education program.
+SF 2428.3863 (1) 91
+-14- jda/jh 14/15
+
+1 (3) The general requirements related to providing education
+2 to a student with a disability consistent with the least
+3 restrictive environment requirements under the federal
+4 Individuals with Disabilities Education Act, 20 U.S.C. §1400
+5 et seq.
+6 Sec. 11. STATE MANDATE FUNDING SPECIFIED. In accordance
+7 with section 25B.2, subsection 3, the state cost of requiring
+8 compliance with any state mandate included in this Act shall
+9 be paid by a school district from state school foundation aid
+10 received by the school district under section 257.16. This
+11 specification of the payment of the state cost shall be deemed
+12 to meet all of the state funding-related requirements of
+13 section 25B.2, subsection 3, and no additional state funding
+14 shall be necessary for the full implementation of this Act
+15 by and enforcement of this Act against all affected school
+16 districts.>
+17 2. Title page, by striking lines 1 through 3 and inserting
+18 <An Act relating to education, including by modifying
+19 provisions related to the duties of the department of
+20 education; the discipline of students enrolled in school
+21 districts, charter schools, and innovation zone schools who
+22 cause violent or nonviolent disruptions; the responsibilities
+23 and powers of the department of education, school district
+24 teachers, and other educational staff related to students
+25 who have individualized education programs or plans under
+26 section 504 of the federal Rehabilitation Act; school district
+27 professional development plans; and authorizing teachers to
+28 request a meeting of a student’s individualized education
+29 program team.>
+______________________________
+WHEELER of Sioux
+SF 2428.3863 (1) 91
+-15- jda/jh 15/15

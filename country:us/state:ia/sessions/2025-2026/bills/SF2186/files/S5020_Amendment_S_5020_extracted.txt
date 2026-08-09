@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5020
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2186
+S-5020
+1 Amend Senate File 2186 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 598C.102, subsection 19, paragraph a,
+4 Code 2026, is amended to read as follows:
+5 a. Active and reserve components of the army, navy, air
+6 force, marine corps, space force, or coast guard of the United
+7 States; the United States merchant marine; the commissioned
+8 corps of the United States public health service; or the
+9 commissioned corps of the national oceanic and atmospheric
+10 administration of the United States.>
+11 2. Page 1, line 26, after <corps,> by inserting <space
+12 force,>
+13 3. Title page, by striking lines 1 and 2 and inserting
+14 <An Act relating to child custody and visitation for parents
+15 subject to deployments.>
+16 4. By renumbering as necessary.
+______________________________
+JEFF REICHMAN
+SF 2186.2818 (2) 91
+-1- lh/jh 1/1

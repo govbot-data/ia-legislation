@@ -1,0 +1,535 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8344
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2168
+H-8344
+1 Amend Senate File 2168, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 1, before line 1 by inserting:
+4 <DIVISION I
+5 IOWA REGISTERED APPRENTICESHIP ACT
+6 Section 1. Section 84D.2, subsection 5, Code 2026, is
+7 amended to read as follows:
+8 5. “Apprenticeship sponsor” means an entity operating
+9 an apprenticeship program or an entity in whose name an
+10 apprenticeship program is being operated, which entity is
+11 registered with or approved by the United States department
+12 of labor, office of apprenticeship, or the Iowa office of
+13 apprenticeship. “Apprenticeship sponsor” includes a lead
+14 apprenticeship sponsor, sponsor, or intermediary sponsor, and
+15 an employer who provides training through a lead apprenticeship
+16 sponsor, sponsor, or intermediary sponsor.
+17 Sec. ___. Section 84D.2, Code 2026, is amended by adding the
+18 following new subsections:
+19 NEW SUBSECTION. 11A. “Employer partner” means an employer
+20 who trains the employer’s employees through an intermediary
+21 sponsor.
+22 NEW SUBSECTION. 12A. “Intermediary sponsor” means
+23 an entity that provides related training instruction to
+24 apprentices for multiple employers, serves as the sponsor of
+25 the apprentices, and registers the program with the Iowa office
+26 of apprenticeship, and may also provide technical assistance to
+27 employers and assist with developing occupational standards.
+28 Sec. ___. Section 84D.2, subsection 12, Code 2026, is
+29 amended by striking the subsection.
+30 Sec. ___. Section 84D.2, subsection 19, paragraph a,
+31 subparagraph (2), subparagraph division (c), Code 2026, is
+32 amended to read as follows:
+33 (c) Related training instruction from a lead apprenticeship
+34 sponsor, sponsor, or intermediary sponsor.
+35 Sec. ___. Section 84D.4, subsection 2, Code 2026, is amended
+SF 2168.3907 (3) 91
+-1- je/js 1/14
+
+1 by adding the following new paragraph:
+2 NEW PARAGRAPH. c. An intermediary sponsor has the sole
+3 discretion for approving employer partners, provided that such
+4 employer partners are compliant with the employer partners’
+5 responsibilities outlined in the intermediary sponsor’s
+6 standards.
+7 Sec. ___. Section 84D.4, subsection 8, Code 2026, is amended
+8 to read as follows:
+9 8. a. The office shall develop a plan providing a procedure
+10 for the cancellation or deregistration, or both, of programs
+11 and for temporary suspension, cancellation, deregistration, or
+12 any of these, of apprenticeship agreements.
+13 b. Prior to any order to cancel or suspend an employer
+14 partner, the office must provide a comprehensive list of the
+15 grounds for cancellation or suspension and allow at least sixty
+16 days for the employer partner to become compliant. If the
+17 office orders cancellation or suspension of an employer partner
+18 after the sixty-day period, the order shall be considered final
+19 agency action, and the intermediary sponsor may seek judicial
+20 review as provided in section 17A.19.
+21 c. (1) Prior to any permanent or temporary cancellation,
+22 suspension, or deregistration, the office must provide a
+23 comprehensive list of the grounds of the alleged violation
+24 of the apprenticeship program standards in writing to the
+25 approved apprenticeship sponsor, intermediary sponsor, or lead
+26 apprenticeship sponsor and allow at least ninety days to become
+27 compliant.
+28 (2) A decision by the office to cancel, suspend, or
+29 deregister an approved apprenticeship sponsor, intermediary
+30 sponsor, or lead apprenticeship sponsor must be issued
+31 in writing and must state the reasons for the office’s
+32 decision. The office shall not issue such a decision before
+33 the conclusion of the ninety-day period or later than thirty
+34 days after the conclusion of the period. The decision shall
+35 be considered final agency action subject to judicial review
+SF 2168.3907 (3) 91
+-2- je/js 2/14
+
+1 as provided in section 17A.19. However, notwithstanding
+2 section 17A.19, the office shall have the burden to prove that
+3 the approved apprenticeship sponsor, intermediary sponsor,
+4 or lead apprenticeship sponsor violated the standards of the
+5 apprenticeship program and that the violation continued past
+6 the ninety-day period.
+7 d. If an apprenticeship sponsor, intermediary sponsor,
+8 or lead apprenticeship sponsor is canceled, suspended, or
+9 deregistered, the apprenticeship sponsor, intermediary sponsor,
+10 or lead apprenticeship sponsor shall have the right to reapply
+11 for a registration after sixty days.
+12 Sec. ___. Section 84D.7, Code 2026, is amended to read as
+13 follows:
+14 84D.7 Requirements for sponsors and employers.
+15 A sponsor of a quality pre-apprenticeship program,
+16 youth apprenticeship program, registered apprenticeship
+17 program, or apprenticeship program is responsible for the
+18 administration and supervision of on-the-job training and
+19 related technical instruction for each apprentice in the
+20 quality pre-apprenticeship program, youth apprenticeship
+21 program, registered apprenticeship program, or apprenticeship
+22 program. When training is provided by a lead apprenticeship
+23 sponsor or intermediary sponsor, the employer of the apprentice
+24 is responsible for the administration and supervision of
+25 on-the-job training, and the lead apprenticeship sponsor or
+26 intermediary sponsor is responsible for related technical
+27 instruction for each apprenticeship.
+28 DIVISION ___
+29 IOWA PLUMBER, MECHANICAL PROFESSIONAL, AND CONTRACTOR LICENSING
+30 ACT —— APPRENTICESHIPS
+31 Sec. ___. Section 105.18, Code 2026, is amended by adding
+32 the following new subsection:
+33 NEW SUBSECTION. 5. Regulation of apprenticeships.
+34 a. A licensed journeyperson or master may employ or
+35 supervise licensed apprentices at a ratio not to exceed three
+SF 2168.3907 (3) 91
+-3- je/js 3/14
+
+1 apprentices to one licensee.
+2 b. The requirements of this section do not apply to
+3 apprenticeship classroom training.
+4 DIVISION ___
+5 IOWA APPRENTICESHIP ACT
+6 Sec. ___. Section 84E.2, Code 2026, is amended by adding the
+7 following new subsection:
+8 NEW SUBSECTION. 8A. “Intermediary sponsor” means the same
+9 as defined in section 84D.2.
+10 Sec. ___. Section 84E.4, subsections 1, 2, 3, and 4, Code
+11 2026, are amended to read as follows:
+12 1. a. An apprenticeship sponsor, intermediary sponsor, or
+13 lead apprenticeship sponsor that conducts an apprenticeship
+14 program that is registered with the United States department of
+15 labor, office of apprenticeship, through Iowa, for apprentices
+16 who will be employed at worksites located in this state may
+17 apply to the department for financial assistance under this
+18 section if the apprenticeship program includes a minimum of one
+19 hundred contact hours per apprentice for each training year of
+20 the apprenticeship program.
+21 b. Financial assistance received by an apprenticeship
+22 sponsor, intermediary sponsor, or lead apprenticeship
+23 sponsor under this section shall be used only for the cost of
+24 conducting and maintaining an apprenticeship program.
+25 c. An apprenticeship sponsor whose apprentices receive
+26 contact hours from a lead apprenticeship sponsor is not
+27 eligible for financial assistance under this chapter.
+28 2. The department shall provide financial assistance in the
+29 form of training grants to eligible apprenticeship sponsors,
+30 intermediary sponsors, or lead apprenticeship sponsors in the
+31 following manner:
+32 a. By determining the total amount of funding allocated
+33 for purposes of training grants for apprenticeship programs
+34 pursuant to section 84E.3.
+35 b. By determining the total number of apprentices trained
+SF 2168.3907 (3) 91
+-4- je/js 4/14
+
+1 during the most recent training year, as calculated on the
+2 last day of the training year, in all apprenticeship programs
+3 conducted by all applying apprenticeship sponsors, intermediary
+4 sponsors, or lead apprenticeship sponsors eligible to apply for
+5 financial assistance under subsection 1.
+6 c. By determining the total number of apprentices trained
+7 during the most recent training year, as calculated on the
+8 last day of the training year, in each apprenticeship program
+9 conducted by each apprenticeship sponsor, intermediary
+10 sponsor, or lead apprenticeship sponsor eligible to apply under
+11 subsection 1, and that applied for financial assistance under
+12 subsection 1.
+13 d. By determining the proportion, stated as a percentage,
+14 that each applying apprenticeship sponsor’s, intermediary
+15 sponsor’s, or lead apprenticeship sponsor’s total calculated
+16 pursuant to paragraph “c” bears to all applying apprenticeship
+17 sponsors’, intermediary sponsors’, or lead apprenticeship
+18 sponsors’ total calculated pursuant to paragraph “b”.
+19 e. By multiplying the percentage calculated in paragraph “d”
+20 by the amount determined in paragraph “a”.
+21 3. An apprenticeship sponsor, intermediary sponsor, or
+22 lead apprenticeship sponsor seeking financial assistance under
+23 this section shall provide the following information to the
+24 department:
+25 a. The federal apprentice registration number of each
+26 apprentice in the apprenticeship program.
+27 b. The address and a description of the physical location
+28 where in-person training is conducted.
+29 c. A certification of the apprenticeship sponsor’s or
+30 intermediary sponsor’s training standards as most recently
+31 approved by the United States department of labor, office
+32 of apprenticeship or, in the case of a lead apprenticeship
+33 sponsor, a representative sample of participating members’
+34 training standards.
+35 d. A certification of the apprenticeship sponsor’s or
+SF 2168.3907 (3) 91
+-5- je/js 5/14
+
+1 intermediary sponsor’s compliance review or quality assessment
+2 as most recently conducted by the United States department of
+3 labor, office of apprenticeship, unless the apprenticeship
+4 sponsor has not been subjected to a compliance review or
+5 quality assessment. In the case of a lead apprenticeship
+6 sponsor, a sampling of compliance reviews or quality
+7 assessments from participating members shall be sufficient.
+8 e. Any other information the department reasonably
+9 determines is necessary.
+10 4. The apprenticeship sponsor, intermediary sponsor, or
+11 lead apprenticeship sponsor and the department shall enter
+12 into an agreement regarding the provision of any financial
+13 assistance to the apprenticeship sponsor, intermediary sponsor,
+14 or lead apprenticeship sponsor.
+15 Sec. ___. Section 84G.3, subsection 2, Code 2026, is amended
+16 to read as follows:
+17 2. For the fiscal year beginning July 1, 2023 2026,
+18 and for each fiscal year thereafter, there is annually
+19 appropriated from the workforce development fund account to
+20 the apprenticeship training program fund created in section
+21 84E.3 three four million five hundred thousand dollars for the
+22 purposes of chapter 84E.
+23 Sec. ___. Section 422.16A, Code 2026, is amended to read as
+24 follows:
+25 422.16A Job training withholding —— certification and
+26 transfer.
+27 Upon the completion by a business of its repayment
+28 obligation for a training project funded under chapter 260E,
+29 including a job training project funded under section 260J.2
+30 or repaid in whole or in part by the supplemental new jobs
+31 credit from withholding under section 260J.1 or section
+32 15E.197, Code 2014, the sponsoring community college shall
+33 report to the department of workforce development the amount
+34 of withholding paid by the business to the community college
+35 during the final twelve months of withholding payments. The
+SF 2168.3907 (3) 91
+-6- je/js 6/14
+
+1 department of workforce development shall notify the department
+2 of revenue of that amount. The department of revenue shall
+3 credit to the workforce development fund account established in
+4 section 84G.3 twenty-five percent of that amount each quarter
+5 for a period of ten years. If the amount of withholding from
+6 the business or employer is insufficient, the department of
+7 revenue shall prorate the quarterly amount credited to the
+8 workforce development fund account. The maximum amount from
+9 all employers which shall be transferred to the workforce
+10 development fund account in any year is seven nine million
+11 seven two hundred fifty thousand dollars.
+12 DIVISION ___
+13 CAREER TRAINING PHYSICAL EXPANSION PROGRAM
+14 Sec. ___. Section 84A.5, subsection 5, Code 2026, is amended
+15 by adding the following new paragraph:
+16 NEW PARAGRAPH. m. The career training physical expansion
+17 program under chapter 84J.
+18 Sec. ___. NEW SECTION. 84J.1 Definition.
+19 As used in this chapter, “department” means the department of
+20 workforce development.
+21 Sec. ___. NEW SECTION. 84J.2 Career training physical
+22 expansion program.
+23 1. A career training physical expansion program is created
+24 that shall be administered by the department. The purpose of
+25 the program is to provide financial assistance for construction
+26 of new facilities and procurement of equipment that will
+27 expand the capacity of community colleges and unionized and
+28 nonunionized private sector apprenticeship programs to provide
+29 education and training for workers in high-demand fields in
+30 this state.
+31 2. The department shall establish eligibility requirements,
+32 award criteria, and application and other necessary procedures
+33 for the program. To be eligible for financial assistance, a
+34 community college or apprenticeship program must demonstrate
+35 to the department that construction of the new facility or
+SF 2168.3907 (3) 91
+-7- je/js 7/14
+
+1 procurement of equipment will directly result in an increase
+2 in the number of workers in high-demand fields in this state
+3 by expanding the physical capacity of the community college or
+4 apprenticeship program to train more students or apprentices in
+5 such fields. The community college or apprenticeship program
+6 must also demonstrate that there is employer demand in this
+7 state for the training to be provided. Projects to increase
+8 internet-based education or training shall be ineligible for
+9 financial assistance.
+10 3. The department shall give priority for financial
+11 assistance to community colleges or apprenticeship programs
+12 that demonstrate the training for which the physical capacity
+13 will be expanded is nonduplicative of training offered by other
+14 community colleges or apprenticeship programs in this state.
+15 Sec. ___. NEW SECTION. 84J.3 Career training physical
+16 expansion program fund —— appropriation.
+17 1. A career training physical expansion program fund is
+18 created as a fund in the state treasury under the control of
+19 the department.
+20 2. The fund shall consist of moneys appropriated for
+21 purposes of the career training physical expansion program,
+22 and any other moneys lawfully available to the department for
+23 purposes of this chapter.
+24 3. Moneys in the fund are appropriated to the department for
+25 the purposes of this chapter.
+26 4. For the fiscal year beginning July 1, 2026, and each
+27 fiscal year thereafter, there is appropriated from the general
+28 fund of the state to the department nine million five hundred
+29 thousand dollars for deposit in the career training physical
+30 expansion program fund.
+31 5. Notwithstanding section 8.33, moneys in the fund at
+32 the close of the fiscal year shall not revert but shall
+33 remain available for expenditure for the purposes designated
+34 for subsequent fiscal years. Notwithstanding section 12C.7,
+35 subsection 2, interest or earnings on moneys in the fund shall
+SF 2168.3907 (3) 91
+-8- je/js 8/14
+
+1 be credited to the fund.
+2 Sec. ___. NEW SECTION. 84J.4 Rules.
+3 The department of workforce development shall adopt rules
+4 pursuant to chapter 17A to administer this chapter.
+5 DIVISION ___
+6 APPRENTICESHIP TRAINING IN SCHOOL DISTRICTS
+7 Sec. ___. NEW SECTION. 279.89 Increasing access to
+8 apprenticeship training.
+9 1. As used in this section, unless the context otherwise
+10 requires:
+11 a. “Apprenticeship sponsor”, “registered apprenticeship
+12 program”, “work-based learning”, and “youth apprenticeship” mean
+13 the same as defined in section 84D.2.
+14 b. “HVAC” means the same as defined in section 105.2.
+15 2. The board of directors of each school district is
+16 encouraged to establish or expand quality pre-apprenticeship
+17 opportunities and youth apprenticeship programs at secondary
+18 schools in partnership with apprenticeship sponsors and the
+19 Iowa office of apprenticeship. Activities boards may pursue
+20 in furtherance of this goal include but are not limited to all
+21 of the following:
+22 a. Aligning existing industrial technology, construction,
+23 electronics, metalwork, and related coursework with
+24 requirements of registered apprenticeship programs.
+25 b. Establishing new coursework in subjects such as plumbing,
+26 HVAC, and math for skilled trades as well as an introductory
+27 course on apprenticeships to prepare students for a wide
+28 variety of opportunities in registered apprenticeship programs.
+29 c. Construction, improvement, or expansion of skilled trade
+30 extension centers to provide additional work-based learning
+31 opportunities.
+32 d. Partnering with apprenticeship sponsors to ensure
+33 curricula for coursework described in paragraphs “a”, “b”, and
+34 “c” are industry-aligned so that such coursework can be credited
+35 toward completion of an apprenticeship.
+SF 2168.3907 (3) 91
+-9- je/js 9/14
+
+1 3. The board of directors of each school district is
+2 encouraged to establish a work-based learning program at
+3 each secondary school. The work-based learning program
+4 shall facilitate implementation of this section and other
+5 pre-apprenticeship, apprenticeship, and work-based learning
+6 initiatives at the school. The work-based learning program
+7 shall be a program that is recognized as a work-based learning
+8 program by the department of education and shall be operated
+9 by trained and credentialed staff who have prior experience
+10 relevant to implementation of quality pre-apprenticeships,
+11 youth apprenticeships, or other work-based learning
+12 initiatives.
+13 4. The board of directors of each school district is
+14 encouraged to pursue funding sources and in-kind contributions
+15 through private sector partnerships and from apprenticeship
+16 sponsors and nonprofit sources to implement this section.
+17 DIVISION ___
+18 HIGH-DEMAND AND HIGH-NEED JOBS AND SCHOLARSHIP ELIGIBILITY
+19 Sec. ___. Section 84A.1B, subsection 3, Code 2026, is
+20 amended to read as follows:
+21 3. Create, and update as necessary every five years, a
+22 list of high-demand jobs statewide for purposes of the future
+23 ready Iowa registered apprenticeship programs created in
+24 chapter 84F, the summer youth intern pilot program established
+25 under section 84A.12, the Iowa employer innovation program
+26 established under section 84A.13, the future ready Iowa skilled
+27 workforce last-dollar scholarship program established under
+28 section 256.228, the future ready Iowa skilled workforce grant
+29 program established under section 256.229, and postsecondary
+30 summer classes for high school students as provided under
+31 section 261E.8, subsection 8. In addition to the list created
+32 by the workforce development board under this subsection,
+33 each community college, in consultation with regional career
+34 and technical education planning partnerships, and with the
+35 approval of the board of directors of the community college,
+SF 2168.3907 (3) 91
+-10- je/js 10/14
+
+1 may identify and maintain a list of not more than five regional
+2 high-demand jobs in the community college region, and shall
+3 share the lists with the workforce development board. The
+4 lists submitted by community colleges under the subsection
+5 may be used in that community college region for purposes of
+6 programs identified under this subsection. The workforce
+7 development board shall have full discretion collaborate
+8 with community colleges to select and prioritize statewide
+9 high-demand jobs after consulting with business and education
+10 stakeholders, as appropriate, and seeking public comment. The
+11 workforce development board may add to the list of high-demand
+12 jobs as it deems necessary. For purposes of this subsection,
+13 “high-demand job” means a job in the state that the board, or
+14 a community college in accordance with this subsection, has
+15 identified in accordance with this subsection. In creating
+16 a list under this subsection, the following criteria, at a
+17 minimum, shall apply:
+18 a. An A competitive entry-level hourly wage of not less than
+19 fourteen dollars.
+20 b. Educational attainment of a qualifying credential up to a
+21 bachelor’s degree.
+22 c. One or both of the following criteria:
+23 (1) Projected annual job openings of at least two hundred
+24 fifty or more during the next five years.
+25 (2) Annual job growth of at least one percent.
+26 Sec. ___. Section 256.228, subsection 1, paragraphs d and f,
+27 Code 2026, are amended to read as follows:
+28 d. “Credential” means a postsecondary certificate, diploma,
+29 or degree, conferring no more than an associate degree, awarded
+30 by an eligible institution and earned in a program of study
+31 that leads to a high-demand high-need job and is authorized
+32 for federal student aid under Tit. IV of the federal Higher
+33 Education Act of 1965, as amended.
+34 f. “Eligible program” means a program of study or an
+35 academic major jointly approved by the commission and the
+SF 2168.3907 (3) 91
+-11- je/js 11/14
+
+1 department of workforce development, in consultation with
+2 an eligible institution, that leads to a credential aligned
+3 with a high-demand high-need job designated by the workforce
+4 development board or a community college and verified by the
+5 department of workforce development pursuant to this section
+6 84A.1B, subsection 3. If the board or a community college
+7 removes a high-demand high-need job from a list created under
+8 this section 84A.1B, subsection 3, an eligible student who
+9 received a scholarship for a program based on that high-demand
+10 high-need job shall continue to receive the scholarship until
+11 achieving a postsecondary credential, up to an associate
+12 degree, as long as the student continues to meet all other
+13 eligibility requirements.
+14 Sec. ___. Section 256.228, subsection 1, paragraph g,
+15 subparagraph (5), Code 2026, is amended to read as follows:
+16 (5) Has a student aid index of less than or equal to
+17 twenty thousand dollars at the time of initial application,
+18 as determined by the application forms submitted pursuant to
+19 subparagraph (2), including the free application for federal
+20 student aid Meets financial need criteria as established by the
+21 commission.
+22 Sec. ___. Section 256.228, subsection 1, Code 2026, is
+23 amended by adding the following new paragraph:
+24 NEW PARAGRAPH. 0i. “High-need job” means an occupation in
+25 Iowa to which at least two of the following apply:
+26 (1) An occupation in which state, local, or regional labor
+27 market forecasting shows occupational demand exceeds the
+28 overall state, local, or regional employer demand metrics,
+29 including job openings, numeric change in the number of persons
+30 in the occupation, and job growth.
+31 (2) An occupation with education or training requirements,
+32 including the completion of an apprenticeship program,
+33 an industry-recognized credential, a short-term college
+34 credential such as a certificate or diploma, a noncredit
+35 college credential or certification, on-the-job training for an
+SF 2168.3907 (3) 91
+-12- je/js 12/14
+
+1 associate degree or higher degree, or an on-the-job credential
+2 or certification.
+3 (3) An occupation for which at least three of five hourly
+4 wage or annual salary measurements for the occupation exceed
+5 the hourly wage or annual salary for all occupations in the
+6 state or community college region.
+7 Sec. ___. Section 256.228, subsection 4, paragraph b, Code
+8 2026, is amended to read as follows:
+9 b. Adopt rules under chapter 17A, in collaboration with
+10 the department of workforce development, for administration of
+11 this section, including but not limited to establishing the
+12 duties and responsibilities of eligible institutions under
+13 the program; defining residence and satisfactory academic
+14 progress for purposes of the program; defining financial need
+15 for purposes of the program; and establishing procedures
+16 for scholarship application, processing, and approval. The
+17 rules shall provide for determining the priority awarding of
+18 scholarships if funds available for purposes of this section
+19 are insufficient to pay all eligible students. Priority shall
+20 be given to fully awarding each eligible student approved for a
+21 scholarship rather than to prorating scholarship awards among
+22 all eligible students.
+23 Sec. ___. Section 256.228, subsection 4, paragraph d, Code
+24 2026, is amended by striking the paragraph and inserting in
+25 lieu thereof the following:
+26 d. Transmit to the department of workforce development the
+27 compilation of information, data, and statistics compiled under
+28 subsection 1, paragraph “e”, subparagraph (6).
+29 Sec. ___. Section 256.228, Code 2026, is amended by adding
+30 the following new subsection:
+31 NEW SUBSECTION. 4A. List of high-need jobs. Beginning July
+32 1, 2026, and every five years thereafter, a community college
+33 shall create a list of high-need jobs in the community college
+34 region, subject to approval of the community college board
+35 of directors, for purposes of the future ready Iowa skilled
+SF 2168.3907 (3) 91
+-13- je/js 13/14
+
+1 workforce last-dollar scholarship program. The community
+2 college shall create the list in consultation with regional
+3 career and technical education planning partnerships. The
+4 board of directors shall submit the list to the state workforce
+5 development board, which shall verify that the jobs in the list
+6 meet the definition of high-need jobs under this section.
+7 DIVISION ___
+8 CAREER AND TECHNICAL SECONDARY AUTHORIZATIONS
+9 Sec. ___. Section 256.146, subsection 26, Code 2026, is
+10 amended to read as follows:
+11 26. a. Adopt rules pursuant to chapter 17A that allow
+12 an individual seeking a career and technical secondary
+13 authorization to apply, and, if eligible, be issued the
+14 secondary authorization prior to accepting an offer of
+15 employment with a school.
+16 b. The board shall limit qualifications for an applicant
+17 for a career and technical secondary authorization to three
+18 thousand hours of recent and relevant experience. The board
+19 shall limit training requirements for an initial authorization
+20 to ethics training.>
+21 2. Title page, by striking lines 1 and 2 and inserting <An
+22 Act relating to workforce matters including apprenticeships
+23 and other career training, unemployment insurance, and
+24 membership of the state workforce development board, making
+25 appropriations, and including effective date>
+26 3. By renumbering as necessary.
+______________________________
+COMMITTEE ON APPROPRIATIONS
+MOHR of Scott, Chairperson
+SF 2168.3907 (3) 91
+-14- je/js 14/14

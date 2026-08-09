@@ -1,0 +1,495 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED SECRETARY OF
+STATE BILL)
+A BILL FOR
+1 An Act relating to the conduct of elections.
+2 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5495XD (4) 91
+ss/ns
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 ELECTION MISCONDUCT —— INVESTIGATION
+3 Section 1. Section 39A.1, Code 2026, is amended by adding
+4 the following new subsection:
+5 NEW SUBSECTION. 2A. For purposes of this chapter, “election
+6 day” includes any day on which voting takes place in person,
+7 including pursuant to section 53.10 or 53.11.
+8 Sec. 2. NEW SECTION. 39A.8 Investigation of election
+9 officials —— notification.
+10 A law enforcement agency or other entity of the state
+11 or a political subdivision of the state that conducts an
+12 investigation of an election, the actions of election
+13 officials, or election misconduct shall immediately notify the
+14 state commissioner, except that the governor shall immediately
+15 be notified of an investigation of the state commissioner.
+16 DIVISION II
+17 CANCELLATION OF VOTER REGISTRATION
+18 Sec. 3. Section 48A.30, subsection 1, Code 2026, is amended
+19 by adding the following new paragraph:
+20 NEW PARAGRAPH. i. The registration has been designated
+21 as incomplete, pending, or unconfirmed pursuant to section
+22 48A.37, subsection 2, for ninety days, and the commissioner has
+23 been unable to contact the registrant, or the registrant has
+24 failed to submit sufficient information to complete, verify,
+25 or correct the defect in the registration following contact by
+26 the commissioner.
+27 DIVISION III
+28 ELECTION RECOUNTS —— PUBLIC MEASURES
+29 Sec. 4. Section 50.49, subsections 1 and 2, Code 2026, are
+30 amended to read as follows:
+31 1. A recount for any public measure shall be ordered by the
+32 board of canvassers if a petition requesting a recount is filed
+33 with the state commissioner for a public measure voted on by
+34 the electors of the entire state, or the county commissioner
+35 for all other public measures, not later than three days after
+LSB 5495XD (4) 91
+-1- ss/ns 1/13
+
+S.F. _____ H.F. _____
+1 the completion of the canvass of votes for the election at
+2 which the question appeared on the ballot and the abstracts
+3 prepared pursuant to section 50.24 indicate that the difference
+4 between the affirmative and negative votes cast on the public
+5 measure is less than fifteen hundredths of one percent for a
+6 public measure voted on by the electors of the entire state,
+7 or less than either one percent or fifty votes, whichever is
+8 lesser, for all other public measures. For a public measure
+9 that is not voted on by the electors of the entire state and
+10 that requires the affirmative vote of at least sixty percent of
+11 the votes cast on the public measure, the abstracts prepared
+12 pursuant to section 50.24 must indicate that the difference
+13 between passage and defeat of the public measure is less than
+14 either one percent or fifty votes, whichever is lesser. The
+15 petition shall be signed by the greater of not less than ten
+16 eligible electors or a number of eligible electors equaling
+17 one percent of the total number of votes cast upon the public
+18 measure. Each petitioner must be a person who was entitled to
+19 vote on the public measure in question or would have been so
+20 entitled if registered to vote.
+21 2. The recount shall be conducted by a board which shall
+22 consist of: the commissioner and the commissioner’s staff,
+23 which may include persons employed by the commissioner to tally
+24 ballots during the election.
+25 a. A designee named in the petition requesting the recount.
+26 b. A designee named by the commissioner at or before the
+27 time the board is required to convene.
+28 c. A person chosen jointly by the members designated under
+29 paragraphs “a” and “b”.
+30 Sec. 5. Section 50.49, subsection 3, Code 2026, is amended
+31 to read as follows:
+32 3. The commissioner shall convene the persons designated
+33 under subsection 2, paragraphs “a” and “b”, not later than 9:00
+34 a.m. on the seventh day following the canvass of the election
+35 in question. If those two members cannot agree on the third
+LSB 5495XD (4) 91
+-2- ss/ns 2/13
+
+S.F. _____ H.F. _____
+1 member by 8:00 a.m. on the ninth day following the canvass,
+2 they shall immediately notify the chief judge of the judicial
+3 district in which the canvass is occurring, who shall appoint
+4 the third member not later than 5:00 p.m. on the eleventh day
+5 following the canvass.
+6 DIVISION IV
+7 ELECTION SECURITY
+8 Sec. 6. Section 52.5, subsection 2, Code 2026, is amended
+9 to read as follows:
+10 2. The state commissioner shall formulate, with the advice
+11 and assistance of the examiners, and adopt rules governing the
+12 testing and examination of any optical scan voting system by
+13 the board of examiners. The rules shall prescribe the method
+14 to be used in determining whether the system is suitable for
+15 use within the state and performance standards for voting
+16 equipment in use within the state. The rules shall provide
+17 that all optical scan voting systems approved for use by the
+18 examiners after April 9, 2003, shall meet voting systems
+19 performance and test standards, as adopted by the federal
+20 United States election assistance commission on April 30,
+21 2002, and as deemed adopted by the federal Help America Vote
+22 Act, Pub. L. No. 107-252, §222 116 Stat. 1666. The rules
+23 shall include standards for determining when recertification
+24 is necessary following modifications to the equipment or to
+25 the programs used in tabulating votes, and a procedure for
+26 rescinding certification if a system is found not to comply
+27 with performance standards adopted by the state commissioner.
+28 Sec. 7. NEW SECTION. 52.39 Election equipment —— physical
+29 security.
+30 Election equipment, including election equipment not
+31 currently in use, shall be secured by a tamper-evident seal at
+32 all times.
+33 DIVISION V
+34 SPECIAL PRECINCT ELECTION BOARD
+35 Sec. 8. Section 53.23, subsection 3, paragraph a, Code 2026,
+LSB 5495XD (4) 91
+-3- ss/ns 3/13
+
+S.F. _____ H.F. _____
+1 is amended to read as follows:
+2 a. The commissioner shall set a convening time for the
+3 board of no later than 9:00 a.m. on election day for a general
+4 election or a statewide special election, allowing a reasonable
+5 amount of time to complete counting all absentee ballots by
+6 10:00 p.m. on election day.
+7 DIVISION VI
+8 LOCAL ELECTION FILINGS
+9 Sec. 9. Section 44.8, subsection 1, Code 2026, is amended
+10 to read as follows:
+11 1. Objections filed with the city clerk commissioner
+12 pursuant to section 277.5 or 362.4 or with the commissioner
+13 for an elective city office shall be considered by the mayor
+14 and clerk and one member of the council chosen by the council
+15 by ballot, and a majority decision shall be final as provided
+16 in section 44.7, except as otherwise provided in this section.
+17 However, if the objection is to the certificate of nomination
+18 of either of those city officials, that official shall not pass
+19 upon the objection, but the official’s place shall be filled by
+20 a member of the council against whom no such objection exists,
+21 chosen as above provided.
+22 Sec. 10. Section 44.9, subsections 2, 3, and 5, Code 2026,
+23 are amended to read as follows:
+24 2. In the office of the appropriate commissioner, at least
+25 seventy-four days before the date of the election, except as
+26 otherwise provided in subsection 3, 5, or 6.
+27 3. In the office of the appropriate school board secretary
+28 commissioner in case of a regularly scheduled school election,
+29 at least forty-two days before the day of a regularly scheduled
+30 school election.
+31 5. In the office of the appropriate commissioner or
+32 school board secretary in case of a special election to
+33 fill vacancies, at least twenty-five days before the day of
+34 election.
+35 Sec. 11. Section 44.11, Code 2026, is amended to read as
+LSB 5495XD (4) 91
+-4- ss/ns 4/13
+
+S.F. _____ H.F. _____
+1 follows:
+2 44.11 Vacancies filled.
+3 If a candidate named under this chapter withdraws or dies
+4 before the deadline established in section 44.9, declines
+5 a nomination, or if a certificate of nomination is held
+6 insufficient or inoperative by the officer with whom it
+7 is required to be filed, or in case any objection made to
+8 a certificate of nomination, or to the eligibility of any
+9 candidate named in the certificate, is sustained by the board
+10 appointed to determine such questions, the vacancy or vacancies
+11 may be filled by the convention, or caucus, or in such manner
+12 as such convention or caucus has previously provided. The
+13 vacancy or vacancies shall be filled not less than seventy-six
+14 days before the election in the case of nominations required to
+15 be filed with the state commissioner, not less than sixty-nine
+16 days before the election in the case of nominations required to
+17 be filed with the commissioner, not less than forty-two days
+18 before the election in the case of nominations required to be
+19 filed in the office of the school board secretary with the
+20 commissioner for school elections, and not less than forty-two
+21 days before the election in the case of nominations required to
+22 be filed with the commissioner for city elections.
+23 Sec. 12. Section 275.25, subsection 1, paragraph b, Code
+24 2026, is amended to read as follows:
+25 b. The election shall be conducted as provided in section
+26 277.3, and nomination petitions shall be filed pursuant to
+27 section 277.4, except as otherwise provided in this subsection.
+28 Nomination petitions shall be filed with the secretary of the
+29 board of the existing school district in which the candidate
+30 resides county commissioner of elections described in paragraph
+31 “a” not less than twenty-eight days before the date set for the
+32 special school election. The secretary of the board county
+33 commissioner of elections, or the secretary’s commissioner’s
+34 designee, shall be present in the secretary’s commissioner’s
+35 office until 5:00 p.m. on the final day to file the nomination
+LSB 5495XD (4) 91
+-5- ss/ns 5/13
+
+S.F. _____ H.F. _____
+1 papers. The nomination papers shall be delivered to the
+2 commissioner no later than 5:00 p.m. on the twenty-seventh day
+3 before the election.
+4 Sec. 13. Section 277.4, subsections 1, 3, and 4, Code 2026,
+5 are amended to read as follows:
+6 1. Nomination papers for all candidates for election
+7 to office in each school district shall be filed with the
+8 secretary of the school board county commissioner of elections
+9 not more than seventy-one days nor less than forty-seven days
+10 before the election. Nomination petitions shall be filed
+11 not later than 5:00 p.m. on the last day for filing. If the
+12 school board secretary is not readily available during normal
+13 office hours, the secretary may designate a full-time employee
+14 of the school district who is ordinarily available to accept
+15 nomination papers under this section. On the final date for
+16 filing nomination papers, the office of the school secretary
+17 county commissioner of elections shall remain open until 5:00
+18 p.m.
+19 3. The secretary of the school board county commissioner
+20 of elections shall accept the petition for filing if on its
+21 face it appears to have the requisite number of signatures
+22 and if it is timely filed. The secretary of the school board
+23 county commissioner of elections shall note upon each petition
+24 and affidavit accepted for filing the date and time that the
+25 petition was filed. The secretary of the school board shall
+26 deliver all nomination petitions, together with the complete
+27 text of any public measure being submitted by the board to the
+28 electorate, to the county commissioner of elections on the day
+29 following the last day on which nomination petitions can be
+30 filed, and not later than 12:00 noon on that day.
+31 4. Any person on whose behalf nomination petitions have been
+32 filed under this section may withdraw as a candidate by filing
+33 a signed statement to that effect with the secretary county
+34 commissioner of elections consistent with section 44.9.
+35 Sec. 14. Section 277.5, Code 2026, is amended to read as
+LSB 5495XD (4) 91
+-6- ss/ns 6/13
+
+S.F. _____ H.F. _____
+1 follows:
+2 277.5 Objections to nominations.
+3 1. Objections to the legal sufficiency of a nomination
+4 petition or to the eligibility of a candidate may be filed by
+5 any person who would have the right to vote for a candidate for
+6 the office in question. The objection must be filed with the
+7 secretary of the school board county commissioner of elections
+8 at least forty-two days before the day of the school election.
+9 When objections are filed, notice shall forthwith be given to
+10 the candidate affected, addressed to the candidate’s place
+11 of residence as given on the candidate’s affidavit, stating
+12 that objections have been made to the legal sufficiency of
+13 the petition or to the eligibility of the candidate, and also
+14 stating the time and place the objections will be considered.
+15 2. Objections shall be considered not later than two working
+16 days following the receipt of the objections by the president
+17 of the school board, the secretary of the school board, and
+18 one additional member of the school board chosen by ballot.
+19 If objections have been filed to the nominations of either of
+20 those school officials, that official shall not pass on the
+21 objection. The official’s place shall be filled by a member
+22 of the school board against whom no objection exists. The
+23 replacement shall be chosen by ballot as provided in section
+24 44.7.
+25 Sec. 15. Section 279.6, subsection 1, paragraph b,
+26 subparagraph (1), Code 2026, is amended to read as follows:
+27 (1) If within fourteen days after publication of a notice
+28 required pursuant to paragraph “a” for a vacancy that occurs
+29 more than one hundred eighty days before the next regular
+30 school election, or after the filing period closes pursuant
+31 to section 277.4, subsection 1, for the next regular school
+32 election, there is filed with the secretary of the school
+33 board county commissioner of elections a petition requesting a
+34 special election to fill the vacancy, an appointment to fill
+35 the vacancy is temporary until a successor is elected and
+LSB 5495XD (4) 91
+-7- ss/ns 7/13
+
+S.F. _____ H.F. _____
+1 qualified, and the board shall call a special election pursuant
+2 to section 279.7, to fill the vacancy for the remaining balance
+3 of the unexpired term.
+4 Sec. 16. Section 279.6, subsection 2, Code 2026, is amended
+5 to read as follows:
+6 2. A vacancy shall be filled at the next regular school
+7 election if a member of a school board resigns from the
+8 board not later than forty-five days before the election
+9 and the notice of resignation specifies an effective date
+10 at the beginning of the next term of office for elective
+11 school officials. The president of the board shall declare
+12 the office vacant as of the date of the next organizational
+13 meeting. Nomination papers shall be received filed with the
+14 county commissioner of elections for the unexpired term of
+15 the resigning member. The person elected at the next regular
+16 school election to fill the vacancy shall take office at the
+17 same time and place as the other elected school board members.
+18 Sec. 17. Section 362.4, subsection 3, Code 2026, is amended
+19 to read as follows:
+20 3. Petitions which have been accepted for filing are
+21 valid unless written objections are filed with the city clerk
+22 commissioner within five working days after the petition is
+23 received. The objection process in section 44.8 shall be
+24 followed.
+25 Sec. 18. Section 376.4, subsections 1, 3, 4, 5, and 6, Code
+26 2026, are amended to read as follows:
+27 1. a. An eligible elector of a city may become a candidate
+28 for an elective city office by filing with the county
+29 commissioner of elections responsible under section 47.2
+30 for conducting elections held for the city a valid petition
+31 requesting that the elector’s name be placed on the ballot for
+32 that office, or by filing a valid petition with the designated
+33 city clerk. The petition must be filed not more than
+34 seventy-one days and not less than forty-seven days before the
+35 date of the election, and must be signed by eligible electors
+LSB 5495XD (4) 91
+-8- ss/ns 8/13
+
+S.F. _____ H.F. _____
+1 equal in number to at least two percent of those who voted to
+2 fill the same office at the last regular city election, but not
+3 less than ten persons. However, for those cities which may be
+4 required to hold a primary election, the petition must be filed
+5 not more than eighty-five days and not less than sixty-eight
+6 days before the date of the regular city election. Nomination
+7 petitions shall be filed not later than 5:00 p.m. on the last
+8 day for filing.
+9 b. The petitioners for an individual seeking election from
+10 a ward must be residents of the ward at the time of signing the
+11 petition. An individual is not eligible for election from a
+12 ward unless the individual is a resident of the ward at the
+13 time the individual files the petition and at the time of
+14 election.
+15 c. The county commissioner may designate the city clerk of
+16 a city to receive nomination papers for elective city offices.
+17 If so designated, the city clerk shall have all the duties of
+18 the county commissioner provided in this section.
+19 3. On the final date for filing nomination papers the office
+20 of the county commissioner and the office of the city clerk
+21 designated pursuant to subsection 1 shall remain open until
+22 5:00 p.m.
+23 4. The county commissioner or the city clerk designated
+24 pursuant to subsection 1 shall review each petition and
+25 affidavit of candidacy for completeness following the standards
+26 in section 45.5 and shall accept the petition for filing
+27 if on its face it appears to have the requisite number of
+28 signatures and if it is timely filed. The county commissioner
+29 or the designated city clerk shall note upon each petition and
+30 affidavit accepted for filing the date and time that they were
+31 filed. The county commissioner or the designated city clerk
+32 shall return any rejected nomination papers to the person on
+33 whose behalf the nomination papers were filed.
+34 5. Nomination papers filed with the county commissioner or
+35 the city clerk designated pursuant to subsection 1 shall be
+LSB 5495XD (4) 91
+-9- ss/ns 9/13
+
+S.F. _____ H.F. _____
+1 available for public inspection.
+2 6. The city clerk shall deliver the text of any public
+3 measure being submitted by the city council to the electorate
+4 to the county commissioner of elections. If the county
+5 commissioner has designated the city clerk to receive
+6 nomination papers for elective city offices pursuant to
+7 subsection 1, the city clerk shall deliver the nomination
+8 papers accepted for filing to the county commissioner. The
+9 text of any public measure and nomination papers required to
+10 be delivered under this subsection shall be delivered no later
+11 than the day after the last day on which nomination petitions
+12 can be filed, and not later than 12:00 noon on that day.
+13 Sec. 19. Section 376.10, Code 2026, is amended to read as
+14 follows:
+15 376.10 Contest.
+16 A nomination or election to a city office may be contested in
+17 the manner provided in chapter 62 for contesting elections to
+18 county offices, except that a statement of intent to contest
+19 must be filed with the city clerk county commissioner of
+20 elections within ten days after the nomination or election.
+21 Sec. 20. Section 376.11, subsections 1 and 2, Code 2026, are
+22 amended to read as follows:
+23 1. Write-in votes are permitted to be cast in all elections
+24 for city offices. A person who receives a sufficient number of
+25 write-in votes to be elected to a city office shall be declared
+26 the winner of the election. If the result is a tie vote, lots
+27 shall be drawn pursuant to section 50.44. If a person who was
+28 elected by write-in votes chooses not to serve in that office,
+29 the person shall submit a resignation in writing to the city
+30 clerk county commissioner of elections not later than 5:00 p.m.
+31 on the tenth day following the canvass of the election. If a
+32 person who was elected by write-in votes resigns at a later
+33 time, the office shall be considered vacant at the end of the
+34 term and the council shall fill the vacancy pursuant to the
+35 provisions of section 372.13, subsection 2.
+LSB 5495XD (4) 91
+-10- ss/ns 10/13
+
+S.F. _____ H.F. _____
+1 2. Except in cities where the council has chosen a runoff
+2 election in lieu of a primary, following the resignation of
+3 a person who was elected by write-in votes, the city clerk
+4 shall notify the person who received the next highest number
+5 of votes cast for the office that the person may assume the
+6 office. If there is more than one person who received the
+7 next highest number of votes cast for the office, lots shall
+8 be drawn pursuant to section 50.44 to determine the person
+9 who received the next highest number of votes. If the person
+10 accepts the position, the person shall be considered the
+11 duly elected officer unless, within ten days after the clerk
+12 county commissioner of elections has given notice, a petition
+13 requesting a special election is filed by eligible electors of
+14 the city equal in number to twenty-five percent of the number
+15 of persons who voted for the office at the election. If the
+16 person declines, the person shall do so in writing to the city
+17 clerk county commissioner of elections within ten days and the
+18 office shall be considered vacant at the end of the term. The
+19 vacancy shall be filled pursuant to the provisions of section
+20 372.13, subsection 2. If the council chooses to appoint, the
+21 appointment may be made before the end of the current term.
+22 EXPLANATION
+23 The inclusion of this explanation does not constitute agreement with
+24 the explanation’s substance by the members of the general assembly.
+25 This bill relates to the conduct of elections.
+26 DIVISION I —— ELECTION MISCONDUCT —— INVESTIGATION. The
+27 bill defines “election day” for the purposes of election
+28 misconduct to include any day on which voting takes place in
+29 person, including absentee voting at the offices of a county
+30 commissioner of elections or at a satellite absentee voting
+31 station. The bill requires a law enforcement agency or
+32 other entity of a state or political subdivision of the state
+33 that is investigating an election, the actions of election
+34 officials, or election misconduct to immediately notify the
+35 state commissioner of elections, or the governor if the state
+LSB 5495XD (4) 91
+-11- ss/ns 11/13
+
+S.F. _____ H.F. _____
+1 commissioner of elections is under investigation.
+2 DIVISION II —— CANCELLATION OF VOTER REGISTRATION. The
+3 bill requires a voter registration that has been designated as
+4 incomplete, pending, or unconfirmed for 90 days to be canceled
+5 if the county commissioner of elections has been unable to
+6 contact the registrant or the registrant has failed to submit
+7 sufficient information to complete, verify, or correct the
+8 defect in the registration.
+9 DIVISION III —— ELECTION RECOUNTS —— PUBLIC MEASURES. The
+10 bill changes the minimum threshold for conducting a recount
+11 of a public measure that is not voted on by the electors of
+12 the entire state and that requires an affirmative vote of at
+13 least 60 percent of the votes cast on the measure to be a
+14 difference between passage and defeat of at least 1 percent or
+15 50 votes, whichever is lesser. The bill changes the makeup of
+16 a recount board for a public measure to consist of the county
+17 commissioner of elections and the commissioner’s staff, which
+18 may include persons employed by the commissioner to tally
+19 ballots, instead of a designee of the petitioner requesting the
+20 recount, a designee selected by the commissioner, and a third
+21 person chosen jointly by the other designees.
+22 DIVISION IV —— ELECTION SECURITY. The bill updates
+23 references to the United States election assistance commission
+24 and the federal Help America Vote Act. The bill requires all
+25 election equipment, including election equipment that is not
+26 currently in use, to be secured with a tamper-evident seal at
+27 all times.
+28 DIVISION V —— SPECIAL PRECINCT ELECTION BOARD. The bill
+29 requires a county commissioner of elections to set a convening
+30 time for the election board of the absentee ballot and special
+31 voters precinct of no later than 9:00 a.m. on election day
+32 for general and statewide special elections. Under current
+33 law, election boards of absentee ballot and special voters
+34 precincts must be convened by 9:00 a.m. on election day for all
+35 elections.
+LSB 5495XD (4) 91
+-12- ss/ns 12/13
+
+S.F. _____ H.F. _____
+1 DIVISION VI —— LOCAL ELECTION FILINGS. The bill requires
+2 all filings for city and school elections to be made with the
+3 county commissioner of elections and removes the authority of a
+4 county commissioner of elections to designate a city clerk to
+5 accept election filings. The bill also requires objections to
+6 petitions in city elections to be heard by the county auditor,
+7 county treasurer, and county attorney.
+LSB 5495XD (4) 91
+-13- ss/ns 13/13

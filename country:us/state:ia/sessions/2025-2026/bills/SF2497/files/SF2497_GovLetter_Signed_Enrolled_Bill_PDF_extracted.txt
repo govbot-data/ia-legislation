@@ -1,0 +1,1042 @@
+Title: 
+Official Title: 
+Source: versions - Signed Enrolled Bill (PDF)
+Media Type: application/pdf
+
+================================================================================
+
+Kim Reynolds Office of the Governor Chris Cournoyer
+governor lt governor
+June 02, 2026
+The Honorable Paul Pate
+Secretary of State of Iowa
+State Capitol
+Des Moines, Iowa 50319
+Dear Mr. Secretary,
+I hereby transmit:
+Senate File 2497, an Act providing for an assignment of assets for the benefit of
+creditors, exempting the related tax on the transfer of real estate, and including effective
+date provisions.
+The above Senate File is hereby approved on this date.
+Kim Reynolds I
+Governor of Iowa
+cc: Secretary of the Senate
+Clerk of the House
+STATE CAPITOL DES MOINES, IOWA 50319 515.281.5211 WWW.GOVERNOR.IOWA.GOV
+
+fE PRIZE' JR RIGHT«
+i’liiiiinnnii imriHiiniiui .WLL MA1NTAII limitltHMIItïlïi mnim iiiiitiiimiiiHiini iuiiuuniiiii;
+..rJirnnnnmni £ •Minin nnnnnnrj
+:rrii:iïrb?lL "Lidiin/hL — 1
+Senate File 2497
+AN ACT
+PROVIDING FOR AN ASSIGNMENT OF ASSETS FOR THE BENEFIT OF
+CREDITORS, EXEMPTING THE RELATED TAX ON THE TRANSFER OF REAL
+ESTATE, AND INCLUDING EFFECTIVE DATE PROVISIONS.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+DIVISION I
+PRINCIPAL PROVISIONS
+Section 1. NEW SECTION. 681A.1 Title.
+This chapter may be cited as the "Uniform Assignment for
+Benefit of Creditors Act
+
+Senate File 2497, p. 2
+Sec. 2. NEW SECTION. 681A.2 Definitions.
+As used in this chapter, unless the context otherwise
+requires :
+1. "Affiliate" means any of the following:
+a. A person that directly or indirectly owns, controls,
+or holds, with power to vote, twenty percent or more of the
+outstanding voting interests of another person, other than a
+person that holds the interests as any of the following:
+(1) In a fiduciary or agency capacity without sole
+discretionary power to vote the interests.
+(2) Solely to secure a debt, if the person has not in fact
+exercised the power to vote.
+b. A person with twenty percent or more of the person's
+outstanding voting interests directly or indirectly owned,
+controlled, or held, with power to vote, by another person.
+c. A person whose business is operated under a lease
+or operating agreement by another person, or a person
+substantially all of whose assets are controlled by the other
+person.
+d. A person that operates the business or substantially
+all the assets of another person under a lease or operating
+agreement .
+2. a. "Asset" means a legal or equitable interest in
+property of an assignor, regardless of the person holding or in
+possession, custody, or control of the property or where the
+property is located.
+b. "Asset" does not include any of the following:
+(1) A legal or equitable interest in property restricted
+from assignment if the restriction is effective under other
+law, unless the other law permits assignment with the consent
+of another person and the person consents to the assignment in
+a manner permitted by the other law.
+(2) If the assignor is an individual, a legal or equitable
+interest in property to the extent it is exempt from legal
+process under other law.
+3. "Assigned asset" means an asset transferred under an
+assignment .
+4. "Assignee" means a person to which assets are transferred
+under an assignment.
+
+Senate File 2497, p. 3
+5. ''"Assignment" means a transfer by a person of all the
+person's assets to another person for the benefit of the
+transferor's creditors.
+6. ""Assignment agreement" means an agreement that transfers
+or provides for a transfer of all the assignor's assets.
+7. ""Assignment estate" means the assets held at a given time
+by the assignee under an assignment.
+8. ""Assignor" means a person whose assets are transferred
+under an assignment.
+9. ^Claim" means a creditor's right to payment or to an
+equitable remedy, regardless of whether the right is reduced to
+judgment, liquidated, unliquidated, fixed, contingent, matured,
+unmatured, disputed, undisputed, legal, equitable, secured, or
+unsecured.
+10. ""Cohabitant" means each of two individuals not married
+to each other who live together as a couple after each has
+reached the age of majority or been emancipated.
+11. ""Creditor" means a person that has a claim against an
+assigned asset or the assignor.
+12. ""Electronic" means relating to technology having
+electrical, digital, magnetic, wireless, optical,
+electromagnetic, or similar capabilities.
+13. ""Good faith" means honesty in fact and the observance of
+reasonable commercial standards of fair dealing.
+14. ""insider" includes any of the following:
+a. In the case of an individual, any of the following:
+(1) A relative of the individual.
+(2) A partnership or limited liability company in which the
+individual is a general partner or managing member.
+(3) An organization of which the individual is a director,
+officer, or person in control.
+b. In the case of an organization, any of the following:
+(1) A director, officer, manager, or other person in control
+of or with controlling equity interest in the organization.
+(2) A partnership or limited liability company in which the
+organization is a general partner or managing member.
+(3) A general partner or managing member of the
+organization.
+(4) A relative of a general partner, managing member,
+
+Senate File 2497, p. 4
+director, officer, manager, or other person in control of or
+with controlling equity interest in the organization.
+c. An affiliate.
+d. A managing agent of an organization.
+15. "Lien" means an interest in an asset that secures
+payment or performance of an obligation.
+16. "Organization" means a person other than an individual.
+17. "Perfected lien" means a lien on any of the following:
+a. Real property other than fixtures on which a bona fide
+purchaser of the property cannot acquire an interest superior
+to the interest of the lienholder.
+b. Fixtures or property other than real property on which a
+creditor cannot acquire a lien by attachment, levy, or the like
+that is superior to the interest of the lienholder.
+18. a, "Person" means an individual, estate, business
+or nonprofit entity, government or governmental subdivision,
+agency, or instrumentality, or other legal entity.
+b. "Person" includes a protected series, however
+denominated, of an entity if the protected series is
+established under law that limits, or limits if conditions
+specified under law are satisfied, the ability of a creditor
+of the entity or of any other protected series of the entity to
+satisfy a claim from assets of the protected series.
+19. "Proof of claim" means a record a creditor submits to an
+assignee to evidence the creditor's claim.
+20. "Record" means information that is any of the following:
+a. Inscribed on a tangible medium.
+b. Stored in an electronic or other medium and retrievable
+in perceivable form.
+21. "Relative" means an individual related by affinity or
+consanguinity within the third degree or a cohabitant.
+22. "Security interest" means a lien created by an
+agreement .
+23. "Send", in connection with a record or notification,
+means any of the following:
+a. To deposit in the mail, deliver for transmission, or
+transmit by any other usual means of communication, with
+postage or cost of transmission provided for, addressed to any
+address reasonable under the circumstances.
+
+Senate File 2497, p. 5
+b. To cause the record or notification to be received within
+the time it would have been received if properly sent under
+paragraph "a".
+24. "Sign" means, with present intent to authenticate or
+adopt a record by doing any of the following:
+a. To execute or adopt a tangible symbol.
+b, To attach to or logically associate with the record an
+electronic symbol, sound, or process.
+25. a. "State" means a state of the United States, the
+District of Columbia, Puerto Rico, the United States Virgin
+Islands, or any other territory or possession subject to the
+jurisdiction of the United States.
+b. "State" includes a federally recognized Indian tribe.
+26. "Transfer" means disposing of or parting with an
+asset or with an interest in an asset, regardless of whether
+the disposition or parting is indirect, conditional, or
+involuntary.
+Sec. 3. NEW SECTION. 681A.3 Scope.
+This chapter applies to an assignment made by an assignor
+that is any of the following:
+1. An organization whose principal place of business is in
+this state.
+2. An organization whose internal affairs are governed by
+other law of this state.
+3. An individual whose principal residence is in this state.
+4. An organization wholly owned, directly or indirectly, by
+an assignor that satisfies subsection 1, 2, or 3.
+5. An organization, if all of the following apply:
+a. It is partly owned, directly or indirectly, and
+controlled by an assignor that satisfies subsection 1, 2, or 3.
+b. It has no place of business or employees.
+c. It relies on the services the organization receives from
+an assignor that satisfies subsection 1, 2, or 3.
+Sec. 4. NEW SECTION. 681A.4 Requirements for assignee and
+assignment agreement.
+1. An assignee must be all of the following:
+a. A person that is not a creditor, affiliate, or insider of
+the assignor.
+b. A person that is not an affiliate or insider of a
+
+Senate File 2497 p. 6
+r
+creditor of the assignor.
+c. A person that does not have a claim against the
+assignment estate, other than a claim for fees and expenses to
+be paid under the assignment agreement.
+d. A person that does not have a material financial interest
+in the outcome of the assignment, other than a claim for fees
+and expenses to be paid under the assignment agreement.
+e. A person that does not hold an equity interest in the
+assignor other than a noncontrolling interest in a publicly
+traded company.
+f. A person that is not an affiliate of a person that fails
+to satisfy paragraph '“a", "b", "c", "d", or "e".
+2. A person that satisfies subsection 1 is not precluded
+from being an assignee merely because the person performed
+services for the assignor before the assignment.
+3. An assignment agreement must be in a record signed by
+the assignor and the assignee. The record must do all of the
+following:
+a. State the name and address of the assignor and of the
+assignee.
+b. Transfer or provide for a transfer of all the assignor's
+assets .
+c. Describe the assigned assets in sufficient detail to
+identify the assets.
+d. Provide for the distribution of the assignment estate.
+e. Describe the fees to be charged by the assignee in
+connection with the assignment, including the basis on which
+they are to be calculated.
+f. Include a representation by the assignor, under penalty
+of perjury, that the assignor is assigning all the assignor's
+assets .
+4. If an assignee relies in good faith on the assignor's
+representation made under subsection 3, paragraph '*f~ all
+f
+the assignor's assets are deemed to be assigned, even if the
+representation is inaccurate.
+Sec. 5. NEW SECTION. 681A.5 Effect of assignment —- when
+assignment agreement effective.
+1. An assignee obtains the rights, title, and interests of
+the assignor in the assigned assets.
+
+Senate File 2497, p. 7
+2. If the assignor is an organization, an assignee obtains
+the rights, title, and interests of the assignor in assets
+acquired after the assignment.
+3. Except as provided in section 681A.10, subsection 2,
+paragraph "J", an assignee takes each assigned asset subject to
+an existing interest in the asset held by another person.
+4. An assignee holds the assigned assets subject to the
+assignee's duties under section 681A.9.
+5. An assignment is subject to other law under which the
+assignment may be fraudulent or otherwise voidable.
+6. The effective date of an assignment agreement is the
+date the agreement is signed by the last party to the agreement
+that is required to sign the agreement unless a later date is
+identified in the agreement as the effective date.
+Sec. 6. NEW SECTION. 681A.6 Filing, recording, and title
+transfer requirements.
+1. In this section, ''"financing statement" has the same
+meaning as defined in section 554.9102, subsection 1.
+2. An assignee of a legal or equitable interest in personal
+property shall file a financing statement in the filing office
+of any of the following:
+a. This state established for purposes of section 554.9501,
+subsection 1, paragraph "b".
+b. Any other state in which any of the following apply:
+(1) The assignor would be located under section 554.9307 if
+the assignor were a debtor for the purpose of that section.
+(2) An asset of the assignment estate may be located.
+3. A financing statement filed under subsection 2 must
+indicate that it is filed in connection with an assignment.
+4. When filing a financing statement under subsection 2, the
+assignee must do any of the following:
+a. Attach a copy of the assignment agreement to the
+financing statement.
+b. State on the financing statement that a copy of the
+assignment agreement is available on request to the assignee.
+5. A financing statement filed under subsection 2 may do any
+of the following:
+a. Designate the assignor as "debtor" and the assignee as
+"secured party".
+
+Senate File 2497, p. 8
+b. Use the terms "assignor" and "assignee" or words of
+similar import.
+6. The filing of a financing statement under subsection 2 is
+not itself a factor in determining whether an asset secures an
+obligation. The rights of the assignee under the assignment
+are not affected if the assignee does not file a financing
+statement under subsection 2.
+7. An assignee of a legal or equitable interest in real
+property shall record the assignment of the interest or notice
+of the assignment under the real estate recording law of the
+jurisdiction where the property is located.
+8. An assignee shall comply with other law governing the
+transfer of title to an asset.
+9. By signing an assignment agreement, the assignor
+authorizes the assignee to take the actions required by this
+section.
+Sec. 7. NEW SECTION. 681A.7 Notification to creditors.
+1. Unless a creditor waives in a signed record the right
+to notification, an assignee shall send a notification of the
+assignment to each creditor known to the assignee within a
+reasonable time not to exceed thirty days after the effective
+date of the assignment agreement.
+2. The notification must satisfy all of the following
+requirements :
+a. Be in a record signed by the assignee.
+b. Include the assignee's name, address, and other contact
+information reasonably necessary to communicate with the
+assignee.
+c. Provide reasonable instructions for submitting a proof
+of claim using the method established by the assignee under
+section 681A.9, subsection 2, paragraph "e".
+d. Identify the date established under section 681A.9,
+subsection 2, paragraph by which each creditor whose claim
+is not otherwise allowed without a timely proof of claim under
+this chapter must submit a proof of claim.
+3. An assignee shall use reasonable means to provide the
+information in subsection 2 to unknown creditors, including
+by any means the assignor regularly used to do any of the
+following:
+
+Senate File 2497, p. 9
+a. Provide information to the assignor's creditors.
+b. Communicate information about the assignor, other than
+advertising, to the public.
+Sec. 8. NEW SECTION. 681A.8 Duties of assignor.
+1. Subject to section 681A.23, an assignor has a duty
+to take all reasonable actions necessary for the assignee
+to administer the assignment, the assigned assets, and the
+assignment estate.
+2. In furtherance of the duty under subsection 1, the
+assignor shall do all of the following:
+a. Preserve and turn over to the assignee the assigned
+assets in the assignor's possession or control.
+b. Provide to the assignee information reasonably necessary
+to administer the assignment, the assigned assets, and the
+assignment estate.
+c. Sign any record reasonably necessary to transfer an
+assigned asset and comply with any notarization required under
+other law.
+d. Designate, and provide the assignee with the name,
+address, and other contact information reasonably necessary to
+communicate with, an appropriate person willing and able to
+act as a representative on behalf of the assignor as may be
+reasonably necessary to administer the assignment, the assigned
+assets, and the assignment estate.
+e. If the assignment includes a legal or equitable interest
+in real property or titled personal property, cooperate with
+the assignee in taking actions under section 681A.6.
+f. On or as soon as practicable after the effective date of
+the assignment agreement, provide the assignee with all of the
+following :
+(1) A list of all assets.
+(2) A list of all the assignor's employees, including
+those whose employment is terminated in connection with the
+assignment .
+(3) A list of all the assignor's known creditors, including,
+for each creditor, the creditor's address and other contact
+information reasonably necessary to communicate with the
+creditor .
+g. A verification under penalty of perjury the accuracy of
+
+Senate File 2497, p. 10
+the lists required under paragraph "T".
+h. With respect to a legal or equitable interest in property
+restricted from assignment, cooperate with the assignee to
+obtain consent from a person whose consent to assign the
+interest is necessary under other law.
+i. Provide assistance to the assignee as required by the
+assignment agreement.
+3. The duties in this section also apply to a representative
+designated under subsection 2, paragraph ^d".
+Sec. 9. NEW SECTION. 681A.9 Duties of assignee.
+1. Subject to section 681A.23, an assignee has a fiduciary
+duty to the assignment estate for the benefit of creditors to
+do all of the following:
+a. Provide a duty of loyalty, including the duty to manage
+the assignment in good faith.
+b. Use reasonable care to maximize distributions under
+section 681A.15.
+c. Wind up the assignment under section 681A.19 in a manner
+compatible with the best interests of the assignment estate and
+creditors .
+2. Without limitation on the duties under subsection 1, and
+subject to section 681A.23, the assignee also has a duty to do
+all of the following:
+a. Maintain a separate deposit account for funds related to
+the assignment.
+b. Collect on or dispose of each assigned asset, unless
+the assignee determines it is more economically efficient to
+abandon the asset.
+c. Prepare and retain appropriate business records,
+including a record of each receipt, disbursement, and
+collection on or disposition of an assigned asset.
+d. Pay administrative expenses of the assignment estate, to
+the extent the assignment estate has sufficient unencumbered
+assets .
+e. Establish a method that is reasonably designed to permit
+a creditor to submit a proof of claim.
+f. Establish a single date by which creditors whose claims
+are not otherwise allowed without timely proofs of claim under
+this chapter must submit proofs of claim, which must be one
+
+Senate File 2497, p. 11
+hundred twenty days after the effective date of the assignment
+agreement.
+g. Unless a claim would receive minimal or no distribution
+without regard to the claim's validity or asserted priority,
+examine the validity and priority of claims against the
+assignment estate and, if necessary, consult with the
+representative designated by the assignor under section 681A.8,
+subsection 2, paragraph ^d".
+h. At least every six months, provide to each creditor
+a summary of the assets, liabilities, and expenses of the
+assignment estate.
+i. Comply with all requirements of the United States
+internal revenue service and state and local taxing
+authorities .
+j, Send a notification to each creditor of the assignee's
+compensation and any change in the method of determining
+the assignee's compensation from the method provided in the
+assignment agreement.
+k. Send a final accounting under section 681A.19, subsection
+1.
+1. Comply with the other requirements imposed on the
+assignee under this chapter.
+Sec. 10. NEW SECTION. 681A.10 Powers of assignee.
+1. An assignee has the powers necessary or appropriate to
+perform the assignee's duties.
+2. Unless the assignment agreement expressly provides
+otherwise, the assignee has power to do any of the following:
+a. Operate an existing business that uses an assigned asset,
+including preservation of the asset and collection on, or the
+sale, lease, license, or other disposition of, the asset.
+b. Incur secured or unsecured debt and pay expenses
+incidental to the exercise of the power under subsection 1.
+c. Assert a right, claim, cause of action, or defense the
+assignor could have asserted that relates to the assignment
+estate.
+d. Engage professionals, including a professional previously
+engaged by the assignor, to give advice, to prosecute or defend
+litigation, or for other purposes as the assignee considers
+appropriate, and pay professionals reasonable fees for services
+
+Senate File 2497, p. 12
+from the assignment estate.
+e. Collect on, or sell, lease, license, or otherwise dispose
+of, an asset of the assignment estate regardless of whether the
+asset is subject to a lien or other encumbrance.
+f. Exercise a right to redeem an asset of the assignment
+estate that is subject to a mortgage, deed of trust, security
+interest, or other encumbrance.
+g. Settle a matter involving a debtor of the assignor.
+b. Prosecute or defend a litigation pending on the effective
+date of the assignment agreement in favor of or against the
+assignor in the manner and with the same effect as the assignor
+could have done if the assignment had not been made.
+i. Recover an asset in the manner and with the same effect
+as the assignor could have done if the assignment had not been
+made .
+j. Settle claims against the assignment estate.
+k. Abandon an assigned asset.
+1. Subject to subsections 3 and 5, avoid a transfer or the
+incurrence of an obligation which a creditor that has filed
+a proof of claim could have avoided under other law if the
+assignment had not been made.
+m. Invest funds, subject to applicable prudent investor
+standards under other law.
+3. The power under subsection 2, paragraph "1", is exclusive
+to the assignee with respect to a creditor that submits a proof
+of claim. A recovery by the assignee in the exercise of this
+power must be for the benefit of the assignment estate but may
+not exceed the amount, asset, or other value the creditor could
+have obtained by the avoidance.
+4. For the purpose of exercising the assignee's power under
+subsection 2, paragraph "2 ", exercising a voidable-transaction
+remedy, or otherwise establishing the priority of the
+assignee's interest, an assignee has a lien on the assignment
+estate and the status of all of the following:
+a. A lien creditor under section 554.9102, subsection 1,
+paragraph "be", subparagraph (2), as to an asset that is a legal
+or equitable interest in personal property or fixtures.
+b. A bona fide purchaser as to an asset that is a legal
+or equitable interest in real property, other than fixtures,
+
+Senate File 2497, p. 13
+located in this state.
+c. A bona fide purchaser under the law of another state
+as to an asset that is a legal or equitable interest in real
+property, other than fixtures, located in the other state.
+5. An assignee's power under subsection 2, paragraph
+"2 ", to avoid a transfer made before the effective date of
+the assignment agreement, under or in connection with a swap
+agreement, securities contract, commodity contract, forward
+contract, repurchase agreement, or master netting agreement,
+is limited to the extent a trustee would not have the power to
+avoid the transfer under the federal bankruptcy code, 11 U.S.C.
+§101 et seq., as amended.
+6. An assignee shall exercise the powers under this section
+consistent with the assignee's fiduciary duty under section
+681A.9, subsection 1.
+Sec. 11. NEW SECTION. 681A.11 Allowed claim.
+1. An assignee shall allow a creditor's claim if all of the
+following apply:
+a. The creditor submits a proof of claim in compliance with
+section 681A.13.
+b. The assignee does not dispute the claim under section
+681A.12 before final distribution.
+2. An assignee may do any of the following:
+a. Allow a claim, pay a known liquidated claim, or accept
+a notice to the assignee of a claim received by the date
+established by the assignee under section 681A.9, subsection 2,
+paragraph "f", even if the creditor does not submit a proof of
+claim.
+b. Allow and pay a claim evidenced by a late-filed proof of
+claim, if the assignee determines there is a reasonable basis
+for excusing the late filing.
+3. Any unsecured portion of an allowed claim shall be valued
+as of the effective date of the assignment agreement.
+4. A creditor's claim is allowed if the creditor succeeds in
+a dispute under section 681A.12, subsection 2.
+5. Subject to subsection 6, after expiration of the time
+for submitting a proof of claim, the assignee shall create a
+complete list of creditors that have submitted a proof of claim
+in compliance with section 681A.13. For each creditor's claim,
+
+Senate File 2497, p. 14
+the list must state all of the following:
+a. The amount of the claim, if the amount is known to the
+assignee.
+b» Whether the claim is secured or unsecured and, if
+secured, describe the collateral for the claim.
+6. If a class of creditors will receive no distribution on
+account of allowed claims, the assignee shall send a notice
+in a record to each creditor in that class that the creditor
+will receive no distribution instead of the list required in
+subsection 5.
+7. If requested by a creditor or other party with an
+interest in the assignment estate, the assignee shall provide
+the list created under subsection 5 to the person making the
+request to the extent permitted by privacy laws and subject
+to any privacy safeguards the assignee determines in the
+assignee's business judgment are reasonably necessary.
+Sec. 12. NEW SECTION. 681A.12 Disputed and disallowed
+claims.
+1. An assignee may dispute a creditor's claim before final
+distribution by sending notification in a record stating the
+nature of the assignee's dispute to the creditor.
+2. If a dispute cannot be resolved consensually, the
+assignee may commence a proceeding under section 681A.21 to
+disallow the claim. The assignee must commence the proceeding
+before final distribution under section 681A.15. If the
+proceeding is not filed before final distribution, the assignee
+shall allow the claim under section 681A.11.
+3. An assignee shall create a dollar-for-dollar reserve
+for the estimated amount of the potential distribution on a
+disputed claim.
+4. Subject to subsection 2, an assignee shall disallow a
+claim for reimbursement or contribution of a person that is
+liable with the assignor on, or that has secured, the claim,
+to the extent:
+a. The claim against the assignment estate is disallowed.
+b. The claim for reimbursement or contribution is contingent
+as of the time of allowance or disallowance.
+c. The person asserts a right of subrogation to the rights
+of a creditor.
+
+Senate File 2497, p. 15
+5. A claim for reimbursement or contribution of a person
+liable with the assignor on, or that has secured, the claim
+that becomes fixed after the effective date of the assignment
+agreement shall be determined, and shall be allowed or
+disallowed, subject to subsection 2, as if the claim had become
+fixed before the effective date of the assignment agreement.
+6. An assignee may reconsider the assignee's decision
+to allow or disallow a claim for cause. If a reconsidered
+claim is allowed under section 681A.11, before the assignee
+makes additional payments or transfers to other creditors that
+are equal or junior in priority under section 681A.15 to the
+reconsidered claim, the creditor with the reconsidered claim
+shall receive a payment or transfer in an amount proportionate
+in value to the payments or transfers already received by
+the other creditors. This subsection does not modify the
+assignee's right under other law to recover from a creditor
+an excess payment or transfer made to the creditor. If a
+reconsidered claim is disallowed, the assignee shall comply
+with subsections 2 and 3.
+Sec. 13. NEW SECTION. 681A.13 Proof of claim.
+1. A proof of claim must do all of the following:
+a. State the name, address, and other contact information
+reasonably necessary to communicate with the creditor.
+b. State the amount of the claim.
+c. Briefly state the nature of the claim.
+d. Identify any asset of the assignment estate securing the
+claim.
+e. Be signed by the creditor under penalty of perjury.
+f. Include a copy of a record, if any, on which the claim is
+based .
+g. Be submitted using the method established under section
+681A.9, subsection 2, paragraph "e".
+b. Be submitted by the date established by the assignee
+under section 681A.9, subsection 2, paragraph "f".
+2. A proof of claim submitted in compliance with this
+section is prima facie evidence of the validity and amount of
+the claim.
+3. The submission by a creditor of a proof of claim in
+compliance with this section constitutes all of the following:
+
+Senate File 2497, p. 16
+a. The creditor's consent to the jurisdiction of the court
+under section 681A.21.
+b. Assignment to the assignee of any right of the creditor
+to bring a voidable transaction action relating to the
+creditor's claim.
+Sec. 14. NEW SECTION. 681A.14 Rights of transferees.
+1. An assignee's disposition of an asset does all of the
+following:
+a. Transfers to a transferee for value all of the assignee's
+rights in the asset.
+b. Discharges the assignee's lien and, to the extent
+the assignment creates a security interest in favor of the
+assignee, the assignee's security interest.
+c. Discharges any subordinate security interest or other
+lien subordinate to the assignee's lien.
+2. A transferee that acts in good faith takes free of the
+rights and interests described in subsection 1, even if the
+assignee fails to comply with this chapter or the requirements
+of a judicial proceeding.
+3. If a transferee does not take free of the rights and
+interests described in subsection 1, the transferee takes the
+asset subject to all of the following:
+a. The assignee's rights in the assets of the assignment
+estate.
+b. The assignee's lien and, if applicable, security
+interest .
+c. Any other security interest or other lien.
+4. Unless otherwise provided in a record, any warranty
+arising by operation of other law is disclaimed to the extent
+permitted by other law.
+5. If a subordinate security interest or other lien
+is discharged under this section, the assignee may file
+a record with the official or office responsible for
+maintaining an official filing, recording, registration, or
+certificate-of-title system covering the asset secured by
+the security interest or other lien. The record must state
+that the security interest or other lien is discharged as a
+subordinate security interest or other lien in connection with
+a disposition under an assignment for the benefit of creditors
+
+Senate File 2497, p. 17
+of the assignor whose asset is subject to the security interest
+or other lien.
+Sec. 15. NEW SECTION. 681A.15 Distributions.
+1. In this section, ^protected secured creditor" means a
+secured creditor, if all of the following apply to the secured
+creditor's lien:
+a, It is a perfected lien.
+b. It cannot be avoided by the assignee under section
+681A.10, subsection 2, paragraph "7
+c. It is not subordinate to the assignee's lien.
+2. Except as provided in section 681A.16, the assignee shall
+pay claims from the assignment estate allowed under section
+681A.11 in the order of priority stated in this section.
+3. Unless otherwise agreed between the assignee and
+a protected secured creditor, before distributions under
+subsections 4, 5, 6, and 7, and in accordance with the
+priorities of creditors with liens under other law, the
+protected secured creditor shall receive the asset or the
+proceeds from the collection on or disposition of the asset to
+the extent of the value of the protected secured creditor's
+interest in the asset, less the assignee's reasonable and
+necessary expenses of preserving or disposing of the asset
+to the extent the expenses benefit the protected secured
+creditor and are incurred with the protected secured creditor's
+consent or acquiescence. The protected secured creditor has
+an unsecured claim under subsection 7, paragraph ^b", for the
+amount of the claim that remains after deducting the amount
+or value of an asset the protected secured creditor receives
+under this subsection. To the extent a claim is secured by an
+asset the value of which, after the deductions provided under
+this subsection, is greater than the amount of the claim, the
+protected secured creditor may receive interest on the claim
+and any reasonable fees, costs, or charges provided for under
+the agreement or other law under which the claim arose.
+4. After the distributions under subsection 3, the assignee
+shall pay the necessary costs of the administration of the
+assignment estate. The costs include all of the following:
+a. Fees and reimbursements of the expenses of the assignee
+and any professionals engaged by the assignee.
+
+Senate File 2497, p. 18
+b. Post-assignment taxes incurred by the assignee.
+c. Post-assignment rent incurred by the assignee in
+occupying premises on which assets of the assignment estate are
+located or the business of the assignor is conducted.
+d. Post-assignment lease payments incurred by the assignee
+in renting personal property used in the business of the
+assignor .
+e. Amounts required to be paid under the assignment
+agreement for expenses of winding up the assignment under
+section 681A.19.
+5. After the distributions under subsections 3 and 4, the
+assignee shall pay claims entitled to priority under federal
+law including under 31 U.S.C. §3713, as amended, from the
+assignment estate.
+6. After the distributions under subsections 3, 4, and
+5, the assignee shall pay claims from the assignment estate
+for wages, salaries, or commissions earned not more than one
+hundred eighty days before the earlier of the effective date
+of the assignment agreement or the cessation of the assignor's
+business. Payment shall be limited to the greater of the
+following :
+a. The amount of the claim allowed as a priority claim
+ahead of claims of other unsecured creditors under the federal
+bankruptcy code, 11 U.S.C. §101 et seq., as amended.
+b. The amount allowed as a priority claim ahead of claims of
+other unsecured creditors under applicable nonbankruptcy law.
+7. After the distributions under subsections 3, 4, 5, and 6,
+each creditor shall receive a distribution of the assets of the
+assignment estate in the following order of priority:
+a. Unsecured claims entitled to priority ahead of claims of
+other unsecured creditors under other law.
+b. Unsecured claims not entitled to priority.
+8. If the assets available for distribution to claims with
+equal priority under subsection 7 are insufficient to pay the
+total amount of the claims with that priority, each creditor
+with a claim with that priority shall receive a pro rata
+distribution of the available assets based on the proportion
+the amount of the creditor's claim bears to the total amount of
+the claims with that priority.
+
+Senate File 2497, p. 19
+9. If the claims entitled to the distribution under
+subsections 3, 4, 5, 6, and 7 are paid in full, the residue
+shall be distributed to allowed claims evidenced by a
+late-filed proof of claim, other than a late-filed claim
+allowed by the assignee under section 681A.11, subsection 2,
+paragraph "d", and, after the allowed claims evidenced by a
+late-filed proof of claim have been paid in full, as provided
+in the assignment agreement.
+10. An assignee may make interim distributions after
+considering future expenses and the reserves for disputed
+claims established under section 681A.12, subsection 3.
+Sec. 16. NEW SECTION. 681A.16 Claim subordination.
+1. A subordination agreement is enforceable under this
+chapter to the same extent the agreement is enforceable under
+other law.
+2. Subject to subsection 3, all of the following claims are
+subordinate to a claim or interest that is senior or equal in
+priority to a claim or interest represented by a security or
+other equity interest in the assignor or an affiliate of the
+assignor :
+a. A claim arising from rescission of a purchase or sale of
+the security or other equity interest.
+b. A claim for damages arising from the purchase or sale of
+the security or other equity interest.
+c. A claim for reimbursement or contribution allowed on
+account of the rescission or damage claim.
+3. If the security is common stock or another common equity
+interest, a claim subject to subordination under subsection 2
+has the same priority as common stock or another common equity
+interest.
+Sec. 17. NEW SECTION. 681A.17 Liability.
+1. An assignor is not personally liable for an act or
+omission by the assignee.
+2. An assignee is not personally liable for an act or
+omission by the assignor.
+3. A representative designated by an assignor under section
+681A.8, subsection 2, paragraph ^d", is exculpated to the same
+extent as a person acting on behalf of the assignor under other
+law had there been no assignment, except for an act or omission
+
+Senate File 2497, p. 20
+resulting from the representative's gross negligence or willful
+misconduct .
+4. A term of an assignment agreement relieving the assignee
+of liability is unenforceable to the extent the agreement
+relieves the assignee of liability for an act or omission
+committed in bad faith or with reckless indifference to the
+purposes of the assignment or the interests of the creditors of
+the assignment estate.
+5. Subject to subsection 6, an assignee is personally liable
+for breach of a fiduciary duty under section 681A.9, subsection
+1. If the assignee is liable all of the following apply:
+a. The assignee is personally liable to a creditor for an
+individualized harm to the creditor if the harm is not shared
+by all creditors or a class of creditors.
+b, The assignee is personally liable to the assignment
+estate for a harm shared by all creditors or a class of
+creditors.
+6. An assignee is not liable if, in the performance of the
+assignee's duties and exercise of the assignee's powers, the
+assignee relies in good faith on any of the following:
+a. A record of the assignor.
+b. Information, an opinion, a report, or a statement
+presented to the assignee by the assignor's officer or
+employee, a committee of the assignor's board of directors, an
+independent director or manager of the assignor, or another
+representative of the assignor.
+c. Information, an opinion, a report, or a statement
+presented to the assignee by another person that has been
+selected with reasonable care by or on behalf of the assignee
+as to a matter the assignee reasonably believes is within the
+other person's professional or expert competence.
+Sec. 18. NEW SECTION. 681A.18 Assignee removal — successor
+assignee.
+1. The assignor or a creditor may request the district
+court to remove the assignee, if the assignor or creditor has a
+reasonable belief grounds for removal exist under subsection 2.
+2. After a request under subsection 1 or on the district
+court's initiative in an action pending before the court under
+section 681A.21, the court may remove an assignee based on any
+
+Senate File 2497, p. 21
+of the following:
+a. For cause, including the assignee's fraud, dishonesty,
+incompetence, gross mismanagement, or failure to comply with
+this chapter.
+b. If removal of the assignee best serves the interests of
+the creditors.
+3. After an assignee resigns, or is removed, dies, or
+becomes incapacitated, a successor assignee provided for in the
+assignment agreement becomes the assignee, unless the successor
+assignee is not eligible to be an assignee under section
+681A.4, subsection 1, or is subject to removal under subsection
+2. A court shall appoint a successor assignee if any of the
+following apply:
+a. The assignment agreement does not provide for a successor
+assignee.
+b. The successor assignee provided for in the assignment
+agreement is ineligible to be an assignee under section 681A.4,
+subsection 1, or is subject to removal under subsection 2.
+4. Subject to section 681A.17, an assignee that resigns, or
+is removed, dies, or becomes incapacitated, is discharged from
+the assignee's duties under this chapter when the assignee, or
+a representative of a deceased or incapacitated assignee does
+all of the following:
+a. Accounts for and turns over to the successor assignee all
+assets of the assignment estate.
+b. Submits to creditors a report summarizing the receipts
+and disbursements made during the service of the assignee.
+5. Subject to an applicable privilege, a court may order an
+attorney, accountant, or other person that has information in
+a record relating to the assignment estate or the assignor's
+financial affairs to turn over or disclose the record to the
+successor assignee.
+Sec. 19. NEW SECTION. 681A.19 Winding up.
+1. On completion of an assignee's duties, the assignee shall
+send a creditor whose claim is allowed under section 681A.11,
+and not satisfied in full, a final accounting sufficient to
+inform the creditor of all material aspects of the assignment,
+including all of the following:
+a, A description of the actions taken by the assignee under
+
+Senate File 2497, p. 22
+the assignment.
+b. A summary of the assets received by the assignee at the
+commencement of the assignment and the assets received by the
+assignee during the assignment.
+c. A summary of disbursements made by the assignee
+during the assignment for the purpose of administering the
+assignment estate, including the fees charged by the assignee,
+and payments to professionals, for rent, and for business
+purchases .
+d. A summary of collections and dispositions of assets by
+the assignee.
+e. A summary of distributions made or proposed to be made by
+the assignee for creditor claims.
+f. A description of additional work to be done by the
+assignee to complete the administration of the assignment
+estate and the distributions under section 681A.15.
+g. Other information considered reasonably necessary by the
+assignee .
+2. Except as otherwise provided in the final accounting or
+if the assignee has not fulfilled the assignee's duties under
+this chapter, the assignee is discharged from the assignee's
+duties under this chapter when the assignee sends the final
+accounting and distributes all the assets of the assignment
+estate .
+3. If the final accounting describes additional work under
+subsection 1, paragraph "f", the assignee shall exercise the
+powers appropriate to complete the work.
+4. Upon completion of the assignee's duties, the assignor is
+entitled to obtain or effect the termination of any financing
+statement filed by the assignee under section 681A.6 to the
+same extent that a debtor would be entitled to obtain or
+effect the filing of a termination statement under section
+554.9509, subsection 4, paragraph "b", or section 554.9513 upon
+satisfaction of the secured obligations.
+Sec. 20. NEW SECTION. 681A.20 Interstate matters.
+1. Subject to subsection 2, an assignment made under the law
+of another state must be recognized and enforced on an issue
+if the result for the issue would be substantially similar to
+the result for the issue if the assignment had been made under
+
+Senate File 2497, p. 23
+this chapter.
+2. If a claim for wages, salaries, or commissions or a claim
+of a governmental unit exists in another state, for the purpose
+of determining the priority of the claim under section 681A.15,
+subsection 6, paragraph "d", the assignee shall use the amount
+asserted or determined under the law of the other state.
+3. If an assignee determines that a creditor should receive
+the treatment the creditor would receive under an assignment
+made under the law of another state, the assignee may treat the
+creditor as the creditor would be treated in the other state.
+Sec. 21. NEW SECTION. 681A.21 Court action.
+1. A district court may hear and resolve a matter involving
+the administration of an assignment or the exercise of
+an assignee's powers and duties, including a request for
+instructions or approval or to declare rights.
+2. Without limiting the rights of the assignee or a
+creditor or other interested person to request the court
+to hear or resolve a matter under subsection 1, on request
+of the assignee, the court may issue an order relating to
+the administration of the assignment or the exercise of
+the assignee's powers and duties, including an order for
+disposition of an asset or the incurrence of an obligation.
+3. Acceptance of the assignment by the assignee constitutes
+the assignee's consent to the jurisdiction of the court.
+Sec. 22. NEW SECTION. 681A.22 Ancillary assignee.
+1. Subject to other law of this state governing a person
+from another state serving as a fiduciary in this state, the
+district court may appoint a person serving as an assignee in
+an assignment in another state, or the person's nominee, as an
+ancillary assignee relating to assigned assets located in this
+state or subject to the jurisdiction of a court in this state,
+if all of the following apply:
+a. The person or nominee would be eligible to serve as an
+assignee under section 681A.4.
+b. The appointment furthers the person's possession,
+custody, control, or disposition of an assigned asset under the
+assignment in the other state.
+2. The court may issue an order that implements an order
+entered in another state appointing or directing an assignee or
+
+Senate File 2497, p. 24
+otherwise concerning an assignment in the other state.
+3. Unless the court orders otherwise, an ancillary assignee
+appointed under subsection 1 has the rights, powers, and duties
+of an assignee appointed under this chapter.
+4. A person in possession, custody, or control of an
+assigned asset in this state, other than a creditor holding a
+lien or a right of setoff or recoupment relating to the asset,
+shall, on notification in a record by an ancillary assignee
+appointed under subsection 1, turn over the asset to the
+ancillary assignee.
+Sec. 23. NEW SECTION. 681A.23 Provisions variable by
+agreement.
+1. Except as provided in this section and section 681A.10,
+subsection 2, the provisions of this chapter shall not be
+varied by agreement.
+2. The duties under section 681A.8, subsection 1, and
+section 681A.9, subsection 1, shall not be disclaimed by
+agreement. An assignor and the assignee may determine by
+agreement the standards measuring the fulfillment of the
+duties of the assignor under section 681A.8 and the assignee
+under section 681A.9 if the standards are not manifestly
+unreasonable.
+3. Except as provided in section 681A.17, subsection 4, the
+assignment agreement may limit the assignee's liability under
+section 681A.17 and may require the assignee be indemnified by
+the assignment estate.
+4. Except as provided under section 681A.7, subsection 1,
+whenever this chapter requires an action to be taken within
+a reasonable time, a time not manifestly unreasonable may be
+fixed by agreement.
+5. The assignment agreement may provide for duties of the
+assignee in addition to those in this chapter.
+Sec. 24. NEW SECTION. 681A.24 Uniformity of application
+and construction.
+In applying and construing this uniform act, a court shall
+consider the promotion of uniformity of the law among states
+that enact it.
+Sec. 25. NEW SECTION. 681A.25 Relation to Electronic
+Signatures in Global and National Commerce Act.
+
+Senate File 2497, p. 25
+This chapter modifies, limits, or supersedes the Electronic
+Signatures in Global and National Commerce Act, 15 U.S.C. §7001
+et seq., as amended, but does not modify, limit, or supersede
+15 U.S.C. §7001(c), or authorize electronic delivery of any of
+the notices described in 15 U.S.C. §7003(b).
+Sec. 26. NEW SECTION. 681A.26 Transitional provision.
+This chapter applies to an assignment made on or after the
+effective date of this Act.
+Sec. 27. REPEAL. Chapter 681, Code 2026, is repealed.
+DIVISION II
+COORDINATING PROVISIONS
+PART A
+FRANCHISES
+Sec. 28. Section 523H.7, subsection 3, paragraph b, Code
+2026, is amended to read as follows:
+b. All or a substantial part of the assets of the franchise
+or the business to which the franchisee relates are assigned to
+or for the benefit of any creditor which is subject to chapter
+•6Hi 681A. An assignment for the benefit of any creditor
+pursuant to this paragraph does not include the granting of a
+security interest in the normal course of business.
+Sec. 29. Section 537A.10, subsection 7, paragraph c,
+subparagraph (2), Code 2026, is amended to read as follows:
+(2) All or a substantial part of the assets of the franchise
+or the business to which the franchisee relates are assigned to
+or for the benefit of any creditor which is subject to chapter
+681A. An assignment for the benefit of any creditor
+pursuant to this subparagraph does not include the granting of
+a security interest in the normal course of business.
+PART B
+JUDICIAL ADMINISTRATION
+Sec. 30. Section 602.8102, subsection 122, Code 2026, is
+amended to read as follows:
+122. Carry out duties relating to the assignment of property
+for the benefit of creditors as provided in chapter -fr&i 681A.
+PART C
+TRANSFER TAX
+Sec. 31. Section 428A.2, Code 2026, is amended by adding the
+following new subsection:
+
+Senate File 2497, p. 26
+NEW SUBSECTION. 23. The transfer of property from an
+assignor to an assignee pursuant to an assignment agreement
+under chapter 681A.
+DIVISION III
+EFFECTIVE DATE
+Sec. 32. EFFECTIVE DATE. This Act takes effect January 1,
+AMY SINCLAIR PAT GRASS
+President of the Senate Speaker of the House
+I hereby certify that this bill originated in the Senate and
+is known as Senate File 2497, Ninety-first General Assembly.
+iddAÂkûû
+W. CHARLES SMITHSON
+Govern^

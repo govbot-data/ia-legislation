@@ -1,0 +1,151 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5142
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2470
+S-5142
+1 Amend Senate File 2470 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 DESIGNATED CONTRACT MARKET TAX>
+5 2. Page 1, line 35, by striking <an authorized> and
+6 inserting <a>
+7 3. Page 3, line 5, by striking <ten> and inserting <twenty>
+8 4. Page 3, line 8, by striking <Prediction> and inserting
+9 <Designated contract>
+10 5. Page 3, after line 25 by inserting:
+11 <Sec. ___. NEW SECTION. 99H.8 Applicability.
+12 This chapter applies to a designated contract market
+13 permitting persons in this state to trade event-driven
+14 contracts until such time a court of competent jurisdiction,
+15 after all appeals have been exhausted, determines that
+16 event-driven contracts are subject to regulation under chapter
+17 99F.>
+18 6. Page 5, line 18, after <this> by inserting <division of
+19 this>
+20 7. Page 5, line 20, by striking <Act enacting section
+21 422.33> and inserting <division of this Act enacting section
+22 422.35>
+23 8. Page 5, line 23, by striking <prediction> and inserting
+24 <designated contract>
+25 9. Page 5, after line 26 by inserting:
+26 <DIVISION ___
+27 EVENT-DRIVEN CONTRACT EXCISE TAX
+28 Sec. ___. NEW SECTION. 453F.1 Definitions.
+29 As used in this chapter, unless the context otherwise
+30 requires:
+31 1. “Department” means the department of revenue.
+32 2. “Designated contract market” means a digital marketplace
+33 for trading event-driven contracts that is also regulated by
+34 the federal commodity futures trading commission.
+35 3. “Director” means the director of revenue.
+SF 2470.3707 (1) 91
+-1- jm/jh 1/4
+
+1 4. “Economic indicators” means a statistic or data point
+2 about an economic activity that allows an analyst to assess
+3 current economic performance.
+4 5. “Event-driven contract” means a financial derivative
+5 traded on a designated contract market that provides a fixed
+6 binary payout based upon the occurrence or nonoccurrence of a
+7 specific future event that is contingent upon and determined
+8 solely by the definitive outcome of a verifiable specific event
+9 or external measure rather than being based upon the continuous
+10 fluctuation of a security price, commodity value, or interest
+11 rate that may or may not correlate with traditional market
+12 prices or broad economic measures. An “event-driven contract”
+13 is limited to those financial derivatives that provide a fixed
+14 binary payout related to sporting activities, lotteries,
+15 elections, legislative actions, and economic indicators.
+16 6. “Sporting activities” means the outcome of a sporting
+17 event, outcomes within the event, or outcomes surrounding the
+18 event.
+19 7. “Trader” means any person buying or selling event-driven
+20 contracts on a designated contract market.
+21 Sec. ___. NEW SECTION. 453F.2 Scope of chapter.
+22 This chapter does not apply to the pari-mutuel system of
+23 wagering used or intended to be used in connection with the
+24 horse-race or dog-race meetings as authorized under chapter
+25 99D, fantasy sports contests as authorized under chapter
+26 99E, sports wagering authorized under chapter 99F, or other
+27 financial derivatives that are not event-driven contracts.
+28 Sec. ___. NEW SECTION. 453F.3 Event-driven contract excise
+29 tax.
+30 For the privilege of doing business in the state as a
+31 designated contract market, a tax is imposed on the amount
+32 to buy an event-driven contract on a designated contract
+33 market at the rate of twenty percent of the amount to buy the
+34 event-driven contract. The taxes imposed for event-driven
+35 contracts under this chapter shall be collected by the
+SF 2470.3707 (1) 91
+-2- jm/jh 2/4
+
+1 designated contract market and paid to the treasurer of state
+2 as determined by the department.
+3 Sec. ___. NEW SECTION. 453F.4 Revenues.
+4 All revenues generated under this chapter shall be deposited
+5 into the general fund of the state.
+6 Sec. ___. NEW SECTION. 453F.5 Administration.
+7 1. The director shall administer the excise tax imposed
+8 under this chapter as nearly as possible in conjunction with
+9 the administration of the state sales and use tax law, except
+10 that portion of the law that implements the streamlined sales
+11 and use tax agreement. The director shall provide appropriate
+12 forms, or provide on the regular state tax forms, for reporting
+13 event-driven contract excise tax liability, and for ease
+14 of administration may require event-driven contract excise
+15 tax liability to be identified, reported, and remitted to
+16 the department as sales and use tax liability, provided the
+17 department has the ability to properly identify such amounts as
+18 event-driven contract excise tax revenues upon receipt.
+19 2. The director may require all persons who are engaged
+20 in the business of deriving any sales price or purchase
+21 price subject to tax under this chapter to register with
+22 the department. The director may also require a tax permit
+23 applicable only to this section for any designated contract
+24 market not collecting, or any trader not paying, taxes under
+25 chapter 423.
+26 3. Section 422.25, subsection 4, sections 422.30, 422.67,
+27 and 422.68, section 422.69, subsection 1, sections 422.70,
+28 422.71, 422.72, 422.74, and 422.75, section 423.14, subsection
+29 1, and sections 423.23, 423.24, 423.25, 423.31 through 423.35,
+30 423.37, 423.39 through 423.42, and 423.47, consistent with
+31 the provisions of this chapter, shall apply with respect to
+32 the tax authorized under this chapter in the same manner and
+33 with the same effect as if the excise taxes on the trades
+34 were retail sales taxes within the meaning of those statutes.
+35 Notwithstanding this subsection, the director shall provide for
+SF 2470.3707 (1) 91
+-3- jm/jh 3/4
+
+1 monthly filing of returns and for other than monthly filing of
+2 returns both as prescribed in section 423.31.
+3 4. The tax imposed by this chapter shall not apply with
+4 respect to any trades which under the constitution and laws of
+5 the United States may not be made the subject of taxation by
+6 this state.
+7 5. The tax imposed by this chapter shall be in addition to
+8 any other taxes imposed by law.
+9 6. All excise taxes collected under this chapter by any
+10 person are deemed to be held in trust for the state of Iowa.
+11 7. The department shall adopt rules pursuant to chapter 17A
+12 to administer this chapter.
+13 Sec. ___. CONTINGENT EFFECTIVE DATE. This division of this
+14 Act takes effect six months from the date the attorney general
+15 notifies the general assembly and the Code editor that the tax
+16 imposed in section 99H.5, if enacted by this Act, has been
+17 declared unconstitutional or is otherwise unenforceable by the
+18 state, and all appeals have been exhausted.>
+19 10. Title page, line 3, after <revenues> by inserting <or
+20 amounts traded>
+21 11. Title page, line 5, by striking <applicability> and
+22 inserting <contingent effective date, applicability,>
+23 12. By renumbering as necessary.
+______________________________
+DAN DAWSON
+SF 2470.3707 (1) 91
+-4- jm/jh 4/4

@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5073
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2168
+S-5073
+1 Amend Senate File 2168 as follows:
+2 1. Page 8, after line 23 by inserting:
+3 <DIVISION ___
+4 EMPLOYER CONTRIBUTIONS —— LAYOFFS
+5 Sec. ___. Section 96.7, Code 2026, is amended by adding the
+6 following new subsection:
+7 NEW SUBSECTION. 13. Employer contributions —— layoffs. If
+8 an employer engages in a mass layoff as defined in section
+9 84C.2 on or after the effective date of this Act and
+10 subsequently establishes twenty-five or more substantially
+11 similar jobs at a location outside the United States within
+12 one year of the layoff, section 96.1A, subsection 36, Code
+13 2024, and section 96.7, subsection 2, Code 2024, shall apply to
+14 the employer in lieu of the corresponding provisions of this
+15 chapter.>
+16 2. By renumbering as necessary.
+______________________________
+THOMAS TOWNSEND
+SF 2168.3240 (2) 91
+-1- je/js 1/1

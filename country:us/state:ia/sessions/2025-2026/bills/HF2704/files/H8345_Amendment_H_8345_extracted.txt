@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8345
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2704
+H-8345
+1 Amend House File 2704 as follows:
+2 1. Page 2, by striking lines 23 through 25.
+3 2. Page 2, by striking lines 34 and 35 and inserting:
+4 <Sec. ___. Section 915.20A, Code 2026, is amended by adding
+5 the following new subsections:>
+6 3. Page 3, after line 6 by inserting:
+7 <NEW SUBSECTION. 11. Any victim counselor or crime victim
+8 center participating in good faith in the disclosing or not
+9 disclosing of information reasonably related to a clear,
+10 imminent risk of serious physical injury or death of the victim
+11 or another person shall have immunity from any liability, civil
+12 or criminal, arising out of a disclosure or nondisclosure under
+13 this section. The good faith of the victim counselor or crime
+14 victim center shall be presumed.>
+15 4. Page 12, after line 19 by inserting:
+16 <Sec. ___. EFFECTIVE DATE. This division of this Act takes
+17 effect July 1, 2027.>
+18 5. Title page, line 4, after <rights> by inserting <, and
+19 providing effective date provisions>
+20 6. By renumbering as necessary.
+______________________________
+GUSTOFF of Polk
+HF 2704.3942 (1) 91
+-1- as/js 1/1

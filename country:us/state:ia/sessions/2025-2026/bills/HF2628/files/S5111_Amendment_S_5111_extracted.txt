@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5111
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2628
+S-5111
+1 Amend House File 2628, as passed by the House, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 321.194, subsection 7, paragraph a,
+4 subparagraph (1), Code 2026, is amended to read as follows:
+5 (1) Upon receiving satisfactory evidence that the licensee
+6 violated the restrictions of the license or was at fault in an
+7 accident or collision. For purposes of this subparagraph, a
+8 licensee’s inexperience as a driver shall not be considered
+9 when determining whether the licensee is at fault in an
+10 accident or collision.>
+11 2. Page 1, by striking lines 14 through 21 and inserting:
+12 <Sec. ___. APPLICABILITY. This Act applies on and after
+13 March 1, 2027, or the date the department of transportation
+14 submits to the Iowa administrative code editor for publication
+15 in the Iowa administrative bulletin a statement by the director
+16 of transportation that the applicable phase of the department
+17 of transportation’s new records system is implemented,
+18 whichever is earlier. The department shall also forward a copy
+19 of the statement to the Iowa Code editor.>
+20 3. Title page, by striking lines 1 through 3 and inserting
+21 <An Act relating to special minor’s restricted driver’s license
+22 suspensions, including factors considered for suspension and
+23 driving privileges following suspension, and>
+24 4. By renumbering as necessary.
+______________________________
+COMMITTEE ON TRANSPORTATION
+DAN ZUMBACH, CHAIRPERSON
+HF 2628.3483 (2) 91
+-1- th/ns 1/1

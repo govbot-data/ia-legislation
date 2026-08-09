@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8007
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2506
+H-8007
+1 Amend House File 2506 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 99B.15, subsection 1, paragraph e, Code
+5 2026, is amended to read as follows:
+6 e. A prize shall be distributed on the day the prize is won,
+7 except that if the winner is not present, notification to the
+8 winner shall be made as soon as practical within one year of
+9 the prize being awarded.>
+10 2. Title page, by striking lines 1 and 2 and inserting
+11 <An Act relating to prizes awarded by licensed qualified
+12 organizations.>
+______________________________
+LUNDGREN of Dubuque
+HF 2506.2644 (1) 91
+-1- ss/ns 1/1

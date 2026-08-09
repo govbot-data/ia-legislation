@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8052
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2527
+H-8052
+1 Amend House File 2527 as follows:
+2 1. Page 3, after line 1 by inserting:
+3 <Sec. ___. NEW SECTION. 673B.5 Exclusions.
+4 This chapter shall not apply to any of the following:
+5 1. A civil action alleging a private or public nuisance,
+6 if the damages or injury complained of are based on a direct,
+7 localized interference with the use and enjoyment of a property
+8 or a public right.
+9 2. A civil action for which the alleged damages or injury
+10 are caused by a specific weather event, including but not
+11 limited to wind, rain, hail, or flooding, notwithstanding that
+12 such event may be alleged to be partly attributable to climate
+13 change or greenhouse gas emissions.>
+______________________________
+SCHOLTEN of Woodbury
+HF 2527.2931 (1) 91
+-1- da/js 1/1

@@ -1,0 +1,1394 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8491
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2800
+H-8491
+1 Amend House File 2800 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 APPROPRIATIONS, DISTRIBUTIONS, TRANSFERS, AND EXPENDITURE
+6 AUTHORITY
+7 Section 1. LIMITATIONS OF STANDING APPROPRIATIONS —— FY
+8 2026-2027. Notwithstanding the standing appropriation in the
+9 following designated section for the fiscal year beginning July
+10 1, 2026, and ending June 30, 2027, the amount appropriated from
+11 the general fund of the state pursuant to that section for the
+12 following designated purpose shall not exceed the following
+13 amount:
+14 For payment of claims for nonpublic school pupil
+15 transportation under section 285.2:
+16 .................................................. $ 8,997,091
+17 If total approved claims for reimbursement for nonpublic
+18 school pupil transportation exceed the amount appropriated in
+19 accordance with this section, the department of education shall
+20 prorate the amount of each approved claim.
+21 Sec. 2. INSTRUCTIONAL SUPPORT STATE AID —— FY 2026-2027. In
+22 lieu of the appropriation provided in section 257.20,
+23 subsection 2, the appropriation for the fiscal year
+24 beginning July 1, 2026, and ending June 30, 2027, for paying
+25 instructional support state aid under section 257.20 for the
+26 fiscal year is zero.
+27 Sec. 3. DEPARTMENT OF WORKFORCE DEVELOPMENT —— USE
+28 OF FEDERAL INCENTIVE PAYMENTS —— FY 2025-2026 —— FY
+29 2026-2027. For the fiscal year beginning July 1, 2025, and
+30 the fiscal year beginning July 1, 2026, the department of
+31 workforce development may use up to $12,000,000 from incentive
+32 payments made to the state pursuant to the federal Assistance
+33 for Unemployed Workers and Struggling Families Act, Pub. L.
+34 No. 111-5, Div. B, Tit. II, pursuant to a special transfer
+35 under section 903 of the federal Social Security Act, for
+HF 2800.4556 (3) 91
+-1- ns/jh 1/37
+
+1 administration of the unemployment compensation insurance
+2 program and for unemployment compensation insurance systems
+3 modernization.
+4 Sec. 4. DEPARTMENT OF HEALTH AND HUMAN SERVICES INFORMATION
+5 TECHNOLOGY FUND —— TRANSFERS. On July 1, 2026, all of the
+6 following shall be transferred to the information technology
+7 fund created in section 217.25:
+8 1. The unencumbered and unobligated balance, including all
+9 interest and earnings thereon, of the Iowa coronavirus fiscal
+10 recovery fund created in section 8.57G.
+11 2. The unencumbered and unobligated balance, including all
+12 interest and earnings thereon, of moneys available to the state
+13 pursuant to the federal Coronavirus Aid, Relief, and Economic
+14 Security Act, Pub. L. No. 116-136.
+15 Sec. 5. DEPARTMENT OF HEALTH AND HUMAN SERVICES INFORMATION
+16 TECHNOLOGY FUND —— APPROPRIATIONS.
+17 1. There is appropriated from the information technology
+18 fund created in section 217.25 to the department of health and
+19 human services for the fiscal year beginning July 1, 2026, and
+20 ending June 30, 2027, the following amounts, or so much thereof
+21 as is necessary, to be used for the purposes designated:
+22 a. For the Medicaid management information system:
+23 .................................................. $ 31,000,000
+24 b. For the eligibility determination for essential needs
+25 information technology modernization project:
+26 .................................................. $ 30,500,000
+27 c. For information technology projects associated with
+28 child support services:
+29 .................................................. $ 34,000,000
+30 d. (1) For information technology costs associated with
+31 implementation of 2023 Iowa Acts, chapter 104, and 2026 Iowa
+32 Acts, Senate File 2422, if enacted:
+33 .................................................. $ 5,000,000
+34 (2) The appropriation in this paragraph shall be used
+35 to implement 2023 Iowa Acts, chapter 104, if 2026 Iowa Acts,
+HF 2800.4556 (3) 91
+-2- ns/jh 2/37
+
+1 Senate File 2422, is not enacted.
+2 2. Following the appropriations in subsection 1, the
+3 remaining balance of the information technology fund created in
+4 section 217.25 is appropriated to the department of health and
+5 human services for the fiscal year beginning July 1, 2026, and
+6 ending June 30, 2027, to be used for the Medicaid management
+7 information system.
+8 3. Moneys appropriated in this section shall not be used
+9 for maintenance, operations, staffing, or other corporate
+10 technology needs of the department.
+11 Sec. 6. SPECIAL FUNDS —— SALARY ADJUSTMENTS —— FY
+12 2026-2027. For the fiscal year beginning July 1, 2026, and
+13 ending June 30, 2027, salary adjustments otherwise provided
+14 may be funded as determined by the department of management,
+15 subject to any applicable constitutional limitation, using
+16 unappropriated moneys remaining in the commerce revolving
+17 fund, the gaming enforcement revolving fund, the gaming
+18 regulatory revolving fund, the primary road fund, the road
+19 use tax fund, the fish and game protection fund, and the Iowa
+20 public employees’ retirement fund, and in other departmental
+21 revolving, trust, or special funds for which the general
+22 assembly has not made an operating budget appropriation.
+23 Sec. 7. Section 8.57I, subsection 3, Code 2026, is amended
+24 by adding the following new paragraph:
+25 NEW PARAGRAPH. c. (1) For the fiscal year beginning July
+26 1, 2026, and each fiscal year thereafter, there is appropriated
+27 from the sports wagering receipts fund to the department of
+28 health and human services one million dollars to provide a
+29 grant to the Iowa healthiest state initiative to support
+30 the double up food bucks program to make fresh fruits and
+31 vegetables sold at farmers markets, grocery stores, and other
+32 participating locations accessible to individuals and families
+33 who reside in this state and receive assistance through the
+34 federal supplemental nutrition assistance program.
+35 (2) A grant recipient that receives funding pursuant to this
+HF 2800.4556 (3) 91
+-3- ns/jh 3/37
+
+1 paragraph shall provide at least a dollar-for-dollar match of
+2 the grant assistance.
+3 (3) Subsections 5 and 6 do not apply to moneys appropriated
+4 under this paragraph.
+5 Sec. 8. Section 84F.1, subsection 6, paragraph b, Code 2026,
+6 is amended to read as follows:
+7 b. Notwithstanding section 8.33, moneys appropriated to the
+8 department by the general assembly for purposes of this section
+9 that remain unencumbered or unobligated at the end close of
+10 the fiscal year shall not revert to the general fund but shall
+11 remain available for expenditure for the purposes designated
+12 in subsequent fiscal years by the department to operate and
+13 manage the Iowa office of apprenticeship established in section
+14 84D.3 or for other apprenticeship activities deemed appropriate
+15 by the department, not subject to the limitation set forth in
+16 paragraph “a”.
+17 Sec. 9. Section 84F.2, subsection 7, paragraph b, Code 2026,
+18 is amended to read as follows:
+19 b. Notwithstanding section 8.33, moneys appropriated to the
+20 department by the general assembly for purposes of this section
+21 that remain unencumbered or unobligated at the end close of
+22 the fiscal year shall not revert to the general fund but shall
+23 remain available for expenditure for the purposes designated
+24 in subsequent fiscal years by the department to operate and
+25 manage the Iowa office of apprenticeship established in section
+26 84D.3 or for other apprenticeship activities deemed appropriate
+27 by the department, not subject to the limitation set forth in
+28 paragraph “a”.
+29 Sec. 10. Section 257.35, subsection 2, Code 2026, is amended
+30 by striking the subsection and inserting in lieu thereof the
+31 following:
+32 2. The amounts specified for school districts in section
+33 257.10, subsection 7, for the fiscal year beginning July
+34 1, 2026, and each succeeding fiscal year, shall be reduced
+35 by the department of management by thirty-two million five
+HF 2800.4556 (3) 91
+-4- ns/jh 4/37
+
+1 hundred thousand dollars. The department of management shall
+2 calculate a state aid reduction such that such amounts shall be
+3 reduced proportionally to the amount that the district would
+4 otherwise have received under section 257.10, subsection 7.
+5 For the fiscal year beginning July 1, 2027, and each fiscal
+6 year thereafter, from the reduction under this subsection for
+7 that fiscal year there is appropriated ten million dollars to
+8 the department of education for division of special education
+9 general supervision, oversight, compliance, employee salaries,
+10 support, maintenance, and miscellaneous purposes within the
+11 area education agency regions and the department of education
+12 main office.
+13 Sec. 11. Section 257.35, subsections 3, 4, 5, 6, 7, 8, 9,
+14 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, and 20, Code 2026, are
+15 amended by striking the subsections.
+16 Sec. 12. EFFECTIVE DATE. The following, being deemed of
+17 immediate importance, takes effect upon enactment:
+18 The section of this division of this Act providing for
+19 the use of federal incentive payments by the department of
+20 workforce development.
+21 DIVISION II
+22 CORRECTIVE PROVISIONS
+23 Sec. 13. Section 135.61, subsection 16, paragraph a,
+24 subparagraph (1), subparagraph divisions (a) and (b), if
+25 enacted by 2026 Iowa Acts, House File 2635, section 14, are
+26 amended to read as follows:
+27 (a) Beginning on or after January 1, 2027, and before
+28 December 31, 2031, January 1, 2032, four million dollars.
+29 (b) Beginning on or after January 1, 2032, and before
+30 December 31, 2036, January 1, 2037, four million five hundred
+31 thousand dollars.
+32 Sec. 14. Section 135.61, subsection 16, paragraph c,
+33 subparagraphs (1) and (2), if enacted by 2026 Iowa Acts, House
+34 File 2635, section 14, are amended to read as follows:
+35 (1) Beginning on or after January 1, 2027, and before
+HF 2800.4556 (3) 91
+-5- ns/jh 5/37
+
+1 December 31, 2031, January 1, 2032, four million dollars.
+2 (2) Beginning on or after January 1, 2032, and before
+3 December 31, 2036, January 1, 2037, four million five hundred
+4 thousand dollars.
+5 Sec. 15. Section 135.61, subsection 16, paragraph e,
+6 subparagraph (1), subparagraph divisions (a) and (b), if
+7 enacted by 2026 Iowa Acts, House File 2635, section 14, are
+8 amended to read as follows:
+9 (a) Beginning on or after January 1, 2027, and before
+10 December 31, 2031, January 1, 2032, four million dollars.
+11 (b) Beginning on or after January 1, 2032, and before
+12 December 31, 2036, January 1, 2037, four million five hundred
+13 thousand dollars.
+14 Sec. 16. Section 135.61, subsection 16, paragraph f,
+15 subparagraph (1), subparagraph divisions (a) and (b), if
+16 enacted by 2026 Iowa Acts, House File 2635, section 14, are
+17 amended to read as follows:
+18 (a) Beginning on or after January 1, 2027, and before
+19 December 31, 2031, January 1, 2032, four million dollars.
+20 (b) Beginning on or after January 1, 2032, and before
+21 December 31, 2036, January 1, 2037, four million five hundred
+22 thousand dollars.
+23 Sec. 17. Section 135C.6, subsection 1, paragraph b, as
+24 enacted by 2026 Iowa Acts, Senate File 572, section 2, is
+25 amended to read as follows:
+26 b. A supported community living service, as defined in
+27 section 225C.21 249A.38B, is not required to be licensed under
+28 this chapter, but is subject to approval under section 225C.21
+29 249A.38B in order to receive public funding.
+30 Sec. 18. Section 135S.1, subsection 2, if enacted by 2026
+31 Iowa Acts, House File 571, section 2, is amended to read as
+32 follows:
+33 2. “Discrimination” means an adverse action, including but
+34 not limited to any penalty, disciplinary, or retaliatory action
+35 taken against, or a threat of adverse action communicated
+HF 2800.4556 (3) 91
+-6- ns/jh 6/37
+
+1 to, a medical practitioner or health care institution as a
+2 result of the refusal of the medical practitioner or health
+3 care institution to participate in a health care service
+4 on the basis of conscience. “Discrimination” not does not
+5 include the negotiation or purchase of insurance or a health
+6 care service by a nongovernmental entity or individual, the
+7 refusal to use or purchase insurance or a health care service
+8 by a nongovernmental entity or individual, or a health care
+9 institution’s good-faith effort to accommodate a medical
+10 practitioner’s or health care institution’s exercise of
+11 conscience.
+12 Sec. 19. Section 135S.2, subsection 1, paragraph a, if
+13 enacted by 2026 Iowa Acts, House File 571, section 3, is
+14 amended to read as follows:
+15 a. A medical practitioner or health care institution has
+16 the right not to participate in or pay for a health care
+17 service that violates the medical practitioner’s or health
+18 care institution’s conscience. A medical practitioner shall
+19 inform the medical practitioner’s employer of the nature
+20 of the medical’s medical practitioner’s objection based on
+21 the practitioner’s conscience. This paragraph shall not be
+22 construed to waive or modify a duty a medical practitioner or
+23 health care institution may have to participate in a health
+24 care service that does not violate the medical practitioner’s
+25 conscience.
+26 Sec. 20. 2026 Iowa Acts, House File 2562, section 10, if
+27 enacted, is amended by striking the section and inserting in
+28 lieu thereof the following:
+29 SEC. 10. Section 144H.1, subsection 6, as enacted in section
+30 1 of this Act, is amended by striking the subsection and
+31 inserting in lieu thereof the following:
+32 6. “Person authorized to consent” means an individual,
+33 in the same order of priority prescribed in section 144A.7,
+34 subsection 1, paragraph “b”, who shall be guided by the express
+35 or implied intentions of the patient and who is reasonably
+HF 2800.4556 (3) 91
+-7- ns/jh 7/37
+
+1 available, willing, and competent to consent, refuse to
+2 consent, or withdraw consent on a patient’s behalf.
+3 Sec. 21. Section 148.11A, subsection 2, paragraph b, as
+4 enacted by 2026 Iowa Acts, Senate File 2184, section 3, is
+5 amended to read as follows:
+6 b. The board shall adopt rules pursuant to chapter 17A to
+7 set the term of an administrative medicine license, but shall
+8 not require an administrative medicine license to be renewed
+9 more often than once every three years. An administrative
+10 medicine license shall expire on the licensee’s birthday.
+11 Sec. 22. Section 256C.4, subsection 1A, paragraph b, if
+12 enacted by 2026 Iowa Acts, House File 2754, section 87, is
+13 amended to read as follows:
+14 b. For the fiscal year beginning July 1, 2025 2026,
+15 and each succeeding fiscal year, of the amount of state
+16 preschool funding received by a community-based provider
+17 approved to directly participate in the preschool program for
+18 a fiscal year, not more than five percent may be used by the
+19 community-based provider for administering the approved local
+20 program. Outreach activities and rent for facilities not owned
+21 by the community-based provider are permissive uses of the
+22 administrative funds.
+23 Sec. 23. Section 280.37, subsection 3, if enacted by 2026
+24 Iowa Acts, Senate File 2086, section 4, is amended to read as
+25 follows:
+26 3. If the board of directors of a school district or the
+27 authorities in charge of an accredited nonpublic school offer
+28 the elective junior fire fighter program, then the board of
+29 directors of the school district or the authorities in charge
+30 of the accredited nonpublic school shall coordinate with a
+31 local fire department to ensure students are provided with the
+32 appropriate materials and training to successfully complete
+33 all components necessary for fire fighter firefighter I
+34 certification, including the written certification examination
+35 and the practical certification examination.
+HF 2800.4556 (3) 91
+-8- ns/jh 8/37
+
+1 Sec. 24. Section 280.37, subsection 4, paragraph a, if
+2 enacted by 2026 Iowa Acts, Senate File 2086, section 4, is
+3 amended to read as follows:
+4 a. Be designed to prepare students to sit for certification
+5 testing from the fire service training bureau for fire fighter
+6 firefighter I certification.
+7 Sec. 25. Section 307.22A, subsection 6, if enacted by 2026
+8 Iowa Acts, House File 2667, section 2, is amended to read as
+9 follows:
+10 6. The statewide urban design and specifications board
+11 shall publish on the Iowa state university of science and
+12 technology’s internet site an analysis of any changes made
+13 to the statewide urban design and specifications manuals and
+14 provide an estimate of expected cost variations that are likely
+15 to be incurred, if any, by implementing the changes.
+16 Sec. 26. Section 452A.33, subsection 1, paragraph c,
+17 subparagraph (2), Code 2026, as amended by 2026 Iowa Acts,
+18 House File 2643, section 5, is amended to read as follows:
+19 (2) (a) If a retail dealer fails to file a timely filed
+20 report as required by this subsection or fails to maintain
+21 records required to file the report, the department may impose
+22 a civil penalty of not more than one hundred dollars per
+23 occurrence in addition to any other penalty provided by law.
+24 The penalty amount shall be deposited into the general fund of
+25 the state.
+26 (b) A retail dealer who fails to timely file a timely
+27 filed report as required by this subsection for the latest
+28 determination period ending on or before the last day of the
+29 retail dealer’s tax year is also ineligible to claim any tax
+30 credit available under section 422.11O, 422.11P, or 422.11Y for
+31 the tax year.
+32 Sec. 27. Section 514F.8D, subsection 5, if enacted by 2026
+33 Iowa Acts, House File 2635, section 4, is amended to read as
+34 follows:
+35 5. The commissioner of insurance may adopt rules pursuant to
+HF 2800.4556 (3) 91
+-9- ns/jh 9/37
+
+1 chapter 17A to administer and enforce this section.
+2 Sec. 28. Section 537C.9, as enacted by 2026 Iowa Acts, House
+3 File 2497, section 9, is amended to read as follows:
+4 537C.9 Program agreement —— approved parties.
+5 1. A program shall only enter into a program agreement with
+6 the following persons:
+7 1. a. A resident of this state who holds a driver’s license
+8 issued in this state that authorizes the person to operate a
+9 vehicle of the class of the shared vehicle that is the subject
+10 of the program agreement.
+11 2. b. A nonresident of this state who holds a driver’s
+12 license issued by the state or country of the person’s
+13 residence that authorizes the person to operate a vehicle of
+14 the class of the shared vehicle that is the subject of the
+15 program agreement, and is at least the minimum age required by
+16 this state to operate a vehicle of that class.
+17 3. c. A person who is specifically authorized by this state
+18 to operate a vehicle of the class of the shared vehicle that is
+19 the subject of the program agreement.
+20 4. 2. A program shall keep permanent records of all of the
+21 following:
+22 a. The names and address of each shared vehicle driver.
+23 b. The driver’s license number and place of issuance of each
+24 shared vehicle driver, and any other person who may operate a
+25 shared vehicle under a program agreement.
+26 Sec. 29. Section 910.2, subsection 3, as enacted by 2026
+27 Iowa Acts, House File 2697, section 1, is amended to read as
+28 follows:
+29 3. Notwithstanding any other statute or rule of law, with
+30 the consent of the defendant and the prosecuting attorney, the
+31 court may order as part of the dismissal of a public offense
+32 or violation of an ordinance that the defendant pay pecuniary
+33 damages to the victim, and category “B” restitution, which
+34 shall include court costs.
+35 Sec. 30. 2026 Iowa Acts, House File 2739, section 13, is
+HF 2800.4556 (3) 91
+-10- ns/jh 10/37
+
+1 amended to read as follows:
+2 SEC. 13. TEMPORARY PROVISIONS FOR THE HEALTH CARE-RELATED
+3 TAX AND PREPAYMENTS FOR CALENDAR YEAR 2026. Notwithstanding
+4 section 432B.2, subsection 1, if enacted by this division
+5 of this Act, each health care maintenance organization
+6 transacting business in this state shall be subject to a health
+7 care-related tax payable to the director of revenue in an
+8 amount equal to three and one-half percent of the applicable
+9 percentage of taxable funds as defined in section 432B.1,
+10 if enacted by this division of this Act, for the period in
+11 calendar year beginning January 1, 2026, and ending September
+12 30, 2026. The difference between the amount of taxes collected
+13 pursuant to this section and the amount of tax that would be
+14 collected by imposing the rate under section 432B.2, subsection
+15 1, if enacted by this division of this Act, shall not be
+16 subject to prepayment under section 432B.3, subsection 1 2, if
+17 enacted by this division of this Act.
+18 Sec. 31. 2026 Iowa Acts, House File 2757, sections 5 and 6,
+19 if enacted, are amended to read as follows:
+20 SEC. 5. APPLICABILITY. Except as otherwise provided, this
+21 Act applies to tangible personal property or specified digital
+22 projects products sold to or of services furnished to a nuclear
+23 electric generation facility when permissible under section
+24 423.3, subsection 111, paragraph “c”, if enacted by this Act.
+25 SEC. 6. RETROACTIVE APPLICABILITY. This Act applies
+26 retroactively to January 1, 2026, for tangible personal
+27 property or specified digital projects products sold to or of
+28 services furnished to a nuclear electric generation facility
+29 that is undertaking an activity described in section 423.3,
+30 subsection 111, paragraph “a”, subparagraph (1), subparagraph
+31 subdivision (i), if enacted by this Act.
+32 Sec. 32. EFFECTIVE DATE. The following, being deemed of
+33 immediate importance, take effect upon enactment:
+34 1. The section of this division of this Act amending section
+35 256C.4, subsection 1A, paragraph “b”.
+HF 2800.4556 (3) 91
+-11- ns/jh 11/37
+
+1 2. The section of this division of this Act amending 2026
+2 Iowa Acts, House File 2739, section 13.
+3 Sec. 33. RETROACTIVE APPLICABILITY. The following applies
+4 retroactively to the effective date of 2026 Iowa Acts, House
+5 File 2754, if enacted:
+6 The section of this division of this Act amending section
+7 256C.4, subsection 1A, paragraph “b”.
+8 Sec. 34. RETROACTIVE APPLICABILITY. The following applies
+9 retroactively to January 1, 2026, for tax years beginning on
+10 or after that date:
+11 The section of this division of this Act amending 2026 Iowa
+12 Acts, House File 2739, section 13.
+13 DIVISION III
+14 NATIONAL ELECTRICAL CODE
+15 Sec. 35. Section 103.1, Code 2026, is amended by adding the
+16 following new subsection:
+17 NEW SUBSECTION. 12A. “National electrical code” means
+18 the national electrical code, 2023 edition, published by the
+19 national fire protection association, as modified by section
+20 103.1B, and excluding sections 210.52(C)(3), 230.67, and
+21 406.4(D)(4) of the national electrical code, 2023 edition.
+22 Sec. 36. NEW SECTION. 103.1B National electrical code ——
+23 alterations.
+24 For purposes of the national electrical code:
+25 1. Dwelling units. Section 210.8(A) of the national
+26 electrical code, 2023 edition, is amended by requiring that
+27 one hundred twenty-five volt through two hundred fifty volt
+28 receptacles supplied by single-phase branch circuits rated one
+29 hundred fifty volts or less to ground installed in a kitchen
+30 only require ground-fault circuit interrupter protection
+31 for personnel where receptacles are installed to serve the
+32 countertop surfaces and by striking section 210.8(A)(7) of the
+33 national electrical code, 2023 edition. In lieu of basements,
+34 section 210.8(A) of the national electrical code, 2023 edition,
+35 shall apply to unfinished portions or areas of the basement not
+HF 2800.4556 (3) 91
+-12- ns/jh 12/37
+
+1 intended as habitable rooms.
+2 2. Arc-fault circuit interrupters. Notwithstanding section
+3 210.12(B) of the national electrical code, 2023 edition,
+4 arc-fault circuit interrupters shall not be required for
+5 one-family and two-family dwellings and townhouses, and section
+6 210.12(B) of the national electrical code, 2023 edition, shall
+7 not apply to kitchens or laundry areas.
+8 3. Kitchen receptacles on islands and peninsulas. In lieu
+9 of the requirements of section 210.52(C)(2) of the national
+10 electrical code, 2023 edition, an electrical provision or
+11 at least one receptacle shall be installed at each island
+12 and peninsular countertop space with a long dimension of six
+13 hundred millimeters, or twenty-four inches, or greater and a
+14 short dimension of three hundred millimeters, or twelve inches,
+15 or greater, with a peninsular countertop being measured from
+16 the connected perpendicular wall.
+17 4. Load calculations. With respect to section 220.5(C)
+18 of the national electrical code, 2023 edition, the calculated
+19 floor area of a dwelling unit shall additionally exclude
+20 garages.
+21 5. Ceiling outlets. In addition to the requirements of
+22 section 314.27(A)(2) of the national electrical code, 2023
+23 edition, outlet boxes mounted in the ceilings of family
+24 rooms, living rooms, parlors, libraries, dens, bedrooms,
+25 sunrooms, recreation rooms, and similar areas of dwelling
+26 occupancies, and located in an area of the ceiling typical
+27 for the installation of a ceiling-suspended paddle fan shall
+28 be installed to accommodate a ceiling-suspended paddle fan in
+29 accordance with section 314.27(C) of the national electrical
+30 code, 2023 edition.
+31 6. Boxes at ceiling-suspended paddle fan outlets. In lieu
+32 of the second paragraph of section 314.27(C) of the national
+33 electrical code, 2023 edition, where a ceiling-suspended paddle
+34 fan is not installed, the outlet box shall comply with either
+35 section 314.27(C)(1) or 314.27(C)(2) of the national electrical
+HF 2800.4556 (3) 91
+-13- ns/jh 13/37
+
+1 code, 2023 edition.
+2 7. Receptacles near bathtub and shower spaces. In lieu of
+3 the requirements of and exceptions to section 406.9(C) of the
+4 national electrical code, 2023 edition, receptacles shall not
+5 be installed within or directly over a bathtub or shower stall.
+6 8. Ground-fault circuit interrupters. Ground-fault circuit
+7 interrupter protection is not required for receptacles that
+8 serve sump pumps or refrigerators.
+9 Sec. 37. NEW SECTION. 103.1C Electrical code —— amendments
+10 —— limitations.
+11 1. A political subdivision shall not adopt a local
+12 electrical code that is more restrictive than the national
+13 electrical code.
+14 2. Prior to adopting any changes to the national electrical
+15 code pursuant to section 103.6, including but not limited to by
+16 adopting the national electrical code, 2026 edition, published
+17 by the national fire protection association, the board shall
+18 conduct an analysis of the cost to consumers of any significant
+19 changes to the national electrical code. The analysis shall
+20 be submitted to the administrative rules coordinator and
+21 the administrative code editor for publication in the Iowa
+22 administrative bulletin along with the notice of intended
+23 action.
+24 Sec. 38. FUTURE REPEAL. Section 103.1, subsection 12A, and
+25 section 103.1B, as enacted by this division of this Act, are
+26 repealed effective upon the adoption of the national electrical
+27 code, 2026 edition, published by the national fire protection
+28 association, by the electrical examining board. The electrical
+29 examining board shall inform the Iowa Code editor upon the
+30 adoption of the national electrical code, 2026 edition.
+31 Sec. 39. EFFECTIVE DATE. This division of this Act, being
+32 deemed of immediate importance, takes effect upon enactment.
+33 DIVISION IV
+34 LOCAL LAWS —— CIVIL RIGHTS
+35 Sec. 40. Section 216.19, subsection 1, unnumbered paragraph
+HF 2800.4556 (3) 91
+-14- ns/jh 14/37
+
+1 1, Code 2026, as amended by 2026 Iowa Acts, Senate File 579,
+2 section 1, is amended to read as follows:
+3 All cities shall, to the extent possible, protect the rights
+4 of the citizens of this state secured by the Iowa civil rights
+5 Act. A city or local government shall not enact or enforce
+6 any ordinance or other law which is broader or has different
+7 categories of unfair or discriminatory practices than those
+8 provided in this chapter. Nothing in this chapter shall be
+9 construed as indicating any of the following:
+10 DIVISION V
+11 POLITICAL PARTY STATE CENTRAL COMMITTEES
+12 Sec. 41. Section 43.111, subsections 1 and 3, Code 2026, are
+13 amended to read as follows:
+14 1. a. The state convention held by each political party
+15 pursuant to section 43.107 shall adopt a state platform, adopt
+16 or amend a state party constitution, and bylaws if desired, and
+17 transact other business which may properly be brought before
+18 it. A copy of the constitution and any bylaws so adopted
+19 or amended shall be kept on file in the office of the state
+20 commissioner.
+21 b. A state party constitution or bylaws shall not prohibit
+22 an elected official from serving on a state party central
+23 committee.
+24 3. a. The state central committee so selected may organize
+25 at pleasure for political work as is usual and customary with
+26 such committees, adopt bylaws, provide for the governing
+27 of party auxiliary bodies, and shall continue to act until
+28 succeeded by another central committee selected as required by
+29 this section. The receipts and disbursements of each political
+30 party’s state party central committee shall be audited annually
+31 by a certified public accountant selected by the state party
+32 central committee and the audit report shall be filed with the
+33 state commissioner.
+34 b. Each political party’s state central committee shall
+35 elect a chairperson, co-chairperson or vice chairperson,
+HF 2800.4556 (3) 91
+-15- ns/jh 15/37
+
+1 treasurer, and secretary.
+2 DIVISION VI
+3 NOXIOUS WEEDS
+4 Sec. 42. Section 317.1A, subsection 1, paragraph a, Code
+5 2026, is amended by adding the following new subparagraph:
+6 NEW SUBPARAGRAPH. (13) Japanese knotweed (Fallopia
+7 japonica).
+8 DIVISION VII
+9 IOWA STATE FAIR FOUNDATION —— NONRESIDENT DEER HUNTING LICENSE
+10 Sec. 43. Section 483A.24, subsection 3, unnumbered
+11 paragraph 1, Code 2026, is amended to read as follows:
+12 The director shall provide up to one hundred twenty-five
+13 twenty-six nonresident deer hunting licenses for allocation as
+14 provided in this subsection.
+15 Sec. 44. Section 483A.24, subsection 3, Code 2026, is
+16 amended by adding the following new paragraph:
+17 NEW PARAGRAPH. c. One nonresident deer hunting license
+18 shall be allocated as determined by the Iowa state fair
+19 foundation established pursuant to section 173.22.
+20 DIVISION VIII
+21 PROPRIETARY TREATMENT SYSTEMS
+22 Sec. 45. NEW SECTION. 455B.241 Definitions.
+23 As used in this part 3 of subchapter III, unless the context
+24 otherwise requires:
+25 1. “Certified technician” means a person who is certified
+26 in accordance with the manufacturer to monitor, maintain, and
+27 inspect a proprietary treatment system.
+28 2. “Proprietary treatment system” means a system that
+29 is certified by an ANSI-accredited third-party certifier,
+30 including certification meeting standard NSF/ANSI40 for
+31 effluent from class I systems.
+32 Sec. 46. NEW SECTION. 455B.242 Monitoring and maintenance
+33 requirements.
+34 1. A proprietary treatment system shall be inspected,
+35 monitored, and maintained by the certified technician in
+HF 2800.4556 (3) 91
+-16- ns/jh 16/37
+
+1 accordance with the manufacturer’s specifications.
+2 2. All maintenance and visual inspections of a proprietary
+3 treatment system shall be performed by a certified technician.
+4 A manufacturer-certified technician shall report results,
+5 as provided in section 455B.243, to the system owner and to
+6 the applicable administrative authority within thirty days
+7 following the inspection. The certified technician shall also
+8 report any discontinuance or proprietary treatment system
+9 maintenance to the applicable administrative authority. If
+10 the applicable administrative authority is not the department,
+11 the administrative authority must also submit the information
+12 to the department in the form and manner prescribed by the
+13 department.
+14 Sec. 47. NEW SECTION. 455B.243 Reporting.
+15 1. A maintenance and visual inspection report for a
+16 proprietary treatment system, as required under section
+17 455B.242, that was installed on or after January 1, 2018, shall
+18 record at least all of the following information:
+19 a. The date of the inspection.
+20 b. The manufacturer and model of the proprietary treatment
+21 system.
+22 c. Any sign of equipment malfunction, the cause or potential
+23 cause of the malfunction, and any corrective action taken.
+24 d. Results of effluent testing if the proprietary treatment
+25 system is subject to national pollution discharge elimination
+26 system general permit number four for private sewage disposal
+27 systems.
+28 e. If the proprietary treatment system appears to be
+29 functioning incorrectly, the primary cause or causes for the
+30 deficiency, including but not limited to any of the following:
+31 (1) Improper design.
+32 (2) Improper installation.
+33 (3) Lack of required maintenance.
+34 (4) Improper operation or malfunction.
+35 (5) Other damages or conditions contributing to the
+HF 2800.4556 (3) 91
+-17- ns/jh 17/37
+
+1 malfunction that require a repair or replacement.
+2 f. Whether the proprietary treatment system required repair
+3 outside of scheduled maintenance intervals, including the
+4 reason for the repair and whether the system was in a failed
+5 state at the time of repair.
+6 g. Any action taken to bring the proprietary treatment
+7 system back into operation as designed.
+8 h. Maintenance records as required by the manufacturer’s
+9 warranty for the proprietary treatment system.
+10 2. The completed report shall be submitted to the department
+11 by the certified technician in the form and manner prescribed
+12 by the department.
+13 3. The department shall compile the information submitted
+14 pursuant to this section and shall maintain a publicly
+15 accessible database summarizing inspection outcomes and
+16 unscheduled failures or repairs. The information in the
+17 database shall include the name of the proprietary treatment
+18 system, product name, and model design. The database shall not
+19 include personally identifiable information.
+20 4. The department shall not assess any fees associated
+21 with the receipt or collection of reports required under this
+22 section.
+23 Sec. 48. NEW SECTION. 455B.244 Rulemaking authority.
+24 The department may adopt rules as necessary to administer
+25 this part.
+26 Sec. 49. DEPARTMENT OF NATURAL RESOURCES —— PROPRIETARY
+27 TREATMENT SYSTEM REVIEW AND REPORT.
+28 1. The department of natural resources shall review the
+29 information regarding proprietary treatment systems, as defined
+30 in section 455B.241, as enacted by this division of this Act,
+31 reported to the department pursuant to section 455B.243, as
+32 enacted by this division of this Act.
+33 2. The department shall review the information submitted
+34 in annual inspection and maintenance reports, including
+35 proprietary treatment system functionality, causes of
+HF 2800.4556 (3) 91
+-18- ns/jh 18/37
+
+1 deficiencies, and maintenance practices. The department shall
+2 also review any other data the department determines relevant
+3 to evaluating system performance.
+4 3. The review shall include analysis of inspection,
+5 monitoring, and maintenance data collected from July 1,
+6 2026, to December 1, 2028, for purposes of evaluating the
+7 performance, reliability, maintenance needs, and common causes
+8 of malfunction of proprietary treatment systems.
+9 4. The department shall submit to the general assembly on or
+10 before January 10, 2029, a report detailing the department’s
+11 findings and recommendations.
+12 Sec. 50. APPLICABILITY. This division of this Act applies
+13 to the inspection, monitoring, and maintenance of proprietary
+14 treatment systems, as defined in section 455B.241, as enacted
+15 by this division of this Act, performed on or after July 1,
+16 2026.
+17 DIVISION IX
+18 POULTRY ASSOCIATION
+19 Sec. 51. Section 163.3C, subsection 1, paragraph f, Code
+20 2026, is amended to read as follows:
+21 f. The Iowa north central poultry association or its
+22 successor organization.
+23 Sec. 52. Section 165B.5, subsection 2, paragraph e, Code
+24 2026, is amended to read as follows:
+25 e. An event sponsored or sanctioned by the Iowa turkey
+26 marketing council, the Iowa turkey federation, the national
+27 turkey federation, the Iowa north central poultry association
+28 or its successor organization, the Iowa egg council, the
+29 American egg board, or the American poultry association.
+30 Sec. 53. Section 184.2, subsection 4, Code 2026, is amended
+31 to read as follows:
+32 4. Immediately after passage of the question at the
+33 referendum, the secretary shall appoint seven members to the
+34 council in accordance with section 184.6 based on nominations
+35 made by the Iowa north central poultry association or its
+HF 2800.4556 (3) 91
+-19- ns/jh 19/37
+
+1 successor organization. The association shall nominate and
+2 the secretary shall appoint two members representing large
+3 producers, two members representing medium producers, and
+4 three members representing small producers. The department,
+5 in consultation with the association, shall determine initial
+6 classifications for small, medium, and large producers. The
+7 secretary shall complete the appointments within thirty days
+8 following passage of the question at the referendum.
+9 Sec. 54. Section 267.2, subsection 2, paragraph d, Code
+10 2026, is amended to read as follows:
+11 d. One poultry producer appointed by the north central
+12 poultry association, or its successor organization, who shall
+13 serve an initial term of two years.
+14 DIVISION X
+15 HEALTH CARE ACCESS AND INNOVATION TAX CREDIT
+16 Sec. 55. NEW SECTION. 432.12P Health care access and
+17 innovation tax credit.
+18 1. As used in this section:
+19 a. “Department” means the department of revenue.
+20 b. “Domestic insurer” means the same as defined in section
+21 521A.1.
+22 c. “Eligible taxpayer” means a domestic insurer that files
+23 an annual statement pursuant to section 508.11, completes
+24 the national association of insurance commissioner’s health
+25 statement test, and has policies in force issued pursuant to
+26 chapter 513B.
+27 d. “Expenditures” includes programs, payments, or grants.
+28 e. “Health care access and innovation” means expenditures
+29 that support one or more of the following:
+30 (1) Improving access to health care services in rural areas
+31 in this state.
+32 (2) Value-based payments to a health care provider that
+33 provides additional compensation to the health care provider
+34 based on evidence-based metrics of the health care provider’s
+35 patient care or outcomes.
+HF 2800.4556 (3) 91
+-20- ns/jh 20/37
+
+1 (3) Increasing the interoperability or transparency of
+2 health care information to benefit health care consumers and
+3 health care providers.
+4 2. The tax imposed under this chapter shall be reduced by a
+5 health care access and innovation tax credit authorized in this
+6 section for tax years beginning on or after January 1, 2026,
+7 but before January 1, 2034.
+8 3. The amount of the health care access and innovation tax
+9 credit shall equal twenty-five percent of the expenditures that
+10 support health care access and innovation made by an eligible
+11 taxpayer.
+12 4. In order to claim the tax credit for a tax year,
+13 an eligible taxpayer shall apply to the department in a
+14 manner approved by the department, and shall provide any
+15 other information related to the tax credit requested. The
+16 cumulative value of tax credits claimed in each tax year by
+17 applicants shall not exceed three million dollars.
+18 5. The department, in consultation with the department of
+19 insurance and financial services, may adopt rules pursuant to
+20 chapter 17A to administer this section.
+21 Sec. 56. RETROACTIVE APPLICABILITY. This division of this
+22 Act applies retroactively to January 1, 2026, for tax years
+23 beginning on or after that date.
+24 DIVISION XI
+25 ALTERNATIVE NICOTINE AND VAPOR PRODUCTS —— PEDIATRIC CANCER
+26 RESEARCH
+27 Sec. 57. Section 453A.35A, subsection 1, paragraph b,
+28 subparagraph (1), if enacted by 2026 Iowa Acts, Senate File
+29 2480, section 3, is amended to read as follows:
+30 (1) For the fiscal year beginning July 1, 2027, and each
+31 fiscal year thereafter, the first three million dollars
+32 from the amount of tax collected that is attributable to the
+33 additional taxes on alternative nicotine products and vapor
+34 products pursuant to section 453A.43A is appropriated from the
+35 health care trust fund to the state board of regents for the
+HF 2800.4556 (3) 91
+-21- ns/jh 21/37
+
+1 purpose of conducting pediatric cancer research, and clinical
+2 therapy access, and providing physician-scientist leadership at
+3 the state university of Iowa stead family children’s hospital.
+4 Moneys appropriated in this subparagraph shall not be used for
+5 administrative or overhead costs, or activities not directly
+6 related to the purposes designated in this subparagraph.
+7 Sec. 58. Section 453A.45, subsection 5, paragraph c,
+8 unnumbered paragraph 1, Code 2026, as amended by 2026 Iowa
+9 Acts, Senate File 2480, section 8, if enacted, is amended to
+10 read as follows:
+11 c. Common carriers knowingly transporting tobacco products,
+12 alternative nicotine products, or vapor products into this
+13 state shall file with the director reports of all such
+14 shipments other than those which are delivered to public
+15 warehouses of first destination in this state which are
+16 licensed under the provisions of chapter 554. Such reports
+17 shall be filed electronically with the department on or before
+18 the tenth day of each month and shall show with respect to
+19 deliveries made in the preceding month all of the following:
+20 Sec. 59. SPORTS WAGERING RECEIPTS FUND —— PEDIATRIC CANCER
+21 RESEARCH —— FY 2026-2027.
+22 1. There is appropriated from the sports wagering receipts
+23 fund created in section 8.57I to the state board of regents for
+24 the fiscal year beginning July 1, 2026, and ending June 30,
+25 2027, the following amount, or so much thereof as is necessary,
+26 to be used for the purposes designated:
+27 For pediatric cancer research including but not limited to
+28 laboratory research and clinical trials at the university of
+29 Iowa hospitals and clinics, and for providing therapy access at
+30 the state university of Iowa stead family children’s hospital:
+31 .................................................. $ 3,000,000
+32 2. Moneys appropriated in this section shall not be used for
+33 administrative or overhead costs, or activities not directly
+34 related to the purposes designated in this section.
+35 3. The state board of regents shall submit a report to the
+HF 2800.4556 (3) 91
+-22- ns/jh 22/37
+
+1 governor and the general assembly by October 1, 2027, detailing
+2 how the appropriated moneys were used.
+3 4. Section 8.57I, subsections 5 and 6, do not apply to
+4 moneys appropriated in this section.
+5 Sec. 60. CONTINGENT EFFECTIVE DATE. The following take
+6 effect January 1, 2027, if 2026 Iowa Acts, Senate File 2480,
+7 is enacted:
+8 1. The section of this division of this Act amending section
+9 453A.35A.
+10 2. The section of this division of this Act amending section
+11 453A.45.
+12 Sec. 61. CONTINGENT EFFECTIVE DATE. The following takes
+13 effect July 1, 2026, if 2026 Iowa Acts, Senate File 2480, is
+14 enacted:
+15 The section of this division of this Act appropriating
+16 moneys from the sports wagering receipts fund.
+17 DIVISION XII
+18 PUBLIC ASSISTANCE PROGRAMS
+19 Sec. 62. 2026 Iowa Acts, Senate File 2422, if enacted, is
+20 amended by adding the following new section:
+21 NEW SECTION. SEC. 2A. CONTINGENT EFFECTIVE DATE. This
+22 division of this Act takes effect on the date the department of
+23 health and human services implements the supplemental nutrition
+24 assistance program and cash assistance eligibility system known
+25 as the eligibility determination for essential needs system.
+26 The department of health and human services shall notify the
+27 Iowa Code editor of the date of implementation on or before
+28 that date.
+29 Sec. 63. EFFECTIVE DATE. This division of this Act, being
+30 deemed of immediate importance, takes effect upon enactment.
+31 DIVISION XIII
+32 JUDICIAL BRANCH AND COUNTY ATTORNEY SALARIES
+33 Sec. 64. Section 331.752, subsection 5, Code 2026, is
+34 amended to read as follows:
+35 5. The resolution changing the status of a county attorney
+HF 2800.4556 (3) 91
+-23- ns/jh 23/37
+
+1 shall state the initial annual salary to be paid to the county
+2 attorney when the full-time or part-time status is effective.
+3 The annual salary specified in the resolution shall remain
+4 effective until changed as provided in section 331.907. Except
+5 in counties having a population of more than two hundred
+6 thousand, the annual salary of a full-time county attorney
+7 shall be an amount which is between forty-five percent and one
+8 hundred percent of the annual salary received by a district
+9 court judge.
+10 Sec. 65. Section 602.1401, subsections 1 and 5, Code 2026,
+11 are amended to read as follows:
+12 1. The supreme court shall establish, and may amend, a
+13 personnel system and a pay and benefits plan for judicial
+14 officers, the state court administrator, and court employees.
+15 The personnel system shall include a designation by position
+16 title, classification, and function of each position or class
+17 of positions within the judicial branch. Reasonable efforts
+18 shall be made to accommodate the individual staffing and
+19 management practices of the respective clerks of the district
+20 court. The personnel system, in the employment of court
+21 employees, shall not discriminate on the basis of race, creed,
+22 color, sex, national origin, religion, physical disability, or
+23 political party preference. The supreme court, in establishing
+24 the personnel system, shall implement the comparable worth
+25 directives issued by the state court administrator under
+26 section 602.1204, subsection 2. The personnel system
+27 shall include the prohibitions against sexual harassment of
+28 full-time, part-time, and temporary employees set out in
+29 section 19B.12, and shall include a grievance procedure for
+30 discriminatory harassment. The personnel system shall develop
+31 and distribute at the time of hiring or orientation, a guide
+32 that describes for employees the applicable sexual harassment
+33 prohibitions and grievance, violation, and disposition
+34 procedures. This subsection does not supersede the remedies
+35 provided under chapter 216.
+HF 2800.4556 (3) 91
+-24- ns/jh 24/37
+
+1 5. The pay and benefits plan shall set the compensation and
+2 benefits of judicial officers, the state court administrator,
+3 and court employees within the funds appropriated by the
+4 general assembly.
+5 Sec. 66. Section 602.1502, subsection 1, Code 2026, is
+6 amended by striking the subsection.
+7 Sec. 67. Section 602.6808, subsection 1, if enacted by 2026
+8 Iowa Acts, Senate File 639, section 8, is amended to read as
+9 follows:
+10 1. A judge of the business court shall receive the annual
+11 salary set for a district judge under section 602.1501
+12 602.1401.
+13 Sec. 68. Section 602.9104, subsection 1, paragraph a, Code
+14 2026, is amended to read as follows:
+15 a. A judge to whom this article applies shall be paid an
+16 amount equal to the basic salary of the judge as set by the
+17 general assembly pursuant to section 602.1401 reduced by an
+18 amount designated as the judge’s required contribution to the
+19 judicial retirement fund. The amount designated as the judge’s
+20 required contribution shall be paid by the state in the manner
+21 provided in subsection 2.
+22 Sec. 69. Section 602.9204, subsection 1, paragraph a, Code
+23 2026, is amended to read as follows:
+24 a. A judge who retires on or after July 1, 1994, and who
+25 is appointed a senior judge under section 602.9203 shall be
+26 paid a salary as determined by the general assembly pursuant to
+27 section 602.1401.
+28 Sec. 70. Section 602.9303, subsection 1, as enacted by 2026
+29 Iowa Acts, House File 2706, section 30, is amended to read as
+30 follows:
+31 1. A magistrate who retires on or after the effective date
+32 of this division of this Act, and who is appointed a senior
+33 magistrate under section 602.9302, shall be paid a salary
+34 as determined by the general assembly pursuant to section
+35 602.1401.
+HF 2800.4556 (3) 91
+-25- ns/jh 25/37
+
+1 Sec. 71. 2026 Iowa Acts, House File 2769, section 4, if
+2 enacted, is amended to read as follows:
+3 SEC. 4. JUDICIAL OFFICER —— UNPAID LEAVE. Notwithstanding
+4 the annual salary rates for judicial officers established by
+5 2025 Iowa Acts, chapter 158, section 6, pursuant to section
+6 602.1401 for the fiscal year beginning July 1, 2026, and
+7 ending June 30, 2027, the supreme court may by order place all
+8 judicial officers on unpaid leave status on any day employees
+9 of the judicial branch are placed on temporary layoff status.
+10 The biweekly pay of the judicial officers shall be reduced
+11 accordingly for the pay period in which the unpaid leave date
+12 occurred in the same manner as for noncontract employees of the
+13 judicial branch. Through the course of the fiscal year, the
+14 judicial branch may use an amount equal to the aggregate amount
+15 of salary reductions due to the judicial officer unpaid leave
+16 days for any purpose other than for judicial salaries.
+17 Sec. 72. REPEAL. 2026 Iowa Acts, House File 2706, sections
+18 35, 36, and 37, are repealed.
+19 Sec. 73. REPEAL. Section 602.1501, Code 2026, is repealed.
+20 Sec. 74. JUDICIAL OFFICERS —— CURRENT SALARY RATES
+21 SUPERSEDED. For purposes of 2025 Iowa Acts, chapter 158,
+22 section 6, subsection 1, this division of this Act shall be
+23 deemed as the provision of salary rates for judicial officers
+24 by the general assembly for fiscal years subsequent to the
+25 fiscal year beginning July 1, 2025.
+26 Sec. 75. EFFECTIVE DATE. This division of this Act takes
+27 effect June 19, 2026.
+28 DIVISION XIV
+29 CIVIL LITIGATION ABUSE
+30 Sec. 76. NEW SECTION. 611.24 Civil litigation abuse ——
+31 cause of action.
+32 1. As used in this section:
+33 a. “Civil legal process” means a procedure used in a civil
+34 action, including but not limited to filing a petition, issuing
+35 a subpoena, noticing a deposition, or seeking an injunction,
+HF 2800.4556 (3) 91
+-26- ns/jh 26/37
+
+1 attachment, or similar relief.
+2 b. “Private party” means an individual, corporation,
+3 partnership, or other legal entity that is not acting on behalf
+4 of a governmental body.
+5 c. “Ulterior purpose” means using a civil legal process
+6 mainly to obtain a result the civil legal process was not
+7 intended to achieve, including but not limited to coercing
+8 action on an unrelated matter, interfering with employment
+9 or business relationships, or causing financial harm through
+10 harassment.
+11 2. a. This section applies to the use of civil legal
+12 processes by a private party against another private party.
+13 b. This section abrogates the common law cause of action for
+14 abuse of process for actions between private parties.
+15 c. This section does not apply to criminal proceedings or
+16 to actions involving the state, a political subdivision, or an
+17 officer or employee of the state or a political subdivision
+18 acting in an official capacity.
+19 3. A private party may bring a civil action for civil
+20 litigation abuse against another private party who initiated or
+21 caused to be initiated a civil legal process for an ulterior
+22 purpose.
+23 4. To prevail in a civil action brought under this section,
+24 the plaintiff must prove all of the following:
+25 a. The defendant used a civil legal process against the
+26 plaintiff.
+27 b. The civil legal process was used primarily for an
+28 ulterior purpose.
+29 c. The defendant engaged in a specific, willful act in use
+30 of the civil legal process that was not proper in the regular
+31 course of the proceeding.
+32 d. The underlying civil action or proceeding was resolved in
+33 favor of the plaintiff bringing the claim under this section.
+34 5. A private party may bring a civil action under this
+35 section without showing a special or extraordinary injury.
+HF 2800.4556 (3) 91
+-27- ns/jh 27/37
+
+1 Attorney fees and costs incurred in responding to the misuse of
+2 the civil legal process are sufficient to establish injury.
+3 6. A private party found liable under this section is liable
+4 for actual damages, as defined in section 714H.2, including
+5 reasonable attorney fees and costs.
+6 Sec. 77. APPLICABILITY. This division of this Act applies
+7 to civil actions or proceedings that are resolved on or after
+8 the effective date of this division of this Act.
+9 DIVISION XV
+10 HUMAN TRAFFICKING
+11 Sec. 78. Section 232.71B, subsection 1, paragraph a,
+12 unnumbered paragraph 1, Code 2026, is amended to read as
+13 follows:
+14 If the department determines a report constitutes a child
+15 abuse allegation, the department shall promptly commence either
+16 a child abuse assessment within twenty-four hours of receiving
+17 the report or a family assessment within seventy-two hours of
+18 receiving the report. During a child abuse assessment, if the
+19 department identifies known risk factors for commercial sexual
+20 exploitation, a screening shall be conducted by a trained child
+21 protection worker, considering the child’s age, cognitive and
+22 emotional functioning, and the specific circumstances of the
+23 case.
+24 Sec. 79. 2026 Iowa Acts, House File 1036, section 11, if
+25 enacted, is amended to read as follows:
+26 SEC. 11. EFFECTIVE DATE. The following takes effect July
+27 1, 2026 2027:
+28 The section of this Act amending section 910.1.
+29 Sec. 80. REPEAL. 2026 Iowa Acts, House File 1036, sections
+30 1 and 4, if enacted, are repealed.
+31 Sec. 81. REPORT. Notwithstanding 2026 Iowa Acts, House
+32 File 1036, section 10, if enacted, the report described in that
+33 section is due by December 15, 2026.
+34 Sec. 82. CONTINGENT EFFECTIVE DATE. This division of this
+35 Act takes effect July 1, 2026, if 2026 Iowa Acts, House File
+HF 2800.4556 (3) 91
+-28- ns/jh 28/37
+
+1 1036, is enacted.
+2 DIVISION XVI
+3 FEDERAL GRANTS AND LOANS —— NOTIFICATION
+4 Sec. 83. Section 8.9, Code 2026, is amended by adding the
+5 following new subsection:
+6 NEW SUBSECTION. 3. a. Once per month, the office of grants
+7 enterprise management shall notify by electronic mail the
+8 chairpersons and ranking members of the standing committees on
+9 appropriations of the senate and house of representatives, the
+10 chairperson and ranking member of the house of representatives
+11 appropriations subcommittee on federal and other funds, and the
+12 legislative services agency of all of the following:
+13 (1) Each federal grant or loan of five million dollars
+14 or more that a department or establishment has applied for
+15 or received in the prior month. This subparagraph does not
+16 apply to the department of public defense or the state board
+17 of regents or its institutions.
+18 (2) Each federal grant or loan requiring state matching
+19 moneys that a department or establishment has applied for or
+20 received in the prior month.
+21 b. This subsection does not apply to block grants described
+22 in section 8.41.
+23 Sec. 84. NEW SECTION. 602.1306 Federal grants and loans ——
+24 notification of general assembly.
+25 Within thirty days of applying for or receiving a federal
+26 grant or loan of five million dollars or more, or a federal
+27 grant or loan requiring state matching moneys, the judicial
+28 branch shall notify by electronic mail the chairpersons and
+29 ranking members of the standing committees on appropriations of
+30 the senate and house of representatives, the chairperson and
+31 ranking member of the house of representatives appropriations
+32 subcommittee on federal and other funds, and the legislative
+33 services agency.
+34 DIVISION XVII
+35 AREA EDUCATION AGENCIES —— QUARTERLY PAYMENTS —— FY 2026-2027
+HF 2800.4556 (3) 91
+-29- ns/jh 29/37
+
+1 Sec. 85. Section 257.35, subsection 1, paragraph a,
+2 subparagraph (3), unnumbered paragraph 1, Code 2026, as amended
+3 by 2026 Iowa Acts, Senate File 2201, section 17, is amended to
+4 read as follows:
+5 For the fiscal year beginning July 1, 2025, and the fiscal
+6 year beginning July 1, 2026, the department of management shall
+7 deduct the following from the state aid due to each school
+8 district pursuant to this chapter and shall pay the amounts to
+9 the respective area education agencies on a monthly basis from
+10 September 15 through June 15 during each school year:
+11 Sec. 86. Section 257.35, subsection 1, paragraph a,
+12 subparagraph (4), unnumbered paragraph 1, as enacted by 2026
+13 Iowa Acts, Senate File 2201, section 18, is amended to read as
+14 follows:
+15 For the fiscal year beginning July 1, 2027 2026, and each
+16 fiscal year thereafter, the department of management shall
+17 deduct the following from the state aid due to each school
+18 district pursuant to this chapter and shall pay the amounts to
+19 the respective area education agencies on a quarterly basis
+20 from July 15 to April 15 during each school year:
+21 Sec. 87. Section 257.35, subsection 21, unnumbered
+22 paragraph 1, Code 2026, as amended by 2026 Iowa Acts, Senate
+23 File 2201, section 19, is amended to read as follows:
+24 For the fiscal year beginning July 1, 2025, and the fiscal
+25 year beginning July 1, 2026, the director of the department of
+26 management may deduct the following from the state aid due to
+27 each school district pursuant to this chapter and shall pay the
+28 amounts to the respective area education agencies on a monthly
+29 basis from September 15 through June 15 during each school year
+30 for purposes of providing services to students enrolled in
+31 nonpublic schools within the boundaries of the area education
+32 agency:
+33 Sec. 88. Section 257.35, subsection 21A, unnumbered
+34 paragraph 1, as enacted by 2026 Iowa Acts, Senate File 2201,
+35 section 20, is amended to read as follows:
+HF 2800.4556 (3) 91
+-30- ns/jh 30/37
+
+1 For the fiscal year beginning July 1, 2027 2026, and each
+2 fiscal year thereafter, the director of the department of
+3 management may deduct the following from the state aid due
+4 to each school district pursuant to this chapter and shall
+5 pay the amounts to the respective area education agencies on
+6 a quarterly basis from July 15 through April 15 during each
+7 school year for the purposes of providing services to students
+8 enrolled in nonpublic schools within the boundaries of the area
+9 education agency:
+10 DIVISION XVIII
+11 HIGHER EDUCATION —— CIVIC PROFICIENCY
+12 Sec. 89. NEW SECTION. 262.100 General education
+13 requirements and core curricula —— courses on American history
+14 and American government.
+15 1. The state board of regents shall require each institution
+16 of higher education governed by the board to establish as
+17 a requirement for the completion of any general education
+18 requirements or core curricula that an undergraduate student
+19 complete an introductory survey course in American history
+20 and an introductory survey course in American government. An
+21 institution shall assign a value of at least three semester
+22 hours of credit to each course. A course required by this
+23 section shall be a comprehensive survey of all American history
+24 and American government.
+25 2. A course required by this section shall fulfill the
+26 general education or core curriculum requirement for social
+27 sciences or humanities, as designated by the institution, that
+28 a student is required to complete as a condition of graduation.
+29 3. An institution shall provide equivalent credit toward
+30 the courses required by this section to a student transferring
+31 to the institution for previous coursework completed by the
+32 student that is substantially similar to a required course.
+33 4. This section does not apply to a student completing a
+34 degree program designated by an institution as a degree program
+35 of three years or less in duration.
+HF 2800.4556 (3) 91
+-31- ns/jh 31/37
+
+1 5. a. Annually, the center for cyclone civics at the Iowa
+2 state university of science and technology and the center
+3 for civic education at the university of northern Iowa shall
+4 designate courses at their respective institutions that satisfy
+5 the requirements of this section.
+6 b. The center for intellectual freedom at the state
+7 university of Iowa shall be the sole academic unit at the
+8 state university of Iowa responsible for offering courses that
+9 satisfy the requirements of this section.
+10 Sec. 90. APPLICABILITY. This division of this Act applies
+11 to undergraduate students beginning enrollment at institutions
+12 of higher education governed by the board of regents in
+13 academic years beginning on or after July 1, 2028.
+14 DIVISION XIX
+15 CHARTER SCHOOLS —— IPERS
+16 Sec. 91. Section 97B.1A, subsection 8, paragraph a,
+17 subparagraph (13), if enacted by 2026 Iowa Acts, House File
+18 2754, section 69, is amended to read as follows:
+19 (13) Persons employed by a charter school established
+20 pursuant to chapter 256E, subchapter I, that satisfies all
+21 applicable requirements under federal law for participation in
+22 the retirement system.
+23 Sec. 92. Section 97B.1A, subsection 9, paragraph a, Code
+24 2026, as amended by 2026 Iowa Acts, House File 2754, section
+25 70, if enacted, is amended to read as follows:
+26 a. “Employer” means the state of Iowa, the counties,
+27 municipalities, agencies, public school districts, charter
+28 schools established pursuant to chapter 256E, subchapter
+29 I, that satisfy all applicable requirements under federal
+30 law for participation in the retirement system, all
+31 political subdivisions, and all of their departments and
+32 instrumentalities, including area agencies on aging, other than
+33 those employing persons as specified in subsection 8, paragraph
+34 “b”, subparagraph (7), and joint planning commissions created
+35 under chapter 28E or 28I.
+HF 2800.4556 (3) 91
+-32- ns/jh 32/37
+
+1 Sec. 93. EFFECTIVE DATE. This division of this Act, being
+2 deemed of immediate importance, takes effect upon enactment.
+3 Sec. 94. RETROACTIVE APPLICABILITY. This division of this
+4 Act applies retroactively to the effective date of 2026 Iowa
+5 Acts, House File 2754, if enacted.
+6 DIVISION XX
+7 INCENTIVES —— SCHOOL DISTRICTS
+8 Sec. 95. Section 257.3, subsection 2, paragraph d, Code
+9 2026, is amended to read as follows:
+10 d. For purposes of this section, a reorganized school
+11 district is one which absorbs at least thirty percent of the
+12 enrollment of the school district affected by a reorganization
+13 or dissolved during a dissolution and in which action to bring
+14 about a reorganization or dissolution is initiated by a vote
+15 of the board of directors or jointly by the affected boards of
+16 directors to take effect on or after July 1, 2007, and on or
+17 before July 1, 2024 2035. Each district which initiated, by
+18 a vote of the board of directors or jointly by the affected
+19 boards, action to bring about a reorganization or dissolution
+20 to take effect on or after July 1, 2007, and on or before July
+21 1, 2024 2035, shall certify the date and the nature of the
+22 action taken to the department of education by January 1 of the
+23 year in which the reorganization or dissolution takes effect.
+24 Sec. 96. Section 257.11, subsection 2, paragraph c, Code
+25 2026, is amended to read as follows:
+26 c. Pupils attending class for all or a substantial portion
+27 of a school day pursuant to a whole grade sharing agreement
+28 executed under sections 282.10 through 282.12 shall be eligible
+29 for supplementary weighting pursuant to this subsection. A
+30 school district which executes a whole grade sharing agreement
+31 and which adopts a resolution jointly with other affected
+32 boards to study the question of undergoing a reorganization
+33 or dissolution to take effect on or before July 1, 2024 2035,
+34 shall receive a weighting of one-tenth of the percentage of
+35 the pupil’s school day during which the pupil attends classes
+HF 2800.4556 (3) 91
+-33- ns/jh 33/37
+
+1 in another district, attends classes taught by a teacher who
+2 is jointly employed under section 280.15, or attends classes
+3 taught by a teacher who is employed by another school district.
+4 A district shall be eligible for supplementary weighting
+5 pursuant to this paragraph for a maximum of three years.
+6 Receipt of supplementary weighting for a second and third year
+7 shall be conditioned upon submission of information resulting
+8 from the study to the school budget review committee indicating
+9 progress toward the objective of reorganization on or before
+10 July 1, 2024 2035.
+11 Sec. 97. Section 257.11A, subsections 1 and 2, Code 2026,
+12 are amended to read as follows:
+13 1. In determining weighted enrollment under section 257.6,
+14 if the board of directors of a school district has approved a
+15 contract for sharing pursuant to section 257.11 and the school
+16 district has approved an action to bring about a reorganization
+17 to take effect on and after July 1, 2007, and on or before July
+18 1, 2024 2035, the reorganized school district shall include,
+19 for a period of three years following the effective date of
+20 the reorganization, additional pupils added by the application
+21 of the supplementary weighting plan, equal to the pupils added
+22 by the application of the supplementary weighting plan in the
+23 year preceding the reorganization. For the purposes of this
+24 subsection, the weighted enrollment for the period of three
+25 years following the effective date of reorganization shall
+26 include the supplementary weighting in the base year used for
+27 determining the combined district cost for the first year of
+28 the reorganization. However, the weighting shall be reduced by
+29 the supplementary weighting added for a pupil whose residency
+30 is not within the reorganized district.
+31 2. For purposes of this section, a reorganized district is
+32 one in which the reorganization was approved in an election
+33 pursuant to sections 275.18 and 275.20 and takes effect on or
+34 after July 1, 2007, and on or before July 1, 2024 2035. Each
+35 district which initiates, by a vote of the board of directors
+HF 2800.4556 (3) 91
+-34- ns/jh 34/37
+
+1 or jointly by the affected boards, action to bring about a
+2 reorganization or dissolution to take effect on or after July
+3 1, 2007, and on or before July 1, 2024 2035, shall certify the
+4 date and the nature of the action taken to the department of
+5 education by January 1 of the year in which the reorganization
+6 or dissolution takes effect.
+7 DIVISION XXI
+8 EXTRACURRICULAR INTERSCHOLASTIC ELIGIBILITY
+9 Sec. 98. 2026 Iowa Acts, House File 2591, sections 4, 5, and
+10 6, if enacted, are amended to read as follows:
+11 SEC. 4. EMERGENCY RULES. The state board of education shall
+12 adopt emergency rules under section 17A.4, subsection 3, and
+13 section 17A.5, subsection 2, paragraph “b”, to implement the
+14 section of this Act amending section 256.7. The rules shall
+15 be effective no later than August 1, 2026. Any rules adopted
+16 in accordance with this section shall also be published as a
+17 notice of intended action as provided in section 17A.4.
+18 SEC. 5. EFFECTIVE DATE. The following take effect August
+19 1, 2026:
+20 1. The section of this Act amending section 256.7.
+21 1. 2. The section of this Act amending section 256.46.
+22 2. 3. The section of this Act amending section 282.18.
+23 SEC. 6. EFFECTIVE DATE. The following, being deemed of
+24 immediate importance, take takes effect upon enactment:
+25 1. The section of this Act amending section 256.7.
+26 2. The section of this Act requiring emergency rulemaking.
+27 Sec. 99. EFFECTIVE DATE. This division of this Act, being
+28 deemed of immediate importance, takes effect upon enactment.
+29 Sec. 100. RETROACTIVE APPLICABILITY. This division of this
+30 Act applies retroactively to the enactment date of 2026 Iowa
+31 Acts, House File 2591, if enacted.
+32 DIVISION XXII
+33 LEVY INCREASE
+34 Sec. 101. SCHOOL DISTRICT CASH RESERVE LEVY INCREASE ——
+35 SCHOOL BUDGET YEAR 2026-2027.
+HF 2800.4556 (3) 91
+-35- ns/jh 35/37
+
+1 1. For the school budget year beginning July 1, 2026, a
+2 school district for which the taxable value used to calculate
+3 school district property taxes for the school budget year
+4 beginning July 1, 2025, was reduced by one hundred million
+5 dollars or more due to a correction to the taxable value of
+6 a single property within the school district made during the
+7 school budget year beginning July 1, 2025, may increase the
+8 school district’s proposed cash reserve levy under section
+9 298.10 to an amount that exceeds the limitations of section
+10 298.10, if the district complies with subsection 2.
+11 2. A school district that increases its cash reserve levy
+12 pursuant to this section shall also reduce one or more other
+13 property tax levies of the school district, including the
+14 district management levy under section 298.4, by a total amount
+15 equal to or greater than the increase in the cash reserve
+16 levy so that the total property tax dollars for all property
+17 tax levies of the school district does not exceed the school
+18 district’s combined amount of property tax dollars determined
+19 under section 24.2A, subsection 2, paragraph “b”, subparagraph
+20 (3).
+21 3. A school district that wishes to adjust its levy rates
+22 pursuant to this section shall notify the department of
+23 management in a manner prescribed by the department. Following
+24 receipt of the notice from the school district, the department
+25 of management shall adjust the school district’s property tax
+26 levy rates as necessary to implement this section.
+27 Sec. 102. EFFECTIVE DATE. This division of this Act, being
+28 deemed of immediate importance, takes effect upon enactment.>
+29 2. Title page, by striking lines 1 through 3 and inserting
+30 <An Act relating to state and local government and finances,
+31 including by making, modifying, limiting, or reducing
+32 appropriations, distributions, or transfers, authorizing
+33 expenditure of unappropriated moneys in special funds, making
+34 corrections, and providing for properly related matters
+35 including the national electrical code, local civil rights
+HF 2800.4556 (3) 91
+-36- ns/jh 36/37
+
+1 laws, political party state central committees, noxious
+2 weeds, nonresident deer hunting licenses, proprietary
+3 treatment systems, poultry associations, tax credits,
+4 alternative nicotine and vapor products, public assistance
+5 programs, judicial branch and county attorney salaries, civil
+6 litigation abuse, human trafficking, federal grants and loans
+7 notifications, quarterly payments to area education agencies,
+8 civic proficiency in higher education, charter schools under
+9 the Iowa public employees’ retirement system, school district
+10 incentives, extracurricular interscholastic eligibility, and
+11 levy increases, and including effective date, applicability,
+12 and retroactive applicability provisions.>
+______________________________
+COLLINS of Des Moines
+HF 2800.4556 (3) 91
+-37- ns/jh 37/37

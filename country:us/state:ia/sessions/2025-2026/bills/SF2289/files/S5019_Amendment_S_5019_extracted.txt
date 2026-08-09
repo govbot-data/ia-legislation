@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5019
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2289
+S-5019
+1 Amend Senate File 2289 as follows:
+2 1. Page 2, line 27, by striking <under the Internal Revenue
+3 Code> and inserting <pursuant to 26 U.S.C. §6041, as amended to
+4 July 4, 2025>
+5 2. Page 2, lines 31 and 32, by striking <under the Internal
+6 Revenue Code> and inserting <pursuant to 26 U.S.C. §6041, as
+7 amended to July 4, 2025>
+______________________________
+DAN DAWSON
+SF 2289.2787 (1) 91
+-1- ss/ns 1/1

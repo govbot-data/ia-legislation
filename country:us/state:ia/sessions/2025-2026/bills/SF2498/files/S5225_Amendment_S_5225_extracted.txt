@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5225
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2498
+S-5225
+1 Amend Senate File 2498 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 423.3, Code 2026, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 111. a. (1) The sales price of tangible
+7 personal property or specified digital products sold to or of
+8 services furnished to a nuclear electric generation facility on
+9 or after January 1, 2026.
+10 (2) The tangible personal property, specified digital
+11 products, and services furnished shall be directly and
+12 primarily used before, during, or after the site preparation,
+13 construction, reconstruction, replacement, alteration, repair,
+14 safe storage, maintenance, or restarting after decommissioning
+15 of the nuclear electric generation facility.
+16 b. The exemption under this section does not apply to motor
+17 vehicles subject to registration under chapter 321.
+18 c. This subsection shall not be construed to limit any other
+19 exemptions applicable under this chapter.
+20 d. The department shall issue guidance within ninety
+21 days of the effective date of this Act regarding acceptable
+22 documentation for exemption qualification and exemption
+23 certificate procedures.
+24 e. The department may adopt rules pursuant to chapter 17A
+25 to administer this subsection.
+26 f. A nuclear electric generation facility that does not
+27 commence or restart commercial operation within twelve and
+28 one-half years of the later of the issuance of the certificate
+29 of public convenience, use, and necessity under chapter 476A
+30 for the applicable unit of the facility or the placement
+31 of the first safety-related concrete for such unit shall
+32 repay the entire amount of the sales and use tax exemptions
+33 the nuclear electric generation facility claimed under this
+34 subsection and refunds claimed under section 423.4, subsection
+35 1, and the entire amount of sales and use tax exemptions that
+SF 2498.4264 (1) 91
+(amending this SF 2498 to CONFORM to HF 2757)
+-1- jm/jh 1/4
+
+1 contractors, subcontractors, and builders claimed for building
+2 materials, supplies, equipment, and services in the performance
+3 of a written construction contract with the nuclear electric
+4 generation facility under subsection 80. Any repayment shall
+5 be considered a tax payment due and payable to the department
+6 by the nuclear electric generation facility, and the failure to
+7 make the repayment may be treated by the department in the same
+8 manner as a failure to pay the tax shown due, or required to be
+9 shown due, with the filing of a return or deposit form.
+10 g. (1) A nuclear electric generation facility is eligible
+11 to receive an exemption under this subsection until the earlier
+12 of one year from the date of delivering notification to the
+13 applicable regional transmission operators that commercial
+14 operation has been achieved or June 30, 2051.
+15 (2) Within thirty days of delivering notification in
+16 subparagraph (1), the nuclear electric generation facility
+17 shall notify the department of the date notification was
+18 delivered under subparagraph (1) in a manner prescribed by the
+19 director.
+20 h. As used in this subsection:
+21 (1) “Nuclear electric generation facility” means a facility
+22 commencing or restarting commercial operations of at least
+23 one unit of the facility on or after January 1, 2028, that is
+24 located in this state, uses nuclear fission, fusion, or other
+25 nuclear processes to generate electricity for sale or for use
+26 in the transmission or distribution grid and is licensed by
+27 the federal nuclear regulatory commission. A “nuclear electric
+28 generation facility” includes facilities undergoing restart
+29 after a decommissioning period and facilities in advanced
+30 stages of development or obtaining federal licensing from
+31 the United States nuclear regulatory commission. A “nuclear
+32 electric generation facility” includes all of the following:
+33 (a) Nuclear reactors, reactor fuel cores, reactor vessels,
+34 steam generators, heat exchangers, turbine systems, control
+35 rods, instrumentation, cooling systems, fuel handling and
+SF 2498.4264 (1) 91
+(amending this SF 2498 to CONFORM to HF 2757)
+-2- jm/jh 2/4
+
+1 storage systems, radiation shielding, radiation sources and
+2 other primary nuclear generation components, and spent fuel
+3 storage.
+4 (b) Structures and buildings housing nuclear generation
+5 systems, including containment buildings, auxiliary buildings,
+6 cooling towers, water intake or discharge structures, and
+7 on-site storage facilities directly related to nuclear
+8 operations.
+9 (c) Electrical generation and transformation equipment,
+10 including turbines, generators, switchgear, transformers,
+11 inverters, transmission structures, conductors, substations,
+12 and associated power conditioning and control equipment.
+13 (d) Equipment and systems used for safety, security,
+14 radiation monitoring, emergency power, operator training,
+15 maintenance training, safety-related equipment storage, and
+16 warehousing.
+17 (e) Environmental protection required for operation of the
+18 facility.
+19 (f) System materials, components, equipment, storage,
+20 structures, and buildings associated with integrated systems
+21 that enhance the flexibility of the system in delivering energy
+22 to the electrical grid, including but not limited to the
+23 following:
+24 (i) Systems that store and utilize thermal energy or
+25 electrical energy from the nuclear electric generating facility
+26 prior to delivering energy to the grid.
+27 (ii) Energy storage systems that utilize a transmission
+28 system interconnection to the same physical substation as the
+29 nuclear electric generating facility.
+30 (g) Materials, supplies, and components permanently
+31 incorporated into or consumed in the construction, repair, or
+32 maintenance of a nuclear electric generation facility.
+33 (h) Digital control systems, software, cybersecurity,
+34 infrastructure, and physical security systems and equipment
+35 used in the safe and compliant operation of the nuclear
+SF 2498.4264 (1) 91
+(amending this SF 2498 to CONFORM to HF 2757)
+-3- jm/jh 3/4
+
+1 electric generation facility.
+2 (i) Equipment, materials, systems, and services required to
+3 restart operations at a previously operational nuclear electric
+4 generation facility that has ceased commercial operation,
+5 including but not limited to refurbishment, modernization,
+6 regulatory compliance upgrades, and relicensing activities.
+7 (2) “Site preparation activities” means the same as defined
+8 in subsection 95, paragraph “f”.
+9 i. This subsection is repealed on July 1, 2051.
+10 Sec. 2. Section 423.4, subsection 1, paragraph a, Code 2026,
+11 is amended by adding the following new subparagraph:
+12 NEW SUBPARAGRAPH. (11) A nuclear electric generation
+13 facility as defined in section 423.3, subsection 111.
+14 Sec. 3. RETROACTIVE APPLICABILITY. This Act applies
+15 retroactively to January 1, 2026, for qualifying tangible
+16 personal property or specified digital products sold, or
+17 services furnished on or after that date.>
+18 2. Title page, by striking lines 1 through 5 and inserting
+19 <An Act creating sales and use tax exemptions and refunds
+20 relating to commencing or restarting nuclear electric
+21 generation facilities, and including retroactive applicability
+22 provisions.>
+______________________________
+DAN DAWSON
+SF 2498.4264 (1) 91
+(amending this SF 2498 to CONFORM to HF 2757)
+-4- jm/jh 4/4

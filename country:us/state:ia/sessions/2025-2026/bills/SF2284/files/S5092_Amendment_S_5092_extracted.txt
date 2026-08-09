@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5092
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2284
+S-5092
+1 Amend Senate File 2284 as follows:
+2 1. Page 1, by striking lines 3 through 9 and inserting:
+3 <NEW SUBSECTION. 2A. A person shall not provide an image of
+4 a registration plate or any other accompanying data to a third
+5 party unless the third party is one of the following:
+6 a. A peace officer or law enforcement agency.
+7 b. A person who is under contract with a law enforcement
+8 agency solely to protect public safety, conduct criminal
+9 investigations, or ensure compliance with federal, state, or
+10 local law.
+11 c. The national insurance crime bureau or its successor
+12 organization, an insurance carrier, or an insurance support
+13 organization if the information is provided solely to
+14 investigate insurance fraud, recover a vehicle, or adjudicate
+15 an insurance claim.>
+______________________________
+ADRIAN DICKEY
+SF 2284.3340 (1) 91
+-1- th/ns 1/1

@@ -1,0 +1,330 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8451
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2770
+H-8451
+1 Amend the amendment, H-8414, to House File 2770, as follows:
+2 1. Page 1, line 20, by striking <11,837,266> and inserting
+3 <11,672,266>
+4 2. Page 1, after line 21 by inserting:
+5 <The appropriation in this lettered paragraph shall be
+6 increased by $165,000 if 2026 Iowa Acts, Senate File 639, is
+7 not enacted.>
+8 3. Page 1, line 35, by striking <$150,000> and inserting
+9 <$225,000>
+10 4. Page 8, line 2, by striking <6,380,000> and inserting
+11 <6,275,000>
+12 5. Page 8, after line 2 by inserting:
+13 <The appropriation in this subsection shall be increased by
+14 $105,000 if 2026 Iowa Acts, Senate File 639, is not enacted.>
+15 6. Page 17, line 11, by striking <3,660,000> and inserting
+16 <3,430,000>
+17 7. Page 17, after line 11 by inserting:
+18 <The appropriation in this subsection shall be increased by
+19 $230,000 if 2026 Iowa Acts, Senate File 639, is not enacted.>
+20 8. Page 19, after line 32 by inserting:
+21 <DIVISION ___
+22 ATTORNEY LOAN REPAYMENT PROGRAM —— COURT FILING FEES
+23 Sec. ___. NEW SECTION. 256.232 Attorney loan repayment
+24 program —— fund.
+25 1. Program established. The college student aid commission
+26 shall establish an attorney loan repayment program to encourage
+27 attorneys to remain and practice law in this state.
+28 2. Eligibility. An individual is eligible to apply to
+29 enter into a program agreement with the college student aid
+30 commission pursuant to subsection 3 if the individual meets all
+31 of the following requirements:
+32 a. Is a graduate of an accredited law school within five
+33 years of the time of application to the program.
+34 b. Is licensed to practice law in Iowa.
+35 c. Is practicing law in Iowa at the time of application or
+H 8414.4430 (2) 91
+-1- as/ns 1/9
+
+1 commits to begin practicing law in this state upon execution
+2 of a program agreement.
+3 3. Program agreements. An agreement must be entered into by
+4 an eligible attorney and the college student aid commission.
+5 Under the agreement, to receive loan repayments pursuant to
+6 subsection 5, an eligible attorney shall agree to and fulfill
+7 all of the following requirements:
+8 a. Remain and practice law in Iowa in the area designated
+9 pursuant to the attorney’s preference determination during each
+10 year for which loan repayment assistance is received.
+11 b. Provide not less than the number of hours per year of
+12 legal services as an indigent defense attorney as designated
+13 pursuant to the attorney’s preference determination.
+14 4. Priority.
+15 a. In awarding loan repayment assistance under this section,
+16 the commission shall give priority to attorneys who practice
+17 law in this state in the following order, with preference
+18 within each of the following subparagraphs to attorneys who
+19 graduated from an Iowa law school, an Iowa high school, or
+20 completed private instruction pursuant to chapter 299A:
+21 (1) Attorneys who reside and practice law in rural areas
+22 of the state and provide a minimum of fifty hours of indigent
+23 defense services annually.
+24 (2) Attorneys who practice law in rural areas of the state
+25 and provide a minimum of one hundred hours of indigent defense
+26 services annually.
+27 (3) Attorneys who practice law in Iowa and provide two
+28 hundred hours of indigent defense services annually.
+29 b. For purposes of this subsection, “rural area” means
+30 a county or municipality that has a population of less than
+31 twenty-six thousand and is located more than twenty miles from
+32 a city with a population of at least fifty thousand, based on
+33 the most recent federal decennial census.
+34 5. Loan repayment assistance. An eligible attorney
+35 who enters into and remains in compliance with a program
+H 8414.4430 (2) 91
+-2- as/ns 2/9
+
+1 agreement pursuant to subsection 3 shall receive loan repayment
+2 assistance in an amount not to exceed ten thousand dollars per
+3 year or the outstanding balance of the attorney’s eligible
+4 loans, whichever is less. In the event an attorney who
+5 receives loan repayment assistance under this section ceases
+6 to practice law in accordance with the program agreement, the
+7 loan repayment assistance shall terminate immediately, the
+8 loan repayment assistance shall be prorated for the months the
+9 attorney complied with the agreement, and no further payment
+10 shall be made. Loan repayment assistance may be provided for
+11 each year of eligible practice during a period of not more than
+12 six consecutive years. The total amount of loan repayment
+13 assistance an attorney may receive under the program shall
+14 not exceed the total outstanding balance of the attorney’s
+15 eligible student loans at the time the program agreement is
+16 executed. For purposes of this subsection, “eligible loan”
+17 means the attorney’s total federally guaranteed Stafford loan
+18 amount under the federal family education loan program or the
+19 federal direct loan program, the attorney’s federal graduate
+20 plus loans, or the attorney’s federal Perkins loan, including
+21 principal and interest. Loan payment assistance received
+22 pursuant to this section is not subject to Iowa income tax.
+23 6. Trust fund established. An attorney loan repayment
+24 program trust fund is created in the state treasury under
+25 the control of the college student aid commission. The
+26 commission may accept gifts, grants, bequests, and other
+27 private contributions, as well as state or federal moneys, for
+28 deposit in the fund. All moneys deposited in the trust fund
+29 are appropriated and made available to the commission to be
+30 used for purposes of meeting the requirements of this section.
+31 Notwithstanding section 8.33, moneys in the fund shall not
+32 revert but shall remain available for purposes of this section
+33 and to provide loan repayment assistance to attorneys in this
+34 state. Notwithstanding section 12C.7, subsection 2, interest
+35 or earnings on moneys in the fund shall be credited to the
+H 8414.4430 (2) 91
+-3- as/ns 3/9
+
+1 fund and are appropriated to the commission for purposes of
+2 administering the attorney loan repayment program under this
+3 section.
+4 7. Rules. The college student aid commission shall adopt
+5 rules to administer this section.
+6 8. Limitation. The program shall not provide assistance for
+7 more than twenty-five attorneys in a single year, and shall not
+8 provide assistance to more than one hundred fifty attorneys at
+9 any time.
+10 9. Repeal. This section is repealed July 1, 2041.
+11 Sec. ___. Section 331.424, subsection 1, paragraph a,
+12 subparagraph (6), Code 2026, is amended to read as follows:
+13 (6) The maintenance and operation of the courts, including
+14 but not limited to the salary and expenses of the clerk of the
+15 district court and other employees of the clerk’s office, and
+16 bailiffs, court costs if the prosecution fails or if the costs
+17 cannot be collected from the person liable, costs and expenses
+18 of prosecution under section 189A.17, salaries and expenses
+19 of juvenile court officers under chapter 602, court-ordered
+20 costs in domestic abuse cases under section 236.5, sexual abuse
+21 cases under section 236A.7, and elder abuse cases under section
+22 235F.6, the county’s expense for confinement of prisoners under
+23 chapter 356A, temporary assistance to the county attorney,
+24 county contributions to a retirement system for bailiffs,
+25 reimbursement for judicial magistrates under section 602.6501,
+26 claims filed under section 622.93, sign language interpreters’
+27 fees under section 622B.7, uniform citation and complaint
+28 supplies under section 805.6, and costs of prosecution under
+29 section 815.13.
+30 Sec. ___. Section 422.7, Code 2026, is amended by adding the
+31 following new subsection:
+32 NEW SUBSECTION. 46. a. Subtract, to the extent included,
+33 income resulting from the payment of the amount of any loan
+34 repayment assistance received pursuant to section 256.232,
+35 whether paid to the taxpayer or the lender, not to exceed ten
+H 8414.4430 (2) 91
+-4- as/ns 4/9
+
+1 thousand dollars in any tax year.
+2 b. If the taxpayer has a deduction in computing federal
+3 taxable income under section 221 of the Internal Revenue Code
+4 for interest on a qualified education loan, the taxpayer shall
+5 recompute for purposes of this subsection the amount of the
+6 deduction under paragraph “a” by not subtracting any amount of
+7 income resulting from the loan repayment assistance received
+8 pursuant to section 256.232 that was also deducted by the
+9 taxpayer under section 221 of the Internal Revenue Code.
+10 c. A taxpayer is eligible to receive a deduction pursuant to
+11 this subsection for not more than six consecutive tax years in
+12 the taxpayer’s lifetime.
+13 Sec. ___. Section 602.8102, subsection 98, Code 2026, is
+14 amended to read as follows:
+15 98. Carry out duties relating to trials and judgments as
+16 provided in sections 624.8 624.9 through 624.20 and 624.37.
+17 Sec. ___. Section 602.8105, subsections 1 and 2, Code 2026,
+18 are amended to read as follows:
+19 1. The clerk of the district court shall collect the
+20 following fees:
+21 a. Except as otherwise provided in this subsection, for
+22 filing and docketing a petition, one hundred ninety-five two
+23 hundred fifteen dollars. In counties having a population of
+24 ninety-eight thousand or over, an additional five dollars shall
+25 be charged and collected to be known as the journal publication
+26 fee and used for the purposes provided for in section 618.13.
+27 b. For filing and docketing a petition for dissolution
+28 of marriage, which includes the docketing of any dissolution
+29 decree, two hundred sixty-five eighty-five dollars. It is the
+30 intent of the general assembly that twenty percent of the funds
+31 generated from these fees be appropriated and used for sexual
+32 assault and domestic violence centers and eighty percent of the
+33 funds generated from these fees be appropriated to the general
+34 fund of the state.
+35 c. For filing and docketing a petition pursuant to chapter
+H 8414.4430 (2) 91
+-5- as/ns 5/9
+
+1 598 other than a dissolution of marriage petition, one hundred
+2 ten thirty dollars.
+3 d. For filing and docketing an application for modification
+4 of a dissolution decree to which a written stipulation is
+5 attached at the time of filing containing the agreement of the
+6 parties to the terms of modification, one hundred ten thirty
+7 dollars.
+8 e. For filing and docketing a petition for adoption pursuant
+9 to chapter 600, zero dollars.
+10 f. For filing and docketing a small claims action, the
+11 amounts specified in section 631.6.
+12 g. For an appeal from a judgment in small claims or for
+13 filing and docketing a writ of error, one hundred ninety-five
+14 two hundred fifteen dollars.
+15 h. For a motion to show cause in a civil case, sixty eighty
+16 dollars.
+17 i. For filing and docketing a transcript of the judgment in
+18 a civil case, sixty eighty dollars.
+19 j. For filing a tribal judgment, one hundred ten thirty
+20 dollars.
+21 k. For a civil claim for reimbursement under section 356.7,
+22 zero dollars.
+23 2. The clerk of the district court shall collect the
+24 following fees for miscellaneous services:
+25 a. For filing and entering any other statutory lien, sixty
+26 eighty dollars.
+27 b. For a certificate and seal, thirty fifty dollars.
+28 However, there shall be no charge for a certificate and seal to
+29 an application to procure a pension, bounty, or back pay for a
+30 member of the armed services or other person.
+31 c. For certifying a change in title of real estate, sixty
+32 eighty dollars.
+33 d. For filing a praecipe to issue execution under chapter
+34 626, thirty-five fifty-five dollars. The fee shall be
+35 recoverable by the creditor from the debtor against whom the
+H 8414.4430 (2) 91
+-6- as/ns 6/9
+
+1 execution is issued. A fee payable by a political subdivision
+2 of the state under this paragraph shall be collected by the
+3 clerk of the district court as provided in section 602.8109.
+4 However, the fee shall be waived and shall not be collected
+5 from a political subdivision of the state if a county attorney
+6 or county attorney’s designee is collecting a delinquent
+7 judgment pursuant to section 602.8107, subsection 4.
+8 e. For filing a praecipe to issue execution under chapter
+9 654, sixty eighty dollars.
+10 f. For filing a confession of judgment under chapter 676,
+11 sixty eighty dollars if the judgment is five thousand dollars
+12 or less, and one hundred ten thirty dollars if the judgment
+13 exceeds five thousand dollars.
+14 g. For filing a lis pendens, sixty eighty dollars.
+15 h. For applicable convictions under section 692A.110 on
+16 or after June 25, 2020, a civil penalty of two hundred sixty
+17 dollars.
+18 i. Other fees provided by law.
+19 Sec. ___. Section 602.8108, Code 2026, is amended by adding
+20 the following new subsection:
+21 NEW SUBSECTION. 12. a. The clerk of the district court
+22 shall remit to the state court administrator, not later than
+23 the fifteenth day of each month, all moneys collected from the
+24 filing and miscellaneous fees provided in section 602.8105,
+25 subsections 1 and 2, except moneys collected from the sex
+26 offender civil penalty in section 602.8105, subsection 2,
+27 paragraph “h”, shall be remitted and distributed pursuant to
+28 subsection 10. The clerk shall report to the state court
+29 administrator the total number of fees that were paid, and
+30 the number of filing fees that were paid for dissolution of
+31 marriage pursuant to section 602.8105, subsection 1, paragraph
+32 “b”.
+33 b. The state court administrator shall total the number of
+34 fees reported pursuant to paragraph “a” each month and shall
+35 calculate the amount equal to twenty dollars multiplied by the
+H 8414.4430 (2) 91
+-7- as/ns 7/9
+
+1 number of fees that were paid statewide during that month. The
+2 state court administrator shall exclude from the number of
+3 fees, fees ordered pursuant to section 602.8105, subsection 2,
+4 paragraph “h”.
+5 c. Of the amount calculated pursuant to paragraph “b”, the
+6 state court administrator shall deposit fifty percent into the
+7 indigent defense fund established in section 815.11.
+8 d. The state court administrator shall deposit the remaining
+9 fifty percent of the amount calculated pursuant to paragraph “b”
+10 each fiscal year in the attorney loan repayment program trust
+11 fund established in section 256.232.
+12 e. Following the deposits required in paragraphs “c” and
+13 “d”, the state court administrator shall deposit the remaining
+14 filing and miscellaneous fee moneys received under paragraph
+15 “a” in the general fund of the state; provided, however, that
+16 filing fees paid pursuant to section 602.8105, subsection 1,
+17 paragraph “b”, for the dissolution of marriage, be appropriated
+18 as follows:
+19 (1) Through the close of the fiscal year beginning July
+20 1, 2026, twenty percent of the moneys generated from these
+21 fees are appropriated and shall be used for sexual assault and
+22 domestic violence centers and eighty percent of the moneys
+23 generated from these fees shall be deposited in the general
+24 fund of the state.
+25 (2) For the fiscal year beginning July 1, 2027, and for each
+26 fiscal year thereafter, twenty percent of the moneys generated
+27 from these fees are appropriated and shall be used for the
+28 sexual assault forensic examination center grant program
+29 established in section 915.47, if enacted by 2026 Iowa Acts,
+30 House File 2794, or another 2026 Act of the general assembly,
+31 and eighty percent of the moneys generated from these fees
+32 shall be deposited in the general fund of the state.
+33 Sec. ___. Section 631.6, subsection 1, paragraph a, Code
+34 2026, is amended to read as follows:
+35 a. Fees for filing and docketing shall be ninety-five one
+H 8414.4430 (2) 91
+-8- as/ns 8/9
+
+1 hundred fifteen dollars.
+2 Sec. ___. REPEAL. Sections 618.13, 622.93, and 624.8, Code
+3 2026, are repealed.
+4 Sec. ___. APPLICABILITY. The following apply to fees paid
+5 on and after July 1, 2026:
+6 1. The section of this division of this Act amending section
+7 602.8105.
+8 2. The section of this division of this Act amending section
+9 602.8108.>
+10 ___. Title page, line 2, after <system> by inserting <,
+11 providing fees, and including applicability provisions>>
+12 9. By renumbering as necessary.
+______________________________
+LOHSE of Polk
+H 8414.4430 (2) 91
+-9- as/ns 9/9

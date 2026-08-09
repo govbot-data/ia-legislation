@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8410
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2767
+H-8410
+1 Amend House File 2767 as follows:
+2 1. By striking page 6, line 34, through page 7, line 7, and
+3 inserting:
+4 <Notice to Consumers Warning
+5 This container holds raw milk, or an associated product,
+6 including a raw milk product or a raw milk dairy product,
+7 that is not subject to state inspection or other public
+8 health regulations that require pasteurization and grading.
+9 This product has not been pasteurized and is not subject to
+10 state inspection. This product may therefore contain harmful
+11 bacteria that can cause serious illness. Infants, children,
+12 the elderly, women who are pregnant, and persons with weakened
+13 immune systems are at the highest risk. Under Iowa Code
+14 section 195.9A, you are assuming liability for any inherent
+15 risk associated with consuming the raw milk or an associated
+16 product.>
+______________________________
+BAETH of Polk
+HF 2767.4066 (1) 91
+-1- da/js 1/1

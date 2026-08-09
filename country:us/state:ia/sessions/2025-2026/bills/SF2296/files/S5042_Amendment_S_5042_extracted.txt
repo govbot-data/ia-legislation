@@ -1,0 +1,105 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5042
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2296
+S-5042
+1 Amend Senate File 2296 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 533C.1004, subsection 1, paragraph a,
+4 subparagraph (2), Code 2026, is amended to read as follows:
+5 (2) The difference between the current market price of a
+6 digital financial asset on a licensed digital financial asset
+7 exchange prevailing market value of a digital financial asset
+8 at the time of a transaction and the price of the digital
+9 financial asset charged to a consumer.
+10 Sec. ___. Section 533C.1004, subsection 1, paragraphs c and
+11 d, Code 2026, are amended to read as follows:
+12 c. (1) “Digital financial asset” means a virtual digital
+13 representation of value or rights that can be transferred,
+14 stored, or traded electronically and used for payment or
+15 investment purposes is used as a medium of exchange, unit of
+16 account, or store of value, and is not money, whether or not
+17 denominated in money.
+18 (2) “Digital financial asset” does not include any of the
+19 following:
+20 (a) A transaction in which a merchant grants, as part of an
+21 affinity or rewards program, value that cannot be taken from
+22 or exchanged with the merchant for money, bank credit, or a
+23 digital financial asset.
+24 (b) A digital representation of value issued by or on behalf
+25 of a publisher and used solely within an online game, game
+26 platform, or family of games sold by the same publisher or
+27 offered on the same game platform.
+28 d. “Digital financial asset transaction kiosk” means an
+29 electronic terminal acting as a mechanical agent of an operator
+30 to enable the operator to facilitate the exchange of a digital
+31 financial asset for money, bank credit, or other digital
+32 financial asset, including but not limited to any of the
+33 following:
+34 (1) By connecting directly to a separate licensed digital
+35 financial asset exchange that performs the digital financial
+SF 2296.2605 (2) 91
+-1- lh/jh 1/3
+
+1 asset transaction.
+2 (2) By drawing upon a digital financial asset in the
+3 possession of the operator that enables a digital financial
+4 asset kiosk operator to facilitate the exchange of digital
+5 financial assets for money, bank credit, or other digital
+6 financial assets.
+7 Sec. ___. Section 533C.1004, subsection 1, paragraph f,
+8 Code 2026, is amended by striking the paragraph.
+9 Sec. ___. Section 533C.1004, Code 2026, is amended by adding
+10 the following new subsection:
+11 NEW SUBSECTION. 1A. License required. Any digital
+12 financial asset kiosk operator who owns, operates, solicits,
+13 markets, advertises, or facilitates a digital financial asset
+14 kiosk in this state shall be deemed to be engaged in the
+15 business of money transmission and must obtain a license under
+16 section 533C.301.
+17 Sec. ___. Section 533C.1004, subsection 3, paragraph b,
+18 Code 2026, is amended to read as follows:
+19 b. Fifteen percent of the United States currency equivalent
+20 of the digital financial assets involved in the digital
+21 financial asset transaction according to the public quoted
+22 market price of the digital financial asset on a licensed
+23 digital financial asset exchange prevailing market value of
+24 such digital financial asset at the date and time the consumer
+25 initiates the digital financial asset transaction.
+26 Sec. ___. Section 533C.1004, subsection 5, paragraph e,
+27 Code 2026, is amended to read as follows:
+28 e. (1) The dollar amount of all charges collected by
+29 the operator in relation to the digital financial asset
+30 transaction.
+31 (2) The legal name of the licensed digital financial asset
+32 exchange the operator used to calculate the charges described
+33 in subsection 1, paragraph “a”, subparagraph (2).
+34 Sec. ___. Section 533C.1004, subsection 6, Code 2026, is
+35 amended to read as follows:
+SF 2296.2605 (2) 91
+-2- lh/jh 2/3
+
+1 6. Required report. An operator shall provide a list to
+2 the division of banking of the street address locations of all
+3 digital financial asset transaction kiosks that the operator
+4 owns, operates, or manages in this state report to the division
+5 of banking the location of each digital financial asset
+6 transaction kiosk that the operator owns, operates, or manages
+7 within this state as an authorized delegate pursuant to section
+8 533C.603. An operator shall provide the division with updates
+9 to the list within thirty calendar days of any change to the
+10 list. The division shall make each operator’s list available
+11 to the public via the division’s internet site.
+12 Sec. ___. Section 533C.1004, subsection 7, paragraph a,
+13 Code 2026, is amended by striking the paragraph.>
+14 2. Page 1, line 14, by striking <paragraph “b”,>
+15 3. By renumbering as necessary.
+______________________________
+CHARLIE McCLINTOCK
+SF 2296.2605 (2) 91
+-3- lh/jh 3/3

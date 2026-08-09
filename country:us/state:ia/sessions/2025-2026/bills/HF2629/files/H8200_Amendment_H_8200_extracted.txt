@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8200
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2629
+H-8200
+1 Amend House File 2629 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 716.7, subsection 1, Code 2026, is
+5 amended by adding the following new paragraphs:
+6 NEW PARAGRAPH. 0a. “Immediate family member” means a
+7 person’s spouse, children, parents or guardians, siblings, and
+8 grandparents, whether related by blood, adoption, or marriage.
+9 NEW PARAGRAPH. 00a. “Lawful authority” means the ability
+10 of a person to produce a deed or mortgage statement in the
+11 person’s name, a lease agreement that includes the name and
+12 signature of the property owner or an authorized representative
+13 of the property owner, a valid written or electronic agreement
+14 or communication authorizing the person to enter upon the
+15 property, or a receipt or other reliable evidence of a
+16 rent payment made to the property owner or an authorized
+17 representative of the property owner dated within the last
+18 sixty days.
+19 NEW PARAGRAPH. g. “Squatting” means a person knowingly
+20 taking up residence at a property not open to the public.
+21 Sec. 2. Section 716.7, subsection 2, paragraph a, Code 2026,
+22 is amended by adding the following new subparagraph:
+23 NEW SUBPARAGRAPH. (2A) Squatting, if all of the following
+24 are true:
+25 (a) The person is not a current tenant at the property.
+26 (b) The person does not have a valid agreement to occupy
+27 the property.
+28 (c) The person is not an immediate family member of the
+29 owner of the property.
+30 (d) The person acts without lawful authority in entering and
+31 residing on the property.
+32 Sec. 3. Section 716.8, Code 2026, is amended by adding the
+33 following new subsection:
+34 NEW SUBSECTION. 9. a. A person committing a trespass
+35 as provided in section 716.7, subsection 2, paragraph “a”,
+HF 2629.3381 (1) 91
+-1- as/js 1/2
+
+1 subparagraph (2A), commits the following:
+2 (1) For a first offense, a serious misdemeanor.
+3 (2) For a second offense, an aggravated misdemeanor.
+4 (3) For a third or subsequent offense, a class “D” felony.
+5 b. A person providing a false document in response to a
+6 request to produce a document proving lawful authority is, in
+7 addition to any other criminal offense, guilty of a fraudulent
+8 practice under section 714.8.>
+9 2. Title page, by striking lines 1 and 2 and inserting <An
+10 Act relating to trespass, and providing penalties.>
+______________________________
+STONE of Winnebago
+HF 2629.3381 (1) 91
+-2- as/js 2/2

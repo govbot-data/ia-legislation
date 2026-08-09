@@ -1,0 +1,453 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8407
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2763
+H-8407
+1 Amend House File 2763 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 AGRICULTURAL EQUIPMENT REPAIR>
+5 2. Page 1, line 1, by striking <322E.1> and inserting
+6 <322H.1>
+7 3. Page 5, line 22, by striking <322E.2> and inserting
+8 <322H.2>
+9 4. Page 7, after line 9 by inserting:
+10 <DIVISION __
+11 AGRICULTURAL DATA OWNERSHIP AND MARKET COMPETITION
+12 Sec. ___. NEW SECTION. 322I.1 Short title.
+13 This chapter shall be known and may be cited as the “Iowa
+14 Agricultural Data Ownership and Market Competition Act”.
+15 Sec. ___. NEW SECTION. 322I.2 Legislative findings and
+16 declaration.
+17 The general assembly finds and declares all of the
+18 following:
+19 1. Iowa agricultural producers generate substantial data
+20 annually, including yield monitor data, soil analyses, field
+21 prescriptions, weather correlations, precision agriculture
+22 measurements, livestock health metrics, and operational
+23 performance data.
+24 2. Agricultural producers currently surrender valuable
+25 data to equipment manufacturers, platform companies, and data
+26 service providers through opaque terms of service, often
+27 receiving no compensation for the data and maintaining no
+28 control over its use.
+29 3. Seed companies, insurers, commodity traders,
+30 agricultural technology firms, financial institutions,
+31 government agencies, and others pay premium prices for
+32 agricultural data insights, while agricultural producers
+33 receive no portion of that value.
+34 4. Concentration of agricultural data collection and
+35 transformation in a small number of equipment manufacturers and
+HF 2763.4223 (2) 91
+-1- da/js 1/12
+
+1 platform companies tends to harm Iowa agricultural producers
+2 and rural communities.
+3 5. Agriculture is a sector of critical importance to Iowa’s
+4 economy, food security, and community development.
+5 6. Raw agricultural data, consisting of factual
+6 observations and measurements generated directly from
+7 agricultural equipment or agricultural production operations,
+8 cannot be copyrighted under federal law, but when raw
+9 agricultural data is transformed through creative processes,
+10 analytical methods, or proprietary algorithms, the transformed
+11 agricultural data may be considered intellectual property and
+12 is eligible for full ownership protection.
+13 7. Establishing clear agricultural data ownership
+14 principles that recognize agricultural producers’ full
+15 copyright ownership of transformed agricultural data will
+16 empower agricultural producers to capture fair market value
+17 for their data while promoting transparency, competition, and
+18 innovation in the agricultural sector.
+19 8. Preventing excessive market concentration in
+20 agricultural data collection and transformation is essential
+21 to preserving competitive markets, ensuring fair prices for
+22 agricultural producers, and avoiding the harms associated with
+23 monopolistic practices.
+24 9. It is therefore in the best interests of the people
+25 of Iowa to establish clear and comprehensive regulation of
+26 agricultural data ownership and use in support of agricultural
+27 producers, the agricultural industry, and rural communities.
+28 Sec. ___. NEW SECTION. 322I.3 Definitions.
+29 As used in this chapter, unless the context otherwise
+30 requires:
+31 1. “Agricultural equipment” means the same as defined in
+32 section 322H.1.
+33 2. “Agricultural producer” or “producer” means a person
+34 engaged in an agricultural production operation as a landowner,
+35 tenant farmer, contract grower, livestock owner, or other
+HF 2763.4223 (2) 91
+-2- da/js 2/12
+
+1 agricultural operator.
+2 3. “Agricultural production operation” means any activity
+3 conducted for the purpose of producing an agricultural
+4 commodity, including crop production, livestock production,
+5 aquaculture, viticulture, or similar activities.
+6 4. “Data owner” means a person that holds ownership rights
+7 in raw agricultural data or transformed agricultural data under
+8 section 322I.4.
+9 5. a. “Data service provider” means a person that
+10 collects, receives, accesses, transmits, stores, processes,
+11 transforms, aggregates, analyzes, sells, licenses, or
+12 otherwise commercializes raw agricultural data or transformed
+13 agricultural data.
+14 b. “Data service provider” includes all of the following:
+15 (1) An original equipment manufacturer, as defined in
+16 section 322H.1.
+17 (2) A platform provider that operates a digital platform,
+18 application, or service through which raw agricultural data or
+19 transformed agricultural data is collected, created, stored,
+20 transmitted, processed, or otherwise made available.
+21 (3) A data aggregator that collects, compiles, or processes
+22 raw agricultural data from multiple agricultural producers.
+23 (4) An entity that transforms raw agricultural data into
+24 transformed agricultural data.
+25 (5) An entity that sells, licenses, or otherwise
+26 commercializes raw agricultural data or transformed
+27 agricultural data.
+28 6. “Data transaction” means any sale, license, transfer,
+29 subscription, grant of access, or other commercial exchange
+30 of transformed agricultural data or of an ownership right in
+31 transformed agricultural data, whether for a one-time payment,
+32 recurring fees, royalties, or other consideration.
+33 7. “Department” means the department of agriculture and land
+34 stewardship.
+35 8. “Landowner” means a person that is a titleholder, or
+HF 2763.4223 (2) 91
+-3- da/js 3/12
+
+1 holds a fee simple interest, a life estate interest, or other
+2 possessory interest, in agricultural land.
+3 9. “Livestock” means the same as defined in section 717.1.
+4 10. “Livestock owner” means a person that holds ownership
+5 rights in livestock.
+6 11. “Markets for transformed agricultural data” means the
+7 commercial channels and purchasers of transformed agricultural
+8 data, including all of the following:
+9 a. Crop insurance companies and reinsurers seeking actuarial
+10 data and risk assessments.
+11 b. Seed companies and agricultural biotechnology firms
+12 seeking performance validation data.
+13 c. Commodity traders and futures markets seeking supply
+14 forecasts and production analytics.
+15 d. Agricultural lenders and financial institutions seeking
+16 creditworthiness assessments and collateral valuations.
+17 e. Carbon credit registries and environmental markets
+18 seeking sequestration verification.
+19 f. Government agencies seeking program compliance
+20 verification or statistical data.
+21 g. Food processors and retailers seeking supply chain
+22 transparency and sustainability documentation.
+23 h. Agricultural input suppliers seeking market intelligence
+24 and demand forecasting.
+25 i. Land valuation services and real estate markets seeking
+26 productivity assessments.
+27 j. Research institutions and universities seeking data for
+28 agricultural studies.
+29 k. Water districts and drainage districts seeking usage
+30 optimization data.
+31 l. Any other commercial, governmental, academic, or
+32 nonprofit entity that derives value from transformed
+33 agricultural data.
+34 12. a. “Raw agricultural data” means unprocessed
+35 factual information and all data generated directly from an
+HF 2763.4223 (2) 91
+-4- da/js 4/12
+
+1 agricultural production operation, agricultural equipment
+2 operation, or agricultural land, and that satisfies both of the
+3 following:
+4 (1) Has not been converted to transformed agricultural
+5 data.
+6 (2) Consists of factual observations and measurements that
+7 cannot be copyrighted under federal copyright law.
+8 b. “Raw agricultural data” includes all of the following:
+9 (1) Yield data, soil data, crop data, and field data as
+10 directly recorded by equipment or by manual observation.
+11 (2) Precision agricultural data, including global
+12 positioning system coordinates, application rates, and sensor
+13 readings.
+14 (3) Equipment operation data, diagnostic data, telematics
+15 data, and machine performance data as generated by equipment
+16 systems.
+17 (4) Livestock data, including health records, production
+18 metrics, breeding data, and performance measurements.
+19 (5) Weather data, environmental data, and climate data
+20 specific to agricultural production operations.
+21 (6) Input data, including seed, fertilizer, pesticide,
+22 herbicide, diesel exhaust fluid, and fuel usage data.
+23 (7) Financial data specific to agricultural production
+24 operations.
+25 13. “Transformed agricultural data” means raw agricultural
+26 data that has been processed, analyzed, aggregated, compiled,
+27 or otherwise transformed through the application of proprietary
+28 algorithms, analytical methods, creative arrangement, or other
+29 intellectual processes sufficient to produce information that
+30 may be copyrighted as intellectual property under federal
+31 copyright law, including all of the following:
+32 a. Agronomic analyses and recommendations derived from raw
+33 agricultural data.
+34 b. Predictive models and yield forecasts based on historical
+35 and current data.
+HF 2763.4223 (2) 91
+-5- da/js 5/12
+
+1 c. Field prescriptions and variable-rate application maps.
+2 d. Comparative benchmark reports and performance analyses.
+3 e. Validated farming practices documented and substantiated
+4 through operational data.
+5 f. Crop insurance risk assessments and actuarial analyses.
+6 g. Carbon sequestration quantification and environmental
+7 credit documentation.
+8 h. Supply chain optimization analyses and logistical models.
+9 i. Equipment efficiency analyses and maintenance prediction
+10 models.
+11 j. Sustainability certifications and compliance
+12 documentation.
+13 k. Market timing analyses and commodity trading insights.
+14 l. Input optimization recommendations and resource
+15 efficiency analyses.
+16 m. Any other compilation, analysis, or derivative work that
+17 meets the originality threshold for copyright protection under
+18 federal law.
+19 Sec. ___. NEW SECTION. 322I.4 Agricultural data ownership
+20 —— rights of agricultural producers.
+21 1. An agricultural producer that generates raw agricultural
+22 data from the producer’s agricultural equipment or agricultural
+23 production operation retains ownership of that raw agricultural
+24 data and may do all of the following:
+25 a. Access, possess, and control the raw agricultural data.
+26 b. Receive copies of the raw agricultural data in a
+27 standardized, portable, machine-readable format from a data
+28 service provider.
+29 c. Share the raw agricultural data with a data service
+30 provider of the producer’s choosing.
+31 d. Request deletion of the raw agricultural data from a data
+32 service provider’s systems.
+33 e. Receive information from a data service provider
+34 regarding how the raw agricultural data is being used,
+35 transformed, and commercialized.
+HF 2763.4223 (2) 91
+-6- da/js 6/12
+
+1 f. Receive fair market value compensation from a data
+2 service provider when the raw agricultural data is used
+3 to create transformed agricultural data or is otherwise
+4 commercialized.
+5 2. An agricultural producer that provides raw agricultural
+6 data to a data service provider that converts the raw
+7 agricultural data into transformed agricultural data has full
+8 ownership rights in the transformed agricultural data and may
+9 do all of the following:
+10 a. Copyright the transformed agricultural data.
+11 b. Reproduce the transformed agricultural data.
+12 c. Prepare, or contract for the preparation of, derivative
+13 works based on the transformed agricultural data.
+14 d. Distribute copies of the transformed agricultural data.
+15 e. Display the transformed agricultural data publicly.
+16 f. License or sell the transformed agricultural data in any
+17 market and for any lawful purpose.
+18 g. Receive fair market value compensation from a data
+19 service provider when the transformed agricultural data is
+20 commercialized by others.
+21 3. a. Except as provided in subsection 2, 4, or 5,
+22 raw agricultural data generated by a landowner from a crop
+23 production operation, and transformed agricultural data derived
+24 from that raw agricultural data, belongs to the landowner of
+25 the agricultural land from which the raw agricultural data was
+26 generated.
+27 b. A landowner that leases land to a tenant farmer or other
+28 agricultural producer retains ownership of the raw agricultural
+29 data generated from crop production on that land unless
+30 otherwise provided by written agreement between the landowner
+31 and the tenant farmer or other agricultural producer.
+32 4. a. Raw agricultural data generated from a livestock
+33 operation, referred to in this chapter as “livestock data”,
+34 and transformed agricultural data derived from that raw
+35 agricultural data, belongs to the owner of the livestock from
+HF 2763.4223 (2) 91
+-7- da/js 7/12
+
+1 which the raw agricultural data was generated, regardless of
+2 where the livestock is housed or whether a person other than
+3 the livestock owner manages the livestock, unless otherwise
+4 provided by written agreement between the parties.
+5 b. A landowner of land on which a livestock operation is
+6 conducted, and who is not the owner of the livestock, does
+7 not own and has no claim to the livestock data generated from
+8 the livestock operation unless otherwise provided by written
+9 agreement between the owner of the livestock and the landowner.
+10 5. a. Raw agricultural data generated from agricultural
+11 equipment during an agricultural production operation that is
+12 related to the use of the agricultural equipment, referred to
+13 in this chapter as “equipment operation data”, and transformed
+14 agricultural data derived from that raw agricultural data,
+15 belongs to the owner or lessee of the agricultural equipment
+16 at the time the raw agricultural data was generated, unless
+17 otherwise provided by written agreement between the parties.
+18 b. In accordance with subsection 3, even if agricultural
+19 equipment is used during crop production, raw agricultural data
+20 generated from crop production belongs to the landowner if the
+21 raw agricultural data is related to the crop production. If
+22 the raw agricultural data is equipment operation data and is
+23 related to the use of the agricultural equipment in the crop
+24 production, the raw agricultural data belongs to the owner or
+25 lessee of the agricultural equipment.
+26 6. a. A data owner’s rights regarding raw agricultural data
+27 or transformed agricultural data granted under this chapter
+28 shall not be waived or transferred by a browsewrap agreement,
+29 a clickwrap agreement, terms of service, an end user license
+30 agreement, or a similar instrument.
+31 b. A data owner’s rights regarding raw agricultural data
+32 or transformed agricultural data may be waived, transferred,
+33 or voided only if the data owner provides express, informed,
+34 written consent that specifically acknowledges the waiver,
+35 transfer, or voiding of that right.
+HF 2763.4223 (2) 91
+-8- da/js 8/12
+
+1 7. a. This section does not prohibit parties from
+2 negotiating alternative ownership and revenue-sharing
+3 arrangements for raw agricultural data or transformed
+4 agricultural data through written agreement.
+5 b. An agricultural producer may negotiate ownership
+6 and revenue-sharing arrangements for the producer’s raw
+7 agricultural data or transformed agricultural data, including
+8 specific sharing arrangements for any of the following:
+9 (1) Tenant farming.
+10 (2) Sharecropping.
+11 (3) A contract growing operation.
+12 (4) A custom farming operation.
+13 (5) An equipment leasing arrangement.
+14 Sec. ___. NEW SECTION. 322I.5 Data monetization rights ——
+15 limits on data service providers —— revenue sharing.
+16 1. An agricultural producer may monetize, either directly
+17 or through a data service provider of the producer’s choosing,
+18 the producer’s transformed agricultural data by selling,
+19 licensing, or otherwise commercializing the data in markets for
+20 transformed agricultural data.
+21 2. A data service provider shall not do any of the
+22 following:
+23 a. Prevent, restrict, or impede an agricultural producer
+24 from monetizing the producer’s transformed agricultural data
+25 through third parties.
+26 b. Limit or restrict the types of markets for transformed
+27 agricultural data in which an agricultural producer may
+28 participate.
+29 c. Impose contractual provisions that grant the data service
+30 provider exclusive rights to the agricultural producer’s raw
+31 agricultural data or transformed agricultural data without
+32 fair market value compensation and the informed consent of the
+33 agricultural producer.
+34 d. Discriminate or retaliate against an agricultural
+35 producer in terms, pricing, or service based on the producer’s
+HF 2763.4223 (2) 91
+-9- da/js 9/12
+
+1 monetization of transformed agricultural data.
+2 3. When a data service provider sells, licenses, or
+3 otherwise commercializes transformed agricultural data, all of
+4 the following shall apply:
+5 a. The data owner shall receive fair market value
+6 compensation for the use of the data owner’s transformed
+7 agricultural data, and the compensation shall be disclosed by
+8 the data service provider prior to the data transaction.
+9 b. The data service provider shall provide the data
+10 owner, upon request, with a transparent accounting of all
+11 data transactions involving the data owner’s transformed
+12 agricultural data, including the markets in which the
+13 transformed agricultural data was sold.
+14 c. A revenue-sharing arrangement established between the
+15 data owner and the data service provider shall be executed by
+16 written agreement between the parties and shall specify the
+17 percentage or amount of revenue paid to the data owner.
+18 d. The data service provider may contract with other persons
+19 to facilitate payment of revenue shares to data owners, but
+20 shall not reduce or delay payments to the data owner.
+21 Sec. ___. NEW SECTION. 322I.6 Enforcement —— unfair or
+22 deceptive trade practice —— civil penalty —— private right of
+23 action.
+24 1. A violation of section 322I.5 by a data service provider
+25 is an unlawful practice under section 714.16.
+26 2. a. The department shall serve as the first-line
+27 receiving and investigating authority for a violation of
+28 section 322I.5, and may do any of the following:
+29 (1) Receive and investigate complaints alleging violations
+30 of this chapter.
+31 (2) Refer complaints to the attorney general for
+32 enforcement under section 714.16.
+33 (3) Publish annual reports on agricultural data market
+34 concentration and compliance with this chapter.
+35 b. The attorney general, on referral from the department or
+HF 2763.4223 (2) 91
+-10- da/js 10/12
+
+1 upon the attorney general’s own initiative, may bring an action
+2 to enforce section 322I.5 under section 714.16, including an
+3 action seeking injunctive relief, restitution, civil penalties,
+4 and any other relief authorized by section 714.16.
+5 3. a. In addition to any other penalty available under
+6 section 714.16, a data service provider that violates section
+7 322I.5 is subject to a civil penalty of not more than fifty
+8 thousand dollars per violation.
+9 b. Except for any relief awarded under subsection 4, a civil
+10 penalty recovered by the attorney general or the department
+11 under section 322I.5 shall be deposited in the general fund of
+12 the state.
+13 4. An agricultural producer or data owner aggrieved by a
+14 violation of section 322I.5 may bring a civil action in a court
+15 of competent jurisdiction and, upon prevailing, is entitled to
+16 all of the following:
+17 a. Actual damages or statutory damages of up to ten thousand
+18 dollars per violation, whichever amount is greater.
+19 b. Injunctive relief.
+20 c. Reasonable attorney fees and costs.
+21 5. The remedies provided in this section are cumulative and
+22 are in addition to any other remedies available under law.
+23 Sec. ___. NEW SECTION. 322I.7 Rulemaking.
+24 The department may adopt rules pursuant to chapter 17A to
+25 administer and enforce this chapter.
+26 Sec. ___. NEW SECTION. 322I.8 Construction —— relationship
+27 to chapter 322H.
+28 1. This chapter shall be construed independently of chapter
+29 322H.
+30 2. Except as otherwise expressly stated in statute, all of
+31 the following apply:
+32 a. The definition of “data” in section 322H.1 applies only
+33 for purposes of chapter 322H.
+34 b. The definitions of “raw agricultural data” and
+35 “transformed agricultural data” in section 322I.3 apply only for
+HF 2763.4223 (2) 91
+-11- da/js 11/12
+
+1 purposes of this chapter.
+2 3. a. Nothing in this chapter limits, modifies,
+3 or supersedes the obligations of an original equipment
+4 manufacturer under chapter 322H.
+5 b. Nothing in chapter 322H limits, modifies, or supersedes
+6 the data ownership rights of an agricultural producer or data
+7 owner under this chapter.
+8 Sec. ___. Section 714.16, subsection 2, Code 2026, is
+9 amended by adding the following new paragraph:
+10 NEW PARAGRAPH. t. It is an unlawful practice for a person
+11 that is a data service provider acting in the course of the
+12 person’s business to violate section 322I.5.
+13 Sec. ___. EFFECTIVE DATE. This division of this Act takes
+14 effect July 1, 2027.
+15 Sec. ___. APPLICABILITY. This division of this Act applies
+16 to transactions and conduct occurring on or after the effective
+17 date of this division of this Act.>
+18 5. Title page, line 2, by striking <equipment.> and
+19 inserting <production, providing penalties, and including
+20 effective date and applicability provisions.>
+21 6. By renumbering as necessary.
+______________________________
+WULF of Black Hawk
+HF 2763.4223 (2) 91
+-12- da/js 12/12

@@ -1,0 +1,78 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5143
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2387
+S-5143
+1 Amend Senate File 2387 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 8A.322, subsection 3, Code 2026, is
+5 amended to read as follows:
+6 3. a. The director shall establish, publish, and enforce
+7 rules regulating and restricting the use by the public of the
+8 capitol buildings and grounds and of the state laboratories
+9 facility in Ankeny. The rules when established shall be posted
+10 in conspicuous places about the capitol buildings and grounds
+11 and the state laboratories facility, as applicable. Any person
+12 violating any rule, except a parking regulation, shall be
+13 guilty of a simple misdemeanor.
+14 b. The rules shall prohibit a person, other than a peace
+15 officer, from openly carrying a pistol or revolver in the
+16 capitol building and on the grounds surrounding the capitol
+17 building including state parking lots and parking garages.
+18 However, this subsection paragraph shall not be construed
+19 to allow the director to prohibit the lawful carrying,
+20 transportation, or possession of any pistol or revolver in the
+21 capitol building and on the grounds surrounding the capitol
+22 building including state parking lots and parking garages by
+23 any person regardless of whether the person has a valid permit
+24 to carry weapons.
+25 c. A request to hold a public event on the capitol
+26 complex must be submitted to the department by completing an
+27 application on the department’s internet site. The director
+28 shall notify the applicant of approval or denial of the
+29 request by a letter to the event sponsor or a memorandum of
+30 understanding signed by the director and the event sponsor that
+31 specifies the conditions under which the event will take place.
+32 The director shall not approve or deny a request based on the
+33 number of events an applicant has held or requested to hold on
+34 the capitol complex. It is the intent of the general assembly
+35 that this paragraph shall not be interpreted as an infringement
+SF 2387.3714 (1) 91
+(amending this SF 2387 to CONFORM to HF 2671)
+-1- sc/ns 1/2
+
+1 on the rights guaranteed by Article I, section 20, of the
+2 Constitution of the State of Iowa.
+3 Sec. 2. Section 8A.367, subsection 2, Code 2026, is amended
+4 by adding the following new paragraph:
+5 NEW PARAGRAPH. d. For rental or leasing of passenger
+6 vehicles operating using an internal combustion engine powered
+7 by diesel fuel, that the passenger vehicle’s manufacturer
+8 expressly states that the engine is capable of being powered by
+9 biodiesel blended fuel classified as B-20 or higher.
+10 Sec. 3. EFFECTIVE DATE. The following, being deemed of
+11 immediate importance, takes effect upon enactment:
+12 The section of this Act amending section 8A.322, subsection
+13 3.
+14 Sec. 4. APPLICABILITY. The section of this Act enacting
+15 section 8A.367, subsection 2, paragraph “d”, applies to
+16 contracts issued or renewed under section 8A.367 on or after
+17 July 1, 2026.>
+18 2. Title page, by striking lines 1 through 4 and inserting
+19 <An Act relating to matters under the purview of the department
+20 of administrative services, including rules for capitol complex
+21 events and the compatibility of passenger vehicles rented or
+22 leased by the state with biodiesel blended fuel classified as
+23 B-20 or higher, and including effective date and applicability
+24 provisions.>
+______________________________
+DENNIS GUTH
+SF 2387.3714 (1) 91
+(amending this SF 2387 to CONFORM to HF 2671)
+-2- sc/ns 2/2

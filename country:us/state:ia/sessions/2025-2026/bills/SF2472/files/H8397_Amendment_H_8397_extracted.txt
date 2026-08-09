@@ -1,0 +1,321 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8397
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2472
+H-8397
+1 Amend the amendment, H-8394, to Senate File 2472, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. By striking page 1, line 3, through page 54, line 4, and
+4 inserting:
+5 <1. By striking everything after the enacting clause and
+6 inserting:
+7 <DIVISION I
+8 ADDITIONAL HOMESTEAD PROPERTY TAX CREDIT
+9 Section 1. Section 425.17, subsection 2, paragraph a, Code
+10 2026, is amended by adding the following new subparagraph:
+11 NEW SUBPARAGRAPH. (4) A person filing a claim for credit
+12 under this subchapter who has attained the age of eighteen
+13 years on or before December 31 of the base year, is domiciled
+14 in this state at the time the claim is filed or at the time
+15 of the person’s death in the case of a claim filed by the
+16 executor or administrator of the claimant’s estate, and
+17 if the homestead’s actual value did not increase for the
+18 applicable assessment year as the result of new construction,
+19 improvements, or renovations to the property, beyond necessary
+20 repairs.
+21 Sec. 2. Section 425.23, subsection 1, Code 2026, is amended
+22 by adding the following new paragraph:
+23 NEW PARAGRAPH. d. The tentative credit for a claimant
+24 described in section 425.17, subsection 2, paragraph “a”,
+25 subparagraph (4), shall be the difference between the actual
+26 amount of property taxes due on the homestead during the
+27 fiscal year next following the base year minus one hundred
+28 four percent of the actual amount of property taxes due on the
+29 homestead during the fiscal year immediately preceding such
+30 fiscal year, but not less than zero, if the property taxes due
+31 on the homestead for both such fiscal years were calculated on
+32 an assessed valuation that was not a partial assessment.
+33 Sec. 3. IMPLEMENTATION OF ACT. Section 25B.7 shall not
+34 apply to this division of this Act.
+35 Sec. 4. APPLICABILITY. This division of this Act applies
+H 8394.4160 (2) 91
+-1- md/jh 1/9
+
+1 to property taxes due and payable in fiscal years beginning on
+2 or after July 1, 2027.
+3 DIVISION II
+4 HOMESTEAD CREDIT AMOUNT
+5 Sec. 5. Section 425.1, subsection 2, Code 2026, is amended
+6 to read as follows:
+7 2. The homestead credit fund shall be apportioned each
+8 year so as to give a credit against the tax on each eligible
+9 homestead in the state in an amount equal to the actual levy on
+10 the first four thousand eight hundred fifty fourteen thousand
+11 five hundred fifty dollars of actual value for each homestead.
+12 Sec. 6. APPLICABILITY. This division of this Act applies
+13 to property taxes due and payable in fiscal years beginning on
+14 or after July 1, 2027.
+15 DIVISION III
+16 ELDERLY ADDITIONAL HOMESTEAD PROPERTY TAX CREDIT
+17 Sec. 7. Section 25B.7, subsection 2, paragraph b, Code 2026,
+18 is amended to read as follows:
+19 b. Low-income property tax credit and elderly and disabled
+20 property tax credit pursuant to sections 425.16 through 425.40,
+21 subject to the limitation of section 425.39, subsection 1,
+22 paragraph “b”.
+23 Sec. 8. Section 425.17, subsection 2, paragraph a, Code
+24 2026, is amended to read as follows:
+25 a. “Claimant” means any of the following:
+26 (1) A person filing a claim for credit under this subchapter
+27 who has attained the age of sixty-five years but who has
+28 not attained the age of seventy years on or before December
+29 31 of the base year, a person filing a claim for credit or
+30 reimbursement under this subchapter who is totally disabled
+31 and was totally disabled on or before December 31 of the base
+32 year, or a person filing a claim for reimbursement under this
+33 subchapter who has attained the age of sixty-five years on or
+34 before December 31 of the base year and who is domiciled in
+35 this state at the time the claim is filed or at the time of the
+H 8394.4160 (2) 91
+-2- md/jh 2/9
+
+1 person’s death in the case of a claim filed by the executor or
+2 administrator of the claimant’s estate.
+3 (2) A person filing a claim for credit or reimbursement
+4 under this subchapter who has attained the age of twenty-three
+5 years on or before December 31 of the base year or was a head
+6 of household on December 31 of the base year, as defined in
+7 the Internal Revenue Code, but has not attained the age or
+8 disability status described in subparagraph (1) or the age
+9 status and eligibility criteria of subparagraph (3), and is
+10 domiciled in this state at the time the claim is filed or at the
+11 time of the person’s death in the case of a claim filed by the
+12 executor or administrator of the claimant’s estate, and was not
+13 claimed as a dependent on any other person’s tax return for the
+14 base year.
+15 (3) A person filing a claim for credit under this subchapter
+16 who has attained the age of seventy sixty-five years on or
+17 before December 31 of the base year, who has a household income
+18 of less than two hundred fifty percent of the federal poverty
+19 level, as defined by the most recently revised poverty income
+20 guidelines published by the United States department of health
+21 and human services, and is domiciled in this state at the time
+22 the claim is filed or at the time of the person’s death in the
+23 case of a claim filed by the executor or administrator of the
+24 claimant’s estate.
+25 Sec. 9. Section 425.39, subsection 1, Code 2026, is amended
+26 to read as follows:
+27 1. a. The elderly and disabled property tax credit fund is
+28 created. There is appropriated annually from the general fund
+29 of the state to the department of revenue to be credited to the
+30 elderly and disabled property tax credit fund, from funds not
+31 otherwise appropriated, an amount sufficient to implement this
+32 subchapter for credits for property taxes due for claimants
+33 described in section 425.17, subsection 2, paragraph “a”,
+34 subparagraphs subparagraph (1) and (3), subject to paragraph
+35 “b”. There is appropriated annually from the taxpayer relief
+H 8394.4160 (2) 91
+-3- md/jh 3/9
+
+1 fund under section 8.57E to the department of revenue to be
+2 credited to the elderly and disabled property tax credit fund,
+3 from funds not otherwise appropriated, an amount sufficient
+4 to implement this subchapter for credits for property taxes
+5 due for claimants described in section 425.17, subsection 2,
+6 paragraph “a”, subparagraph (3).
+7 b. Regardless of the amount of the credit determined under
+8 section 425.23, subsection 1, paragraph “c”, the amount paid by
+9 the director of revenue to each county treasurer for credits
+10 for claimants described under section 425.17, subsection 2,
+11 paragraph “a”, subparagraph (3), shall not exceed the amount
+12 calculated for the claimant under section 425.23, subsection 1,
+13 paragraph “c”, subparagraph (1), and section 25B.7, subsection
+14 1, shall not apply to the amount of the credit in excess of the
+15 amount paid by the director of revenue.
+16 Sec. 10. APPLICABILITY. The section of this division
+17 of this Act amending section 425.17 applies to claims under
+18 chapter 425, subchapter II, filed on or after January 1, 2027.
+19 DIVISION IV
+20 RESIDENTIAL PROPERTY TAX REBATE
+21 Sec. 11. Section 8.57E, subsection 2, paragraph a, Code
+22 2026, is amended to read as follows:
+23 a. Except as otherwise provided in this section, moneys
+24 in the taxpayer relief fund shall only be used pursuant to
+25 appropriations or transfers made by the general assembly for
+26 tax relief, or reductions in income tax rates, or rebates under
+27 section 425B.1.
+28 Sec. 12. NEW SECTION. 425B.1 Residential rebate —— fund
+29 —— appropriation.
+30 1. As used in this section, “eligibility period” means each
+31 fiscal year commencing with the fiscal year beginning July 1,
+32 2026, but before the fiscal year beginning July 1, 2028.
+33 2. a. A residential rebate fund is created within the
+34 state treasury under the control of the department of revenue.
+35 For each fiscal year in the eligibility period, there is
+H 8394.4160 (2) 91
+-4- md/jh 4/9
+
+1 appropriated from the taxpayer relief fund under section 8.57E
+2 to the department of revenue to be credited to the residential
+3 rebate fund, an amount sufficient to implement this chapter for
+4 the applicable fiscal year. The department of revenue shall
+5 determine the annual appropriation amount.
+6 b. Moneys in fund are to be used during the eligibility
+7 period to provide residential rebate payments annually to
+8 qualified persons as described in this section.
+9 3. a. A person owning a homestead qualifies to claim
+10 a residential rebate in the amount of one thousand dollars
+11 for each fiscal year of the eligibility period the person
+12 claimed the homestead credit under chapter 425, in the previous
+13 fiscal year. Only one rebate may be claimed for a particular
+14 homestead per fiscal year.
+15 b. The department shall use homestead property tax credit
+16 records from county treasurers to identify and pay residential
+17 rebates to qualified owners under this subsection.
+18 4. a. A person renting a residence qualifies to claim a
+19 residential rebate in the amount of five hundred dollars if the
+20 residence is the person’s primary residence. Not more than two
+21 rebates may be claimed for a particular rented residence per
+22 fiscal year and not more than one rebate may be claimed per
+23 familial household per fiscal year.
+24 b. A person who wishes to qualify for the residential
+25 rebate allowed under this chapter as a renter shall obtain the
+26 appropriate forms for claiming the rebate from the department
+27 of revenue. The person claiming the rebate shall file a claim
+28 form, including a verified statement and designation of primary
+29 residence, with the department of revenue for the year for
+30 which the person is claiming the rebate. The claim shall be
+31 filed no later than September 1 following the fiscal year for
+32 which the person is claiming the rebate.
+33 5. By January 1 following each fiscal year during the
+34 eligibility period, the department of revenue shall make the
+35 authorized rebate payments to persons who qualify for the
+H 8394.4160 (2) 91
+-5- md/jh 5/9
+
+1 rebate under this chapter.
+2 DIVISION V
+3 RETIREMENT SYSTEMS
+4 Sec. 13. Section 97A.1, subsection 10, Code 2026, is amended
+5 to read as follows:
+6 10. “Earnable compensation” or “compensation earnable”
+7 shall mean the regular compensation which a member would
+8 earn during one year on the basis of the stated compensation
+9 for the member’s rank or position including compensation for
+10 longevity, any amount received for overtime compensation,
+11 and the daily amount received for meals under section 80.6,
+12 and excluding any amount received for overtime compensation
+13 or other special additional compensation, other payments for
+14 meal expenses, uniform cleaning allowances, travel expenses,
+15 and uniform allowances and excluding any amount received upon
+16 termination or retirement in payment for accumulated sick leave
+17 or vacation.
+18 Sec. 14. Section 97B.11, subsection 1, Code 2026, is amended
+19 to read as follows:
+20 1. a. Each employer shall deduct from the wages of each
+21 member of the retirement system a contribution in the amount of
+22 the applicable employee percentage of the covered wages paid by
+23 the employer and such additional amount if otherwise required
+24 by law, until the member’s termination from employment. The
+25 contributions of the employer shall be in the amount of the
+26 applicable employer percentage of the covered wages of the
+27 member and such additional amount if otherwise required by law.
+28 b. Beginning July 1, 2026, the contributions of the
+29 employer related to a member that is in special service in a
+30 protection occupation as described in section 97B.49C for a
+31 county or as a county sheriff or deputy sheriff as described
+32 in section 97B.49C, shall be paid by the treasurer of state
+33 from the general fund of the state. For the fiscal year
+34 beginning July 1, 2026, and for each fiscal year thereafter,
+35 there is appropriated from the general fund of the state to
+H 8394.4160 (2) 91
+-6- md/jh 6/9
+
+1 the treasurer of state an amount necessary to carry out the
+2 provision of this paragraph.
+3 Sec. 15. Section 411.1, subsection 10, Code 2026, is amended
+4 to read as follows:
+5 10. “Earnable compensation” or “compensation earnable”
+6 shall mean the annual compensation which a member receives
+7 for services rendered as a police officer or fire fighter in
+8 the course of employment with a participating city and shall
+9 include any amount received as overtime compensation. However,
+10 the term “earnable compensation” or “compensation earnable” shall
+11 not include amounts received for overtime compensation, meal or
+12 travel expenses, uniform allowances, fringe benefits, severance
+13 pay, or any amount received upon termination or retirement in
+14 payment for accumulated sick leave or vacation. Contributions
+15 made by a member from the member’s earnable compensation to a
+16 plan of deferred compensation shall be included in earnable
+17 compensation. Other contributions made to a plan of deferred
+18 compensation shall not be included except to the extent
+19 provided in rules adopted by the board of trustees pursuant to
+20 section 411.5, subsection 3.
+21 Sec. 16. Section 411.8, subsection 1, paragraphs a, b, c,
+22 and d, Code 2026, are amended to read as follows:
+23 a. On account of each member there shall be paid annually
+24 into the fund by the participating cities or, on or after July
+25 1, 2026, by the treasurer of state an amount equal to a certain
+26 percentage of the earnable compensation of the member to be
+27 known as the “normal contribution”. The rate percent of such
+28 contribution shall be fixed on the basis of the liabilities of
+29 the retirement system as shown by annual actuarial valuations.
+30 Beginning July 1, 2026, that portion of the normal contribution
+31 otherwise required to be paid by a participating city into the
+32 fund shall be paid by the treasurer of state from the general
+33 fund of the state. For the fiscal year beginning July 1, 2026,
+34 and for each fiscal year thereafter, there is appropriated from
+35 the general fund of the state to the treasurer of state an
+H 8394.4160 (2) 91
+-7- md/jh 7/9
+
+1 amount necessary to carry out the provision of this paragraph
+2 “a”.
+3 b. (1) On the basis of the actuarial methods and
+4 assumptions, rate of interest, and of the mortality,
+5 interest and other tables adopted by the system, the actuary
+6 engaged by the system to make each valuation required by
+7 this chapter pursuant to the requirements of section 411.5,
+8 shall immediately after making such valuation, determine
+9 the normal contribution rate. Except as otherwise provided
+10 in this lettered paragraph, the “normal contribution rate”
+11 shall be the rate percent of the earnable compensation of all
+12 members equal to the rate required by the system to discharge
+13 its liabilities, stated as a percentage of the earnable
+14 compensation of all members, and reduced by the employee
+15 contribution rate provided in paragraph “f” of this subsection
+16 and the contribution rate representing any state appropriation
+17 made. However, the normal contribution rate shall not be less
+18 than seventeen percent.
+19 (2) The normal contribution rate shall be determined by the
+20 actuary after each valuation.
+21 c. The total amount payable in each year to the fund
+22 shall be not less than the rate percent known as the normal
+23 contribution rate of the total compensation earnable by all
+24 members during the year, but the aggregate payment by the
+25 participating cities or treasurer of state, as applicable, must
+26 be sufficient when combined with the amount in the fund to
+27 provide the pensions and other benefits payable out of the fund
+28 during the then current year.
+29 d. All lump-sum death benefits on account of death in active
+30 service payable from contributions of the said participating
+31 cities or the treasurer of state, as applicable, shall be paid
+32 from the fund.
+33 2. Title page, by striking lines 1 through 5 and inserting
+34 <An Act relating to local and state government finances
+35 by modifying provisions relating to homestead property
+H 8394.4160 (2) 91
+-8- md/jh 8/9
+
+1 tax credits, providing a residential property tax rebate,
+2 modifying provisions relating to retirement systems, making
+3 appropriations, and including applicability provisions.>>
+______________________________
+JACOBY of Johnson
+H 8394.4160 (2) 91
+-9- md/jh 9/9

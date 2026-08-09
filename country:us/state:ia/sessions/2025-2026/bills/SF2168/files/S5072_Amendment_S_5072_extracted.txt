@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5072
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2168
+S-5072
+1 Amend Senate File 2168 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 96.3, subsection 5, paragraph a, Code
+5 2026, is amended to read as follows:
+6 a. Duration of benefits. The maximum total amount of
+7 benefits payable to an eligible individual during a benefit
+8 year shall not exceed the total of the wage credits accrued to
+9 the individual’s account during the individual’s base period,
+10 or sixteen twenty-six times the individual’s weekly benefit
+11 amount, whichever is the lesser. The director shall maintain
+12 a separate account for each individual who earns wages in
+13 insured work. The director shall compute wage credits for
+14 each individual by crediting the individual’s account with
+15 one-third of the wages for insured work paid to the individual
+16 during the individual’s base period. However, the director
+17 shall recompute wage credits for an individual who is laid
+18 off due to the individual’s employer going out of business at
+19 the factory, establishment, or other premises at which the
+20 individual was last employed, by crediting the individual’s
+21 account with one-half, instead of one-third, of the wages for
+22 insured work paid to the individual during the individual’s
+23 base period. Benefits paid to an eligible individual shall
+24 be charged against the base period wage credits in the
+25 individual’s account which have not been previously charged,
+26 in the inverse chronological order as the wages on which the
+27 wage credits are based were paid. However if the state “off”
+28 indicator is in effect and if the individual is laid off due to
+29 the individual’s employer going out of business at the factory,
+30 establishment, or other premises at which the individual was
+31 last employed, the maximum benefits payable shall be extended
+32 to twenty-six thirty-nine times the individual’s weekly benefit
+33 amount, but not to exceed the total of the wage credits accrued
+34 to the individual’s account.>
+35 2. Title page, by striking lines 1 through 3 and inserting
+SF 2168.3222 (2) 91
+-1- je/js 1/2
+
+1 <An Act relating to the maximum amount of unemployment benefits
+2 payable during a benefit year.>
+______________________________
+JANET PETERSEN
+SF 2168.3222 (2) 91
+-2- je/js 2/2

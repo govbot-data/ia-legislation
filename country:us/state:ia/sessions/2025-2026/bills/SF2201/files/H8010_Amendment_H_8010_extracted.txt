@@ -1,0 +1,293 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8010
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2201
+H-8010
+1 Amend the amendment, H-8004, to Senate File 2201, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. By striking page 1, line 1, through page 6, line 35, and
+4 inserting:
+5 <Amend Senate File 2201, as amended, passed, and reprinted
+6 by the Senate, as follows:
+7 1. By striking everything after the enacting clause and
+8 inserting:
+9 <DIVISION I
+10 STATE AND CATEGORICAL PERCENTS OF GROWTH AND PROPERTY TAX
+11 REPLACEMENT PAYMENTS
+12 Section 1. Section 257.8, subsections 1 and 2, Code 2026,
+13 are amended to read as follows:
+14 1. State percent of growth. The state percent of growth for
+15 the budget year beginning July 1, 2023, is three percent. The
+16 state percent of growth for the budget year beginning July 1,
+17 2024, is two and one-half percent. The state percent of growth
+18 for the budget year beginning July 1, 2025, is two percent.
+19 The state percent of growth for the budget year beginning July
+20 1, 2026, is five percent. The state percent of growth for each
+21 subsequent budget year shall be established by statute which
+22 shall be enacted within thirty days of the transmission of the
+23 governor’s budget required by February 1 under section 8.21
+24 during the regular legislative session beginning in the base
+25 year.
+26 2. Categorical state percent of growth. The categorical
+27 state percent of growth for the budget year beginning July
+28 1, 2023, is three percent. The categorical state percent of
+29 growth for the budget year beginning July 1, 2024, is two and
+30 one-half percent. The categorical state percent of growth for
+31 the budget year beginning July 1, 2025, is two percent, except
+32 for calculating the appropriation to the transportation equity
+33 fund under section 257.16C. The categorical state percent of
+34 growth for purposes of calculating the appropriation to the
+35 transportation equity fund under section 257.16C for the budget
+H 8004.2776 (1) 91
+-1- mb/md 1/8
+
+1 year beginning July 1, 2025, is five percent. The categorical
+2 state percent of growth for the budget year beginning July
+3 1, 2026, is five percent. The categorical state percent of
+4 growth for each budget year shall be established by statute
+5 which shall be enacted within thirty days of the transmission
+6 of the governor’s budget required by February 1 under section
+7 8.21 during the regular legislative session beginning in the
+8 base year. The categorical state percent of growth may include
+9 state percents of growth for the teacher salary supplement, the
+10 professional development supplement, the early intervention
+11 supplement, the teacher leadership supplement, and for budget
+12 years beginning on or after July 1, 2020, transportation equity
+13 aid payments under section 257.16C.
+14 Sec. 2. Section 257.16B, subsections 1 and 2, Code 2026, are
+15 amended to read as follows:
+16 1. For each fiscal year beginning on or after July 1, 2023
+17 2024, there is appropriated from the general fund of the state
+18 to the department of education an amount necessary to make all
+19 school district property tax replacement payments under this
+20 section, as calculated in subsection 2.
+21 2. a. (1) For the budget year beginning July 1, 2023,
+22 the amount of each school district’s property tax replacement
+23 payment shall be the product of the school district’s weighted
+24 enrollment for the budget year multiplied by the per pupil
+25 property tax replacement amount for the budget year calculated
+26 under subparagraph (2).
+27 (2) The per pupil property tax replacement amount for the
+28 budget year beginning July 1, 2023, is equal to the sum of one
+29 hundred fifty-three dollars plus the difference between the
+30 following:
+31 (a) The regular program state cost per pupil for the budget
+32 year beginning July 1, 2023, multiplied by one hundred percent
+33 less the regular program foundation base per pupil percentage
+34 pursuant to section 257.1 for the budget year beginning July
+35 1, 2023.
+H 8004.2776 (1) 91
+-2- mb/md 2/8
+
+1 (b) The regular program state cost per pupil for the budget
+2 year beginning July 1, 2021, multiplied by one hundred percent
+3 less the regular program foundation base per pupil percentage
+4 pursuant to section 257.1 for the budget year beginning July
+5 1, 2023.
+6 b. a. (1) For the budget year beginning July 1, 2024,
+7 the amount of each school district’s property tax replacement
+8 payment shall be the product of the school district’s weighted
+9 enrollment for the budget year multiplied by the per pupil
+10 property tax replacement amount for the budget year calculated
+11 under subparagraph (2).
+12 (2) The per pupil property tax replacement amount for the
+13 budget year beginning July 1, 2024, is equal to the sum of one
+14 hundred fifty-three dollars plus the difference between the
+15 following:
+16 (a) The regular program state cost per pupil for the budget
+17 year beginning July 1, 2024, multiplied by one hundred percent
+18 less the regular program foundation base per pupil percentage
+19 pursuant to section 257.1 for the budget year beginning July
+20 1, 2024.
+21 (b) The regular program state cost per pupil for the budget
+22 year beginning July 1, 2021, multiplied by one hundred percent
+23 less the regular program foundation base per pupil percentage
+24 pursuant to section 257.1 for the budget year beginning July
+25 1, 2024.
+26 c. b. (1) For each the budget year beginning on or after
+27 July 1, 2025, the amount of each school district’s property
+28 tax replacement payment shall be the product of the school
+29 district’s weighted enrollment for the budget year multiplied
+30 by the per pupil property tax replacement amount for the budget
+31 year calculated under subparagraph (2).
+32 (2) The per pupil property tax replacement amount for
+33 the budget years year beginning on or after July 1, 2025, is
+34 equal to the sum of one hundred fifty-three dollars plus the
+35 difference between the following:
+H 8004.2776 (1) 91
+-3- mb/md 3/8
+
+1 (a) The regular program state cost per pupil for the budget
+2 year beginning July 1, 2025, multiplied by one hundred percent
+3 less the regular program foundation base per pupil percentage
+4 pursuant to section 257.1 for the applicable budget year under
+5 this paragraph beginning July 1, 2025.
+6 (b) The regular program state cost per pupil for the budget
+7 year beginning July 1, 2021, multiplied by one hundred percent
+8 less the regular program foundation base per pupil percentage
+9 pursuant to section 257.1 for the applicable budget year under
+10 this paragraph beginning July 1, 2025.
+11 c. (1) For each budget year beginning on or after July
+12 1, 2026, the amount of each school district’s property
+13 tax replacement payment shall be the product of the school
+14 district’s weighted enrollment for the budget year multiplied
+15 by the per pupil property tax replacement amount for the budget
+16 year calculated under subparagraph (2).
+17 (2) The per pupil property tax replacement amount for budget
+18 years beginning on or after July 1, 2026, is equal to the sum
+19 of one hundred fifty-three dollars plus the difference between
+20 the following:
+21 (a) The regular program state cost per pupil for the budget
+22 year beginning July 1, 2026, multiplied by one hundred percent
+23 less the regular program foundation base per pupil percentage
+24 pursuant to section 257.1 for the applicable budget year under
+25 this paragraph.
+26 (b) The regular program state cost per pupil for the budget
+27 year beginning July 1, 2021, multiplied by one hundred percent
+28 less the regular program foundation base per pupil percentage
+29 pursuant to section 257.1 for the applicable budget year under
+30 this paragraph.
+31 Sec. 3. CODE SECTION 257.8 —— IMPLEMENTATION. The
+32 requirement of section 257.8, subsection 1, regarding the
+33 enactment of bills establishing the regular program state
+34 percent of growth within thirty days of the submission in the
+35 year preceding the base year of the governor’s budget does not
+H 8004.2776 (1) 91
+-4- mb/md 4/8
+
+1 apply to this division of this Act.
+2 Sec. 4. EFFECTIVE DATE. This division of this Act, being
+3 deemed of immediate importance, takes effect upon enactment.
+4 DIVISION II
+5 STATE COST PER PUPIL
+6 Sec. 5. Section 257.9, subsection 2, paragraph i, Code 2026,
+7 is amended to read as follows:
+8 i. For the budget year beginning July 1, 2026, and
+9 succeeding budget years, the regular program state cost per
+10 pupil for a budget year is the regular program state cost per
+11 pupil for the base year plus the regular program supplemental
+12 state aid for the budget year, plus five dollars.
+13 Sec. 6. Section 257.9, subsection 2, Code 2026, is amended
+14 by adding the following new paragraph:
+15 NEW PARAGRAPH. j. For the budget year beginning July 1,
+16 2027, and succeeding budget years, the regular program state
+17 cost per pupil for a budget year is the regular program state
+18 cost per pupil for the base year plus the regular program
+19 supplemental state aid for the budget year.
+20 Sec. 7. EFFECTIVE DATE. This division of this Act, being
+21 deemed of immediate importance, takes effect upon enactment.
+22 DIVISION III
+23 SCHOOL DISTRICT BUDGET ADJUSTMENT —— FY 2026-2027
+24 Sec. 8. SCHOOL DISTRICT BUDGET ADJUSTMENT —— FY 2026-2027.
+25 1. For the school budget year beginning July 1, 2026, the
+26 department of management shall add the amount of the school
+27 district’s budget adjustment under section 257.14, if any, to
+28 the combined foundation base under section 257.1, subsection
+29 2, for the budget year.
+30 2. For the school budget year beginning July 1, 2026,
+31 a school district’s budget adjustment under section 257.14
+32 shall be funded by state foundation aid resulting from the
+33 calculation under subsection 1 and shall not be funded through
+34 school district property taxes.
+35 Sec. 9. EFFECTIVE DATE. This division of this Act, being
+H 8004.2776 (1) 91
+-5- mb/md 5/8
+
+1 deemed of immediate importance, takes effect upon enactment.
+2 DIVISION IV
+3 EDUCATION SUPPORT PERSONNEL SALARY SUPPLEMENT
+4 Sec. 10. EDUCATION SUPPORT PERSONNEL SALARY SUPPLEMENT ——
+5 FY 2026-2027.
+6 1. There is appropriated from the general fund of the state
+7 to the department of education for the fiscal year beginning
+8 July 1, 2026, and ending June 30, 2027, the following amount,
+9 or so much thereof as is necessary, to be used for the purposes
+10 designated:
+11 To supplement education support personnel compensation:
+12 .................................................. $ 14,000,000
+13 2. Moneys appropriated in this section are miscellaneous
+14 income as defined in section 257.2 and shall not be included
+15 in any computation of district cost under chapter 257 for any
+16 budget year.
+17 3. Moneys appropriated in this section shall be used to
+18 provide a funding supplement to each school district during the
+19 fiscal year beginning July 1, 2026, to supplement education
+20 support personnel compensation.
+21 4. In order to receive the funding supplement, a school
+22 district shall first report to the department of education
+23 on or before July 1, 2026, the number of education support
+24 personnel employed by the school district, including all
+25 other information related to such personnel required by the
+26 department of education. Each school district’s funding
+27 supplement amount shall be equal to $14,000,000 multiplied by
+28 the quotient of the school district’s budget enrollment for the
+29 budget year beginning July 1, 2025, divided by the statewide
+30 total budget enrollment for the budget year beginning July 1,
+31 2025.
+32 5. For purposes of this section, “education support
+33 personnel” means regular and part-time employees of a school
+34 district who are not salaried.
+35 6. The payment of funding supplement amounts under this
+H 8004.2776 (1) 91
+-6- mb/md 6/8
+
+1 section shall be paid by the department of education at the
+2 same time and in the same manner as foundation aid is paid
+3 under section 257.16 for the fiscal year beginning July 1,
+4 2026, and may be included in the monthly payment of state aid
+5 under section 257.16, subsection 2.
+6 DIVISION V
+7 SCHOOL DISTRICT ENROLLMENT
+8 Sec. 11. Section 257.6, subsection 2, Code 2026, is amended
+9 to read as follows:
+10 2. Basic enrollment. Basic enrollment for a budget year
+11 is the greater of a district’s actual enrollment for the base
+12 year and the district’s adjusted enrollment for the base
+13 year. Basic enrollment for the base year is the greater of
+14 a district’s actual enrollment for the year preceding the
+15 base year and the district’s adjusted enrollment for the year
+16 preceding the base year.
+17 Sec. 12. Section 257.6, Code 2026, is amended by adding the
+18 following new subsection:
+19 NEW SUBSECTION. 7. Adjusted enrollment.
+20 a. Adjusted enrollment is determined annually on January
+21 15, or the third Monday in January if January 15 falls on
+22 a Saturday or Sunday, and includes the same categories of
+23 pupils used to determine actual enrollment under subsection 1,
+24 paragraph “a”.
+25 b. A school district shall certify its adjusted enrollment
+26 to the department of education by February 15 of each year, and
+27 the department shall promptly forward the information to the
+28 department of management.
+29 c. The department of management shall adjust the basic
+30 enrollment of the school district for the audit year based upon
+31 reports filed under section 11.6, and shall further adjust the
+32 budget of the second year succeeding the audit year for the
+33 property tax and state aid portions of the reported differences
+34 in such enrollments for the year succeeding the audit year.
+35 Sec. 13. APPLICABILITY. This division of this Act applies
+H 8004.2776 (1) 91
+-7- mb/md 7/8
+
+1 to enrollment determinations occurring on or after July 1,
+2 2026, used for school budget years beginning on or after July
+3 1, 2027.>
+4 2. Title page, by striking lines 1 through 7 and inserting
+5 <An Act relating to school funding by establishing the
+6 state percent of growth and the categorical state percent of
+7 growth for the budget year beginning July 1, 2026, modifying
+8 provisions relating to property tax replacement payments,
+9 the regular program state cost per pupil, funding for school
+10 district budget adjustments, and school district enrollment,
+11 providing education support personnel funding, making
+12 appropriations, and including effective date and applicability
+13 provisions.>>
+______________________________
+MATSON of Polk
+H 8004.2776 (1) 91
+-8- mb/md 8/8

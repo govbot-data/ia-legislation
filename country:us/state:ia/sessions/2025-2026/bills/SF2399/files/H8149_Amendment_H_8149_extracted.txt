@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8149
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2399
+H-8149
+1 Amend the amendment, H-8128, to Senate File 2399, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. Page 1, after line 4 by inserting:
+4 <<Section 1. NEW SECTION. 20.35 Jail employees ——
+5 applicability of chapter.
+6 Notwithstanding any provision of law to the contrary,
+7 section 70A.19, Code 2016, and chapter 20, Code 2016, apply to
+8 county jails, public employees employed by county jails, and
+9 employee organizations representing or seeking to represent
+10 bargaining units of which such employees are members, in lieu
+11 of all corresponding provisions of section 70A.19 and this
+12 chapter. In any instance where chapter 20, Code 2016, refers
+13 to the public employment relations board, such reference shall
+14 be deemed to refer to the employment appeal board instead.
+15 This section applies to collective bargaining under this
+16 chapter, and any related proceeding, commenced on or after July
+17 1, 2026.>
+18 2. Page 4, by striking line 10 and inserting <relating to
+19 corrections, including bail and bond amounts and conditions and
+20 collective bargaining by jail employees.>>
+21 3. By renumbering as necessary.
+______________________________
+GOSA of Scott
+H 8128.3169 (2) 91
+-1- je/js 1/1

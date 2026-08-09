@@ -1,0 +1,534 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+HEALTH AND HUMAN SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to alignment of delivery of health and human
+2 services programs and services, aging and disability
+3 services, and volunteer services, and including
+4 applicability and effective date provisions.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5558XD (10) 91
+dg/ko
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 HEALTH AND HUMAN SERVICES DISTRICTS
+3 Section 1. Section 12.51, subsection 1, Code 2026, is
+4 amended to read as follows:
+5 1. As used in this section unless the context otherwise
+6 requires:
+7 a. “Administrative services organization” means the same as
+8 defined in section 225A.1.
+9 b. “Behavioral health district” means the same as defined
+10 in section 225A.1.
+11 c. “Behavioral health district advisory council” means the
+12 same as defined in section 225A.1.
+13 c. d. “Department” means the department of health and human
+14 services.
+15 d. “District behavioral health advisory council” means the
+16 same as defined in section 225A.1.
+17 Sec. 2. Section 12.51, subsection 2, paragraph b,
+18 subparagraph (3), subparagraph division (d), subparagraph
+19 subdivision (ii), Code 2026, is amended to read as follows:
+20 (ii) Input from each district behavioral health district
+21 advisory council regarding disbursements from the fund,
+22 intended outcomes, and recommendations for future disbursements
+23 from the fund.
+24 Sec. 3. Section 217.1, Code 2026, is amended by adding the
+25 following new subsection:
+26 NEW SUBSECTION. 4. “Health and human services district” or
+27 “HHS district” means a geographic, multicounty area designated
+28 by the department under section 217.1B for statewide program
+29 and service delivery.
+30 Sec. 4. NEW SECTION. 217.1B Health and human services
+31 districts.
+32 1. The department shall divide the entirety of the state
+33 into designated health and human services districts. The
+34 initial HHS districts shall be the same as the behavioral
+35 health districts designated pursuant to section 225A.4, Code
+LSB 5558XD (10) 91
+-1- dg/ko 1/14
+
+S.F. _____ H.F. _____
+1 2026, and that exist on the effective date of this division
+2 of this Act. The department shall review the designated HHS
+3 districts at least once every seven consecutive fiscal years.
+4 2. a. The department may modify a designated HHS district.
+5 When modifying a designated HHS district, the department shall
+6 consider all of the following:
+7 (1) City and county boundaries.
+8 (2) The population size that can be effectively served in a
+9 specific area.
+10 (3) Areas of high need for services.
+11 (4) Patterns various populations exhibit when accessing or
+12 receiving services.
+13 b. Notwithstanding chapter 17A, the manner in which
+14 the modification of an HHS district is made, including the
+15 determination of boundaries for a modified HHS district, shall
+16 not be subject to judicial review.
+17 3. The department shall adopt rules pursuant to chapter 17A
+18 to administer this section.
+19 Sec. 5. Section 225A.1, Code 2026, is amended to read as
+20 follows:
+21 225A.1 Definitions.
+22 As used in this chapter unless the context otherwise
+23 requires:
+24 1. “Administrative services organization” means an entity
+25 designated by the department pursuant to section 225A.4, to
+26 develop and perform planning and administrative services in
+27 accordance with a district behavioral health service system
+28 district plan.
+29 2. “Behavioral health condition” means a substantial
+30 limitation in major life activities due to a mental,
+31 behavioral, or addictive disorder or condition diagnosed in
+32 accordance with the criteria provided in the most current
+33 edition of the diagnostic and statistical manual of mental
+34 disorders, published by the American psychiatric association.
+35 3. “Behavioral health district” or “district” means a
+LSB 5558XD (10) 91
+-2- dg/ko 2/14
+
+S.F. _____ H.F. _____
+1 geographic, multicounty, sub-state area as designated by the
+2 department under section 225A.4 health and human services
+3 district through which the behavioral health service system is
+4 administered or will be administered.
+5 4. “Behavioral health district advisory council” means an
+6 advisory council established pursuant to section 225A.5.
+7 4. 5. “Behavioral health provider” or “provider” means an
+8 individual, firm, corporation, association, or institution
+9 that, pursuant to this chapter, is providing or has been
+10 approved by the department to provide services to an individual
+11 with a behavioral health condition.
+12 5. 6. “Behavioral health service system” means the
+13 behavioral health service system established in section 225A.3.
+14 7. “Behavioral health service system district plan” or
+15 “behavioral health district plan” means a plan developed by
+16 an administrative services organization and approved by the
+17 department that outlines the services intended to be provided
+18 within the administrative services organization’s behavioral
+19 health district.
+20 8. “Behavioral health service system state plan” means
+21 the plan developed by the department that describes the key
+22 components of the behavioral health service system.
+23 6. 9. “Caregiver” means an adult family member, or other
+24 individual, who is providing care to a person outside of a
+25 formal program.
+26 7. 10. “Community mental health center” means an entity
+27 designated by the department to address the mental health needs
+28 of one or more counties.
+29 8. 11. “Department” means the department of health and
+30 human services.
+31 9. 12. “Director” means the director of the department of
+32 health and human services.
+33 10. “District behavioral health advisory council”
+34 or “advisory council” means a council established by an
+35 administrative services organization under section 225A.5, to
+LSB 5558XD (10) 91
+-3- dg/ko 3/14
+
+S.F. _____ H.F. _____
+1 identify opportunities, address challenges, and advise the
+2 administrative services organization in accordance with section
+3 225A.5.
+4 11. “District behavioral health service system plan” or
+5 “district behavioral health plan” means a plan developed by
+6 an administrative services organization and approved by the
+7 department to outline the services intended to be provided
+8 within the administrative services organization’s behavioral
+9 health district.
+10 13. “Health and human services district” or “HHS district”
+11 means the same as defined in section 217.1.
+12 12. 14. “Indicated prevention” means prevention activities
+13 designed to prevent the onset of substance use disorders in
+14 individuals who do not meet the medical criteria for addiction,
+15 but who show early signs of developing a substance use disorder
+16 in the future.
+17 13. 15. “Selective prevention” means prevention activities
+18 designed to target subsets of the total population who are
+19 considered at-risk for a substance use disorder by virtue of
+20 their membership in a particular segment of the population.
+21 Selective prevention targets the entire subgroup, regardless of
+22 the degree of risk of any individual within the group.
+23 14. “State behavioral health service system plan” or
+24 “state behavioral health plan” means the plan developed by the
+25 department that describes the key components of the state’s
+26 behavioral health service system.
+27 15. 16. “Universal prevention” means prevention activities
+28 designed to address an entire population class for the purpose
+29 of preventing or delaying the use of alcohol, tobacco, and
+30 other drugs. Population classes include but are not limited
+31 to the national population, local populations, community
+32 populations, school populations, and neighborhood populations.
+33 Sec. 6. Section 225A.2, subsection 3, paragraph c, Code
+34 2026, is amended to read as follows:
+35 c. Review and approve district behavioral health service
+LSB 5558XD (10) 91
+-4- dg/ko 4/14
+
+S.F. _____ H.F. _____
+1 system district plans developed in accordance with the state
+2 behavioral health service system state plan.
+3 Sec. 7. Section 225A.3, subsection 2, paragraph a,
+4 subparagraph (1), unnumbered paragraph 1, Code 2026, is amended
+5 to read as follows:
+6 Develop a state behavioral health service system state plan
+7 that accomplishes all of the following:
+8 Sec. 8. Section 225A.3, subsection 2, paragraph a,
+9 subparagraph (1), subparagraph division (d), Code 2026, is
+10 amended to read as follows:
+11 (d) Is consistent with the department’s agency strategic
+12 plan adopted pursuant to section 8E.206 8E.204.
+13 Sec. 9. Section 225A.3, subsection 2, paragraph a,
+14 subparagraph (2), unnumbered paragraph 1, Code 2026, is amended
+15 to read as follows:
+16 The department shall do all of the following when developing
+17 the state behavioral health service system state plan:
+18 Sec. 10. Section 225A.3, subsection 2, paragraph a,
+19 subparagraph (2), subparagraph division (b), Code 2026, is
+20 amended to read as follows:
+21 (b) Publish the proposed state behavioral health service
+22 system state plan on the department’s internet site and
+23 allow the public to review and comment on the proposed state
+24 behavioral health service system state plan prior to the
+25 adoption of the proposed state behavioral health service system
+26 state plan.
+27 Sec. 11. Section 225A.3, subsection 2, paragraph c, Code
+28 2026, is amended to read as follows:
+29 c. Oversee, provide technical assistance to, and
+30 monitor administrative services organizations to ensure the
+31 administrative services organizations’ compliance with district
+32 behavioral health district plans.
+33 Sec. 12. Section 225A.3, subsection 2, paragraph k,
+34 subparagraph (9), Code 2026, is amended to read as follows:
+35 (9) Any other requirements the department deems necessary
+LSB 5558XD (10) 91
+-5- dg/ko 5/14
+
+S.F. _____ H.F. _____
+1 to ensure that an administrative services organization
+2 fulfills the administrative services organization’s duties
+3 as established in this chapter, and as established in the
+4 administrative services organization’s district behavioral
+5 health district plan.
+6 Sec. 13. Section 225A.4, subsection 1, Code 2026, is amended
+7 to read as follows:
+8 1. a. The department shall divide the entirety of the
+9 state into designated behavioral health districts. Behavioral
+10 provide for behavioral health prevention, education, early
+11 intervention, treatment, recovery support, and crisis services
+12 related to mental health and addictive disorders, including
+13 but not limited to alcohol use, substance use, tobacco use,
+14 and problem gambling, shall be made available through in a
+15 consistent manner in each behavioral health district in a
+16 manner consistent with directives each district receives from
+17 the department.
+18 b. For the purpose of providing equitable access to all
+19 services provided through the behavioral health service
+20 system, the department shall consider all of the following when
+21 designating behavioral health districts:
+22 (1) City and county lines.
+23 (2) The maximum population size that behavioral health
+24 services available in an area are able to effectively serve.
+25 (3) Areas of high need for behavioral health services.
+26 (4) Patterns various populations exhibit when accessing or
+27 receiving behavioral health services.
+28 c. Notwithstanding chapter 17A, the manner in which the
+29 department designates behavioral health districts including but
+30 not limited to the determination of the boundaries for each
+31 district shall not be subject to judicial review.
+32 Sec. 14. Section 225A.4, subsection 2, paragraph a, Code
+33 2026, is amended to read as follows:
+34 a. The department shall designate an administrative services
+35 organization for each behavioral health district to oversee and
+LSB 5558XD (10) 91
+-6- dg/ko 6/14
+
+S.F. _____ H.F. _____
+1 organize each behavioral health district and the behavioral
+2 health services associated with the behavioral health district.
+3 The department shall may issue requests for proposals for
+4 administrative services organization candidates.
+5 Sec. 15. Section 225A.4, subsection 2, paragraph b,
+6 subparagraph (2), Code 2026, is amended to read as follows:
+7 (2) A public or private nonprofit agency located in a
+8 the behavioral health district for which the agency is being
+9 designated an administrative services organization, or any
+10 separate organizational unit within the that public or private
+11 nonprofit agency, that has the capabilities to engage in the
+12 planning or provision of a broad range of behavioral health
+13 prevention, education, early intervention, treatment, recovery
+14 support, and crisis services related to mental health and
+15 addictive disorders, including but not limited to alcohol use,
+16 substance use, tobacco use, and problem gambling, only as
+17 directed by the department.
+18 Sec. 16. Section 225A.4, subsection 2, paragraph c,
+19 subparagraph (2), Code 2026, is amended to read as follows:
+20 (2) Whether the entity has demonstrated the ability to
+21 ensure the delivery of behavioral health services within the
+22 behavioral health district as required by the department by
+23 rule.
+24 Sec. 17. Section 225A.4, subsection 5, Code 2026, is amended
+25 to read as follows:
+26 5. Each administrative services organization shall perform
+27 all of the following duties:
+28 a. Develop and administer a district behavioral health
+29 district plan in accordance with the standards adopted by the
+30 department by rule.
+31 b. Coordinate the administration of the district behavioral
+32 health district plan with federal, state, and local resources
+33 in order to develop a comprehensive and coordinated local
+34 behavioral health service system.
+35 c. Enter into contracts necessary to provide services under
+LSB 5558XD (10) 91
+-7- dg/ko 7/14
+
+S.F. _____ H.F. _____
+1 the district behavioral health district plan.
+2 d. Oversee, provide technical assistance to, and monitor
+3 the compliance of providers contracted by the administrative
+4 services organization to provide behavioral health services in
+5 accordance with the district behavioral health district plan.
+6 e. Establish a district behavioral health district advisory
+7 council pursuant to section 225A.5.
+8 Sec. 18. Section 225A.5, Code 2026, is amended to read as
+9 follows:
+10 225A.5 District behavioral Behavioral health district
+11 advisory councils.
+12 1. Each administrative services organization shall
+13 establish a district behavioral health district advisory
+14 council that shall do all of the following:
+15 a. Identify opportunities and address challenges based on
+16 updates received from the administrative services organization
+17 regarding the implementation of the district behavioral health
+18 district plan.
+19 b. Advise the administrative services organization while the
+20 administrative services organization is developing behavioral
+21 health policies.
+22 c. Advise the administrative services organization on how to
+23 best provide access to behavioral health prevention, education,
+24 early intervention, treatment, recovery support, and crisis
+25 services related to mental health and addictive disorders,
+26 including but not limited to alcohol use, substance use,
+27 tobacco use, and problem gambling, throughout the behavioral
+28 health district as directed by the department.
+29 2. An A behavioral health district advisory council shall
+30 consist of ten members. Members shall be appointed by the
+31 administrative services organization subject to the following
+32 requirements:
+33 a. Three members shall be local elected public officials
+34 currently holding office within the behavioral health district,
+35 or the public official’s designated representative.
+LSB 5558XD (10) 91
+-8- dg/ko 8/14
+
+S.F. _____ H.F. _____
+1 b. Three members shall be chosen in accordance with
+2 procedures established by the administrative services
+3 organization to ensure representation of the populations
+4 served within the behavioral health district. At least one
+5 member chosen under this paragraph shall represent child and
+6 adolescent persons.
+7 c. Three members shall be chosen who have experience
+8 or education related to core behavioral health functions,
+9 essential behavioral health services, behavioral health
+10 prevention, behavioral health treatment, population-based
+11 behavioral health services, or community-based behavioral
+12 health initiatives.
+13 d. One member shall be a law enforcement representative from
+14 within the behavioral health district.
+15 3. An A behavioral health district advisory council shall
+16 perform the duties required under this section regardless of
+17 whether any seat on the behavioral health district advisory
+18 council is vacant.
+19 Sec. 19. Section 225A.6, subsection 4, Code 2026, is amended
+20 to read as follows:
+21 4. Administrative services organizations shall report
+22 to the department, in a manner specified by the department,
+23 information including but not limited to demographic
+24 information, expenditure data, and data concerning the
+25 behavioral health services and other support provided to
+26 individuals in the administrative service organization’s
+27 behavioral health district.
+28 Sec. 20. Section 225A.7, subsection 2, paragraph a, Code
+29 2026, is amended to read as follows:
+30 a. Distributions to administrative services organizations
+31 to provide services as outlined in the organizations’ district
+32 behavioral health district plan.
+33 Sec. 21. Section 225A.8, subsection 2, unnumbered paragraph
+34 1, Code 2026, is amended to read as follows:
+35 To promote comprehensive tobacco use prevention and control
+LSB 5558XD (10) 91
+-9- dg/ko 9/14
+
+S.F. _____ H.F. _____
+1 initiatives outlined in the state behavioral health service
+2 system state plan, an entity shall not perform any of the
+3 following acts:
+4 Sec. 22. EFFECTIVE DATE. This division of this Act, being
+5 deemed of immediate importance, takes effect upon enactment.
+6 DIVISION II
+7 AGING AND DISABILITY SERVICES
+8 Sec. 23. Section 231.4, subsection 1, Code 2026, is amended
+9 by adding the following new paragraph:
+10 NEW PARAGRAPH. 0k. “Health and human services district”
+11 means the same as defined in section 217.1.
+12 Sec. 24. Section 231.23, subsection 5, Code 2026, is amended
+13 by striking the subsection and inserting in lieu thereof the
+14 following:
+15 5. Designate planning and service areas throughout the
+16 state in accordance with the Older Americans Act of 1965, Pub.
+17 L. No. 89-73, as amended. The boundaries of a planning and
+18 service area shall match the boundaries of a health and human
+19 services district.
+20 Sec. 25. EFFECTIVE DATE. This division of this Act, being
+21 deemed of immediate importance, takes effect upon enactment.
+22 Sec. 26. CONTINGENT APPLICABILITY. Section 231.23,
+23 subsection 5, as amended by this division of this Act, shall
+24 apply upon the department of health and human services’
+25 receipt, from the administration for community living of
+26 the United States department of health and human services,
+27 of approval of the planning and service areas under section
+28 231.23, subsection 5, as amended by this division of this Act.
+29 DIVISION III
+30 VOLUNTEER SERVICES
+31 Sec. 27. Section 15H.2, subsection 1, Code 2026, is amended
+32 to read as follows:
+33 1. The Iowa commission on volunteer service is created
+34 within the department. The governor shall appoint the
+35 commission’s members. The director may employ personnel as
+LSB 5558XD (10) 91
+-10- dg/ko 10/14
+
+S.F. _____ H.F. _____
+1 necessary to carry out the duties and responsibilities of the
+2 commission.
+3 Sec. 28. Section 15H.4, Code 2026, is amended to read as
+4 follows:
+5 15H.4 Administration —— funding.
+6 1. a. The department shall serve as the lead agency for
+7 administration of the commission.
+8 b. The department may consult with the department of
+9 education, the state board of regents, and the department of
+10 workforce development for any additional administrative support
+11 as necessary to fulfill the duties of the commission.
+12 c. All other state agencies, at the request of the
+13 department, shall provide assistance to the commission to
+14 ensure a fully coordinated state effort for promoting national
+15 and community service.
+16 d. The commission may delegate the administration of
+17 nonpolicymaking duties, in compliance with 42 U.S.C. §12638, to
+18 the subunit for volunteerism created in section 217.13.
+19 2. The commission may accept funds and in-kind services from
+20 other state, federal, and private entities.
+21 Sec. 29. Section 217.13, Code 2026, is amended by striking
+22 the section and inserting in lieu thereof the following:
+23 217.13 Department subunit for volunteerism —— volunteer
+24 liability.
+25 1. A subunit for volunteerism is created within the
+26 department. The subunit for volunteerism shall establish
+27 volunteer programs designed to enhance the services provided
+28 by the department and provide administrative support for the
+29 nonpolicymaking duties of the Iowa commission on volunteer
+30 service.
+31 2. a. The director shall appoint an executive director
+32 to oversee the administration of the department subunit for
+33 volunteerism and to carry out nonpolicymaking duties delegated
+34 to the subunit for volunteerism by the Iowa commission on
+35 volunteer service pursuant to section 15H.4.
+LSB 5558XD (10) 91
+-11- dg/ko 11/14
+
+S.F. _____ H.F. _____
+1 b. The department may employ personnel for the subunit
+2 for volunteerism as necessary to carry out the duties of the
+3 subunit for volunteerism and the duties delegated to the
+4 subunit for volunteerism by the Iowa commission on volunteer
+5 service pursuant to section 15H.4.
+6 3. All volunteers registered with programs administered
+7 by the subunit for volunteerism and in compliance with rules
+8 adopted by the department pursuant to chapter 17A shall be
+9 considered employees of the state for purposes of chapter 669.
+10 However, this section does not exempt a volunteer guardian
+11 from an action brought under section 658.1A, or a volunteer
+12 guardian or volunteer conservator from an action brought under
+13 section 658.3. This section shall not be construed to relieve
+14 a volunteer guardian or conservator from duties under chapter
+15 633.
+16 4. The department shall adopt rules pursuant to chapter 17A
+17 to administer this section.
+18 Sec. 30. EFFECTIVE DATE. This division of this Act, being
+19 deemed of immediate importance, takes effect upon enactment.
+20 EXPLANATION
+21 The inclusion of this explanation does not constitute agreement with
+22 the explanation’s substance by the members of the general assembly.
+23 This bill relates to activities, programs, and services
+24 under the purview of the department of health and human
+25 services (HHS).
+26 DIVISION I —— HEALTH AND HUMAN SERVICES DISTRICTS. The bill
+27 directs HHS to divide the state into health and human services
+28 districts (districts), as defined in the bill, to be used by
+29 HHS in the delivery of programs and services. The initial
+30 districts shall be the same as the behavioral health districts
+31 designated in Code section 225A.4, Code 2026, as the behavioral
+32 health districts exist on the effective date of this division
+33 of the bill. The bill provides factors HHS must consider when
+34 modifying the districts. The manner in which HHS modifies a
+35 district is not subject to judicial review.
+LSB 5558XD (10) 91
+-12- dg/ko 12/14
+
+S.F. _____ H.F. _____
+1 The bill changes Code chapter 225A (HHS —— behavioral health
+2 service system) so that behavioral health services are provided
+3 through the health and human services districts instead of
+4 behavioral health districts.
+5 The bill makes conforming changes to Code section 12.51.
+6 This division of the bill takes effect upon enactment.
+7 DIVISION II —— AGING AND DISABILITY SERVICES. Under current
+8 law, HHS is required to divide the state into distinct planning
+9 and service areas based on various factors for the purpose of
+10 providing aging and disability services. The bill requires
+11 HHS to designate each planning and service area (service area)
+12 throughout the state in accordance with federal requirements.
+13 The boundaries of service areas shall match the boundaries of
+14 districts.
+15 This division of the bill takes effect upon enactment
+16 and applies upon HHS’s receipt, from the administration for
+17 community living of the United States department of health and
+18 human services, of approval of the planning and service areas
+19 as amended in the bill.
+20 DIVISION III —— VOLUNTEER SERVICES. The bill creates a
+21 subunit for volunteerism (subunit) within HHS. The subunit
+22 shall establish volunteer programs designed to enhance the
+23 services provided by HHS and provide administrative support
+24 for the nonpolicymaking duties of the Iowa commission on
+25 volunteer service (commission). The director of HHS shall
+26 appoint an executive director to oversee the administration of
+27 the subunit and to carry out nonpolicymaking duties delegated
+28 to the subunit by the commission. HHS may employ personnel
+29 for the subunit to carry out the duties of the subunit and
+30 the duties delegated to the subunit by the commission. All
+31 volunteers registered with programs administered by the
+32 subunit are considered employees of the state; however, this
+33 does not exempt a volunteer conservator or guardian from the
+34 conservator’s or guardian’s duties and does not limit the
+35 conservator’s or guardian’s civil liability for performing the
+LSB 5558XD (10) 91
+-13- dg/ko 13/14
+
+S.F. _____ H.F. _____
+1 conservator’s or guardian’s duties. The bill requires HHS to
+2 adopt rules to administer this division of the bill.
+3 This division of the bill takes effect upon enactment.
+LSB 5558XD (10) 91
+-14- dg/ko 14/14

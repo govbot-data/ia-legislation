@@ -1,0 +1,154 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5061
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2202
+S-5061
+1 Amend Senate File 2202 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 135G.1, Code 2026, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 3A. “Health carrier” means the same as
+7 defined in section 514J.102.
+8 Sec. 2. Section 135G.1, subsection 12, paragraph c, Code
+9 2026, is amended by striking the paragraph.
+10 Sec. 3. Section 135G.3, Code 2026, is amended to read as
+11 follows:
+12 135G.3 Nature of care —— seclusion room —— admissions ——
+13 discharge.
+14 1. a. A subacute care facility shall utilize a team of
+15 professionals to direct an organized program of diagnostic
+16 services, subacute mental health services, social services,
+17 and rehabilitative services to meet the needs of residents
+18 in accordance with a treatment care plan developed for each
+19 resident under the supervision of a mental health professional.
+20 b. The goal of a treatment care plan is to transition
+21 residents to a less restrictive environment, including a
+22 home-based community setting. Social and rehabilitative
+23 services shall also be provided under the direction of a mental
+24 health professional.
+25 c. Within twenty-four hours of a resident’s admission to
+26 a subacute care facility, the subacute care facility shall
+27 develop a written treatment care plan with the resident.
+28 2. a. Prior authorization shall not be required for an
+29 individual’s admission to a subacute care facility or for
+30 the first fifteen consecutive calendar days of a resident’s
+31 treatment.
+32 b. Starting from a resident’s first day of treatment, on or
+33 after a resident’s forty-fifth consecutive day of treatment,
+34 a managed care organization may review the medical necessity
+35 of the resident’s treatment. After the initial review of a
+SF 2202.3182 (1) 91
+(amending this SF 2202 to CONFORM to HF 2543)
+-1- dg/ko 1/4
+
+1 resident’s treatment, a managed care organization may only
+2 review the medical necessity of the resident’s treatment a
+3 maximum of one time within any consecutive thirty-calendar-day
+4 period.
+5 2. 3. The mental health professional providing supervision
+6 of the subacute care facility’s treatment care plans shall
+7 evaluate the condition of each resident as medically necessary,
+8 and shall be available to residents of the facility on an
+9 on-call basis at all other times. Additional evaluation and
+10 treatment may be provided by a mental health professional. The
+11 subacute care facility may employ a seclusion room meeting the
+12 conditions described in 42 C.F.R. §483.364(b) with approval
+13 of a licensed psychiatrist, or by order of the resident’s
+14 physician, a physician assistant, or an advanced registered
+15 nurse practitioner.
+16 4. A managed care organization shall not require a resident
+17 to be discharged from a subacute care facility until the mental
+18 health professional providing supervision of the resident’s
+19 treatment care plan has determined that there are proper
+20 supports in place prior to the resident’s discharge to mitigate
+21 the risk of self-harm by the resident, or harm to another
+22 individual by the resident.
+23 5. Pursuant to section 505.36, a health carrier shall
+24 provide coverage for subacute mental health services provided
+25 by a subacute care facility.
+26 Sec. 4. NEW SECTION. 135H.9A Bed tracking system.
+27 The department of health and human services shall establish
+28 an electronic system to track the availability of beds at each
+29 psychiatric medical institution for children.
+30 Sec. 5. NEW SECTION. 505.36 Health carriers —— subacute
+31 mental health care services.
+32 1. For purposes of this section:
+33 a. “Health carrier” means the same as defined in section
+34 514J.102.
+35 b. “Subacute care facility” means the same as defined in
+SF 2202.3182 (1) 91
+(amending this SF 2202 to CONFORM to HF 2543)
+-2- dg/ko 2/4
+
+1 section 135G.1.
+2 c. “Subacute mental health services” means the same as
+3 defined in section 135G.1.
+4 2. A health carrier shall provide coverage for subacute
+5 mental health services provided by a subacute care facility. A
+6 health carrier that violates this section shall be subject to
+7 penalties pursuant to section 505.7A.
+8 Sec. 6. DEPARTMENTS OF HEALTH AND HUMAN SERVICES AND
+9 INSPECTIONS, APPEALS, AND LICENSING —— ADMINISTRATIVE RULE
+10 REVIEW. The department of health and human services and
+11 the department of inspections, appeals, and licensing shall
+12 collaborate to review each department’s administrative rules
+13 adopted pursuant to section 135G.10 and eliminate any rule
+14 the departments determine impedes any of the following goals
+15 without providing an equal or greater benefit:
+16 1. Establishment of new subacute mental health care
+17 facilities and services.
+18 2. Expansion of existing subacute mental health care
+19 facilities and services.
+20 3. Ease of access to subacute mental health care facilities
+21 and services.
+22 Sec. 7. DEPARTMENT OF INSPECTIONS, APPEALS, AND LICENSING
+23 —— SUBACUTE MENTAL HEALTH CARE FACILITIES —— BED CAPACITY
+24 —— FACILITY AND EMPLOYEE REQUIREMENTS. The department of
+25 inspections, appeals, and licensing shall adopt rules pursuant
+26 to chapter 17A to do the following:
+27 1. Increase the maximum number of beds a subacute care
+28 facility may have without the subacute care facility being
+29 defined as a state mental health institute.
+30 2. Provide that requirements applicable to a subacute
+31 mental health care facility, and subacute mental health
+32 care facility employees, are less stringent than comparable
+33 requirements that apply to a state mental health institute or a
+34 state mental health institute’s employees.
+35 Sec. 8. EMERGENCY RULES. The department of health and
+SF 2202.3182 (1) 91
+(amending this SF 2202 to CONFORM to HF 2543)
+-3- dg/ko 3/4
+
+1 human services and the department of inspections, appeals,
+2 and licensing may adopt emergency rules under section 17A.4,
+3 subsection 3, and section 17A.5, subsection 2, paragraph “b”,
+4 to implement the provisions of this Act and shall submit
+5 such rules to the administrative rules coordinator and
+6 the administrative code editor pursuant to section 17A.5,
+7 subsection 1, within the same period. The rules shall be
+8 effective immediately upon filing unless a later date is
+9 specified in the rules. Any rules adopted in accordance with
+10 this section shall also be published as a notice of intended
+11 action as provided in section 17A.4.
+12 Sec. 9. EFFECTIVE DATE. This Act, being deemed of immediate
+13 importance, takes effect upon enactment.>
+14 2. Title page, by striking lines 1 and 2 and inserting <An
+15 Act relating to mental health care, including subacute mental
+16 health care facility requirements; admission to and discharge
+17 from a subacute mental health care facility; employment
+18 requirements at a subacute mental health care facility;
+19 insurance coverage for subacute mental health care; and the
+20 establishment of a psychiatric medical institution for children
+21 bed tracking system, and providing penalties and including
+22 effective date provisions.>
+______________________________
+KARA WARME
+SF 2202.3182 (1) 91
+(amending this SF 2202 to CONFORM to HF 2543)
+-4- dg/ko 4/4

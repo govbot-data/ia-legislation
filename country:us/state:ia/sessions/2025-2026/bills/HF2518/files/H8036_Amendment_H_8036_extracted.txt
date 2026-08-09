@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8036
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2518
+H-8036
+1 Amend House File 2518 as follows:
+2 1. Page 1, by striking lines 16 through 28 and inserting:
+3 <NEW SUBSECTION. 15. a. Conduct an annual review of
+4 provider reimbursement rates for medical and health services
+5 provided under this chapter that are reimbursed by a statewide
+6 fee schedule and that are not periodically updated or rebased
+7 pursuant to federal or state law or rule. The department shall
+8 compare each provider reimbursement rate in the following
+9 manner:
+10 (1) For all medical and health services other than dental
+11 services, to reimbursement rates under the federal Medicare
+12 program.
+13 (2) For dental services, to reimbursement rates for
+14 Medicaid programs in states contiguous to Iowa.
+15 b. On or before January 15 of each calendar year, the
+16 department shall submit to the general assembly a report
+17 summarizing the department’s review under paragraph “a”.>
+18 2. By striking page 1, line 35, through page 2, line 21, and
+19 inserting:
+20 <2. On or before July 1 of each fiscal year, providers
+21 shall submit actual cost of service and supply data to the
+22 department. Upon request by the department, a provider shall
+23 submit to reasonable review of the actual cost of service and
+24 supply data submitted.
+25 3. a. Upon the required submission of annual cost reports
+26 by providers and implementation by the department of a waiver
+27 fee schedule, the department, with input from the public,
+28 consumers, providers, and other stakeholders, shall develop a
+29 proposed cost-based reimbursement system and related changes to
+30 department policies and procedures for all services rendered
+31 under a waiver during the period of review specified by
+32 the department. The cost-based reimbursement system shall
+33 be developed using information provided to the department
+34 including but not limited to all of the following:
+35 (1) Provider cost data.
+HF 2518.2869 (1) 91
+-1- ak/ko 1/2
+
+1 (2) Provider claims data.
+2 (3) Consumer needs assessment data.
+3 (4) Other relevant regional and national data.
+4 b. The department shall, with input from providers and
+5 other relevant stakeholders, develop a uniform and streamlined
+6 provider cost reporting mechanism for home and community-based
+7 services.
+8 4. At least once every four years, the department shall
+9 establish a new base period to be used in calculating proposed
+10 rate models and related changes to department policies and
+11 procedures. On or before October 1 of each year that a new base
+12 period is established, the department shall submit a report
+13 to the general assembly that includes proposed rate models,
+14 the projected fiscal impact of implementing the proposed rate
+15 models, including documentation supporting the actuarial
+16 soundness of the proposed rate models, and the proposed changes
+17 to department policies and procedures.>
+18 3. Title page, by striking lines 1 through 4 and inserting
+19 <An Act relating to the department of health and human services
+20 and reporting requirements for shelter care, residential
+21 treatment, and Medicaid provider reimbursement rates, and
+22 establishing provider reimbursement rates for Medicaid home and
+23 community-based waiver services.>
+24 4. By renumbering as necessary.
+______________________________
+A. MEYER of Webster
+HF 2518.2869 (1) 91
+-2- ak/ko 2/2

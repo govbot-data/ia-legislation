@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5007
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2201
+S-5007
+1 Amend Senate File 2201 as follows:
+2 1. Page 5, by striking lines 28 through 34 and inserting:
+3 <2. Basic enrollment. Basic enrollment for a budget year
+4 is the average of a district’s actual enrollment for the base
+5 year and the district’s adjusted enrollment for the base
+6 year. Basic enrollment for the base year is the average of
+7 a district’s actual enrollment for the year preceding the
+8 base year and the district’s adjusted enrollment for the year
+9 preceding the base year.>
+10 2. Page 6, lines 3 and 4, by striking <February 1, or the
+11 first Monday in February if February 1> and inserting <January
+12 15, or the third Monday in January if January 15>
+13 3. Page 6, lines 12 and 13, by striking <the adjusted
+14 enrollment and, if necessary,>
+______________________________
+LYNN EVANS
+SF 2201.2447 (1) 91
+-1- mb/md 1/1

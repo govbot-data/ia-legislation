@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5110
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 777
+S-5110
+1 Amend House File 777, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 321.52, subsection 4, paragraph a, Code
+5 2026, is amended to read as follows:
+6 a. (1) Notwithstanding any other provision of law to the
+7 contrary, an insurer may apply for and be issued a salvage
+8 certificate of title for a motor vehicle without surrendering
+9 the certificate of title or manufacturer’s or importer’s
+10 statement of origin properly assigned if ownership of the
+11 vehicle was transferred, or will transfer, to the insurer
+12 pursuant to a settlement with the previous owner of the vehicle
+13 arising from circumstances involving damage to the vehicle, and
+14 at least thirty days have expired since the effective date of
+15 such settlement.
+16 (2) To obtain a salvage certificate of title pursuant to
+17 this paragraph “a”, the insurer shall must submit an application
+18 for a salvage certificate of title to any county treasurer.
+19 (a) The application shall must be accompanied by an
+20 affidavit from the insurer in which the insurer certifies it
+21 has made at least two written attempts to obtain a properly
+22 assigned certificate of title or manufacturer’s or importer’s
+23 statement of origin for the vehicle by contacting the previous
+24 owner of the vehicle and all lienholders of record by certified
+25 mail or a similar service that provides proof of service using
+26 a return receipt, and has been unable to obtain the title
+27 or statement of origin. The failure of a previous owner or
+28 lienholder to provide a properly assigned certificate of title
+29 or manufacturer’s or importer’s statement of origin shall be
+30 deemed to be a waiver by the previous owner or lienholder of
+31 all rights, title, claim, and interest in the vehicle.
+32 (b) Notwithstanding chapter 9B, section 633B.105, or
+33 any other provision to the contrary, a supporting document
+34 submitted with the application, including but not limited to a
+35 power of attorney described in section 321.49, a replacement
+HF 777.2261 (2) 91
+-1- th/ns 1/2
+
+1 certificate of title application for the vehicle owner
+2 described in section 321.42, or an odometer statement required
+3 under section 321.71 if permitted under 49 C.F.R. pt. 580, may
+4 be signed and affirmed under penalty of perjury in lieu of a
+5 notarized signature and, in accordance with chapter 554D, the
+6 signature may be electronic. The affirmation under penalty of
+7 perjury is limited to the signature identifying the signer as
+8 the owner or the signer’s representation of the authority of
+9 the named agent to sign on the owner’s behalf.
+10 (c) The application shall must also be accompanied by the
+11 application fee required under paragraph “b”, and proof of
+12 payment of the total amount of the settlement by the insurer
+13 to the previous owner of the vehicle. Upon receiving an
+14 application that complies with this paragraph “a”, the county
+15 treasurer shall issue a salvage certificate of title to the
+16 insurer which shall be is free and clear of all liens and
+17 claims of ownership and shall must bear the word “SALVAGE”
+18 stamped or printed on the face of the title in a manner
+19 prescribed by the department.
+20 (d) The insurer shall indemnify and hold harmless the
+21 department or a county treasurer, as applicable, for any
+22 claims resulting from issuing a certificate of title, salvage
+23 certificate of title, or junking certificate, or the addition
+24 or release of a lien from a title pursuant to this subparagraph
+25 (2). The insurer shall indemnify the vehicle owner by up to
+26 two times the actual cash value of the vehicle settlement for
+27 any damages resulting from use of the electronic signature in
+28 accordance with this subparagraph (2).
+29 Sec. 2. EFFECTIVE DATE. This Act takes effect January 1,
+30 2027.>
+______________________________
+COMMITTEE ON TRANSPORTATION
+DAN ZUMBACH, CHAIRPERSON
+HF 777.2261 (2) 91
+-2- th/ns 2/2

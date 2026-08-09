@@ -1,0 +1,621 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8012
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 2201
+H-8012
+1 Amend the amendment, H-8004, to Senate File 2201, as
+2 amended, passed, and reprinted by the Senate, as follows:
+3 1. By striking page 1, line 1, through page 6, line 35, and
+4 inserting:
+5 <Amend Senate File 2201, as amended, passed, and reprinted
+6 by the Senate, as follows:
+7 1. By striking everything after the enacting clause and
+8 inserting:
+9 <DIVISION I
+10 STATE AND CATEGORICAL PERCENTS OF GROWTH AND PROPERTY TAX
+11 REPLACEMENT PAYMENTS
+12 Section 1. Section 257.8, subsections 1 and 2, Code 2026,
+13 are amended to read as follows:
+14 1. State percent of growth. The state percent of growth for
+15 the budget year beginning July 1, 2023, is three percent. The
+16 state percent of growth for the budget year beginning July 1,
+17 2024, is two and one-half percent. The state percent of growth
+18 for the budget year beginning July 1, 2025, is two percent.
+19 The state percent of growth for the budget year beginning July
+20 1, 2026, is two percent. The state percent of growth for each
+21 subsequent budget year shall be established by statute which
+22 shall be enacted within thirty days of the transmission of the
+23 governor’s budget required by February 1 under section 8.21
+24 during the regular legislative session beginning in the base
+25 year.
+26 2. Categorical state percent of growth. The categorical
+27 state percent of growth for the budget year beginning July
+28 1, 2023, is three percent. The categorical state percent of
+29 growth for the budget year beginning July 1, 2024, is two and
+30 one-half percent. The categorical state percent of growth for
+31 the budget year beginning July 1, 2025, is two percent, except
+32 for calculating the appropriation to the transportation equity
+33 fund under section 257.16C. The categorical state percent of
+34 growth for purposes of calculating the appropriation to the
+35 transportation equity fund under section 257.16C for the budget
+H 8004.2782 (3) 91
+-1- mb/md 1/17
+
+1 year beginning July 1, 2025, is five percent. The categorical
+2 state percent of growth for the budget year beginning July 1,
+3 2026, is two percent. The categorical state percent of growth
+4 for each budget year shall be established by statute which
+5 shall be enacted within thirty days of the transmission of the
+6 governor’s budget required by February 1 under section 8.21
+7 during the regular legislative session beginning in the base
+8 year. The categorical state percent of growth may include
+9 state percents of growth for the teacher salary supplement, the
+10 professional development supplement, the early intervention
+11 supplement, the teacher leadership supplement, and for budget
+12 years beginning on or after July 1, 2020, transportation equity
+13 aid payments under section 257.16C.
+14 Sec. 2. Section 257.16B, subsections 1 and 2, Code 2026, are
+15 amended to read as follows:
+16 1. For each fiscal year beginning on or after July 1, 2023
+17 2024, there is appropriated from the general fund of the state
+18 to the department of education an amount necessary to make all
+19 school district property tax replacement payments under this
+20 section, as calculated in subsection 2.
+21 2. a. (1) For the budget year beginning July 1, 2023,
+22 the amount of each school district’s property tax replacement
+23 payment shall be the product of the school district’s weighted
+24 enrollment for the budget year multiplied by the per pupil
+25 property tax replacement amount for the budget year calculated
+26 under subparagraph (2).
+27 (2) The per pupil property tax replacement amount for the
+28 budget year beginning July 1, 2023, is equal to the sum of one
+29 hundred fifty-three dollars plus the difference between the
+30 following:
+31 (a) The regular program state cost per pupil for the budget
+32 year beginning July 1, 2023, multiplied by one hundred percent
+33 less the regular program foundation base per pupil percentage
+34 pursuant to section 257.1 for the budget year beginning July
+35 1, 2023.
+H 8004.2782 (3) 91
+-2- mb/md 2/17
+
+1 (b) The regular program state cost per pupil for the budget
+2 year beginning July 1, 2021, multiplied by one hundred percent
+3 less the regular program foundation base per pupil percentage
+4 pursuant to section 257.1 for the budget year beginning July
+5 1, 2023.
+6 b. a. (1) For the budget year beginning July 1, 2024,
+7 the amount of each school district’s property tax replacement
+8 payment shall be the product of the school district’s weighted
+9 enrollment for the budget year multiplied by the per pupil
+10 property tax replacement amount for the budget year calculated
+11 under subparagraph (2).
+12 (2) The per pupil property tax replacement amount for the
+13 budget year beginning July 1, 2024, is equal to the sum of one
+14 hundred fifty-three dollars plus the difference between the
+15 following:
+16 (a) The regular program state cost per pupil for the budget
+17 year beginning July 1, 2024, multiplied by one hundred percent
+18 less the regular program foundation base per pupil percentage
+19 pursuant to section 257.1 for the budget year beginning July
+20 1, 2024.
+21 (b) The regular program state cost per pupil for the budget
+22 year beginning July 1, 2021, multiplied by one hundred percent
+23 less the regular program foundation base per pupil percentage
+24 pursuant to section 257.1 for the budget year beginning July
+25 1, 2024.
+26 c. b. (1) For each the budget year beginning on or after
+27 July 1, 2025, the amount of each school district’s property
+28 tax replacement payment shall be the product of the school
+29 district’s weighted enrollment for the budget year multiplied
+30 by the per pupil property tax replacement amount for the budget
+31 year calculated under subparagraph (2).
+32 (2) The per pupil property tax replacement amount for
+33 the budget years year beginning on or after July 1, 2025, is
+34 equal to the sum of one hundred fifty-three dollars plus the
+35 difference between the following:
+H 8004.2782 (3) 91
+-3- mb/md 3/17
+
+1 (a) The regular program state cost per pupil for the budget
+2 year beginning July 1, 2025, multiplied by one hundred percent
+3 less the regular program foundation base per pupil percentage
+4 pursuant to section 257.1 for the applicable budget year under
+5 this paragraph beginning July 1, 2025.
+6 (b) The regular program state cost per pupil for the budget
+7 year beginning July 1, 2021, multiplied by one hundred percent
+8 less the regular program foundation base per pupil percentage
+9 pursuant to section 257.1 for the applicable budget year under
+10 this paragraph beginning July 1, 2025.
+11 c. (1) For each budget year beginning on or after July
+12 1, 2026, the amount of each school district’s property
+13 tax replacement payment shall be the product of the school
+14 district’s weighted enrollment for the budget year multiplied
+15 by the per pupil property tax replacement amount for the budget
+16 year calculated under subparagraph (2).
+17 (2) The per pupil property tax replacement amount for budget
+18 years beginning on or after July 1, 2026, is equal to the sum
+19 of one hundred fifty-three dollars plus the difference between
+20 the following:
+21 (a) The regular program state cost per pupil for the budget
+22 year beginning July 1, 2026, multiplied by one hundred percent
+23 less the regular program foundation base per pupil percentage
+24 pursuant to section 257.1 for the applicable budget year under
+25 this paragraph.
+26 (b) The regular program state cost per pupil for the budget
+27 year beginning July 1, 2021, multiplied by one hundred percent
+28 less the regular program foundation base per pupil percentage
+29 pursuant to section 257.1 for the applicable budget year under
+30 this paragraph.
+31 Sec. 3. CODE SECTION 257.8 —— IMPLEMENTATION. The
+32 requirement of section 257.8, subsection 1, regarding the
+33 enactment of bills establishing the regular program state
+34 percent of growth within thirty days of the submission in the
+35 year preceding the base year of the governor’s budget does not
+H 8004.2782 (3) 91
+-4- mb/md 4/17
+
+1 apply to this division of this Act.
+2 Sec. 4. EFFECTIVE DATE. This division of this Act, being
+3 deemed of immediate importance, takes effect upon enactment.
+4 DIVISION II
+5 TRANSPORTATION EQUITY AID FUNDING
+6 Sec. 5. Section 257.16C, subsection 2, paragraph b, Code
+7 2026, is amended to read as follows:
+8 b. Each school district that satisfies the criteria of
+9 subsection 1 shall receive transportation equity aid in an
+10 amount equal to the school district’s actual enrollment for
+11 the school year, excluding the shared-time enrollment for the
+12 school year, multiplied by the school district’s transportation
+13 cost per pupil differential for the budget year. However, for
+14 budget years beginning on or after July 1, 2026, transportation
+15 equity aid paid to a school district for a budget year under
+16 this paragraph shall not exceed one million dollars.
+17 Sec. 6. EFFECTIVE DATE. This division of this Act, being
+18 deemed of immediate importance, takes effect upon enactment.
+19 DIVISION III
+20 SCHOOL DISTRICT BUDGET ADJUSTMENT —— FY 2026-2027
+21 Sec. 7. SCHOOL DISTRICT BUDGET ADJUSTMENT —— FY 2026-2027.
+22 1. For the school budget year beginning July 1, 2026, the
+23 department of management shall add the amount of the school
+24 district’s budget adjustment under section 257.14, if any, to
+25 the combined foundation base under section 257.1, subsection
+26 2, for the budget year.
+27 2. For the school budget year beginning July 1, 2026,
+28 a school district’s budget adjustment under section 257.14
+29 shall be funded by state foundation aid resulting from the
+30 calculation under subsection 1 and shall not be funded through
+31 school district property taxes.
+32 Sec. 8. EFFECTIVE DATE. This division of this Act, being
+33 deemed of immediate importance, takes effect upon enactment.
+34 DIVISION IV
+35 EDUCATION SUPPORT PERSONNEL SALARY SUPPLEMENT
+H 8004.2782 (3) 91
+-5- mb/md 5/17
+
+1 Sec. 9. EDUCATION SUPPORT PERSONNEL SALARY SUPPLEMENT —— FY
+2 2026-2027.
+3 1. There is appropriated from the general fund of the state
+4 to the department of education for the fiscal year beginning
+5 July 1, 2026, and ending June 30, 2027, the following amount,
+6 or so much thereof as is necessary, to be used for the purposes
+7 designated:
+8 To supplement education support personnel compensation:
+9 .................................................. $ 7,000,000
+10 2. Moneys appropriated in this section are miscellaneous
+11 income as defined in section 257.2 and shall not be included
+12 in any computation of district cost under chapter 257 for any
+13 budget year.
+14 3. Moneys appropriated in this section shall be used to
+15 provide a funding supplement to each school district during the
+16 fiscal year beginning July 1, 2026, to supplement education
+17 support personnel compensation.
+18 4. In order to receive the funding supplement, a school
+19 district shall first report to the department of education
+20 on or before July 1, 2026, the number of education support
+21 personnel employed by the school district, including all
+22 other information related to such personnel required by the
+23 department of education. Each school district’s funding
+24 supplement amount shall be equal to $7,000,000 multiplied by
+25 the quotient of the school district’s budget enrollment for the
+26 budget year beginning July 1, 2025, divided by the statewide
+27 total budget enrollment for the budget year beginning July 1,
+28 2025.
+29 5. For purposes of this section, “education support
+30 personnel” means regular and part-time employees of a school
+31 district who are not salaried.
+32 6. The payment of funding supplement amounts under this
+33 section shall be paid by the department of education at the
+34 same time and in the same manner as foundation aid is paid
+35 under section 257.16 for the fiscal year beginning July 1,
+H 8004.2782 (3) 91
+-6- mb/md 6/17
+
+1 2026, and may be included in the payment of state aid under
+2 section 257.16, subsection 2.
+3 DIVISION V
+4 SCHOOL DISTRICT ENROLLMENT AND BUDGETING
+5 Sec. 10. Section 256.12, subsection 2, paragraph c, Code
+6 2026, is amended to read as follows:
+7 c. A local school district providing services pursuant to
+8 this subsection shall submit an accounting to the department
+9 of education by August 1 following the school year for the
+10 actual costs of the special education programs and services
+11 provided. The department shall review and approve or modify
+12 the accounting by September 1 and shall notify the department
+13 of administrative services of the approved accounting amount.
+14 The department of administrative services shall adjust the
+15 September payment to the local school district for the next
+16 fiscal year by the difference between the amount generated
+17 by the weighting for the provision of services to nonpublic
+18 school students, as provided in this subsection, and the
+19 amount of the actual costs as reflected in the local school
+20 district’s accounting. Any amount paid by the department of
+21 administrative services shall be deducted monthly quarterly
+22 from the state foundation aid paid under section 257.16 during
+23 that fiscal year to all school districts in the state. The
+24 portion of the total amount of the approved accounting amount
+25 that shall be deducted from the state aid of a school district
+26 shall be the same as the ratio that the budget enrollment for
+27 the budget year of the school district bears to the total
+28 budget enrollment in the state for that budget year.
+29 Sec. 11. Section 257.6, subsection 1, paragraphs b and c,
+30 Code 2026, are amended to read as follows:
+31 b. A school district shall certify its actual enrollment
+32 to the department of education by October 15 of each year, and
+33 the department shall promptly forward the information to the
+34 department of management, but not later than thirty days after
+35 certification.
+H 8004.2782 (3) 91
+-7- mb/md 7/17
+
+1 c. The department of management shall adjust the enrollment
+2 of the school district for the audit year based upon reports
+3 filed under section 11.6, and shall further adjust the budget
+4 of the second year succeeding the audit year for the property
+5 tax and state aid portions of the reported differences in
+6 enrollments for the year succeeding the audit year fiscal year
+7 two years prior to the budget year.
+8 Sec. 12. Section 257.6, subsection 2, Code 2026, is amended
+9 to read as follows:
+10 2. Basic enrollment.
+11 a. Basic enrollment for a budget year is the average of
+12 a district’s actual enrollment for the base year, determined
+13 on the date specified under subsection 1, and the district’s
+14 adjusted enrollment for the base year, determined on the date
+15 specified under subsection 7. Basic enrollment for the base
+16 year is the average of a district’s actual enrollment for the
+17 year preceding the base year, determined on the date specified
+18 under subsection 1, and the district’s adjusted enrollment
+19 for the year preceding the base year, determined on the date
+20 specified under subsection 7.
+21 b. If the department of education discovers any discrepancy
+22 or disputes the basic enrollment count certified under
+23 subsection 2, or the adjusted enrollment count certified under
+24 subsection 7, the department shall notify the school district
+25 and the school district shall have five business days from the
+26 date of notification by the department to voluntarily resolve
+27 such dispute or discrepancy. Failure by a school district to
+28 timely resolve such dispute or discrepancy shall result in the
+29 department of education making a final determination of such
+30 enrollment counts for the school district.
+31 Sec. 13. Section 257.6, Code 2026, is amended by adding the
+32 following new subsection:
+33 NEW SUBSECTION. 7. Adjusted enrollment.
+34 a. Adjusted enrollment is determined annually on January
+35 15, or the third Monday in January if January 15 falls on
+H 8004.2782 (3) 91
+-8- mb/md 8/17
+
+1 a Saturday or Sunday, and includes the same categories of
+2 pupils used to determine actual enrollment under subsection 1,
+3 paragraph “a”.
+4 b. A school district shall certify its adjusted enrollment
+5 to the department of education by January 30 of each year, and
+6 the department shall promptly forward the information to the
+7 department of management, but not later than twenty-one days
+8 after certification.
+9 c. The department of management shall adjust the basic
+10 enrollment of the school district for the audit year based upon
+11 reports filed under section 11.6, and shall further adjust the
+12 budget of the second year succeeding the audit year for the
+13 property tax and state aid portions of the reported differences
+14 in such enrollments for the fiscal year two years prior to the
+15 budget year.
+16 Sec. 14. Section 257.16, subsection 2, Code 2026, is amended
+17 to read as follows:
+18 2. All state aids paid under this chapter, unless otherwise
+19 stated, shall be paid in monthly quarterly installments
+20 beginning on September 15 or about July 15 of a budget year
+21 and ending on or about June April 15 of the budget year as
+22 determined by the department of management, taking into
+23 consideration the relative budget and of the state, cash
+24 position of the state resources, and the timing of enactment of
+25 legislation affecting school district budgets.
+26 Sec. 15. Section 257.16B, subsection 3, Code 2026, is
+27 amended to read as follows:
+28 3. School district property tax replacement payments shall
+29 be paid by the department of education at the same time and in
+30 the same manner as foundation aid is paid under section 257.16
+31 and may be included in the monthly quarterly payment of state
+32 aid under section 257.16, subsection 2.
+33 Sec. 16. Section 257.16C, subsection 5, paragraph b, Code
+34 2026, is amended to read as follows:
+35 b. Transportation equity aid payments and transportation
+H 8004.2782 (3) 91
+-9- mb/md 9/17
+
+1 base funding payments shall be paid at the same time and in the
+2 same manner as foundation aid is paid under section 257.16, and
+3 may be included in the monthly quarterly payment of state aid
+4 under section 257.16, subsection 2.
+5 Sec. 17. Section 257.35, subsection 1, paragraph a,
+6 subparagraph (3), unnumbered paragraph 1, Code 2026, is amended
+7 to read as follows:
+8 For the fiscal year beginning July 1, 2025, and each fiscal
+9 year thereafter the fiscal year beginning July 1, 2026, the
+10 department of management shall deduct the following from the
+11 state aid due to each school district pursuant to this chapter
+12 and shall pay the amounts to the respective area education
+13 agencies on a monthly basis from September 15 through June 15
+14 during each school year:
+15 Sec. 18. Section 257.35, subsection 1, paragraph a, Code
+16 2026, is amended by adding the following new subparagraph:
+17 NEW SUBPARAGRAPH. (4) For the fiscal year beginning July
+18 1, 2027, and each fiscal year thereafter, the department of
+19 management shall deduct the following from the state aid due
+20 to each school district pursuant to this chapter and shall
+21 pay the amounts to the respective area education agencies on
+22 a quarterly basis from July 15 to April 15 during each school
+23 year:
+24 (a) The area education agency teacher salary supplement
+25 district cost.
+26 (b) The amount due to the area education agency as the
+27 result of supplementary weighting for shared operational
+28 functions under section 257.11, subsection 5, paragraph “e”.
+29 Sec. 19. Section 257.35, subsection 21, unnumbered
+30 paragraph 1, Code 2026, is amended to read as follows:
+31 The For the fiscal year beginning July 1, 2025, and the
+32 fiscal year beginning July 1, 2026, the director of the
+33 department of management may deduct the following from the
+34 state aid due to each school district pursuant to this chapter
+35 and shall pay the amounts to the respective area education
+H 8004.2782 (3) 91
+-10- mb/md 10/17
+
+1 agencies on a monthly basis from September 15 through June 15
+2 during each school year for purposes of providing services to
+3 students enrolled in nonpublic schools within the boundaries
+4 of the area education agency:
+5 Sec. 20. Section 257.35, Code 2026, is amended by adding the
+6 following new subsection:
+7 NEW SUBSECTION. 21A. For the fiscal year beginning July
+8 1, 2027, and each fiscal year thereafter, the director of the
+9 department of management may deduct the following from the
+10 state aid due to each school district pursuant to this chapter
+11 and shall pay the amounts to the respective area education
+12 agencies on a quarterly basis from July 15 through April 15
+13 during each school year for the purposes of providing services
+14 to students enrolled in nonpublic schools within the boundaries
+15 of the area education agency:
+16 a. The amount calculated for media services for the school
+17 district that is attributable to the number of students
+18 enrolled in nonpublic schools within the school district who
+19 are provided with media services by an area education agency.
+20 b. The amount calculated for educational services for the
+21 school district that is attributable to the number of students
+22 enrolled in nonpublic schools within the school district who
+23 are provided with educational services by an area education
+24 agency.
+25 Sec. 21. Section 282.31, subsection 1, paragraph a, Code
+26 2026, is amended to read as follows:
+27 a. A child who lives in a facility pursuant to section
+28 282.30, subsection 1, paragraph “a”, and who is not enrolled
+29 in the educational program of the district of residence of
+30 the child, shall receive appropriate educational services.
+31 The area education agency shall submit a proposed program and
+32 budget to the department of education by January 1 for the next
+33 succeeding school year. The department of education shall
+34 review and approve or modify the program and proposed budget
+35 and shall notify the department of administrative services and
+H 8004.2782 (3) 91
+-11- mb/md 11/17
+
+1 the area education agency of its action by February 1. The
+2 department of administrative services shall pay the approved
+3 budget amount for an area education agency in monthly quarterly
+4 installments beginning September July 15 and ending June April
+5 15 of the next succeeding school year. The installments shall
+6 be as nearly equal as possible as determined by the department
+7 of management, taking into consideration the relative budget
+8 and of the state, cash position of the state’s resources,
+9 and the timing of enactment of legislation affecting area
+10 education agency budgets. The department of administrative
+11 services shall transfer the approved budget amount for an area
+12 education agency from the moneys appropriated under section
+13 257.16 and make the payment to the area education agency. The
+14 area education agency shall submit an accounting for the actual
+15 cost of the program to the department of education by August
+16 1 of the following school year. The department shall review
+17 and approve or modify all expenditures incurred in compliance
+18 with the guidelines pursuant to section 256.7, subsection 10,
+19 and shall notify the department of administrative services of
+20 the approved accounting amount. The approved accounting amount
+21 shall be compared with any amounts paid by the department of
+22 administrative services to the area education agency and any
+23 differences added to or subtracted from the October payment
+24 made under this paragraph for the next school year. Any amount
+25 paid by the department of administrative services shall be
+26 deducted monthly quarterly from the state foundation aid paid
+27 under section 257.16 to all school districts in the state
+28 during the subsequent fiscal year. The portion of the total
+29 amount of the approved budget that shall be deducted from the
+30 state aid of a school district shall be the same as the ratio
+31 that the budget enrollment for the budget year of the school
+32 district bears to the total budget enrollment in the state for
+33 that budget year in which the deduction is made.
+34 Sec. 22. Section 282.31, subsection 1, paragraph b,
+35 subparagraph (2), Code 2026, is amended to read as follows:
+H 8004.2782 (3) 91
+-12- mb/md 12/17
+
+1 (2) However, on June 30 of a school year, if the board
+2 of directors of a school district determines that the number
+3 of days for which a school district generated funding for
+4 children under this paragraph “b” who were counted in the
+5 basic enrollment of the school district in that school year in
+6 accordance with section 257.6, subsection 1, is less than the
+7 sum of the number of days enrolled for all children enrolled
+8 in the school district under this paragraph “b” during the
+9 school year, the secretary of the school district may submit
+10 a claim to the department of education by August 1 following
+11 the school year for an amount equal to the district cost per
+12 pupil of the district for the previous school year multiplied
+13 by the quotient of the excess number of enrolled days for
+14 children under this paragraph “b” divided by the number of days
+15 in the district’s board-approved calendar for the previous
+16 year. The amount of the claim shall be paid by the department
+17 of administrative services to the school district by October
+18 1. The department of administrative services shall transfer
+19 the total amount of the approved claim of a school district
+20 from the moneys appropriated under section 257.16 and the
+21 amount paid shall be deducted monthly quarterly from the state
+22 foundation aid paid to all school districts in the state during
+23 the remainder of the subsequent fiscal year in the manner
+24 provided in paragraph “a”.
+25 Sec. 23. Section 282.31, subsection 3, Code 2026, is amended
+26 to read as follows:
+27 3. The actual special education instructional costs,
+28 including transportation, for a child who requires special
+29 education shall be paid by the department of administrative
+30 services to the school district in which the facility or
+31 home is located, only when a district of residence cannot be
+32 determined, and the child was not included in the weighted
+33 enrollment of any district pursuant to section 256B.9, and the
+34 payment pursuant to subsection 2, paragraph “a”, was not made
+35 by any district. The district shall submit a proposed program
+H 8004.2782 (3) 91
+-13- mb/md 13/17
+
+1 and budget to the department of education by January 1 for the
+2 next succeeding school year. The department of education shall
+3 review and approve or modify the program and proposed budget
+4 and shall notify the district by February 1. The district
+5 shall submit a claim by August 1 following the school year for
+6 the actual cost of the program. The department shall review
+7 and approve or modify the claim and shall notify the department
+8 of administrative services of the approved claim amount by
+9 September 1. The total amount of the approved claim shall be
+10 paid by the department of administrative services to the school
+11 district by October 1. The total amount paid by the department
+12 of administrative services shall be deducted monthly quarterly
+13 from the state foundation aid paid under section 257.16 to all
+14 school districts in the state during the subsequent fiscal
+15 year. The portion of the total amount of the approved claims
+16 that shall be deducted from the state aid of a school district
+17 shall be the same as the ratio that the budget enrollment for
+18 the budget year of the school district bears to the total
+19 budget enrollment in the state for the budget year in which the
+20 deduction is made. The department of administrative services
+21 shall transfer the total amount of the approved claims from
+22 moneys appropriated under section 257.16 for payment to the
+23 school district.
+24 Sec. 24. Section 282.33, subsection 1, Code 2026, is amended
+25 to read as follows:
+26 1. A child who resides in an institution for children under
+27 the jurisdiction of the director of health and human services
+28 referred to in section 218.1, subsection 3, 4, or 5, and who
+29 is not enrolled in the educational program of the district of
+30 residence of the child, shall receive appropriate educational
+31 services. The institution in which the child resides shall
+32 submit a proposed program and budget based on the average
+33 daily attendance of the children residing in the institution
+34 to the department of education and the department of health
+35 and human services by January 1 for the next succeeding school
+H 8004.2782 (3) 91
+-14- mb/md 14/17
+
+1 year. The department of education shall review and approve or
+2 modify the proposed program and budget and shall notify the
+3 department of administrative services of its action by February
+4 1. The department of administrative services shall pay the
+5 approved budget amount to the department of health and human
+6 services in monthly quarterly installments beginning September
+7 July 15 and ending June April 15 of the next succeeding school
+8 year. The installments shall be as nearly equal as possible
+9 as determined by the department of administrative services,
+10 taking into consideration the relative budget and of the
+11 state, cash position of the state’s resources, and the timing
+12 of enactment of legislation affecting school budgets. The
+13 department of administrative services shall pay the approved
+14 budget amount for the department of health and human services
+15 from the moneys appropriated under section 257.16 and the
+16 department of health and human services shall distribute the
+17 payment to the institution. The institution shall submit an
+18 accounting for the actual cost of the program to the department
+19 of education by August 1 of the following school year. The
+20 department shall review and approve or modify all expenditures
+21 incurred in compliance with the guidelines adopted pursuant to
+22 section 256.7, subsection 10, and shall notify the department
+23 of administrative services of the approved accounting amount.
+24 The approved accounting amount shall be compared with any
+25 amounts paid by the department of administrative services to
+26 the department of health and human services and any differences
+27 added to or subtracted from the October payment made under
+28 this subsection for the next school year. Any amount paid by
+29 the department of administrative services shall be deducted
+30 monthly quarterly from the state foundation aid paid under
+31 section 257.16 to all school districts in the state during the
+32 subsequent fiscal year. The portion of the total amount of the
+33 approved budget that shall be deducted from the state aid of a
+34 school district shall be the same as the ratio that the budget
+35 enrollment for the budget year of the school district bears to
+H 8004.2782 (3) 91
+-15- mb/md 15/17
+
+1 the total budget enrollment in the state for that budget year
+2 in which the deduction is made.
+3 Sec. 25. Section 282.35, subsection 3, paragraph d, Code
+4 2026, is amended to read as follows:
+5 d. Any amounts paid by the department of education to school
+6 districts in this state pursuant to paragraph “c” shall be
+7 deducted on a monthly quarterly basis from the state foundation
+8 aid paid under section 257.16 to all school districts in the
+9 state in the school year following the school year in which
+10 the services were provided. The portion of the total amount
+11 paid by the department of education to a district that shall
+12 be deducted from the state foundation aid paid to the district
+13 shall be the same as the ratio that the budget enrollment for
+14 the budget year of the district bears to the total budget
+15 enrollment in the state for that budget year.
+16 Sec. 26. APPLICABILITY. The following apply to enrollment
+17 determinations occurring on or after July 1, 2026, used for
+18 school budget years beginning on or after July 1, 2027:
+19 1. The section of this division of this Act amending section
+20 257.6, subsection 1, paragraphs “b” and “c”.
+21 2. The section of this division of this Act amending section
+22 257.6, subsection 2.
+23 3. The section of this division of this Act enacting section
+24 257.6, subsection 7.>
+25 2. Title page, by striking lines 1 through 7 and inserting
+26 <An Act relating to school funding by establishing the
+27 state percent of growth and the categorical state percent of
+28 growth for the budget year beginning July 1, 2026, modifying
+29 provisions relating to property tax replacement payments,
+30 transportation equity aid funding, funding for school
+31 district budget adjustments, and school district enrollment,
+32 establishing an education support personnel salary supplement,
+33 making appropriations, and including effective date and
+34 applicability provisions.>>
+H 8004.2782 (3) 91
+-16- mb/md 16/17
+
+______________________________
+GEHLBACH of Dallas
+H 8004.2782 (3) 91
+-17- mb/md 17/17
