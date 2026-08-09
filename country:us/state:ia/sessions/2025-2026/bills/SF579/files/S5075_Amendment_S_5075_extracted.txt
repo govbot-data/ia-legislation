@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5075
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Amendment to
+Senate File 579
+S-5075
+1 Amend Senate File 579, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 216.19, subsection 1, unnumbered
+4 paragraph 1, Code 2026, is amended to read as follows:
+5 All cities shall, to the extent possible, protect the rights
+6 of the citizens of this state secured by the Iowa civil rights
+7 Act. A city or local government shall not enact any ordinance
+8 or other law which is broader or has different categories of
+9 unfair or discriminatory practices than those provided in
+10 this chapter. Nothing in this chapter shall be construed as
+11 indicating any of the following:
+12 Sec. ___. Section 216.19, subsection 1, paragraph c, Code
+13 2026, is amended by striking the paragraph.
+14 Sec. ___. Section 216.19, subsection 2, Code 2026, is
+15 amended to read as follows:
+16 2. A city with a population of twenty-nine thousand, or
+17 greater, shall may maintain an independent local civil rights
+18 agency or commission consistent with agency rules adopted
+19 pursuant to chapter 17A. An agency or commission for which a
+20 staff is provided shall have control over such staff. A city
+21 required to maintain that maintains a local civil rights agency
+22 or commission shall structure and adequately fund the agency
+23 or commission in order to effect cooperative undertakings with
+24 the Iowa office of civil rights and to aid in effectuating the
+25 purposes of this chapter.>
+26 2. Page 1, line 1, by striking <2025> and inserting <2026>
+27 3. Page 1, line 15, after <(1)> by inserting <(a)>
+28 4. Page 1, after line 21 by inserting:
+29 <(b) The local agency or local commission shall notify the
+30 Iowa office of civil rights of the complaint upon the provision
+31 of notice to all parties.>
+32 5. Page 1, after line 33 by inserting:
+33 <NEW SUBSECTION. 12. A local agency or local commission
+34 that accepts complaints shall inform a person filing a
+35 complaint that the person may file the complaint with the Iowa
+SF 579.3255.H (1) 91
+-1- md 1/2
+
+1 office of civil rights in lieu of filing with the local agency
+2 or local commission.
+3 Sec. ___. COMPLAINTS FILED WITH LOCAL CIVIL RIGHTS
+4 COMMISSIONS AND LOCAL CIVIL RIGHTS AGENCIES. If, as of the
+5 effective date of this Act, a complaint has been pending with a
+6 local civil rights commission or local civil rights agency for
+7 at least twelve months from the filing date of the complaint,
+8 the local civil rights commission or local civil rights agency
+9 shall provide all parties notice of a party’s right to direct
+10 transfer of the complaint to the Iowa office of civil rights.
+11 The local commission or agency shall also notify the Iowa
+12 office of civil rights of all the pending cases for which
+13 notice was provided pursuant to this section.
+14 Sec. ___. EFFECTIVE DATE. This Act, being deemed of
+15 immediate importance, takes effect upon enactment.>
+16 6. Title page, by striking lines 1 and 2 and inserting <An
+17 Act relating to local laws implementing the Iowa civil rights
+18 Act of 1965, local civil rights commissions, and local civil
+19 rights agencies, and including effective date provisions.>
+20 7. By renumbering as necessary.
+SF 579.3255.H (1) 91
+-2- md 2/2

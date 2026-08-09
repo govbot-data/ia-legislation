@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8251
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 572
+H-8251
+1 Amend Senate File 572, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 1, after line 30 by inserting:
+4 <Sec. ___. NEW SECTION. 135B.41 Hospital change of
+5 ownership —— prohibitions.
+6 The department shall not approve the change of ownership of
+7 a previously licensed hospital if the person seeking to obtain
+8 ownership of the hospital is any of the following:
+9 1. A private equity fund as defined in 12 U.S.C.
+10 §1851(h)(2), as amended.
+11 2. Majority owned by a private equity fund.
+12 3. An affiliate of a private equity fund.
+13 4. A real estate investment trust as defined in 26 U.S.C.
+14 §856(a), as amended.
+15 5. Majority owned by a real estate investment trust.
+16 6. An affiliate of a real estate investment trust.>
+17 2. Page 2, after line 28 by inserting:
+18 <Sec. ___. Section 135C.7A, Code 2026, is amended by adding
+19 the following new subsection:
+20 NEW SUBSECTION. 6A. The department shall not approve the
+21 change of ownership of a previously licensed nursing facility
+22 if the person seeking to obtain ownership of the nursing
+23 facility is any of the following:
+24 a. A private equity fund as defined in 12 U.S.C.
+25 §1851(h)(2), as amended.
+26 b. Majority owned by a private equity fund.
+27 c. An affiliate of a private equity fund.
+28 d. A real estate investment trust as defined in 26 U.S.C.
+29 §856(a), as amended.
+30 e. Majority owned by a real estate investment trust.
+31 f. An affiliate of a real estate investment trust.>
+32 3. Title page, by striking lines 1 through 4 and inserting
+33 <An Act relating to the ownership of hospitals, health care
+34 facilities, and nursing facilities.>
+35 4. By renumbering as necessary.
+SF 572.3592 (1) 91
+-1- dg/ko 1/2
+
+______________________________
+TUREK of Pottawattamie
+SF 572.3592 (1) 91
+-2- dg/ko 2/2

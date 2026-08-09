@@ -1,0 +1,71 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8091
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate File 579
+H-8091
+1 Amend Senate File 579, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 216.19, subsection 1, unnumbered
+4 paragraph 1, Code 2026, is amended to read as follows:
+5 All cities shall, to the extent possible, protect the rights
+6 of the citizens of this state secured by the Iowa civil rights
+7 Act. A city or local government shall not enact any ordinance
+8 or other law which is broader or has different categories of
+9 unfair or discriminatory practices than those provided in
+10 this chapter. Nothing in this chapter shall be construed as
+11 indicating any of the following:
+12 Sec. ___. Section 216.19, subsection 1, paragraph c, Code
+13 2026, is amended by striking the paragraph.
+14 Sec. ___. Section 216.19, subsection 7, Code 2026, is
+15 amended to read as follows:
+16 7. a. A local agency or local commission shall not
+17 overrule, modify, or award damages contrary to a final decision
+18 issued by a district court pursuant to section 17A.19 or
+19 216.17.
+20 b. A final decision by a referral agency shall be subject
+21 to judicial review as provided in section 216.17 in the same
+22 manner and to the same extent as a final decision of the
+23 agency.>
+24 2. Page 1, line 1, by striking <2025> and inserting <2026>
+25 3. Page 1, by striking lines 7 through 31 and inserting:
+26 <NEW SUBSECTION. 10. a. A complaint filed with a local
+27 agency or local commission shall be preliminarily screened by
+28 the local agency or local commission within one hundred twenty
+29 days of filing.
+30 b. If a complaint arises from an alleged violation of
+31 a state law, rule, or regulation under the jurisdiction of
+32 the Iowa office of civil rights, the local agency or local
+33 commission shall cross file the complaint with the Iowa office
+34 of civil rights within one hundred twenty days of the date the
+35 complaint was filed with the local agency or local commission.
+SF 579.2981 (1) 91
+-1- lh/jh 1/2
+
+1 c. A complaint that is not preliminarily screened within one
+2 hundred twenty days shall be administratively closed.>
+3 4. Page 1, after line 33 by inserting:
+4 <NEW SUBSECTION. 12. a. Beginning the effective date
+5 of this Act, a complaint filed with a local agency or local
+6 commission that has not been resolved within twelve months of
+7 the filing date of the complaint shall be referred to the Iowa
+8 office of civil rights for processing.
+9 b. Any damages awarded by a local agency or local commission
+10 between the effective date of this Act and July 1, 2027,
+11 shall be reviewed by the Iowa office of civil rights prior to
+12 enforcement.
+13 Sec. ___. EFFECTIVE DATE. This Act, being deemed of
+14 immediate importance, takes effect upon enactment.>
+15 5. Title page, by striking lines 1 and 2 and inserting <An
+16 Act relating to local laws implementing the Iowa civil rights
+17 Act of 1965, local civil rights commissions, and local civil
+18 rights agencies, and including effective date provisions.>
+19 6. By renumbering as necessary.
+______________________________
+HOLT of Crawford
+SF 579.2981 (1) 91
+-2- lh/jh 2/2

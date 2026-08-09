@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5222
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2754
+S-5222
+1 Amend House File 2754, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 50, after line 3 by inserting:
+4 <Sec. ___. Section 256C.5, subsection 2, paragraph a, Code
+5 2026, is amended to read as follows:
+6 a. For the initial school year for which a school district
+7 approved to participate in the preschool program receives that
+8 approval and implements the preschool program, the funding for
+9 the preschool foundation aid payable to that school district
+10 shall be paid from the appropriation made for that school year
+11 in section 256C.6, Code 2011, or in another appropriation
+12 made for purposes of this chapter. For that school year, the
+13 preschool foundation aid payable to the school district is
+14 the product of the regular program state cost per pupil for
+15 the school year multiplied by sixty percent of the school
+16 district’s eligible student enrollment on the date in the
+17 school year determined by rule on October 1, or the first
+18 Monday in October if October 1 falls on a Saturday or Sunday.
+19 For that school year, the preschool foundation aid payable to
+20 the school district shall be paid as soon as is reasonably
+21 possible after October 1, but not later than December 31 of the
+22 same school year.>
+23 2. By renumbering as necessary.
+______________________________
+JANET PETERSEN
+HF 2754.4261 (1) 91
+-1- jda/jh 1/1

@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8013
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2362
+H-8013
+1 Amend House File 2362 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 262.9, subsection 19, Code 2026, is
+4 amended by adding the following new paragraph:
+5 NEW PARAGRAPH. d. Prohibit any increase in the amount of
+6 tuition charged by an institution of higher education under
+7 the board’s control to resident undergraduate students that
+8 is greater than the average of the increases in the higher
+9 education price index in the previous three years. This
+10 paragraph does not apply to a resident undergraduate student
+11 in an academic year if the tuition amount that can be charged
+12 to the student in the academic year is limited pursuant to
+13 subsection 43.>
+14 2. Page 1, after line 10 by inserting:
+15 <b. This subsection only applies to an undergraduate student
+16 if the student pays a fee to the institution in an amount
+17 established by the institution not to exceed ten percent of the
+18 amount of tuition charged to the student in the student’s first
+19 academic year of enrollment.>
+20 3. Page 1, line 11, by striking <b.> and inserting <c.>
+21 4. Page 1, line 18, by striking <c.> and inserting <d.>
+22 5. Page 1, line 27, by striking <d.> and inserting <e.>
+23 6. By renumbering as necessary.
+______________________________
+COLLINS of Des Moines
+HF 2362.2756 (1) 91
+-1- je/ns 1/1

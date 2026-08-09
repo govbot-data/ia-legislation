@@ -1,0 +1,107 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8125
+Media Type: application/pdf
+
+================================================================================
+
+House File 2709
+H-8125
+1 Amend House File 2709, as passed by the House, as follows:
+2 1. Page 2, by striking lines 9 and 10 and inserting
+3 <equipment regarding the owner’s equipment or a part if the
+4 manufacturer does not have an>
+5 2. Page 2, line 15, by striking <agricultural>
+6 3. Page 2, line 22, by striking <agricultural>
+7 4. Page 2, line 23, by striking <“Embedded software for
+8 agricultural equipment”> and inserting <“Embedded software for
+9 equipment”>
+10 5. Page 2, line 25, by striking <agricultural>
+11 6. Page 2, line 26, by striking <agricultural>
+12 7. Page 2, line 27, by striking <“Embedded software for
+13 agricultural equipment”> and inserting <“Embedded software for
+14 equipment”>
+15 8. Page 2, after line 31 by inserting:
+16 <6. “Equipment” means agricultural equipment or secondary
+17 road equipment.>
+18 9. Page 2, line 32, by striking <6.> and inserting <7.>
+19 10. Page 2, line 33, by striking <agricultural>
+20 11. Page 2, line 34, by striking <7.> and inserting <8.>
+21 12. Page 3, line 1, by striking <tools> and inserting <a
+22 tool>
+23 13. Page 3, line 17, by striking <agricultural>
+24 14. Page 3, line 19, by striking <agricultural>
+25 15. Page 3, line 23, by striking <agricultural>
+26 16. Page 3, line 33, after <part, embedded software,> by
+27 inserting <or>
+28 17. Page 3, line 34, by striking <agricultural equipment,
+29 firmware, or tool,> and inserting <equipment or any associated
+30 firmware or tool,>
+31 18. Page 4, line 2, after <part, embedded software,> by
+32 inserting <or>
+33 19. Page 4, line 3, by striking <agricultural equipment,
+34 firmware, or tool> and inserting <equipment or any associated
+35 firmware or tool,>
+HF 2709.3153 (2) 91
+-1- da/js 1/3
+
+1 20. Page 4, line 5, after <software,> by inserting <or>
+2 21. Page 4, line 6, by striking <agricultural equipment,
+3 firmware, or tool> and inserting <equipment or any associated
+4 firmware or tool,>
+5 22. Page 4, line 8, by striking <8.> and inserting <9.>
+6 23. Page 4, line 12, by striking <9.> and inserting <10.>
+7 24. Page 4, line 25, by striking <agricultural>
+8 25. Page 4, line 27, by striking <10.> and inserting <11.>
+9 26. Page 4, line 30, by striking <agricultural>
+10 27. Page 4, line 32, by striking <11.> and inserting <12.>
+11 28. Page 4, line 32, by striking <agricultural>
+12 29. Page 4, line 34, by striking <12.> and inserting <13.>
+13 30. Page 4, line 35, by striking <agricultural>
+14 31. Page 5, after line 2 by inserting:
+15 <14. “Secondary road equipment” means equipment that is
+16 primarily designed for use and used in the construction or
+17 maintenance of secondary roads under the jurisdiction of a
+18 county, including under chapter 309.>
+19 32. Page 5, line 3, by striking <13.> and inserting <15.>
+20 33. Page 5, line 4, by striking <agricultural>
+21 34. Page 5, line 5, by striking <14.> and inserting <16.>
+22 35. Page 5, line 5, by striking <“Tools”> and inserting
+23 <“Tool”>
+24 36. Page 5, line 7, by striking <agricultural>
+25 37. Page 5, line 10, by striking <agricultural>
+26 38. Page 5, line 12, by striking <15.> and inserting <17.>
+27 39. Page 5, line 22, by striking <Agricultural equipment>
+28 and inserting <Equipment>
+29 40. Page 5, line 26, by striking <agricultural>
+30 41. Page 5, lines 31 and 32, by striking <agricultural
+31 equipment, firmware, tools,> and inserting <equipment or any
+32 associated firmware or tool,>
+33 42. Page 5, line 35, by striking <agricultural equipment,
+34 firmware, tools,> and inserting <equipment or any associated
+35 firmware or tool,>
+HF 2709.3153 (2) 91
+-2- da/js 2/3
+
+1 43. Page 6, line 2, by striking <agricultural>
+2 44. Page 6, line 7, by striking <agricultural equipment,
+3 firmware, tools,> and inserting <equipment or any associated
+4 firmware or tool,>
+5 45. Page 6, line 11, by striking <agricultural equipment,
+6 firmware, tools,> and inserting <equipment or any associated
+7 firmware or tool,>
+8 46. Page 6, line 22, by striking <agricultural equipment,
+9 firmware, tool,> and inserting <equipment or any associated
+10 firmware or tool,>
+11 47. Page 6, line 25, by striking <agricultural equipment,
+12 firmware, tool,> and inserting <equipment or any associated
+13 firmware or tool,>
+14 48. Page 6, line 28, by striking <agricultural>
+15 49. Page 6, line 32, by striking <agricultural>
+16 50. Page 7, line 2, by striking <agricultural>
+17 51. Title page, line 1, by striking <agricultural> and
+18 inserting <certain>
+______________________________
+SITZMANN of Plymouth
+HF 2709.3153 (2) 91
+-3- da/js 3/3

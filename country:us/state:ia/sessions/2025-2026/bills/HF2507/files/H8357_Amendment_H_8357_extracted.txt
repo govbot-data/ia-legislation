@@ -1,0 +1,160 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8357
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2507
+H-8357
+1 Amend House File 2507 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. NEW SECTION. 554J.1 Definitions.
+5 For the purposes of this chapter:
+6 1. “Account holder” means an individual to which an account
+7 or profile to use a conversational AI service belongs.
+8 2. a. “Conversational AI service” means an artificial
+9 intelligence, available by software application, web interface,
+10 or computer program, that is accessible to the general
+11 public and that has the primary purpose of simulating human
+12 conversation and interaction through text, audio communication,
+13 or visual communication.
+14 b. “Conversational AI service” does not include a software
+15 application, web interface, or computer program that is any of
+16 the following:
+17 (1) Primarily designed and marketed for research and
+18 development purposes.
+19 (2) A feature within another software application, web
+20 interface, or computer program that does not have the primary
+21 purpose of simulating human conversation and interaction
+22 through text, audio communication, or visual communication.
+23 (3) Designed to provide outputs relating to a narrow and
+24 discrete topic.
+25 (4) Primarily designed and marketed for commercial use by
+26 business entities to assist customers in obtaining services or
+27 purchasing goods from the business.
+28 (5) Functions as a speaker and voice command interface or
+29 voice-activated virtual assistant for an electronic device
+30 widely available to consumers.
+31 (6) Used by a business solely for internal purposes.
+32 3. “Minor” means an individual an operator knows is, or is
+33 reasonably certain is, under eighteen years of age.
+34 4. “Operator” means a person who develops and makes a
+35 conversational AI service available to the public. “Operator”
+HF 2507.3944 (1) 91
+(amending this HF 2507 to CONFORM to SF 2417)
+-1- dg/jh 1/4
+
+1 does not include a mobile device application store or a search
+2 engine solely because the mobile device application store or a
+3 search engine provides access to a conversational AI service.
+4 5. “Sexually explicit conduct” means the same as defined in
+5 18 U.S.C. §2256.
+6 6. “Visual depiction” means the same as defined in 18 U.S.C.
+7 §2256.
+8 Sec. 2. NEW SECTION. 554J.2 Conversational AI services ——
+9 minors —— requirements.
+10 1. An operator shall clearly and conspicuously disclose
+11 to a minor account holder that the minor account holder is
+12 interacting with artificial intelligence through any of the
+13 following:
+14 a. A persistent visible disclaimer.
+15 b. All of the following:
+16 (1) A disclaimer that appears at the beginning of each
+17 interaction between the operator’s conversational AI service
+18 and a minor account holder.
+19 (2) A disclaimer that appears at least once every three
+20 hours of continuous interaction between the operator’s
+21 conversational AI service and a minor account holder.
+22 2. An operator shall not provide a minor user with points
+23 or similar rewards at unpredictable intervals with the
+24 intent to encourage increased engagement with the operator’s
+25 conversational AI service.
+26 3. An operator shall institute reasonable measures to
+27 prevent the operator’s conversational AI service from doing any
+28 of the following for minor account holders:
+29 a. Producing visual depictions of sexually explicit
+30 material.
+31 b. Stating that the minor account holder should engage in
+32 sexually explicit conduct.
+33 c. Sexually objectifying the minor account holder.
+34 4. An operator shall institute reasonable measures
+35 to prevent the operator’s conversational AI service from
+HF 2507.3944 (1) 91
+(amending this HF 2507 to CONFORM to SF 2417)
+-2- dg/jh 2/4
+
+1 generating statements that would lead a reasonable individual
+2 to believe that the individual is interacting with a human,
+3 including but not limited to all of the following:
+4 a. Explicit claims that the conversational AI service is
+5 sentient or human.
+6 b. Statements that simulate emotional dependence on a minor
+7 account holder.
+8 c. Statements that simulate a romantic interaction or a
+9 sexual innuendo.
+10 d. Role-playing an adult-minor romantic relationship.
+11 5. a. An operator shall offer tools for minor account
+12 holders to manage the minor account holder’s privacy and
+13 account settings.
+14 b. An operator shall offer tools for the parent or guardian
+15 of a minor account holder to manage the minor account holder’s
+16 privacy and account settings if the minor is under thirteen
+17 years of age.
+18 c. An operator shall offer tools for the parent or guardian
+19 of a minor account holder to manage the minor account holder’s
+20 privacy and account settings as appropriate based on relevant
+21 risks.
+22 Sec. 3. NEW SECTION. 554J.3 Consumer disclosures.
+23 An operator shall clearly and conspicuously disclose using
+24 a persistent visible disclaimer, or a disclaimer that appears
+25 after every three hours of continuous interaction with the
+26 operator’s conversational AI service, that the operator’s
+27 conversational AI service is artificial intelligence if a
+28 reasonable individual interacting with the conversational AI
+29 service would believe that the individual is interacting with a
+30 human.
+31 Sec. 4. NEW SECTION. 554J.4 Suicide and self-harm protocol.
+32 An operator shall adopt protocols for the operator’s
+33 conversational AI service for responding to user prompts
+34 regarding suicidal ideation or self-harm that includes but is
+35 not limited to making reasonable efforts to refer the user to
+HF 2507.3944 (1) 91
+(amending this HF 2507 to CONFORM to SF 2417)
+-3- dg/jh 3/4
+
+1 crisis service providers such as a suicide hotline, crisis text
+2 line, or other appropriate crisis service.
+3 Sec. 5. NEW SECTION. 554J.5 Mental health care.
+4 An operator shall not knowingly and intentionally cause or
+5 program a conversational AI service to make a representation or
+6 statement that would lead a reasonable individual to believe
+7 that the conversational AI service is designed to provide
+8 professional psychology or behavioral health services that an
+9 individual would require licensure under chapter 154B or 154D
+10 to provide.
+11 Sec. 6. NEW SECTION. 554J.6 Penalties and enforcement.
+12 1. An operator that violates this chapter shall be subject
+13 to an injunction and liable for the greater of the following:
+14 a. Actual damages.
+15 b. A civil penalty of one thousand dollars per violation, up
+16 to a maximum of five hundred thousand dollars per operator.
+17 2. The attorney general shall have the authority to enforce
+18 this chapter and shall adopt rules pursuant to chapter 17A to
+19 administer this chapter.
+20 3. A civil penalty collected under this section shall be
+21 deposited into the general fund of the state.
+22 4. This chapter shall not be construed to create a private
+23 right of action under this chapter or any other law.
+24 5. This section shall not be construed to make a developer
+25 of an artificial intelligence model liable solely because a
+26 third party used the developer’s artificial intelligence model
+27 to create or train a conversational AI service.
+28 Sec. 7. APPLICABILITY. This Act applies July 1, 2027.>
+______________________________
+HARRIS of Appanoose
+HF 2507.3944 (1) 91
+(amending this HF 2507 to CONFORM to SF 2417)
+-4- dg/jh 4/4

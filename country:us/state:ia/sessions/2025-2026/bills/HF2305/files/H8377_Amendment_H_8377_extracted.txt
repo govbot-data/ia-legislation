@@ -1,0 +1,563 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8377
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Amendment to
+House File 2305
+H-8377
+1 Amend House File 2305, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 135J.1, Code 2026, is amended to read
+6 as follows:
+7 135J.1 Definitions.
+8 For the purposes of this chapter unless otherwise defined:
+9 1. “Attending physician provider” means a physician licensed
+10 pursuant to chapter 148 or a physician assistant licensed
+11 pursuant to chapter 148C, physician assistant, or an advanced
+12 registered nurse practitioner who is licensed in this state.
+13 2. “Attorney in fact” means the same as defined in section
+14 144B.1.
+15 2. 3. “Core services” means physician services, nursing
+16 services, medical social services, counseling services,
+17 and volunteer services provided by volunteers. These core
+18 services, as well as others deemed necessary by the hospice
+19 in delivering safe and appropriate care to its case load the
+20 hospice’s hospice patients, can be provided through either
+21 direct or indirect arrangement by the hospice.
+22 3. 4. “Department” means the department of inspections,
+23 appeals, and licensing.
+24 5. “Guardian” means the same as defined in section 633.3.
+25 4. 6. “Hospice patient”or “patient” means a diagnosed
+26 terminally ill person an individual with an anticipated life
+27 expectancy of six months or less, as certified by the attending
+28 physician provider, who, alone or in conjunction with a unit
+29 of care as defined in subsection 9, has voluntarily requested
+30 and received admission into the a hospice program. If the
+31 patient is unable to request admission, a family member the
+32 may voluntarily request and receive admission on the patient’s
+33 behalf. An individual may make this request in conjunction
+34 with a unit of care, the individual’s attorney in fact,
+35 the individual’s guardian, or the majority of the guardians
+HF 2305.4069.S (1) 91
+-1- mb 1/15
+
+1 if the individual has more than one guardian with equal
+2 responsibilities appointed.
+3 5. 7. “Hospice patient’s family” means the immediate kin of
+4 the a hospice patient, including a spouse, parent, stepparent,
+5 brother, sister, stepbrother, stepsister, child, or stepchild.
+6 Additional relatives or individuals with significant personal
+7 ties to the hospice patient may be included in the hospice
+8 patient’s family.
+9 6. 8. “Hospice program” means a centrally coordinated
+10 program of home and inpatient care provided directly or through
+11 an agreement under the direction of an identifiable hospice
+12 administration providing palliative care directed at symptom
+13 management and supportive medical and other health services
+14 to terminally ill hospice patients and their families. A
+15 licensed hospice program shall utilize a medically directed
+16 interdisciplinary team and provide care to meet the physical,
+17 emotional, social, spiritual, and other special needs which
+18 are experienced during the final stages of illness, dying, and
+19 bereavement. Hospice care shall be available twenty-four hours
+20 a day, seven days a week.
+21 7. 9. “Interdisciplinary team” means the hospice patient
+22 and the hospice patient’s family, the attending physician
+23 provider, and all of the following individuals trained to serve
+24 with a licensed hospice program:
+25 a. A licensed physician pursuant to chapter 148.
+26 b. A licensed registered nurse pursuant to chapter 152.
+27 c. An individual with at least a baccalaureate degree in the
+28 field of social work providing medical-social services.
+29 d. Trained hospice volunteers Volunteers.
+30 e. As deemed appropriate by the hospice, physician
+31 assistants, providers of special services including but not
+32 limited to a spiritual counselor, a pharmacist pharmacists, or
+33 professionals in the fields of mental health may be included
+34 on the interdisciplinary team.
+35 8. 10. “Palliative care” means specialized medical care
+HF 2305.4069.S (1) 91
+-2- mb 2/15
+
+1 directed at managing symptoms experienced by the hospice
+2 provided to a patient, as well as addressing related needs
+3 of the patient and family as they experience the stress of
+4 the dying process who has been diagnosed by the patient’s
+5 attending provider with a serious illness. Palliative care is
+6 stress and symptom management care, based on the needs of the
+7 patient rather than the patient’s diagnosis, provided by an
+8 interdisciplinary team. The intent of palliative care is to
+9 enhance the quality of life for the hospice patient and family
+10 unit, and is not treatment directed at cure of the terminal
+11 illness. Palliative care may be provided at any stage of a
+12 patient’s serious illness, regardless of the patient’s age, and
+13 may be provided in conjunction with curative treatment for the
+14 serious illness.
+15 11. “Serious illness” means a health condition that
+16 carries a high risk of mortality and either negatively impacts
+17 an individual’s daily functioning or quality of life, or
+18 excessively strains the individual’s caregivers.
+19 12. “Terminal condition” means the same as defined in
+20 section 144A.2.
+21 9. 13. “Unit of care” means the a hospice patient and the a
+22 hospice patient’s family within a hospice program.
+23 10. 14. “Volunteer services” “Volunteer” means the services
+24 provided by individuals an individual who have has successfully
+25 completed a training program developed by a licensed hospice
+26 program and who provides services.
+27 Sec. 2. Section 135J.3, Code 2026, is amended to read as
+28 follows:
+29 135J.3 Basic requirements.
+30 A licensed hospice program shall include:
+31 1. A planned program of hospice care, the medical components
+32 of which shall be under the direction of an attending physician
+33 provider.
+34 2. Centrally administered, coordinated hospice core
+35 services provided in home, outpatient, or institutional
+HF 2305.4069.S (1) 91
+-3- mb 3/15
+
+1 settings.
+2 3. A mechanism that assures the rights of the patient and
+3 family a unit of care.
+4 4. Palliative care Symptom management provided to a hospice
+5 patient and family unit of care under the direction of an
+6 attending physician provider.
+7 5. An interdisciplinary team which develops, implements,
+8 and evaluates the hospice plan of care for the patient and
+9 family a unit of care.
+10 6. Bereavement services.
+11 7. Accessible hospice care twenty-four hours a day, seven
+12 days a week in all settings.
+13 8. An ongoing system of quality assurance and utilization
+14 review.
+15 Sec. 3. NEW SECTION. 135J.3A Patient incapable of making a
+16 treatment decision.
+17 1. a. A request for admission and placement in a hospice
+18 program for a patient who has a terminal condition, and
+19 who is comatose, incompetent, or otherwise physically or
+20 mentally incapable of communication, and who has not expressed
+21 their desire for palliative care or a hospice program, may
+22 be made by the patient’s attorney in fact or the patient’s
+23 guardian. If the patient has more than one guardian with
+24 equal responsibilities appointed, the decision agreed to by a
+25 majority of guardians. If a majority consensus is not achieved
+26 by the guardians, a court order shall be required.
+27 b. If a patient does not have an attorney in fact or a
+28 guardian, the request may be made by an individual, in the same
+29 order of priority prescribed in section 144A.7, subsection 1,
+30 paragraph “b”, who shall be guided by the express or implied
+31 intentions of the patient and who is reasonably available,
+32 willing, and competent to make a request.
+33 2. This section shall not apply to a guardian appointed
+34 under chapter 232D.
+35 Sec. 4. Section 144A.2, Code 2026, is amended to read as
+HF 2305.4069.S (1) 91
+-4- mb 4/15
+
+1 follows:
+2 144A.2 Definitions.
+3 Except as otherwise provided, as used in this chapter:
+4 1. “Adult” means an individual eighteen years of age or
+5 older.
+6 2. “Advanced registered nurse practitioner” means the same as
+7 defined in section 152.1.
+8 2. 3. “Attending physician provider” means the physician
+9 selected by, or assigned to, the patient who has primary
+10 responsibility for the treatment and care of the patient same
+11 as defined in section 135J.1.
+12 3. 4. “Attending physician assistant” means the physician
+13 assistant selected by, or assigned to, the patient who has
+14 primary responsibility for the treatment and care of the
+15 patient “Attorney in fact” means the same as defined in section
+16 144B.1.
+17 5. “Close adult friend” means a friend of a patient to whom
+18 all of the following apply:
+19 a. The individual is at least eighteen years of age.
+20 b. The individual has shown special care and concern for the
+21 patient.
+22 c. The individual maintains regular contact with the patient
+23 and is familiar with the patient’s health, activities, and
+24 beliefs.
+25 d. The individual has provided an affidavit to the patient’s
+26 attending provider that states that the individual is willing
+27 and able to be involved in the patient’s care.
+28 4. 6. “Declaration” means a document executed in accordance
+29 with the requirements of section 144A.3.
+30 5. 7. “Department” means the department of health and human
+31 services.
+32 6. 8. “Emergency medical care provider” means emergency
+33 medical care provider as defined in section 147A.1.
+34 7. 9. “Health care provider” means a person, including an
+35 emergency medical care provider, who is licensed, certified, or
+HF 2305.4069.S (1) 91
+-5- mb 5/15
+
+1 otherwise authorized or permitted by the law of this state to
+2 administer health care in the ordinary course of business or in
+3 the practice of a profession.
+4 8. 10. “Hospital” means hospital as defined in section
+5 135B.1.
+6 9. 11. a. “Life-sustaining procedure” means any medical
+7 procedure, treatment, or intervention, including resuscitation,
+8 which meets both of the following requirements:
+9 (1) Utilizes mechanical or artificial means to sustain,
+10 restore, or supplant a spontaneous vital function.
+11 (2) When applied to a patient in a terminal condition, would
+12 serve only to prolong the dying process.
+13 b. “Life-sustaining procedure” does not include the
+14 provision of nutrition or hydration except when required
+15 to be provided parenterally or through intubation, or the
+16 administration of medication or performance of any medical
+17 procedure deemed necessary to provide comfort care or to
+18 alleviate pain.
+19 10. 12. “Out-of-hospital do-not-resuscitate order” means
+20 a written order signed by a physician an attending provider,
+21 executed in accordance with the requirements of section
+22 144A.7A and issued consistent with this chapter, that directs
+23 the withholding or withdrawal of resuscitation when an adult
+24 patient in a terminal condition is outside the hospital.
+25 11. 13. “Physician” means a person licensed to practice
+26 medicine and surgery or osteopathic medicine and surgery in
+27 this state.
+28 12. 14. “Physician assistant” means a person licensed to
+29 practice as a physician assistant in this state.
+30 13. 15. “Qualified patient” means a patient who has
+31 executed a declaration or an out-of-hospital do-not-resuscitate
+32 order in accordance with this chapter and who has been
+33 determined by the patient’s attending physician provider to be
+34 in a terminal condition.
+35 14. 16. “Resuscitation” means any medical intervention that
+HF 2305.4069.S (1) 91
+-6- mb 6/15
+
+1 utilizes mechanical or artificial means to sustain, restore,
+2 or supplant a spontaneous vital function, including but not
+3 limited to chest compression, defibrillation, intubation, and
+4 emergency drugs intended to alter cardiac function or otherwise
+5 to sustain life.
+6 15. 17. “Terminal condition” means an incurable or
+7 irreversible condition that, without the administration
+8 of life-sustaining procedures, will, in the opinion of
+9 the attending physician provider, result in death within
+10 a relatively short period of time or a state of permanent
+11 unconsciousness from which, to a reasonable degree of medical
+12 certainty, there can be no recovery.
+13 Sec. 5. Section 144A.3, subsections 3 and 5, Code 2026, are
+14 amended to read as follows:
+15 3. It is the responsibility of the declarant to provide
+16 the declarant’s attending physician or health care provider
+17 with the declaration. An attending physician or health care
+18 provider may presume, in the absence of actual notice to the
+19 contrary, that the declaration complies with this chapter and
+20 is valid.
+21 5. A declaration executed pursuant to this chapter may, but
+22 need not, be in the following form:
+23 DECLARATION
+24 If I should have an incurable or irreversible condition that
+25 will result either in death within a relatively short period
+26 of time or a state of permanent unconsciousness from which,
+27 to a reasonable degree of medical certainty, there can be no
+28 recovery, it is my desire that my life not be prolonged by
+29 the administration of life-sustaining procedures. If I am
+30 unable to participate in my health care decisions, I direct
+31 my attending physician provider to withhold or withdraw
+32 life-sustaining procedures that merely prolong the dying
+33 process and are not necessary to my comfort or freedom from
+34 pain.
+35 Sec. 6. Section 144A.4, Code 2026, is amended to read as
+HF 2305.4069.S (1) 91
+-7- mb 7/15
+
+1 follows:
+2 144A.4 Revocation of declaration.
+3 1. A declaration may be revoked at any time and in any
+4 manner by which the declarant is able to communicate the
+5 declarant’s intent to revoke, without regard to mental or
+6 physical condition. A revocation is only effective as to the
+7 attending physician or attending physician assistant provider
+8 upon communication to such physician or physician assistant
+9 attending provider by the declarant or by another to whom the
+10 revocation was communicated.
+11 2. The attending physician or attending physician assistant
+12 provider shall make the revocation a part of the declarant’s
+13 medical record.
+14 Sec. 7. Section 144A.5, Code 2026, is amended to read as
+15 follows:
+16 144A.5 Determination of terminal condition.
+17 When an attending physician provider who has been provided
+18 with a declaration determines that the declarant is in a
+19 terminal condition, this decision must be confirmed by another
+20 physician, advanced registered nurse practitioner, or physician
+21 assistant. The attending physician provider must record that
+22 the determination in the declarant’s medical record.
+23 Sec. 8. Section 144A.6, subsection 2, Code 2026, is amended
+24 to read as follows:
+25 2. The declaration of a qualified patient known to the
+26 attending physician provider to be pregnant shall not be in
+27 effect as long as the fetus could develop to the point of live
+28 birth with continued application of life-sustaining procedures.
+29 However, the provisions of this subsection do not impair any
+30 existing rights or responsibilities that any person may have
+31 in regard to the withholding or withdrawal of life-sustaining
+32 procedures.
+33 Sec. 9. Section 144A.7, subsections 1 and 2, Code 2026, are
+34 amended to read as follows:
+35 1. a. Life-sustaining procedures may be withheld or
+HF 2305.4069.S (1) 91
+-8- mb 8/15
+
+1 withdrawn from a patient who is in a terminal condition and who
+2 is comatose, incompetent, or otherwise physically or mentally
+3 incapable of communication, and who has not made a declaration
+4 in accordance with this chapter section 144A.3 if there is
+5 consultation and written agreement for the withholding or the
+6 withdrawal of life-sustaining procedures between the attending
+7 physician provider, another physician, advanced registered
+8 nurse practitioner, or physician assistant, and the patient’s
+9 attorney in fact, the patient’s guardian appointed pursuant to
+10 chapter 633, or the patient’s guardian who has obtained court
+11 approval in accordance with section 232D.401, subsection 4,
+12 paragraph “a”. If the patient has more than one guardian with
+13 equal responsibilities appointed, the decision agreed to by
+14 a majority of the guardians. If a majority consensus is not
+15 achieved by the guardians, a court order shall be required.
+16 b. If a patient does not have an attorney in fact, a
+17 guardian appointed pursuant to chapter 633, or a guardian
+18 who has obtained court approval in accordance with section
+19 232D.401, subsection 4, paragraph “a”, the decision may be
+20 made by any of the following individuals, who shall be guided
+21 by the express or implied intentions of the patient, in the
+22 following order of priority if no individual in a prior class
+23 the previous priority is reasonably available, willing, and
+24 competent to act make the decision:
+25 a. The attorney in fact designated to make treatment
+26 decisions for the patient should such person be diagnosed as
+27 suffering from a terminal condition, if the designation is in
+28 writing and complies with chapter 144B.
+29 b. The guardian of the person of the patient if one has been
+30 appointed, provided court approval is obtained in accordance
+31 with section 232D.401, subsection 4, paragraph “a”, or section
+32 633.635, subsection 3, paragraph “b”, subparagraph (1). This
+33 paragraph does not require the appointment of a guardian in
+34 order for a treatment decision to be made under this section.
+35 c. (1) The patient’s spouse.
+HF 2305.4069.S (1) 91
+-9- mb 9/15
+
+1 d. (2) An adult child of the patient or, if the patient
+2 has more than one adult child, the decision agreed to by a
+3 majority of the adult children who are reasonably available for
+4 consultation with the patient’s attending provider.
+5 e. (3) A parent of the patient, or parents if the patient
+6 has more than one parent, the decision agreed to by both
+7 parents if both are reasonably available for consultation with
+8 the patient’s attending provider.
+9 f. (4) An adult sibling of the patient or, if the patient
+10 has more than one adult sibling, the decision agreed to by a
+11 majority of the adult siblings who are reasonably available for
+12 consultation with the patient’s attending provider.
+13 (5) The decision agreed to by a majority of the patient’s
+14 adult relatives, including but not limited to grandchildren,
+15 grandparents, aunts, uncles, nieces, nephews, stepchildren,
+16 stepparents, and stepsiblings who are reasonably available for
+17 consultation with the patient’s attending provider.
+18 (6) A close adult friend.
+19 2. When a decision is made pursuant to this section to
+20 withhold or withdraw life-sustaining procedures, there shall
+21 be a witness present at the time of the consultation with the
+22 patient’s attending provider when that the decision is made.
+23 Sec. 10. Section 144A.7A, subsections 1 and 3, Code 2026,
+24 are amended to read as follows:
+25 1. If an attending physician or attending physician
+26 assistant provider issues an out-of-hospital do-not-resuscitate
+27 order for an adult patient under this section, the physician
+28 attending provider shall use the form prescribed pursuant to
+29 subsection 2, include a copy of the order in the patient’s
+30 medical record, and provide a copy to the patient or an
+31 individual authorized to act on the patient’s behalf.
+32 3. The out-of-hospital do-not-resuscitate order form shall
+33 include all of the following:
+34 a. The patient’s name.
+35 b. The patient’s date of birth.
+HF 2305.4069.S (1) 91
+-10- mb 10/15
+
+1 c. The name of the individual authorized to act on the
+2 patient’s behalf, if applicable.
+3 d. A statement that the patient is in a terminal condition.
+4 e. The physician’s or physician assistant’s attending
+5 provider’s signature.
+6 f. The date the form is signed.
+7 g. A concise statement of the nature and scope of the order.
+8 h. Any other information necessary to provide clear and
+9 reliable instructions to a health care provider.
+10 Sec. 11. NEW SECTION. 144A.7B Procedure in absence of
+11 out-of-hospital do-not-resuscitate order.
+12 1. a. Resuscitation may be withheld or withdrawn from a
+13 patient who has a terminal condition, and who is comatose,
+14 incompetent, or otherwise physically or mentally incapable of
+15 communication, and who has not executed an out-of-hospital
+16 do-not-resuscitate order, if there is consultation and
+17 written agreement for the withholding or the withdrawal of
+18 resuscitation between the attending provider and another
+19 physician, advanced registered nurse practitioner, or physician
+20 assistant, and the patient’s attorney in fact, the patient’s
+21 guardian appointed pursuant to chapter 633, or the patient’s
+22 guardian who has obtained court approval in accordance
+23 with section 232D.401, subsection 4, paragraph “a”. If the
+24 patient has more than one guardian appointed with equal
+25 responsibilities, the decision agreed to by a majority of the
+26 guardians. If a majority consensus is not achieved by the
+27 guardians, a court order shall be required.
+28 b. If a patient does not have an attorney in fact, a
+29 guardian appointed pursuant to chapter 633, or a guardian
+30 who has obtained a court approval in accordance with section
+31 232D.401, subsection 4, paragraph “a”, the decision may be made
+32 by an individual, in the same order of priority prescribed in
+33 section 144A.7, subsection 1, paragraph “b”, who shall be guided
+34 by the express or implied intentions of the patient and who
+35 is reasonably available, willing, and competent to make the
+HF 2305.4069.S (1) 91
+-11- mb 11/15
+
+1 decision.
+2 2. When a decision is made pursuant to this section to
+3 withhold or withdraw resuscitation, a witness shall be present
+4 at the time of the consultation with the patient’s attending
+5 provider when the decision is made.
+6 3. This section shall only apply to a patient located in a
+7 health care facility as that term is defined in section 135C.1,
+8 a health facility as that term is defined in section 135P.1, or
+9 a hospice facility certified by the centers for Medicare and
+10 Medicaid services of the United States department of health and
+11 human services.
+12 Sec. 12. Section 144A.8, subsection 1, Code 2026, is amended
+13 to read as follows:
+14 1. An attending physician provider who is unwilling to
+15 comply with the requirements of section 144A.5, or who is
+16 unwilling to comply with the declaration of a qualified
+17 patient in accordance with section 144A.6 or an out-of-hospital
+18 do-not-resuscitate order pursuant to section 144A.7A, or who is
+19 unwilling to comply with the provisions of section 144A.7 or
+20 144A.7A shall take all reasonable steps to effect the transfer
+21 of the patient to another physician provider.
+22 Sec. 13. Section 144B.1, Code 2026, is amended to read as
+23 follows:
+24 144B.1 Definitions.
+25 For purposes of this chapter, unless the context otherwise
+26 requires:
+27 1. “Attending provider” means the same as defined in section
+28 135J.1.
+29 1. 2. “Attorney in fact” means an individual who is
+30 designated by a durable power of attorney for health care as an
+31 agent to make health care decisions on behalf of a principal
+32 and has consented to act in that capacity.
+33 2. 3. “Designee” means a person named in a declaration
+34 under chapter 144C.
+35 3. 4. “Durable power of attorney for health care” means a
+HF 2305.4069.S (1) 91
+-12- mb 12/15
+
+1 document authorizing an attorney in fact to make health care
+2 decisions for the principal if the principal is unable, in the
+3 judgment of the attending physician or attending physician
+4 assistant provider, to make health care decisions.
+5 4. 5. “Health care” means any care, treatment, service,
+6 or procedure to maintain, diagnose, or treat an individual’s
+7 physical or mental condition. “Health care” does not include
+8 the provision of nutrition or hydration except when they are
+9 required to be provided parenterally or through intubation.
+10 5. 6. “Health care decision” means the consent, refusal of
+11 consent, or withdrawal of consent to health care.
+12 6. 7. “Health care provider” means a person who is
+13 licensed, certified, or otherwise authorized or permitted by
+14 the law laws of this state to administer health care in the
+15 ordinary course of business or in the practice of a profession.
+16 7. 8. “Principal” means a person age eighteen or older who
+17 has executed a durable power of attorney for health care.
+18 Sec. 14. Section 144B.5, subsection 1, Code 2026, is amended
+19 to read as follows:
+20 1. A durable power of attorney for health care executed
+21 pursuant to this chapter may, but need not, be in the following
+22 form:
+23 I hereby designate ........ as my attorney in fact (my
+24 agent) and give to my agent the power to make health care
+25 decisions for me. This power exists only when I am unable, in
+26 the judgment of my attending physician or attending physician
+27 assistant provider, to make those health care decisions. The
+28 attorney in fact must act consistently with my desires as
+29 stated in this document or otherwise made known.
+30 Except as otherwise specified in this document, this document
+31 gives my agent the power, where otherwise consistent with the
+32 law laws of this state, to consent to my physician or physician
+33 assistant attending provider not giving health care or stopping
+34 health care which is necessary to keep me alive.
+35 This document gives my agent power to make health care
+HF 2305.4069.S (1) 91
+-13- mb 13/15
+
+1 decisions on my behalf, including to consent, to refuse to
+2 consent, or to withdraw consent to the provision of any care,
+3 treatment, service, or procedure to maintain, diagnose, or
+4 treat a physical or mental condition. This power is subject
+5 to any statement of my desires and any limitations included in
+6 this document.
+7 My agent has the right to examine my medical records and to
+8 consent to disclosure of such records.
+9 Sec. 15. Section 144B.6, subsection 1, Code 2026, is amended
+10 to read as follows:
+11 1. Unless the district court sitting in equity specifically
+12 finds that the attorney in fact is acting in a manner contrary
+13 to the wishes of the principal or the durable power of attorney
+14 for health care provides otherwise, an attorney in fact who
+15 is known to the health care provider to be available and
+16 willing to make health care decisions has priority over any
+17 other person, including a guardian appointed pursuant to
+18 chapter 633, to act for the principal in all matters of health
+19 care decisions. The attorney in fact has authority to make
+20 a particular health care decision only if the principal is
+21 unable, in the judgment of the attending physician or attending
+22 physician assistant provider, to make the health care decision.
+23 If the principal objects to a decision to withhold or withdraw
+24 health care, the principal shall be presumed to be able to make
+25 a decision.
+26 Sec. 16. Section 144C.2, subsection 16, Code 2026, is
+27 amended to read as follows:
+28 16. “Licensed hospice program” means a licensed hospice
+29 program as defined described in section 135J.1.
+30 Sec. 17. Section 633.635, Code 2026, is amended by adding
+31 the following new subsection:
+32 NEW SUBSECTION. 6. Notwithstanding subsections 2 and 3, a
+33 guardian may make a decision for a protected person pursuant to
+34 sections 135J.3A, 144A.7, and 144A.7B without court approval.
+35 Sec. 18. Section 633.669, subsection 1, paragraph b, Code
+HF 2305.4069.S (1) 91
+-14- mb 14/15
+
+1 2026, is amended by adding the following new subparagraphs:
+2 NEW SUBPARAGRAPH. (11) The protected person’s wishes
+3 related to withholding or withdrawal of life-sustaining
+4 procedures pursuant to chapter 144A or 144D.
+5 NEW SUBPARAGRAPH. (12) The protected person’s wishes
+6 related to placement in a hospice program in the event of a
+7 terminal condition.
+8 Sec. 19. Section 633.669, subsection 1, paragraph c, Code
+9 2026, is amended by adding the following new subparagraphs:
+10 NEW SUBPARAGRAPH. (9) The protected person’s wishes
+11 related to withholding or withdrawal of life-sustaining
+12 procedures pursuant to chapter 144A or 144D.
+13 NEW SUBPARAGRAPH. (10) The protected person’s wishes
+14 related to placement in a hospice program in the event of a
+15 terminal condition.>
+16 2. Title page, line 3, by striking <and>
+17 3. Title page, line 4, by striking <care> and inserting
+18 <care, and probate court guardianship reports>
+HF 2305.4069.S (1) 91
+-15- mb 15/15

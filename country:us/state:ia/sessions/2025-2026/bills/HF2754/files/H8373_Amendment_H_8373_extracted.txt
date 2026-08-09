@@ -1,0 +1,29 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8373
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2754
+H-8373
+1 Amend the amendment, H-8371, to House File 2754, as follows:
+2 1. Page 40, after line 11 by inserting:
+3 <Sec. ___. Section 257.11B, subsection 1, paragraph a, Code
+4 2026, is amended to read as follows:
+5 a. “Nonpublic school” means the same as defined in section
+6 285.16 all of the following:
+7 (1) A nonpublic school that is accredited by the department
+8 of education as provided in section 256.11 and that accepts
+9 all applicants for admission in the same manner as a school
+10 district.
+11 (2) A nonpublic institution that complies with state board
+12 of education standards for providing special education programs
+13 and that accepts all applicants for admission in the same
+14 manner as a school district.>
+15 2. By renumbering as necessary.
+______________________________
+ZABNER of Johnson
+H 8371.4056 (1) 91
+-1- jda/jh 1/1

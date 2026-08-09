@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8020
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2305
+H-8020
+1 Amend House File 2305 as follows:
+2 1. Page 4, line 32, by striking <decision.> and inserting
+3 <decision:>
+4 2. Page 7, line 26, by striking <physician> and inserting
+5 <physician provider>
+6 3. Page 9, line 2, by striking <physician> and inserting
+7 <physician, advanced registered nurse practitioner, or
+8 physician assistant>
+9 4. Page 10, line 21, before <relatives> by inserting <adult>
+10 5. Page 10, by striking lines 30 through 34.
+11 6. Page 11, by striking line 30 and inserting <attending
+12 provider and another physician, physician>
+13 7. Page 12, line 22, before <relatives> by inserting <adult>
+14 8. Title page, by striking lines 2 and 3 and inserting
+15 <care, hospice programs, life-sustaining procedures,
+16 out-of-hospital do-not-resuscitate orders, and durable power
+17 of attorney for health care.>
+18 9. By renumbering as necessary.
+______________________________
+BERGAN of Winneshiek
+HF 2305.2813 (2) 91
+-1- ak/ko 1/1

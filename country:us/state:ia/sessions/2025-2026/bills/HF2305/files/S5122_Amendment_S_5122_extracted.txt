@@ -1,0 +1,147 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5122
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2305
+S-5122
+1 Amend House File 2305, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 1, by striking lines 9 through 23.
+4 2. Page 1, line 24, by striking <2. 4.> and inserting <2.>
+5 3. Page 1, line 31, by striking <3. 5.> and inserting <3.>
+6 4. By striking page 1, line 33, through page 2, line 2.
+7 5. Page 2, line 3, by striking <4. 7.> and inserting <4.>
+8 6. Page 2, by striking lines 8 through 10 and inserting
+9 <received admission into the a hospice program. If the patient
+10 is unable to request admission, a family member the patient’s
+11 attorney in fact as defined in section 144B.1, or the patient’s
+12 guardian appointed pursuant to chapter 633, or the majority
+13 of the guardians if the patient has more than one guardian
+14 appointed with equal responsibilities, may voluntarily request
+15 and receive admission on the patient’s behalf.>
+16 7. Page 2, line 11, by striking <5. 8.> and inserting <5.>
+17 8. Page 2, line 17, by striking <6. 9.> and inserting <6.>
+18 9. Page 2, line 29, by striking <7. 10.> and inserting <7.>
+19 10. Page 3, line 8, by striking <8. 11.> and inserting <8.>
+20 11. Page 3, line 23, by striking <12.> and inserting <9.>
+21 12. Page 3, line 27, by striking <13.> and inserting <10.>
+22 13. Page 3, line 29, by striking <14.> and inserting <11.>
+23 14. Page 3, line 31, by striking <15.> and inserting <12.>
+24 15. Page 4, line 24, by striking <A> and inserting <1. If a
+25 patient does not have an attorney in fact as defined in section
+26 144B.1, or a guardian appointed pursuant to chapter 633, a>
+27 16. By striking page 4, line 28, through page 5, line 23,
+28 and inserting: <a hospice program by an individual, in the
+29 same order of priority prescribed in section 144A.7, subsection
+30 1, who shall be guided by the express or implied intentions
+31 of the patient and who is reasonably available, willing, and
+32 competent to make the decision.
+33 2. This section shall not apply to a guardian appointed
+34 under chapter 232D.>
+35 17. Page 6, by striking lines 4 and 5 and inserting <patient
+HF 2305.3505 (4) 91
+-1- ak/ko 1/4
+
+1 “Attorney in fact” means an individual who is designated by a
+2 durable power of attorney for health care as an agent to make
+3 health care decisions on behalf of a patient and has consented
+4 to act in that capacity.>
+5 18. Page 6, by striking lines 6 and 7 and inserting:
+6 <5. “Close adult friend” means a friend of a patient to whom
+7 all of the following apply:
+8 a. The individual is at least eighteen years of age.
+9 b. The individual has shown special care and concern for the
+10 patient.
+11 c. The individual maintains regular contact with the patient
+12 and is familiar with the patient’s health, activities, and
+13 beliefs.
+14 d. The individual has provided an affidavit to the
+15 patient’s attending provider that states that the individual is
+16 willing and able to be involved in the patient’s care.>
+17 19. Page 6, by striking lines 12 and 13 and inserting:
+18 <8. “Durable power of attorney for health care” means a
+19 document authorizing an attorney in fact to make health care
+20 decisions for a patient if the patient is unable, in the
+21 judgment of the patient’s attending provider, to make health
+22 care decisions.>
+23 20. Page 9, by striking lines 25 through 30 and inserting
+24 <or advanced registered nurse practitioner, and the patient’s
+25 attorney in fact as defined in section 144B.1, or the patient’s
+26 guardian appointed pursuant to chapter 633. If the patient has
+27 more than one guardian with equal responsibilities appointed,
+28 the decision agreed to by a majority of the guardians. If
+29 a majority consensus is not achieved by the guardians, a
+30 court order shall be required. If a patient does not have an
+31 attorney in fact as defined in section 144B.1, or a guardian
+32 appointed pursuant to chapter 633, the decision may be made
+33 by any of the following individuals, who shall be guided by
+34 the express or implied intentions of the patient, in the
+35 following order of priority if no individual in a prior class
+HF 2305.3505 (4) 91
+-2- ak/ko 2/4
+
+1 the previous priority is reasonably available, willing, and
+2 competent to act make the decision:>
+3 21. By striking page 9, line 31, through page 10, line 7.
+4 22. Page 10, line 8, by striking <c.> and inserting <a.>
+5 23. Page 10, line 9, by striking <d.> and inserting <b.>
+6 24. Page 10, line 13, by striking <e.> and inserting <c.>
+7 25. Page 10, line 17, by striking <f.> and inserting <d.>
+8 26. Page 10, line 21, by striking <g.> and inserting <e.>
+9 27. Page 10, line 26, by striking <h.> and inserting <f.>
+10 28. Page 11, line 21, by striking <illness> and inserting
+11 <condition>
+12 29. By striking page 11, line 27, through page 12, line
+13 22, and inserting <assistant, or advanced registered nurse
+14 practitioner, and the patient’s attorney in fact as defined in
+15 section 144B.1, or the patient’s guardian appointed pursuant
+16 to chapter 633. If the patient has more than one guardian
+17 appointed with equal responsibilities, the decision agreed to
+18 by a majority of the guardians. If a majority consensus is not
+19 achieved by the guardians, a court order shall be required. If
+20 a patient does not have an attorney in fact or a guardian, the
+21 decision may be made by an individual, in the same order of
+22 priority prescribed in section 144A.7, subsection 1, who shall
+23 be guided by the express or implied intentions of the patient
+24 and who is reasonably available, willing, and competent to make
+25 the decision.>
+26 30. Page 12, before line 27 by inserting:
+27 <3. This section shall only apply to a patient located
+28 in a health care facility as that term is defined in section
+29 135C.1, or a health facility as that term is defined in section
+30 135P.1.>
+31 31. Page 15, after line 14 by inserting:
+32 <Sec. ___. Section 633.669, subsection 1, paragraph b, Code
+33 2026, is amended by adding the following new subparagraphs:
+34 NEW SUBPARAGRAPH. (11) The protected person’s wishes
+35 related to withholding or withdrawal of life-sustaining
+HF 2305.3505 (4) 91
+-3- ak/ko 3/4
+
+1 procedures pursuant to chapter 144A or 144D.
+2 NEW SUBPARAGRAPH. (12) The protected person’s wishes
+3 related to placement in a hospice program in the event of a
+4 terminal condition.
+5 Sec. ___. Section 633.669, subsection 1, paragraph c, Code
+6 2026, is amended by adding the following new subparagraphs:
+7 NEW SUBPARAGRAPH. (9) The protected person’s wishes
+8 related to withholding or withdrawal of life-sustaining
+9 procedures pursuant to chapter 144A or 144D.
+10 NEW SUBPARAGRAPH. (10) The protected person’s wishes
+11 related to placement in a hospice program in the event of a
+12 terminal condition.>
+13 32. Title page, by striking lines 3 through 4 and inserting
+14 <out-of-hospital do-not-resuscitate orders, durable powers
+15 of attorney for healthcare, and probate court guardianship
+16 reports.>
+17 33. By renumbering, redesignating, and correcting internal
+18 references as necessary.
+______________________________
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+KARA WARME, CHAIRPERSON
+HF 2305.3505 (4) 91
+-4- ak/ko 4/4

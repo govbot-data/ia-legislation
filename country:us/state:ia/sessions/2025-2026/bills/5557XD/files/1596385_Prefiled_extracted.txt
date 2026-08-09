@@ -1,0 +1,1022 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+HEALTH AND HUMAN SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to early childhood and family services,
+2 including the creation of an early childhood and family
+3 services system, state child care assistance for the child
+4 care workforce, making appropriations, and including
+5 effective date provisions.
+6 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5557XD (13) 91
+dg/ko
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 EARLY CHILDHOOD AND FAMILY SERVICES SYSTEM
+3 Section 1. NEW SECTION. 234A.1 Definitions.
+4 For the purposes of this chapter, unless the context
+5 otherwise requires:
+6 1. “Community resources” means locally focused,
+7 strength-based programs and supports that aim to enhance family
+8 functioning and resilience, promote child development and
+9 safety, and prevent future involvement with child protective
+10 services or the juvenile justice system.
+11 2. “Department” means the department of health and human
+12 services.
+13 3. “Early childhood and family services district” or “ECFS
+14 district” means a health and human services district through
+15 which the ECFS system is administered or will be administered.
+16 4. “Early childhood and family services district advisory
+17 council” or “ECFS district advisory council” means an advisory
+18 council established under section 234A.3.
+19 5. “Early childhood and family services district plan” or
+20 “ECFS district plan” means a plan developed by the department
+21 to outline the ECFS system infrastructure of a district and
+22 the programs and services intended to be provided within that
+23 district.
+24 6. “Early childhood and family services state plan” or “ECFS
+25 state plan” means the plan developed by the department that
+26 describes the key components of the state’s ECFS system.
+27 7. “Early childhood and family services system” or “ECFS
+28 system” means the system established in section 234A.2.
+29 8. “Early childhood and family services system fund” or “ECFS
+30 system fund” means the fund created in section 234A.6.
+31 9. “Early intervention strategies” means services and
+32 supports designed to proactively identify and address risk
+33 factors and includes services that aim to strengthen families,
+34 promote healthy development, and reduce the likelihood of abuse
+35 or neglect by providing timely, targeted assistance to children
+LSB 5557XD (13) 91
+-1- dg/ko 1/26
+
+S.F. _____ H.F. _____
+1 and caregivers through the ECFS system.
+2 10. “Evidence-based” means practices, programs, and policies
+3 grounded in the best available research and data, and that have
+4 been scientifically tested and shown to be effective through
+5 rigorous evaluation.
+6 11. “Health and human services district” means the same as
+7 defined in section 217.1.
+8 12. “HOPES-HFI program” means the healthy opportunities for
+9 parents to experience success – healthy families Iowa program
+10 established in section 234A.5.
+11 13. “Ongoing family and community resources” means a
+12 continuum of sustained, accessible, and family-centered
+13 resources provided through the ECFS system that help families
+14 meet their needs, strengthen protective factors, and prevent
+15 child abuse and neglect.
+16 14. “Primary prevention strategies” means a comprehensive
+17 set of services and supports provided through the ECFS system
+18 that are designed to strengthen families, promote healthy child
+19 development, and prevent adverse outcomes before they occur.
+20 These activities focus on addressing the underlying social,
+21 economic, and environmental conditions that place children and
+22 families at risk, such as poverty, social isolation, and lack
+23 of access to quality early care and education.
+24 15. “Protective factor” means an inherent strength,
+25 resource, or capacity of a family, or a resource that helps a
+26 family thrive, buffer against stress, and reduce the likelihood
+27 of child abuse, neglect, or other poor outcome.
+28 16. “Strength-based” means an approach that focuses
+29 on identifying and building upon the inherent strengths,
+30 resources, and capacities of a family to support the family’s
+31 growth, resilience, and well-being.
+32 Sec. 2. NEW SECTION. 234A.2 Early childhood and family
+33 services system —— department powers and duties.
+34 1. a. An early childhood and family services system
+35 is established under the control of the department for
+LSB 5557XD (13) 91
+-2- dg/ko 2/26
+
+S.F. _____ H.F. _____
+1 the purposes of implementing a statewide array of primary
+2 prevention strategies, early intervention strategies, and
+3 ongoing family and community resources for families and their
+4 children under nineteen years of age, with an emphasis on
+5 children under six years of age.
+6 b. An ECFS district is established in each health and human
+7 services district. The boundaries for each ECFS district shall
+8 be the same as the health and human services district in which
+9 the ECFS district was established.
+10 2. The ECFS system shall be administered in a manner to
+11 maximize funding opportunities, interagency collaboration,
+12 public-private partnerships, and the integration of early care,
+13 education, and health and human services systems.
+14 3. The ECFS system shall support equitable statewide access
+15 to all services, supports, and other resources offered through
+16 the ECFS system that, at a minimum, shall include all of the
+17 following:
+18 a. Evidence-based primary prevention strategies, including
+19 parent skill building and education programs designed to assist
+20 families in establishing healthy, successful futures.
+21 b. Tailored early intervention strategies for children and
+22 families to ensure long-term well-being, including economic
+23 self-sufficiency.
+24 c. Ongoing family and community resources for children and
+25 families to address the root causes of child abuse and neglect
+26 and strengthen protective factors.
+27 d. Early childhood services such as programs for children
+28 under six years of age, evidence-based family support and home
+29 visiting services, and community resources.
+30 4. To the extent funding is available, the department
+31 shall do all of the following to develop and administer the
+32 ECFS system and carry out the department’s duties under this
+33 chapter:
+34 a. Plan, establish, and maintain primary prevention
+35 strategies, early intervention strategies, and ongoing family
+LSB 5557XD (13) 91
+-3- dg/ko 3/26
+
+S.F. _____ H.F. _____
+1 and community resources.
+2 b. (1) Develop an early childhood and family services state
+3 plan that is consistent with the department’s agency strategic
+4 plan adopted pursuant to section 8E.204, and the state health
+5 improvement plan developed under section 217.17.
+6 (2) When developing the ECFS state plan, the department
+7 shall do all of the following:
+8 (a) Collaborate with stakeholders including but not
+9 limited to experienced public health and medical providers,
+10 law enforcement, educators, and organizations that represent
+11 populations including but not limited to children to be served
+12 by the ECFS system.
+13 (b) Publish the proposed ECFS state plan on the department’s
+14 internet site and allow the public to review and comment on the
+15 proposed ECFS state plan prior to adoption.
+16 c. Administer the ECFS system in each ECFS district based on
+17 early childhood and family services district plans.
+18 d. Establish ECFS district advisory councils pursuant to
+19 section 234A.3.
+20 e. Coordinate administration of each ECFS district plan with
+21 federal and state resources.
+22 f. Enter into contracts as necessary to perform activities,
+23 and provide services, supports, and other resources in
+24 accordance with each ECFS district plan.
+25 g. Administer and distribute federal aid received, and state
+26 appropriations, grants, and other moneys deposited into the
+27 early childhood and family services system fund.
+28 h. Oversee, provide technical assistance to, and monitor
+29 department contractors to ensure compliance with ECFS district
+30 plans.
+31 i. Establish and maintain data collection and management
+32 information systems to identify, collect, and analyze service
+33 outcomes and performance data to address the needs of clients,
+34 providers, the department, and ECFS system programs.
+35 j. Collect, maintain, monitor, analyze, and utilize
+LSB 5557XD (13) 91
+-4- dg/ko 4/26
+
+S.F. _____ H.F. _____
+1 information including but not limited to ECFS client records
+2 and programmatic, state, and national data, engage in studies
+3 and analyses, and gather relevant statistics to understand
+4 emerging needs and effectively deploy information, resources,
+5 and technical assistance in response.
+6 k. Adopt rules pursuant to chapter 17A to administer this
+7 chapter.
+8 l. Take any other necessary actions to execute the
+9 department’s duties under this chapter or maintain compliance
+10 with federal requirements.
+11 5. The department may do all of the following to develop and
+12 administer the ECFS system:
+13 a. Cooperate with any state agency, political subdivision,
+14 or federal governmental agency to apply for grants.
+15 b. Solicit and accept for use any gift of money, by will or
+16 otherwise, and any grant of money or services from the federal
+17 government, the state, a political subdivision of the state or
+18 federal government, or a private source.
+19 Sec. 3. NEW SECTION. 234A.3 Early childhood and family
+20 services district advisory councils.
+21 1. The department shall establish an early childhood
+22 and family services district advisory council in each ECFS
+23 district. The department shall develop policies and procedures
+24 for the operational functions of each ECFS district advisory
+25 council.
+26 2. An ECFS district advisory council shall consist of ten
+27 members appointed by the department. Individuals eligible
+28 for appointment include but are not limited to all of the
+29 following:
+30 a. Elected public officials who currently hold office within
+31 the ECFS district.
+32 b. Individuals who have experience or expertise related
+33 to health, education, domestic assault response, or abuse
+34 response.
+35 c. Individuals who are representative of the populations
+LSB 5557XD (13) 91
+-5- dg/ko 5/26
+
+S.F. _____ H.F. _____
+1 served in the ECFS district advisory council’s ECFS district.
+2 d. Individuals who represent the faith community or
+3 community partners in the ECFS district advisory council’s ECFS
+4 district.
+5 3. An ECFS district advisory council shall do all of the
+6 following:
+7 a. Identify opportunities and address challenges based
+8 on updates received from the department relating to the
+9 implementation of the ECFS district plan for the ECFS district
+10 advisory council’s ECFS district.
+11 b. Provide feedback to the department while the department
+12 is developing ECFS system policies.
+13 c. Advise the department on how to best provide families
+14 access to primary prevention strategies, early intervention
+15 strategies, and ongoing family and community resources
+16 throughout the ECFS district advisory council’s ECFS district.
+17 4. An ECFS district advisory council shall perform the
+18 duties required under this section regardless of whether any
+19 seat on the ECFS district advisory council is vacant.
+20 Sec. 4. NEW SECTION. 234A.4 Data collection and use.
+21 1. The department shall perform all of the following actions
+22 related to ECFS system data:
+23 a. (1) Collect, maintain, monitor, analyze, and utilize
+24 data, including but not limited to child welfare data, Medicaid
+25 data, ECFS system data, and other data depicting the status of
+26 children and families in the state, as necessary to issue cost
+27 estimates for serving populations, make and receive payments,
+28 conduct operations, and perform ECFS system activities.
+29 (2) When performing duties under this paragraph, the
+30 department shall maintain compliance with applicable federal
+31 and state privacy laws to ensure the confidentiality and
+32 integrity of individually identifiable data.
+33 (3) The department shall periodically assess the status of
+34 the department’s compliance with subparagraph (2) to ensure
+35 that data collected and maintained by the department under this
+LSB 5557XD (13) 91
+-6- dg/ko 6/26
+
+S.F. _____ H.F. _____
+1 paragraph is protected.
+2 b. To the extent possible, establish a record for each
+3 individual receiving publicly funded ECFS system services.
+4 Each record established under this paragraph shall include a
+5 unique client identifier for the purposes of identifying and
+6 tracking the individual’s record.
+7 c. Consult with department contractors and other ECFS system
+8 stakeholders on an ongoing basis relating to the administration
+9 of the ECFS system, including but not limited to reviewing
+10 trends and outcomes as indicators for improving or modifying
+11 administration of the ECFS system.
+12 d. Engage with entities that maintain information the
+13 department is required to collect pursuant to this section to
+14 integrate data relating to individuals receiving ECFS system
+15 services.
+16 e. Engage with entities that maintain general population
+17 data relating to the ECFS system to develop action plans,
+18 create projections relating to a population’s ECFS system
+19 needs, develop ECFS system policies, and otherwise perform
+20 activities as necessary to support families in achieving a
+21 healthy, successful future.
+22 2. The department shall ensure that public and private
+23 agencies, organizations, and individuals that operate within
+24 the ECFS system use uniform methods to maintain statistical
+25 information relating to ECFS system outcomes and performance.
+26 Sec. 5. NEW SECTION. 234A.5 Healthy families programs ——
+27 HOPES-HFI program.
+28 1. The department shall establish the HOPES-HFI program
+29 to provide services to families and children during a child’s
+30 prenatal through preschool years. The HOPES-HFI program shall
+31 do all of the following:
+32 a. Promote optimal child health and development.
+33 b. Improve family coping skills and functioning.
+34 c. Promote positive parenting skills and intrafamilial
+35 interaction.
+LSB 5557XD (13) 91
+-7- dg/ko 7/26
+
+S.F. _____ H.F. _____
+1 d. Prevent child abuse, child neglect, infant mortality, and
+2 infant morbidity.
+3 2. The department shall administer the HOPES-HFI program,
+4 in whole or in part, by contracting with local organizations
+5 using evidence-based home visiting models.
+6 Sec. 6. NEW SECTION. 234A.6 Early childhood and family
+7 services system fund.
+8 1. An early childhood and family services system fund
+9 is created in the state treasury under the control of the
+10 department and consisting of any moneys appropriated to the
+11 department for the ECFS system fund’s purposes by the general
+12 assembly and any other moneys available and obtained or
+13 accepted by the department for deposit in the ECFS system fund.
+14 The ECFS system fund shall be used to implement and administer
+15 the ECFS system.
+16 2. Moneys in the ECFS system fund are appropriated to the
+17 department for the purposes of implementing and administering
+18 the ECFS system.
+19 3. Notwithstanding section 8.33, moneys appropriated in
+20 this section that remain unencumbered or unobligated at the
+21 close of a fiscal year shall not revert but shall remain
+22 available for expenditure for the purposes designated.
+23 4. Notwithstanding section 12C.7, subsection 2, interest or
+24 earnings on moneys in the ECFS system fund shall be credited
+25 to the ECFS system fund.
+26 Sec. 7. REPEAL. Section 135.106, Code 2026, is repealed.
+27 Sec. 8. REPEAL. Chapter 256I, Code 2026, is repealed.
+28 Sec. 9. EFFECTIVE DATE. The following take effect July 1,
+29 2027:
+30 1. The sections of this division of this Act enacting
+31 sections 234A.1 through 234A.5.
+32 2. The sections of this division of this Act repealing
+33 section 135.106 and chapter 256I.
+34 Sec. 10. EFFECTIVE DATE. The section of this division of
+35 this Act enacting section 234A.6, being deemed of immediate
+LSB 5557XD (13) 91
+-8- dg/ko 8/26
+
+S.F. _____ H.F. _____
+1 importance, takes effect upon enactment.
+2 DIVISION II
+3 DECATEGORIZATION INITIATIVE
+4 Sec. 11. Section 235.7, subsection 2, Code 2026, is amended
+5 to read as follows:
+6 2. Membership. The department may authorize the governance
+7 boards of decategorization of child welfare and juvenile
+8 justice funding projects established under section 232.188 to
+9 appoint the transition committee membership and may utilize
+10 the boundaries of decategorization projects to establish
+11 the service areas for transition committees. The committee
+12 A committee’s membership may include but is not limited to
+13 department staff involved with foster care, child welfare,
+14 and adult services, juvenile court services staff, staff
+15 involved with county general assistance or emergency relief
+16 under chapter 251 or 252, school district and area education
+17 agency staff involved with special education, and a child’s
+18 court appointed special advocate, guardian ad litem, service
+19 providers, and other persons knowledgeable about the child.
+20 Sec. 12. Section 237A.1, subsection 2, paragraph j,
+21 subparagraph (2), Code 2026, is amended by striking the
+22 subparagraph.
+23 Sec. 13. Section 249A.26, subsection 5, Code 2026, is
+24 amended by striking the subsection.
+25 Sec. 14. Section 256I.4, subsection 6, Code 2026, is amended
+26 by striking the subsection.
+27 Sec. 15. REPEAL. Section 232.188, Code 2026, is repealed.
+28 DIVISION III
+29 CHILD ABUSE PREVENTION PROGRAM
+30 Sec. 16. Section 144.13A, subsection 5, paragraph a, Code
+31 2026, is amended to read as follows:
+32 a. Ten dollars of each registration fee is appropriated and
+33 shall be used for primary and secondary child abuse prevention
+34 programs pursuant to section 235A.1, and ten dollars of each
+35 registration fee is appropriated and shall be used for the
+LSB 5557XD (13) 91
+-9- dg/ko 9/26
+
+S.F. _____ H.F. _____
+1 congenital and inherited disorders central registry established
+2 pursuant to section 136A.6. Notwithstanding section 8.33,
+3 moneys appropriated in this paragraph that remain unencumbered
+4 or unobligated at the close of the fiscal year shall not revert
+5 but shall remain available for expenditure for the purposes
+6 designated until the close of the succeeding fiscal year, and
+7 shall not be transferred, used, obligated, appropriated, or
+8 otherwise encumbered except as provided in this paragraph.
+9 Sec. 17. Section 422.12K, Code 2026, is amended to read as
+10 follows:
+11 422.12K Income tax checkoff for child abuse prevention
+12 program fund.
+13 1. A person who files an individual or a joint income tax
+14 return with the department of revenue under section 422.13 may
+15 designate one dollar or more to be paid to the child abuse
+16 prevention program early childhood and family services system
+17 fund created in section 235A.2 234A.6, to be used for the
+18 purpose of child abuse prevention. If the refund due on the
+19 return or the payment remitted with the return is insufficient
+20 to pay the additional amount designated by the taxpayer to
+21 the child abuse prevention program early childhood and family
+22 services system fund, the amount designated shall be reduced to
+23 the remaining amount remitted with the return. The designation
+24 of a contribution to the child abuse prevention program early
+25 childhood and family services system fund under this section
+26 is irrevocable.
+27 2. The director of revenue shall draft the income tax form
+28 to allow the designation of contributions to the child abuse
+29 prevention program early childhood and family services system
+30 fund on the tax return. The department of revenue, on or
+31 before January 31, shall transfer the total amount designated
+32 on the tax return forms due in the preceding calendar year to
+33 the child abuse prevention program early childhood and family
+34 services system fund. However, before a checkoff pursuant
+35 to this section shall be permitted, all liabilities on the
+LSB 5557XD (13) 91
+-10- dg/ko 10/26
+
+S.F. _____ H.F. _____
+1 books of the department and accounts identified as owing under
+2 section 421.65 shall be satisfied.
+3 3. The department of health and human services may authorize
+4 payment of moneys from the child abuse prevention program early
+5 childhood and family services system fund for the purpose
+6 of child abuse prevention in accordance with section 235A.2
+7 234A.6.
+8 4. The department of revenue shall adopt rules to administer
+9 this section.
+10 5. This section is subject to repeal under section 422.12E.
+11 Sec. 18. REPEAL. Sections 235A.1, 235A.2, and 235A.3, Code
+12 2026, are repealed.
+13 Sec. 19. CHILD ABUSE PREVENTION PROGRAM FUND —— TRANSFER
+14 OF MONEYS. Any unencumbered or unobligated moneys remaining
+15 in the child abuse prevention program fund created in section
+16 235A.2, on June 30, 2026, shall be transferred to the early
+17 childhood and family services system fund created in section
+18 234A.6, as enacted in this Act.
+19 Sec. 20. EFFECTIVE DATE. This division of this Act, being
+20 deemed of immediate importance, takes effect upon enactment.
+21 DIVISION IV
+22 TRANSITION PROVISIONS
+23 Sec. 21. EARLY CHILDHOOD AND FAMILY SERVICES SYSTEM.
+24 1. For purposes of this division:
+25 a. The following mean the same as defined in section 234A.1
+26 as enacted in division I of this Act:
+27 (1) “Department”.
+28 (2) “Early intervention strategies”.
+29 (3) “ECFS district plan”.
+30 (4) “ECFS state plan”.
+31 (5) “ECFS system”.
+32 (6) “ECFS system fund”.
+33 (7) “Ongoing family and community resources”.
+34 (8) “Primary prevention strategies”.
+35 b. “Early childhood Iowa area” and “early childhood Iowa
+LSB 5557XD (13) 91
+-11- dg/ko 11/26
+
+S.F. _____ H.F. _____
+1 area board” mean the same as defined in section 256I.1.
+2 c. “Early childhood Iowa initiative” means the early
+3 childhood Iowa initiative described in section 256I.2.
+4 d. “Transition period” means the period beginning on the
+5 date of enactment of this division of this Act and concluding
+6 on June 30, 2027.
+7 2. There is created an early childhood and family services
+8 system under the control of the department. Beginning July
+9 1, 2027, the department shall be responsible for implementing
+10 and maintaining a statewide system of primary prevention
+11 strategies, early intervention strategies, and ongoing family
+12 and community resources through the ECFS system.
+13 3. During the transition period, the department may
+14 exercise all policymaking functions and regulatory powers as
+15 necessary to establish the ECFS system as if the sections of
+16 division I of this Act enacting sections 234A.1 through 234A.5
+17 were enacted.
+18 4. The department shall perform all the following duties by
+19 the conclusion of the transition period:
+20 a. Adopt rules pursuant to chapter 17A as necessary to
+21 establish, implement, and administer the ECFS system.
+22 b. Establish policies as necessary to efficiently
+23 establish, implement, and administer the ECFS system.
+24 c. Prepare forms necessary to establish, implement, and
+25 administer the ECFS system.
+26 d. Prepare an ECFS state plan.
+27 e. Develop ECFS district plans.
+28 f. Develop plans for the transition of the early childhood
+29 Iowa initiative and other early childhood and family services
+30 to the ECFS system.
+31 g. Execute contracts as necessary to establish, implement,
+32 and administer the ECFS system.
+33 h. Develop and implement a plan to ensure that individuals
+34 currently receiving primary prevention strategies, early
+35 intervention strategies, services, and supports or ongoing
+LSB 5557XD (13) 91
+-12- dg/ko 12/26
+
+S.F. _____ H.F. _____
+1 family and community resources under the purview of the
+2 department, or services provided through the early childhood
+3 Iowa initiative, have uninterrupted continuity of care.
+4 i. Submit a report to the general assembly no later
+5 than January 15, 2027, that details the administrative and
+6 operational costs to establish, implement, and administer the
+7 ECFS system.
+8 j. Establish contractual rights, privileges, and
+9 responsibilities as necessary to establish, implement, and
+10 administer the ECFS system.
+11 5. If the department determines that a federal waiver
+12 or authorization is necessary to administer any provision of
+13 this division of this Act, or to effectuate the ECFS system
+14 by the conclusion of the transition period, the department
+15 shall timely request the federal waiver or authorization.
+16 Notwithstanding any other effective date to the contrary, a
+17 provision of this division of this Act that the department
+18 determines requires a federal waiver or authorization shall be
+19 effective only upon receipt of federal approval for the waiver
+20 or authorization.
+21 6. Each early childhood Iowa area board that maintains
+22 a financial account shall transfer all unencumbered and
+23 unobligated moneys remaining in the account on June 30, 2027,
+24 to the treasurer of state for deposit in the ECFS system fund.
+25 7. a. All debts, claims, or other liabilities owed to
+26 an early childhood Iowa area, an early childhood Iowa area
+27 board, or to the state due to services rendered pursuant to
+28 chapter 256I, Code 2026, at the conclusion of the transition
+29 period shall remain due and owing after the transition period
+30 concludes.
+31 b. After the transition period concludes, all fiscal agents
+32 contracted with an early childhood Iowa area board shall assist
+33 the department with collection of outstanding debts, claims,
+34 or other liabilities owed to an early childhood Iowa area or
+35 an early childhood Iowa area board for activities and services
+LSB 5557XD (13) 91
+-13- dg/ko 13/26
+
+S.F. _____ H.F. _____
+1 allowed pursuant to chapter 256I provided or rendered before
+2 the transition period concluded. Reimbursement for allowable
+3 activities and services shall only be paid if accompanied by
+4 sufficient supporting documentation.
+5 8. With input from appropriate stakeholders, the department
+6 shall identify each contract that will be impacted by divisions
+7 I through V of this Act. On or before June 30, 2027, each
+8 party to a contract identified by the department under this
+9 subsection shall exercise the option, if permitted under the
+10 terms of the contract, to terminate the contract. Contracts
+11 identified under this subsection that do not provide for
+12 termination shall not be renewed or extended at the end of the
+13 current contract term.
+14 9. Unless otherwise provided in this division of this Act,
+15 an early childhood Iowa area, an early childhood Iowa area
+16 board, an early childhood Iowa area director, or any agent
+17 of an early childhood Iowa area or early childhood Iowa area
+18 board, and any subdivision of the state, shall not enter into,
+19 renew, or extend a contract related to the early childhood Iowa
+20 initiative or related activities if the term of the contract
+21 would extend past, or the deliverables under the contract would
+22 be provided after, June 30, 2027.
+23 10. Notwithstanding section 8.33 or any other provision to
+24 the contrary, on June 30, 2027, any unobligated or unencumbered
+25 moneys in the early childhood Iowa fund and any account within
+26 the fund created pursuant to section 256I.11, shall not revert
+27 but shall be transferred and deposited into the ECFS system
+28 fund.
+29 11. The department may assume the duties of the early
+30 childhood Iowa state board or an early childhood Iowa area
+31 board during the transition period as necessary to ensure
+32 compliance with chapter 256I, and to provide for uninterrupted
+33 continuity of services in early childhood Iowa areas.
+34 Sec. 22. EMERGENCY RULES. The department of health and
+35 human services may adopt emergency rules under section 17A.4,
+LSB 5557XD (13) 91
+-14- dg/ko 14/26
+
+S.F. _____ H.F. _____
+1 subsection 3, and section 17A.5, subsection 2, paragraph “b”,
+2 to implement the provisions of this division of this Act and
+3 the rules shall be effective immediately upon filing unless
+4 a later date is specified in the rules. Any rules adopted
+5 in accordance with this section shall also be published as a
+6 notice of intended action as provided in section 17A.4.
+7 Sec. 23. EFFECTIVE DATE. This division of this Act, being
+8 deemed of immediate importance, takes effect upon enactment.
+9 DIVISION V
+10 HEALTH AND HUMAN SERVICES DISTRICTS
+11 Sec. 24. Section 217.1, Code 2026, is amended by adding the
+12 following new subsection:
+13 NEW SUBSECTION. 4. “Health and human services district” or
+14 “HHS district” means a geographic, multicounty area designated
+15 by the department under section 217.1B for statewide program
+16 and service delivery.
+17 Sec. 25. NEW SECTION. 217.1B Health and human services
+18 districts.
+19 1. The department shall divide the entirety of the state
+20 into designated health and human services districts. The
+21 initial HHS districts shall be the same as the behavioral
+22 health districts designated pursuant to section 225A.4, Code
+23 2026, and that exist on the effective date of this division
+24 of this Act. The department shall review the designated HHS
+25 districts at least once every seven consecutive fiscal years.
+26 2. a. The department may modify a designated HHS district.
+27 When modifying a designated HHS district, the department shall
+28 consider all of the following:
+29 (1) City and county boundaries.
+30 (2) The population size that can be effectively served in a
+31 specific area.
+32 (3) Areas of high need for services.
+33 (4) Patterns various populations exhibit when accessing or
+34 receiving services.
+35 b. Notwithstanding chapter 17A, the manner in which
+LSB 5557XD (13) 91
+-15- dg/ko 15/26
+
+S.F. _____ H.F. _____
+1 the modification of an HHS district is made, including the
+2 determination of boundaries for a modified HHS district, shall
+3 not be subject to judicial review.
+4 3. The department shall adopt rules pursuant to chapter 17A
+5 to administer this section.
+6 Sec. 26. CONTINGENT EFFECTIVE DATE. This division of this
+7 Act takes effect July 1, 2026, unless the sections of 2026 Iowa
+8 Acts, LSB 5558 XD, or successor legislation, amending section
+9 217.1 and enacting section 217.1B are enacted on or before July
+10 1, 2026.
+11 DIVISION VI
+12 CONFORMING CHANGES
+13 Sec. 27. Section 232.69, subsection 1, paragraph b,
+14 subparagraph (5), Code 2026, is amended to read as follows:
+15 (5) An employee or operator of a licensed child care center,
+16 registered child development home, head start program, family
+17 development and self-sufficiency grant program under section
+18 216A.107, or healthy opportunities for parents to experience
+19 success – healthy families Iowa program under section 135.106
+20 234A.5.
+21 Sec. 28. Section 232.188, subsection 4, paragraph c, Code
+22 2026, is amended to read as follows:
+23 c. A decategorization governance board shall coordinate
+24 the project’s planning and budgeting activities with the
+25 department’s designee for the county or counties comprising the
+26 project area and the early childhood Iowa area board or boards
+27 for the early childhood Iowa area or areas within which the
+28 decategorization project is located.
+29 Sec. 29. Section 237A.26, subsection 8, Code 2026, is
+30 amended to read as follows:
+31 8. For purposes of improving the quality and consistency
+32 of data collection, consultation, and other support to child
+33 care home and child development home providers, a resource and
+34 referral services agency grantee shall coordinate and assist
+35 with publicly and privately funded efforts administered at
+LSB 5557XD (13) 91
+-16- dg/ko 16/26
+
+S.F. _____ H.F. _____
+1 the community level to provide the support. The support and
+2 efforts addressed by a grantee may include but are not limited
+3 to community-funded child care home and child development home
+4 consultants. Community members involved with the assistance
+5 may include but are not limited to the efforts of an early
+6 childhood Iowa area board under chapter 256I, and of community
+7 representatives of education, health, human services, business,
+8 faith, and public interests.
+9 Sec. 30. Section 237A.30, subsection 1, Code 2026, is
+10 amended to read as follows:
+11 1. The department shall work with the early childhood
+12 Iowa program established in section 256I.5 in designing and
+13 implementing implement a voluntary quality rating system for
+14 each provider type of child care facility.
+15 Sec. 31. Section 256.163, subsection 1, paragraph e, Code
+16 2026, is amended by striking the paragraph.
+17 Sec. 32. Section 256A.3, Code 2026, is amended by adding the
+18 following new subsection:
+19 NEW SUBSECTION. 9. Serve as the state advisory council
+20 required under the federal Improving Head Start for School
+21 Readiness Act of 2007, Pub. L. No. 110-134. For purposes of
+22 the federal Improving Head Start for School Readiness Act of
+23 2007, enactment of this subsection shall be considered the
+24 governor’s designation of the child development coordinating
+25 council as the state advisory council.
+26 Sec. 33. Section 256C.3, subsection 4, paragraph a, Code
+27 2026, is amended to read as follows:
+28 a. Methods of demonstrating community readiness to
+29 implement high-quality instruction in a local program
+30 shall be identified. The potential provider shall submit
+31 a collaborative program proposal that demonstrates the
+32 involvement of multiple community stakeholders including
+33 but not limited to, and only as applicable, parents, the
+34 school district, accredited nonpublic schools and faith-based
+35 representatives, the area education agency, the early childhood
+LSB 5557XD (13) 91
+-17- dg/ko 17/26
+
+S.F. _____ H.F. _____
+1 Iowa area board, representatives of business, head start
+2 programs, shared visions and other programs provided under
+3 the auspices of the child development coordinating council,
+4 center-based and home-based providers of child care services,
+5 human services, public health, and economic development
+6 programs. The methods may include but are not limited to a
+7 school district providing evidence of a public hearing on the
+8 proposed programming and written documentation of collaboration
+9 agreements between the school district, existing community
+10 providers, and other community stakeholders addressing
+11 operational procedures and other critical measures.
+12 Sec. 34. Section 256C.4, subsection 2, paragraph b, Code
+13 2026, is amended to read as follows:
+14 b. The enrollment count of eligible students shall not
+15 include a child who is included in the enrollment count
+16 determined under section 257.6 or a child who is served by
+17 a program already receiving state or federal funds for the
+18 purpose of the provision of four-year-old preschool programming
+19 while the child is being served by the program. Such preschool
+20 programming includes but is not limited to child development
+21 assistance programs provided under chapter 256A, special
+22 education programs provided under section 256B.9, school ready
+23 children grant programs and other programs provided under
+24 chapter 256I, and federal head start programs and the services
+25 funded by Tit. I of the federal Elementary and Secondary
+26 Education Act of 1965.
+27 Sec. 35. Section 915.35, subsection 4, paragraph b, Code
+28 2026, is amended to read as follows:
+29 b. A child protection assistance team may also consult
+30 with or include juvenile court officers, medical and mental
+31 health professionals, physicians or other hospital-based
+32 health professionals, court appointed special advocates,
+33 guardians ad litem, and members of a multidisciplinary team
+34 created by the department of health and human services for
+35 child abuse assessments. A child protection assistance team
+LSB 5557XD (13) 91
+-18- dg/ko 18/26
+
+S.F. _____ H.F. _____
+1 may work cooperatively with the early childhood Iowa area
+2 board established under chapter 256I an ECFS district advisory
+3 council established under section 234A.3. The child protection
+4 assistance team shall work with the department of health and
+5 human services in accordance with section 232.71B, subsection
+6 3, in developing the protocols for prioritizing the actions
+7 taken in response to child abuse assessments and for law
+8 enforcement agencies working jointly with the department at
+9 the local level in processes for child abuse assessments. The
+10 department of justice may provide training and other assistance
+11 to support the activities of a child protection assistance
+12 team.
+13 Sec. 36. EFFECTIVE DATE. This division of this Act takes
+14 effect July 1, 2027.
+15 DIVISION VII
+16 CHILD CARE WORKFORCE —— STATE CHILD CARE ASSISTANCE ELIGIBILITY
+17 Sec. 37. NEW SECTION. 237A.15 State child care assistance
+18 —— child care workforce eligibility.
+19 1. Notwithstanding any provision of section 237A.13 or
+20 237A.14 to the contrary, a child shall be eligible for the
+21 state child care assistance program established in section
+22 237A.13 and the state child care assistance graduated
+23 eligibility phase-out program established in section 237A.14 if
+24 a parent, guardian, or custodian of the child meets all of the
+25 following requirements, as applicable:
+26 a. The parent, guardian, or custodian is employed in this
+27 state at a child care facility or child care home that has an
+28 agreement with the department to accept reimbursements from the
+29 state child care assistance program.
+30 b. The parent, guardian, or custodian works an average
+31 minimum of thirty-two hours per week. A portion of the hours
+32 worked, as specified by the department, must be in a position
+33 with a primary duty of providing child care directly to
+34 children, and the parent’s, guardian’s, or custodian’s position
+35 must be regularly counted in the minimum child-to-staff ratio
+LSB 5557XD (13) 91
+-19- dg/ko 19/26
+
+S.F. _____ H.F. _____
+1 established by the department.
+2 c. (1) If the parent, guardian, or custodian is employed
+3 at a child care home or a child development home, the parent,
+4 guardian, or custodian does not provide child care to the
+5 parent’s, guardian’s, or custodian’s own child.
+6 (2) Notwithstanding subparagraph (1), a co-provider at
+7 a child development home may qualify for state child care
+8 assistance if the co-provider meets all requirements specified
+9 in this section and by the department by rule.
+10 d. The parent, guardian, or custodian is not a substitute or
+11 an assistant at a child care home or a child development home.
+12 e. Based on the department’s evaluation of the parent’s,
+13 guardian’s, or custodian’s application for state child care
+14 assistance, the department has determined the parent, guardian,
+15 or custodian has a need for child care.
+16 f. The parent, guardian, or custodian is not the owner of
+17 the child care facility or child care home where any of the
+18 parent’s, guardian’s, or custodian’s children are enrolled.
+19 2. A child of a director, co-director, or other
+20 administrative staff member of a child care facility may
+21 qualify for state child care assistance under subsection 1
+22 if the director, co-director, or other administrative staff
+23 member is regularly counted in the minimum child-to-staff ratio
+24 established by the department by rule.
+25 3. A parent, guardian, or custodian of a child participating
+26 in the state child care assistance program based on eligibility
+27 established under this section shall make copayments as
+28 specified by the department by rule.
+29 4. The department shall adopt rules pursuant to chapter 17A
+30 to administer this section.
+31 Sec. 38. EMERGENCY RULES. The department of health and
+32 human services may adopt emergency rules under section 17A.4,
+33 subsection 3, and section 17A.5, subsection 2, paragraph “b”,
+34 to implement the provisions of this division of this Act and
+35 the rules shall be effective immediately upon filing unless
+LSB 5557XD (13) 91
+-20- dg/ko 20/26
+
+S.F. _____ H.F. _____
+1 a later date is specified in the rules. Any rules adopted
+2 in accordance with this section shall also be published as a
+3 notice of intended action as provided in section 17A.4.
+4 Sec. 39. EFFECTIVE DATE. This division of this Act, being
+5 deemed of immediate importance, takes effect upon enactment.
+6 DIVISION VIII
+7 CODE EDITOR DIRECTIVES
+8 Sec. 40. CODE EDITOR DIRECTIVES. The Code editor is
+9 directed to do all of the following:
+10 1. Make changes in any Code sections amended or enacted
+11 by any other Act to correspond with the changes made in this
+12 Act if there appears to be no doubt as to the proper method of
+13 making the changes and the changes would not be contrary to or
+14 inconsistent with the purposes of this Act or any other Act.
+15 2. Correct internal references in the Code and in enacted
+16 legislation as necessary due to the enactment of this Act.
+17 EXPLANATION
+18 The inclusion of this explanation does not constitute agreement with
+19 the explanation’s substance by the members of the general assembly.
+20 This bill relates to early childhood and family services,
+21 including creation of an early childhood and family services
+22 (ECFS) system and child care workforce eligibility for state
+23 child care assistance (CCA).
+24 DIVISION I —— EARLY CHILDHOOD AND FAMILY SERVICES SYSTEM.
+25 The bill creates new Code chapter 234A (early childhood and
+26 family services system). The purpose of the ECFS system is
+27 to provide accessible, ongoing, and community-based services
+28 for children and families. The bill defines terms used in the
+29 chapter.
+30 The ECFS system is established under the control of
+31 the department of health and human services (HHS) and
+32 ECFS districts (districts) are established for statewide
+33 implementation of primary prevention strategies and early
+34 intervention strategies for families and their children under
+35 19 years of age, with an emphasis on children under 6 years of
+LSB 5557XD (13) 91
+-21- dg/ko 21/26
+
+S.F. _____ H.F. _____
+1 age. The ECFS system must be administered in a manner that
+2 maximizes funding opportunities, interagency collaboration,
+3 public-private partnerships, and the integration of the early
+4 care, education, and health and human services systems.
+5 The bill details actions HHS must perform, to the extent
+6 funding is available, to develop and administer the ECFS
+7 system.
+8 The bill directs HHS to establish an ECFS district advisory
+9 council (council) in each district, and develop policies and
+10 procedures for the operational functions of the councils. A
+11 council shall consist of 10 members appointed by HHS. The bill
+12 specifies individuals who are eligible for appointment, and the
+13 duties of a council.
+14 The bill specifies the duties of HHS related to data
+15 collection and use for the ECFS system. The bill requires
+16 HHS to maintain compliance with applicable federal and state
+17 privacy laws to ensure the confidentiality and integrity of
+18 individually identifiable data related to the ECFS system
+19 collected by HHS.
+20 Current Code section 135.106 (healthy opportunities
+21 for parents to experience success – healthy families Iowa
+22 (HOPES-HFI)) is placed in the new Code chapter and becomes part
+23 of the ECFS system. The bill specifies the requirements for
+24 the HOPES-HFI program and directs HHS to develop and administer
+25 the HOPES-HFI program, in whole or in part, by contracting
+26 with local organizations that use evidence-based home visiting
+27 models.
+28 The bill establishes an ECFS system fund (ECFS fund)
+29 consisting of moneys appropriated to HHS for the ECFS fund’s
+30 purposes by the general assembly and any other moneys available
+31 and obtained or accepted by HHS for deposit in the ECFS
+32 fund. Moneys in the ECFS fund are appropriated to HHS for the
+33 purposes of implementing and administering the ECFS system.
+34 Moneys appropriated that remain unencumbered or unobligated at
+35 the close of a fiscal year shall not revert to the general fund
+LSB 5557XD (13) 91
+-22- dg/ko 22/26
+
+S.F. _____ H.F. _____
+1 of the state, and interest or earnings on moneys in the fund
+2 shall be credited to the ECFS fund.
+3 The bill repeals Code chapter 256I (early childhood Iowa
+4 initiative).
+5 The section of the division that establishes the ECFS
+6 fund takes effect upon enactment. All other sections in the
+7 division take effect July 1, 2027.
+8 DIVISION II —— DECATEGORIZATION INITIATIVE. The bill
+9 eliminates the decategorization initiative.
+10 DIVISION III —— CHILD ABUSE PREVENTION PROGRAM. The
+11 bill eliminates the child abuse prevention program, fund,
+12 and advisory committee. A taxpayer may still receive a
+13 nonrefundable reduction in the taxpayer’s income taxes for
+14 contributing one or more dollars to child abuse prevention,
+15 but the moneys received will be administered through the ECFS
+16 system instead of the child abuse prevention program fund.
+17 Funding for child abuse prevention and moneys in the current
+18 child abuse prevention fund are directed to the ECFS fund to be
+19 used by HHS for child abuse prevention.
+20 This division of the bill takes effect upon enactment.
+21 DIVISION IV —— TRANSITION PROVISIONS. The bill defines
+22 terms used in the division, including “transition period”,
+23 which means the period beginning on the date of enactment of
+24 the division and concluding on June 30, 2027.
+25 The bill allows HHS to exercise all policymaking functions
+26 and regulatory powers as necessary to establish the ECFS system
+27 during the transition period.
+28 The bill requires HHS to execute contracts as necessary to
+29 establish, implement, and administer the ECFS system; adopt
+30 necessary administrative rules; establish necessary policies
+31 and prepare necessary forms; prepare an ECFS state plan and
+32 develop ECFS district plans; develop plans for the transition
+33 of the early childhood Iowa initiative (initiative) and other
+34 early childhood and family services to the ECFS system; develop
+35 and implement a plan to ensure that individuals currently
+LSB 5557XD (13) 91
+-23- dg/ko 23/26
+
+S.F. _____ H.F. _____
+1 receiving ECFS system-related services under the purview of HHS
+2 or services provided through the initiative have uninterrupted
+3 continuity of care; and submit a report to the general assembly
+4 no later than January 15, 2027, that details the administrative
+5 and operational costs to establish, implement, and administer
+6 the ECFS system.
+7 The bill requires HHS to request any federal waivers or
+8 authorizations (waivers) necessary to implement the ECFS
+9 system. Notwithstanding other effective dates stated in the
+10 bill, any provision of the bill HHS determines necessitates a
+11 waiver is effective upon receipt of the federal approval of the
+12 waiver.
+13 The bill requires each early childhood Iowa area board (area
+14 board) that maintains a financial account to transfer all
+15 unencumbered and unobligated moneys remaining in the account
+16 on June 30, 2027, to the treasurer of state for deposit in the
+17 ECFS fund.
+18 The bill provides that all debts, claims, or other
+19 liabilities owed to an early childhood Iowa area (area), area
+20 board, or the state due to services rendered pursuant to Code
+21 chapter 256I at the conclusion of the transition period shall
+22 remain due and owing after the transition period concludes.
+23 After the transition period concludes, all fiscal agents
+24 contracted with an area board shall assist HHS in collecting
+25 outstanding debts, claims, or other liabilities owed to the
+26 areas or area boards for allowable activities and services
+27 that were provided or rendered before the transition period
+28 concluded. Reimbursement for allowable activities and services
+29 shall only be paid if accompanied by sufficient supporting
+30 documentation.
+31 With input from appropriate stakeholders, the bill requires
+32 HHS to identify each contract that will be impacted by the
+33 provisions relating to the ECFS system and the initiative. On
+34 or before June 30, 2027, each party to a contract identified
+35 by HHS shall exercise the option, if available pursuant to the
+LSB 5557XD (13) 91
+-24- dg/ko 24/26
+
+S.F. _____ H.F. _____
+1 terms of the contract, to terminate the contract. Contracts
+2 that do not provide for termination shall not be renewed or
+3 extended at the end of the current contract term.
+4 An area board, an area director, or any agent of an area or
+5 area board, and any subdivision of the state, shall not enter
+6 into, renew, or extend a contract related to the initiative
+7 or related activities if the term period of the contract
+8 would extend, or the deliverables under the contract would be
+9 provided, beyond June 30, 2027.
+10 The bill provides that any unobligated or unencumbered
+11 moneys remaining on June 30, 2027, in the early childhood Iowa
+12 fund, and any account within the fund created pursuant to Code
+13 section 256I.11, shall not revert but shall be transferred to
+14 and deposited in the ECFS fund.
+15 The bill provides HHS with emergency rulemaking authority
+16 during the transition period.
+17 This division of the bill takes effect upon enactment.
+18 DIVISION V —— HEALTH AND HUMAN SERVICES DISTRICTS. The
+19 bill directs HHS to divide the state into health and human
+20 services districts (districts), as that term is defined in the
+21 bill, to be used by HHS for statewide delivery of programs and
+22 services. The initial district boundaries shall be the same as
+23 the behavioral health district boundaries, as the behavioral
+24 health district boundaries existed on July 1, 2025. HHS must
+25 review the designation of the districts at least once every
+26 seven consecutive fiscal years. The bill provides factors HHS
+27 must consider when modifying a district, and modification is
+28 not subject to judicial review.
+29 This division of the bill is effective July 1, 2026, unless
+30 the sections of 2026 Iowa Acts, LSB 5558 XD, amending Code
+31 section 217.1 and enacting Code section 217.1B are enacted on
+32 or before July 1, 2026.
+33 DIVISION VI —— CONFORMING CHANGES. The bill includes
+34 conforming changes and this division takes effect July 1, 2027.
+35 DIVISION VII —— CHILD CARE WORKFORCE —— STATE CHILD CARE
+LSB 5557XD (13) 91
+-25- dg/ko 25/26
+
+S.F. _____ H.F. _____
+1 ASSISTANCE ELIGIBILITY. The bill provides that a child shall
+2 be eligible for the state child care assistance (CCA) program
+3 under Code section 237A.13 (state child care assistance)
+4 or 237A.14 (child care assistance —— graduated eligibility
+5 phase-out) if a parent, guardian, or custodian (custodian) is
+6 employed at a child care facility or child care home that has
+7 an agreement with HHS to accept reimbursement from the CCA
+8 program; works an average minimum of 32 hours per week in a
+9 position with a primary duty of providing child care directly
+10 to children; and meets several other requirements specified
+11 in the bill. A child of a director, co-director, or other
+12 administrative staff member (staff member) may be eligible if
+13 the staff member is regularly counted in the child-to-staff
+14 ratio established by the department. A custodian of a child
+15 participating in the CCA program under the bill shall make
+16 copayments as specified by HHS by rule.
+17 The bill requires HHS to adopt rules to administer this
+18 division of the bill. The division provides HHS with emergency
+19 rulemaking authority. This division of the bill takes effect
+20 upon enactment.
+21 DIVISION VIII —— CODE EDITOR DIRECTIVES. The bill provides
+22 Code editor directives.
+LSB 5557XD (13) 91
+-26- dg/ko 26/26

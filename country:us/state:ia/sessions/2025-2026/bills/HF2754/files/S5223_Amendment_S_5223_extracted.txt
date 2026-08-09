@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment S-5223
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2754
+S-5223
+1 Amend House File 2754, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. Page 52, after line 20 by inserting:
+4 <Sec. ___. Section 261E.8, subsection 2, paragraph b, Code
+5 2026, is amended by adding the following new subparagraph:
+6 NEW SUBPARAGRAPH. (5) Each accredited nonpublic school
+7 and charter school established pursuant to chapter 256E shall
+8 pay to the school district through which students enrolled
+9 in the accredited nonpublic school or charter school access
+10 the program an amount equal to the difference between the
+11 amount the school district paid to the community college that
+12 is directly associated with such student’s participation in
+13 the program less any amounts received by the school district
+14 pursuant to section 257.11, subsection 3, that are directly
+15 associated with such student’s participation in the program.>
+16 2. By renumbering as necessary.
+______________________________
+CINDY WINCKLER
+HF 2754.4255 (1) 91
+-1- jda/jh 1/1

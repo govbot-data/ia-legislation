@@ -1,0 +1,221 @@
+Title: 
+Official Title: 
+Source: versions - Amendment H-8326
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House File 2717
+H-8326
+1 Amend House File 2717 as follows:
+2 1. Page 1, by striking lines 1 and 2 and inserting:
+3 <DIVISION I
+4 RULEMAKING PROCESS —— LEGISLATIVE REVIEW, DELAY, AND APPROVAL
+5 OF RULES>
+6 2. By striking page 1, line 32, through page 2, line 1, and
+7 inserting <administrative bulletin created pursuant to section
+8 2B.5A. The legislative services agency shall provide the
+9 chairpersons and ranking members of the appropriate standing
+10 committees of the general assembly a means to receive an
+11 electronic copy of the notice for additional study. Any notice
+12 of intended action>
+13 3. Page 5, by striking lines 31 through 35.
+14 4. By striking page 6, line 11, through page 10, line 33,
+15 and inserting:
+16 <Sec. ___. Section 17A.8, subsections 1, 5, and 6, Code
+17 2026, are amended to read as follows:
+18 1. There is created the “Administrative Rules Review
+19 Committee.” The committee shall be bipartisan and shall be
+20 composed of the following members:
+21 a. Three Five senators appointed by the majority leader of
+22 the senate and two three senators appointed by the minority
+23 leader of the senate. The members appointed by the majority
+24 leader of the senate, other than the chairperson, shall be
+25 chairpersons of standing committees of the senate.
+26 b. Three Five representatives appointed by the
+27 speaker of the house of representatives and two three
+28 representatives appointed by the minority leader of the house
+29 of representatives. The members appointed by the speaker of
+30 the house, other than the chairperson, shall be chairpersons of
+31 standing committees of the house of representatives.
+32 5. a. A regular committee meeting shall be held at the
+33 seat of government on the second Tuesday of each month or on an
+34 alternative date established by the committee. An additional
+35 committee meeting shall be held in each month in which the
+HF 2717.3680 (2) 91
+-1- je/ko 1/6
+
+1 general assembly is convened for a regular session. The
+2 chairperson may waive the requirement for an additional meeting
+3 in a month in which a regular session of the general assembly
+4 adjourns. Unless impracticable, in advance of each such
+5 meeting the subject matter to be considered shall be published
+6 in the Iowa administrative bulletin.
+7 b. A special committee meeting may be called by the
+8 chairperson at any place in the state and at any time. Unless
+9 impracticable, in advance of each special meeting notice of
+10 the time and place of such meeting and the subject matter to
+11 be considered shall be published in the Iowa administrative
+12 bulletin.
+13 6. The committee shall meet for the purpose of selectively
+14 reviewing rules, whether proposed or in effect. The committee
+15 shall review a notice of intended action classified as a major
+16 rule pursuant to section 17A.4, subsection 1, paragraph “a”,
+17 before the earliest date on which the proposed rule could
+18 be adopted pursuant to that paragraph. The committee shall
+19 review a rule adopted under section 17A.5, subsection 2,
+20 paragraph “b”, and classified as a major rule pursuant to
+21 section 17A.4, subsection 1, paragraph “a”, or section 17A.5,
+22 subsection 3, within thirty-five days of the publication of
+23 the adopted rule in the Iowa administrative bulletin. The
+24 committee shall review any other adopted rule classified as a
+25 major rule pursuant to section 17A.4, subsection 1, paragraph
+26 “a”, or section 17A.5, subsection 3, before its effective
+27 date. A regular or special committee meeting shall be open to
+28 the public and an interested person may be heard and present
+29 evidence. The committee may require a representative of an
+30 agency whose rule or proposed rule is under consideration
+31 to attend a committee meeting. The committee may request
+32 additional information about a rule from an agency.
+33 Sec. ___. Section 17A.8, subsection 4, Code 2026, is amended
+34 by adding the following new paragraph:
+35 NEW PARAGRAPH. c. The administrative rules review
+HF 2717.3680 (2) 91
+-2- je/ko 2/6
+
+1 committee may establish a subcommittee of three members of
+2 the general assembly for the purpose of providing additional
+3 review of a proposed or adopted major rule. The chairperson
+4 of the subcommittee shall be a member of a standing committee
+5 appropriate for the subject matter of the major rule. At
+6 least two members of the subcommittee shall be members of the
+7 administrative rules review committee. The subcommittee may
+8 request additional information about the major rule from the
+9 agency that proposed or adopted the major rule and require
+10 a representative of the agency to attend a meeting of the
+11 subcommittee or the committee and respond to questions from
+12 subcommittee or committee members. The subcommittee may
+13 provide recommendations and other information regarding the
+14 major rule to the committee.
+15 Sec. ___. Section 17A.8, Code 2026, is amended by adding the
+16 following new subsection:
+17 NEW SUBSECTION. 11. a. Upon a vote of the majority of
+18 its members, the administrative rules review committee may
+19 delay the effective date of a rule for approval by the general
+20 assembly, unless the rule is adopted under section 17A.5,
+21 subsection 2, paragraph “b”. If the rule is adopted under
+22 section 17A.5, subsection 2, paragraph “b”, the committee,
+23 within thirty-five days of the publication of the rule in the
+24 Iowa administrative bulletin and upon a vote of the majority
+25 of its members, may suspend the applicability of the rule for
+26 approval by the general assembly. The committee may delay the
+27 effective date or suspend the applicability of a rule if it
+28 determines any of the following:
+29 (1) The rule lacks adequate statutory authority.
+30 (2) The rule imposes costs, burdens, or mandates on the
+31 private sector that are not justified by the regulatory
+32 analysis required by section 17A.4A.
+33 (3) The agency failed to comply with a requirement of this
+34 chapter in its rulemaking process.
+35 (4) The rule raises significant policy concerns that
+HF 2717.3680 (2) 91
+-3- je/ko 3/6
+
+1 warrant review by the general assembly.
+2 b. The committee shall refer the rule to the speaker of the
+3 house of representatives and the president of the senate. The
+4 referral shall be in writing and shall include the committee’s
+5 specific determination under paragraph “a”, subparagraphs
+6 (1) through (4), the committee’s findings regarding the
+7 determination, and any other information the committee deems
+8 appropriate. The committee shall make the referral within ten
+9 days of the vote under paragraph “a”. The administrative code
+10 editor shall publish the referral in the Iowa administrative
+11 bulletin.
+12 c. The rule shall not become effective or applicable unless
+13 it is approved by the general assembly. A rule that is not
+14 approved shall not become effective or applicable. The general
+15 assembly may approve a rule by passage of a joint resolution.
+16 The rule shall become effective or applicable on the effective
+17 date of the joint resolution.
+18 d. (1) If the effective date of a rule is delayed or the
+19 applicability of a rule is suspended under this subsection
+20 while the general assembly is not in session, and the governor
+21 determines that the rule must become effective or applicable
+22 immediately due to a requirement of federal law, a condition of
+23 federal funding, or a state of disaster emergency proclaimed
+24 by the governor pursuant to section 29C.6, the governor may
+25 request temporary approval of the rule by the legislative
+26 council. The rule shall become effective or applicable
+27 upon temporary approval by the legislative council. A rule
+28 temporarily approved by the legislative council shall cease to
+29 be effective or applicable upon the adjournment of the next
+30 regular session of the general assembly unless the general
+31 assembly approves the rule by passage of a joint resolution
+32 before adjournment. A rule that ceases to be applicable shall
+33 cease to be effective on the same date. The rule shall remain
+34 effective or applicable if approved.
+35 (2) As soon as practicable, but no sooner than two weeks
+HF 2717.3680 (2) 91
+-4- je/ko 4/6
+
+1 after publication of notice pursuant to paragraph “e”, the
+2 administrative code editor shall remove a rule that has ceased
+3 to be effective or applicable from the Iowa administrative
+4 code.
+5 e. The administrative code editor shall publish notice of a
+6 delayed effective date or of applicability that was suspended,
+7 and that a rule has been approved or ceased to be effective, in
+8 the Iowa administrative code and bulletin.
+9 f. Action by the committee under this subsection shall not
+10 be construed to preclude any of the following:
+11 (1) Any other action on a rule by the committee authorized
+12 by this chapter, including but not limited to subsections 9 and
+13 10.
+14 (2) Enactment of legislation relating to a rule by the
+15 general assembly.
+16 (3) Further rulemaking by an agency.
+17 Sec. ___. NEW SECTION. 17A.19A Judicial review —— major
+18 rules.
+19 1. In addition to any other action permitted under section
+20 17A.19, an aggrieved or adversely affected person or party may
+21 bring an action in district court concerning a major rule.
+22 The district court shall have jurisdiction to do all of the
+23 following:
+24 a. Engage in de novo review of whether a rule is a major
+25 rule.
+26 b. Determine whether an agency complied with the
+27 requirements of this chapter relating to major rules.
+28 c. Determine when or if a rule alleged to be a major rule
+29 became effective.
+30 2. The approval of a major rule by the general assembly
+31 pursuant to section 17A.8, subsection 11, shall not do any of
+32 the following:
+33 a. Extinguish or otherwise affect any legal claim, whether
+34 substantive or procedural, concerning any alleged legal defect
+35 of the major rule.
+HF 2717.3680 (2) 91
+-5- je/ko 5/6
+
+1 b. Be construed as a grant or modification of statutory
+2 authority by the general assembly for the adoption of the major
+3 rule.
+4 c. Be part of the record before the district court in any
+5 judicial proceeding concerning a major rule except for purposes
+6 of a proceeding under subsection 1.
+7 Sec. ___. APPLICABILITY. This division of this Act applies
+8 to rulemaking commencing with a regulatory analysis pursuant to
+9 section 17A.4A, as amended by this Act, published in the Iowa
+10 administrative bulletin on or after October 1, 2026, or with
+11 a rule adopted under section 17A.4, subsection 3, and section
+12 17A.5, subsection 2, paragraph “b”, on or after October 1,
+13 2026.>
+14 5. Title page, by striking line 2 and inserting <legislative
+15 review, delay, and approval of administrative rules and
+16 ratification of certain other>
+17 6. By renumbering as necessary.
+______________________________
+WILLS of Dickinson
+HF 2717.3680 (2) 91
+-6- je/ko 6/6

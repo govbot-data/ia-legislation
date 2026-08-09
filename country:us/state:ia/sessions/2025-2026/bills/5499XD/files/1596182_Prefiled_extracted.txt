@@ -1,0 +1,364 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+EDUCATION BILL)
+A BILL FOR
+1 An Act relating to education reporting, including the sharing
+2 of unit-level wage data for secondary and postsecondary
+3 program evaluation, the establishment of the condition of
+4 education report, consolidating certain required reports,
+5 modifying responsibilities for the future ready Iowa
+6 last-dollar scholarship report, modifying Iowa workforce
+7 development data-sharing provisions, and creating a return
+8 on investment reporting system to be overseen by the Iowa
+9 student aid commission.
+10 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5499XD (5) 91
+mb/jh
+
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 84A.22 Unit-level wage data for
+2 educational program evaluation.
+3 1. For purposes of this section, “unit-level wage data”
+4 means individual-level employment records maintained by the
+5 department of workforce development, including but not limited
+6 to occupational title associated with a standard occupational
+7 classification code, hours worked, job-site location, and
+8 employer industry classification.
+9 2. The department of workforce development shall, pursuant
+10 to a request from the department of education, provide
+11 unit-level wage data for the purpose of evaluating secondary
+12 and postsecondary program outcomes, including return on
+13 investment reporting.
+14 3. The department of workforce development may enter into
+15 data-sharing agreements with the department of education to
+16 administer this section.
+17 Sec. 2. Section 96.11, subsection 6, paragraph c,
+18 subparagraph (6), Code 2026, is amended to read as follows:
+19 (6) Colleges, universities, and public agencies of this
+20 state for use in connection with research of a public nature,
+21 provided the department does not reveal the identity of an
+22 employing unit or individual unless such reporting is required
+23 by federal or state law for purposes of accountability or
+24 evaluation.
+25 Sec. 3. Section 256.7, subsection 32, paragraph b,
+26 subparagraph (2), Code 2026, is amended to read as follows:
+27 (2) The department shall compile and review the data
+28 collected pursuant to this paragraph “b” and shall submit its
+29 findings and recommendations for the continued delivery of
+30 educational instruction and course content by school districts
+31 delivered primarily over the internet, in a summary of the data
+32 in the annual condition of education report to the general
+33 assembly by January 15 annually pursuant to section 256.9,
+34 subsection 80.
+35 Sec. 4. Section 256.9, subsections 19 and 45, Code 2026, are
+LSB 5499XD (5) 91
+-1- mb/jh 1/9
+
+S.F. _____ H.F. _____
+1 amended to read as follows:
+2 19. The department shall compile the financial information
+3 related to chapters 423E and 423F from the certified annual
+4 reports of each school district received pursuant to section
+5 291.10, subsection 2, and shall submit the information to the
+6 general assembly in an the annual condition of education report
+7 each February 1 pursuant to section 256.9, subsection 80.
+8 45. Prepare and submit to the chairpersons and ranking
+9 members of the senate and house education committees a report
+10 on the state’s progress toward closing the achievement gap,
+11 including student achievement for minority subgroups, and
+12 a comprehensive summary of state agency and local district
+13 activities and practices taken in the past year to close the
+14 achievement gap. Such information shall be submitted in the
+15 annual condition of education report pursuant to section 256.9,
+16 subsection 80.
+17 Sec. 5. Section 256.9, Code 2026, is amended by adding the
+18 following new subsection:
+19 NEW SUBSECTION. 80. Prepare an annual condition of
+20 education report to be submitted to the governor and general
+21 assembly by April 1 of each year.
+22 Sec. 6. Section 256.177, Code 2026, is amended by adding the
+23 following new subsection:
+24 NEW SUBSECTION. 12. a. For purposes of this subsection:
+25 (1) “Eligible public institution” means a community college
+26 established under chapter 260C or a public institution of
+27 higher education governed by the state board of regents under
+28 chapter 262.
+29 (2) “Program” means an instructional offering leading
+30 to a certificate, diploma, degree, or other postsecondary
+31 credential.
+32 (3) “Return on investment” means a measure comparing program
+33 costs to student outcomes, including employment and earning.
+34 b. Oversee a statewide, program-level postsecondary
+35 return on investment reporting system for eligible public
+LSB 5499XD (5) 91
+-2- mb/jh 2/9
+
+S.F. _____ H.F. _____
+1 institutions.
+2 c. Each eligible public institution shall submit data to the
+3 commission in a form and manner specified by the commission.
+4 The data must include data elements necessary to report all of
+5 the following:
+6 (1) Program tuition and fees.
+7 (2) Average time to completion.
+8 (3) Retention and completion rates.
+9 (4) Post-completion and employment rates.
+10 (5) Median earnings of program graduates.
+11 (6) Alignment to high-demand occupations, defined as
+12 occupations in which state, local, or regional labor market
+13 forecasting shows occupational demand exceeds the overall
+14 state, local, or regional employer demand metrics, including in
+15 openings, numeric change, and growth.
+16 d. The commission shall annually compile and publish program
+17 level return on investment data submitted pursuant to this
+18 subsection by eligible public institutions in a consumer-facing
+19 format.
+20 e. The commission shall adopt rules pursuant to chapter 17A
+21 to administer this subsection.
+22 f. An eligible public institution that fails to comply with
+23 the reporting requirements under this subsection, as determined
+24 by the commission, shall be ineligible to participate in
+25 state-administered student financial aid programs administered
+26 by the commission until the commission determines there is
+27 substantial compliance. Prior to declaring an institution
+28 ineligible, the commission shall provide written notice to the
+29 institution and a reasonable opportunity for the institution
+30 to cure the noncompliance. This subsection applies only to
+31 state-administered student financial aid and shall not affect
+32 eligibility for federal student financial aid.
+33 Sec. 7. Section 256.228, subsection 4, paragraph d, Code
+34 2026, is amended to read as follows:
+35 d. In collaboration with the department of workforce
+LSB 5499XD (5) 91
+-3- mb/jh 3/9
+
+S.F. _____ H.F. _____
+1 development and the department of education, compile an annual
+2 report, in an aggregate form to protect the confidentiality of
+3 each eligible program’s participants, that includes the number
+4 of students receiving scholarships under this section, the
+5 number of students receiving grants under section 256.229, the
+6 number of scholarship and grant recipients completing a program
+7 of study or major annually and in the prescribed time frame
+8 under this section or section 256.229, the number of eligible
+9 institutions participating in the scholarship and grant
+10 programs established under this section or section 256.229,
+11 the number of written agreements entered into by the volunteer
+12 mentor program under section 15H.10, statistics on employment
+13 outcomes for future ready Iowa skilled workforce last-dollar
+14 scholarship and future ready Iowa skilled workforce grant
+15 program participants by industry, and other data as may be
+16 deemed pertinent by the commission, the department of workforce
+17 development, or the department of education. The commission
+18 shall submit the report to the governor and the general
+19 assembly annually by January 15 include this information in the
+20 report submitted pursuant to section 256.177, subsection 7.
+21 Sec. 8. Section 256E.12, subsection 2, Code 2026, is amended
+22 to read as follows:
+23 2. The state board shall prepare and file with the general
+24 assembly by December 1, annually, a comprehensive report with
+25 findings and recommendations relating to the charter school
+26 program in the state and whether the charter school program
+27 under this chapter is meeting the goals and purposes of the
+28 program. The report also shall contain, for each charter
+29 school, a copy of the charter school’s mission statement,
+30 attendance statistics and dropout rate, aggregate assessment
+31 test scores, projections of financial stability, and the number
+32 and qualifications of teachers and administrators. The report
+33 shall include the information required to be submitted under
+34 section 256F.10 by a charter school or innovation zone school
+35 authorized under chapter 256F.
+LSB 5499XD (5) 91
+-4- mb/jh 4/9
+
+S.F. _____ H.F. _____
+1 Sec. 9. Section 256F.10, Code 2026, is amended to read as
+2 follows:
+3 256F.10 Reports.
+4 1. A charter school or innovation zone school shall
+5 report at least annually to the school board or innovation
+6 zone consortium, advisory council, and the state board the
+7 information required by the school board or innovation zone
+8 consortium, advisory council, or the state board. The reports
+9 are public records subject to chapter 22.
+10 2. Not later than December 1 annually, the state board shall
+11 submit a comprehensive report with findings and recommendations
+12 to the general assembly. The report shall evaluate the state’s
+13 charter school and innovation zone school programs generally,
+14 including but not limited to an evaluation of whether the
+15 charter schools and innovation zone schools are fulfilling the
+16 purposes set forth in section 256F.4, subsection 2. The report
+17 also shall contain, for each charter school or innovation
+18 zone school, a copy of the charter school or innovation
+19 zone school’s mission statement, attendance statistics and
+20 dropout rate, aggregate assessment test scores, projections of
+21 financial stability, the number and qualifications of teachers
+22 and administrators, and number of and comments on supervisory
+23 visits by the department of education.
+24 Sec. 10. Section 279.51A, subsection 5, Code 2026, is
+25 amended to read as follows:
+26 5. Each school district shall report to the department of
+27 education, in a manner prescribed by the department, an annual
+28 count of all incidents of violence that result in injury or
+29 property damage or assault by a student in a school building,
+30 on school grounds, or at a school-sponsored function, and any
+31 time a student is referred for the use of or transfer to a
+32 therapeutic classroom. The report shall include but not be
+33 limited to demographic information on students reported as
+34 victims and reported as perpetrators of incidents of violence
+35 that result in injury or property damage or assault, including
+LSB 5499XD (5) 91
+-5- mb/jh 5/9
+
+S.F. _____ H.F. _____
+1 but not limited to disaggregated information on race, gender,
+2 national origin, age, grade level, and disability, along with
+3 any other data required for the department to implement the
+4 federal Elementary and Secondary Education Act, as amended by
+5 the federal Every Student Succeeds Act, Pub. L. No. 114-95,
+6 with appropriate safeguards to ensure student privacy. The
+7 department shall compile and summarize the reports, categorized
+8 by behavior, and shall submit the summary to the general
+9 assembly by November 1 annually in the annual condition of
+10 education report pursuant to section 256.9, subsection 80. A
+11 teacher or administrator who submits a report in accordance
+12 with this section and who meets the requirements of section
+13 280.27 or section 613.21 shall be immune from civil or criminal
+14 liability relating to such action, as well as for participating
+15 in any administrative or judicial proceeding resulting from or
+16 relating to the report pursuant to the provisions of sections
+17 280.27 and 613.21. The provisions of section 70A.29 shall
+18 apply to a teacher or administrator who submits a report in
+19 accordance with this section or who reports an incident of
+20 violence or assault to a local law enforcement agency in good
+21 faith and without fraudulent intent or the intent to deceive.
+22 Personal information regarding a student in a report submitted
+23 pursuant to this section shall be kept confidential as required
+24 under the federal Family Educational Rights and Privacy Act, 20
+25 U.S.C. §1232g, and in the same manner as personal information
+26 in student records maintained, created, collected, or assembled
+27 by or for a school corporation or educational institution in
+28 accordance with section 22.7, subsection 1.
+29 Sec. 11. Section 279.60, subsection 2, Code 2026, is amended
+30 to read as follows:
+31 2. The school district shall also collect information from
+32 each parent, guardian, or legal custodian of a kindergarten
+33 student enrolled in the district on whether the student
+34 attended preschool. Each school district shall report the
+35 preschool information collected to the department of education
+LSB 5499XD (5) 91
+-6- mb/jh 6/9
+
+S.F. _____ H.F. _____
+1 in the manner prescribed by the department not later than
+2 January 1 of that school year. The early childhood Iowa
+3 program in the department of health and human services shall
+4 have access to the raw data. The department of education shall
+5 review the information submitted pursuant to this section
+6 and shall submit its findings and recommendations annually
+7 in a summary of the information in the annual condition of
+8 education report pursuant to section 256.9, subsection 80, to
+9 the governor, the general assembly, the early childhood Iowa
+10 state board, and the early childhood Iowa area boards.
+11 Sec. 12. Section 284.11, subsection 2, paragraph c, Code
+12 2026, is amended to read as follows:
+13 c. Review If funding is appropriated for purposes of
+14 this section, review the use and effectiveness of the funds
+15 distributed to school districts for supplemental assistance in
+16 high-need schools under this section. The department shall
+17 submit its findings and recommendations in a report to the
+18 general assembly by January 15 annually.
+19 Sec. 13. Section 284.15, subsection 7, paragraph a, Code
+20 2026, is amended to read as follows:
+21 a. A school district may apply to the department for
+22 approval to implement the career paths, leadership roles,
+23 and compensation framework specified in subsection 2, or
+24 a comparable system of career paths and compensation for
+25 teachers that contains differentiated multiple leadership
+26 roles. The director shall consider the recommendations of the
+27 commission established pursuant to subsection 12 when approving
+28 or disapproving applications submitted pursuant to this
+29 section. A school district may modify an approved framework or
+30 comparable system if the director or the director’s designee
+31 approves the modification. A school district may appeal the
+32 director’s or the director’s designee’s decision to the state
+33 board and the state board’s decision is final.
+34 EXPLANATION
+35 The inclusion of this explanation does not constitute agreement with
+LSB 5499XD (5) 91
+-7- mb/jh 7/9
+
+S.F. _____ H.F. _____
+1 the explanation’s substance by the members of the general assembly.
+2 This bill relates to education reporting.
+3 The bill requires the department of workforce development
+4 to provide unit-level wage data to the department of education
+5 upon request for the purpose of evaluating secondary and
+6 postsecondary program outcomes, including return on investment
+7 reporting. The bill defines “unit-level wage data” as
+8 individual-level employment records maintained by the
+9 department of workforce development, including but not limited
+10 to occupational title associated with a standard occupational
+11 classification code, hours worked, job-site location, wages,
+12 and employer industry classification. The bill permits the
+13 department of workforce development and the department of
+14 education to enter into data-sharing agreements.
+15 The bill establishes the annual condition of education
+16 report. The bill requires the annual condition of education
+17 report to be submitted to the governor and general assembly by
+18 April 1 of each year. The bill consolidates several existing
+19 reports into the annual condition report, including the online
+20 learning report, the compilation of financial information
+21 related to the secure an advanced vision for education (SAVE)
+22 report and school infrastructure local option (SILO) report,
+23 the achievement gap report, the incidents of violence report,
+24 and the kindergarten literacy assessment report.
+25 The bill incorporates the future ready Iowa last-dollar
+26 scholarship report into the college student aid commission’s
+27 annual reporting by requiring the information be included
+28 in the report submitted pursuant to Code section 256.177,
+29 subsection 7.
+30 The bill adds to the annual charter school report the
+31 information that charter schools and innovation zone schools
+32 are currently required to report under Code chapter 256F, and
+33 strikes the detailed reporting requirements from that chapter.
+34 The bill provides that the high-need schools report in
+35 Code section 284.11 is contingent upon an appropriation by
+LSB 5499XD (5) 91
+-8- mb/jh 8/9
+
+S.F. _____ H.F. _____
+1 retaining the requirement that findings and recommendations be
+2 submitted only if funding is appropriated for purposes of the
+3 Code section.
+4 The bill modifies Iowa workforce development’s ability to
+5 share unit-level data by permitting disclosure of individual
+6 and employer information if such reporting is required
+7 by federal or state law for purposes of accountability or
+8 evaluation.
+9 The bill adds a duty to the Iowa student aid commission
+10 to oversee a statewide program-level postsecondary return on
+11 investment reporting system for eligible public institutions.
+12 Such institutions include community colleges and regents
+13 institutions, and are required to submit data in a form and
+14 manner specified by the commission. The bill requires the data
+15 submitted to include tuition and fees, time to completion,
+16 retention and completion rates, post-completion employment,
+17 median earnings, and alignment to high-demand occupations.
+18 The bill requires the commission to compile and annually
+19 publish the data in a consumer-facing format. Institutions
+20 failing to comply with the data reporting requirement,
+21 as determined by the commission, are ineligible for
+22 state-administered student financial aid until substantial
+23 compliance is achieved.
+24 The bill strikes an obsolete reference in Code chapter 284.
+LSB 5499XD (5) 91
+-9- mb/jh 9/9

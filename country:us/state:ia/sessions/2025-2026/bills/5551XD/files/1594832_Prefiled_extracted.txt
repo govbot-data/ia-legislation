@@ -1,0 +1,718 @@
+Title: 
+Official Title: 
+Source: versions - Prefiled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SENATE/HOUSE FILE _____
+BY (PROPOSED ATTORNEY GENERAL
+BILL)
+A BILL FOR
+1 An Act relating to victim protections including victim
+2 counselors, protective orders, sex offender registration,
+3 rights of sexual abuse victims, mental competency and civil
+4 commitment, restitution, and victim rights.
+5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 5551XD (8) 91
+as/js
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 VICTIM COUNSELORS
+3 Section 1. Section 915.20A, subsection 1, paragraphs a and
+4 d, Code 2026, are amended to read as follows:
+5 a. “Confidential communication” means information shared
+6 between a crime victim and a victim counselor within the
+7 counseling relationship, and includes all information received
+8 by the counselor and any advice, report, or working paper given
+9 to or prepared by the counselor in the course of the counseling
+10 relationship with the victim. “Confidential information” is
+11 confidential information which that, so far as the victim is
+12 aware, is not disclosed to a third party with the exception
+13 of a person present in the consultation for the purpose
+14 of furthering the interest of the victim, a person to whom
+15 disclosure is reasonably necessary for the transmission of the
+16 information, or a person with whom disclosure is necessary
+17 for accomplishment of the purpose for which the counselor is
+18 consulted by the victim, or as may be required by this section.
+19 d. “Victim counselor” means a person who is engaged in a
+20 crime victim center, is certified as a counselor by the crime
+21 victim center, and is under the control of a direct services
+22 supervisor of a crime victim center, whose primary purpose
+23 is the rendering of advice, counseling, and assistance to
+24 the victims of crime. To qualify as a “victim counselor”
+25 victim counselor under this section, the person must also have
+26 completed at least twenty hours of training provided by the
+27 center in which the person is engaged, by the Iowa organization
+28 of victim assistance, by the Iowa coalition against sexual
+29 assault, or by the Iowa coalition against domestic violence,
+30 or by an organization under contract with the department
+31 to provide training, which training shall include but not
+32 be limited to the dynamics of victimization, substantive
+33 laws relating to violent crime, human trafficking, sexual
+34 assault, and domestic violence, crisis intervention techniques,
+35 communication skills, working with diverse populations, an
+LSB 5551XD (8) 91
+-1- as/js 1/18
+
+S.F. _____ H.F. _____
+1 overview of the state criminal justice system, information
+2 regarding pertinent hospital procedures, and information
+3 regarding state and community resources for victims of crime.
+4 Sec. 2. Section 915.20A, subsections 2 and 5, Code 2026, are
+5 amended to read as follows:
+6 2. A victim counselor shall not be compelled to produce
+7 confidential communications or confidential information or be
+8 examined or required to give evidence in any civil or criminal
+9 proceeding as to any confidential communication or confidential
+10 information made by a victim to the counselor, nor shall a
+11 clerk, secretary, stenographer, or any other employee who types
+12 or otherwise prepares or manages the confidential reports or
+13 working papers of a victim counselor be required to produce
+14 evidence of any such confidential communication or confidential
+15 information, unless the except under any of the following
+16 circumstances:
+17 a. The victim waives this privilege in writing or
+18 disclosure.
+19 b. Disclosure of the information is compelled by a court
+20 pursuant to subsection 7. Under no circumstances shall the
+21 location of a crime victim center or the identity of the victim
+22 counselor be disclosed in any civil or criminal proceeding.
+23 c. Failure to disclose is likely to result in a clear,
+24 imminent risk of serious physical injury or death of the victim
+25 or another person.
+26 5. The privilege under this section does not apply in
+27 matters of proof concerning the chain of custody of evidence,
+28 or in matters of proof concerning the physical appearance
+29 of the victim at the time of the injury or the counselor’s
+30 first contact with the victim after the injury, or where the
+31 counselor has reason to believe that the victim has given
+32 perjured testimony and the defendant or the state has made an
+33 offer of proof that perjury may have been committed.
+34 Sec. 3. Section 915.20A, Code 2026, is amended by adding the
+35 following new subsection:
+LSB 5551XD (8) 91
+-2- as/js 2/18
+
+S.F. _____ H.F. _____
+1 NEW SUBSECTION. 10. Any victim counselor or crime victim
+2 center participating in good faith in the disclosure of records
+3 and communications under this section shall have immunity from
+4 any liability, civil or criminal, arising out of a disclosure
+5 under this section. The good faith of the victim counselor or
+6 crime victim center shall be presumed.
+7 DIVISION II
+8 PROTECTIVE ORDERS
+9 Sec. 4. Section 236A.7, subsection 3, Code 2026, is amended
+10 to read as follows:
+11 3. a. An order for a protective order or approved consent
+12 agreement shall be for a fixed period of time not to exceed one
+13 year except as provided in this section. The court may amend
+14 or extend its order or a consent agreement at any time upon a
+15 petition filed by the plaintiff or defendant and after notice
+16 and hearing. The court may extend the order if the court,
+17 after hearing at which the defendant has the opportunity to
+18 be heard, finds that the defendant continues to pose a threat
+19 to the safety of the plaintiff, persons residing with the
+20 plaintiff, or members of the plaintiff’s immediate family. The
+21 number of extensions that can be granted by the court is not
+22 limited.
+23 b. Notwithstanding paragraph “a”, in the sentencing
+24 proceeding for a person convicted of a sexual offense as
+25 provided in section 709.8, 709.8A, 709.11, 709.12, 709.14,
+26 709.15, 709.21, or 709.23, any violation of chapter 710A, or
+27 a violation of section 713.3, subsection 1, paragraph “d”, a
+28 prosecutor may request that the criminal court grant the victim
+29 an order of protection to remain in effect for the duration of
+30 the criminal court’s jurisdiction over the person. At any time
+31 after the expiration of a criminal court’s jurisdiction over a
+32 person against whom an order of protection was granted pursuant
+33 to a request under this paragraph, the victim may:
+34 (1) File a petition for an order of protection against the
+35 person.
+LSB 5551XD (8) 91
+-3- as/js 3/18
+
+S.F. _____ H.F. _____
+1 (2) Submit evidence of the person’s conviction for a sexual
+2 offense as provided in this section as cause for the court to
+3 grant the order of protection.
+4 c. Based on evidence submitted pursuant to paragraph “b”,
+5 a court may take judicial notice of the facts that led to a
+6 person’s conviction for a sexual offense as provided in this
+7 section and a victim shall not be required to appear before
+8 the court on the victim’s petition for an order of protection;
+9 provided, however, that another person may appear on the
+10 victim’s behalf.
+11 d. A court may grant an order of protection pursuant to
+12 this section for any length of time, including for a victim’s
+13 lifetime.
+14 e. An order of protection granted pursuant to this section
+15 shall continue until the expiration provided in the order,
+16 if any, or until modified or rescinded upon a motion by the
+17 victim.
+18 DIVISION III
+19 SEX OFFENDER REGISTRATION
+20 Sec. 5. Section 692A.104, subsections 1, 2, 3, 5, 7, and 8,
+21 Code 2026, are amended to read as follows:
+22 1. A sex offender shall appear in person to register with
+23 the sheriff of each county where the offender has a residence,
+24 maintains employment, or is in attendance as a student, within
+25 five three business days of being required to register under
+26 section 692A.103 by providing all relevant information to
+27 the sheriff. A sheriff shall accept the registration of any
+28 person who is required to register in the county pursuant to
+29 the provisions of this chapter.
+30 2. A sex offender shall, within five three business days of
+31 changing a residence, employment, or attendance as a student,
+32 appear in person to notify the sheriff of each county where a
+33 change has occurred.
+34 3. A sex offender shall, within five three business days
+35 of a change in relevant information, other than relevant
+LSB 5551XD (8) 91
+-4- as/js 4/18
+
+S.F. _____ H.F. _____
+1 information enumerated in subsection 2, notify the sheriff of
+2 the county where the principal residence of the offender is
+3 maintained about the change to the relevant information. The
+4 department shall establish by rule what constitutes proper
+5 notification under this subsection.
+6 5. A sex offender shall, within five three business days of
+7 the establishment of a residence, employment, or attendance as
+8 a student in another jurisdiction, appear in person to notify
+9 the sheriff of the county where the principal residence of the
+10 offender is maintained, about the establishment of a residence,
+11 employment, or attendance in another jurisdiction. A sex
+12 offender shall, within five three business days of establishing
+13 a new residence, employment, or attendance as a student in
+14 another jurisdiction, register with the registering agency of
+15 the other jurisdiction, if the offender is required to register
+16 under the laws of the other jurisdiction. The department shall
+17 notify the registering agency in the other jurisdiction of the
+18 sex offender’s new residence, employment, or attendance as a
+19 student in the other jurisdiction.
+20 7. Except as provided in subsection 8, the initial or
+21 subsequent registration and any notifications required in
+22 subsections 1, 2, 4, 5, and 6 shall be by appearance at the
+23 sheriff’s office and completion of the initial or subsequent
+24 registration or notification shall be on a printed form, which
+25 shall be signed and dated by the sex offender. If the sheriff
+26 uses an electronic form to complete the initial registration
+27 or notification, the electronic form shall be printed upon
+28 completion and signed and dated by the sex offender. The
+29 sheriff shall transmit the registration or notification form
+30 completed by the sex offender within five three business days
+31 by paper copy, or electronically, using procedures established
+32 by the department by rule.
+33 8. The collection of relevant information by a court or
+34 releasing agency under section 692A.109 shall serve as the sex
+35 offender’s initial or subsequent registration for purposes of
+LSB 5551XD (8) 91
+-5- as/js 5/18
+
+S.F. _____ H.F. _____
+1 this section. However, the sex offender shall register by
+2 appearing in person in the county of residence to verify the
+3 offender’s arrival and relevant information. The court or
+4 releasing agency shall forward a copy of the registration to
+5 the department within five three business days of completion
+6 of registration using procedures established by the department
+7 by rule.
+8 Sec. 6. Section 692A.105, Code 2026, is amended to read as
+9 follows:
+10 692A.105 Additional registration requirements —— temporary
+11 lodging.
+12 In addition to the registration provisions specified in
+13 section 692A.104, a sex offender, within five three business
+14 days of a change, shall also appear in person to notify
+15 the sheriff of the county of principal residence, of any
+16 location in which the offender is staying when away from the
+17 principal residence of the offender for more than five days, by
+18 identifying the location and the period of time the offender is
+19 staying in such location.
+20 Sec. 7. NEW SECTION. 692A.105A Additional registration
+21 requirements.
+22 In addition to the registration provisions specified in
+23 section 692A.104, a sex offender, within three business days
+24 of a change, shall also appear in person to notify the sheriff
+25 of the county of the sex offender’s principal residence of the
+26 following:
+27 1. The name, address, and telephone number of the sex
+28 offender’s place of employment, and any changes to such
+29 information.
+30 2. The license plate number and a physical description,
+31 including make, model, and color, of any vehicle owned or
+32 regularly operated by the sex offender.
+33 DIVISION IV
+34 SEXUAL ABUSE —— RIGHTS
+35 Sec. 8. Section 709.10, subsections 6 and 7, Code 2026, are
+LSB 5551XD (8) 91
+-6- as/js 6/18
+
+S.F. _____ H.F. _____
+1 amended to read as follows:
+2 6. The law enforcement agency shall store the kit in a
+3 clean, dry location for a minimum of fifteen twenty years, or
+4 in the case of a minor victim for a minimum of fifteen years
+5 after the minor reaches the age of majority the lifetime of the
+6 minor victim, even if the reported victim of sexual abuse has
+7 not filed a criminal complaint.
+8 7. Prior to the disposal of a kit by a law enforcement
+9 agency, the law enforcement agency shall notify the reported
+10 victim of in writing not fewer than sixty days before the
+11 intended date of disposal of the kit, the reason for disposal
+12 of the kit, and the options that remain available for retention
+13 and analysis of the kit, if any. The law enforcement agency
+14 shall obtain written approval from the appropriate county
+15 attorney and retain that approval in the victim’s case file
+16 prior to disposal. Any kit disposed of shall be documented
+17 by a law enforcement agency in the kit tracking system within
+18 forty-eight hours of disposal. Upon written request of the
+19 reported victim, the law enforcement agency shall grant further
+20 preservation of the kit or its probative contents.
+21 Sec. 9. Section 709.22, subsection 1, paragraph c, Code
+22 2026, is amended to read as follows:
+23 c. Providing a victim with immediate and adequate notice
+24 of the victim’s rights. The notice shall consist of handing
+25 the victim a document that includes the telephone numbers of
+26 shelters, support groups, and crisis lines operating in the
+27 area and contains the following statement of rights written in
+28 English and Spanish; asking the victim to read the document;
+29 and asking whether the victim understands the rights:
+30 [1] You have the right to ask the court for help with any of
+31 the following on a temporary basis:
+32 [a] Keeping your attacker away from you, your home, and your
+33 place of work.
+34 [b] The right to stay at your home without interference from
+35 your attacker.
+LSB 5551XD (8) 91
+-7- as/js 7/18
+
+S.F. _____ H.F. _____
+1 [c] The right to seek a no-contact order under section 664A.3
+2 or 915.22, if your attacker is arrested for sexual assault.
+3 [2] You have the right to register as a victim with the
+4 county attorney under section 915.12.
+5 [3] You have the right to file a complaint for threats,
+6 assaults, or other related crimes.
+7 [4] You have the right to seek restitution against your
+8 attacker for harm to you or your property.
+9 [5] You have the right to apply for victim compensation.
+10 [6] You have the right to contact the county attorney or
+11 local law enforcement to determine the status of your case.
+12 [7] If you are in need of medical treatment, you have
+13 the right to request that the officer present assist you in
+14 obtaining transportation to the nearest hospital or otherwise
+15 assist you.
+16 [8] You have the right to a sexual assault examination
+17 performed at state expense. You have the right not to be
+18 prevented from receiving a sexual assault examination. If you
+19 choose to have a sexual assault examination:
+20 [a] You have the right to have a sexual assault examination
+21 kit or its probative contents preserved, without charge, for
+22 twenty years, or in the case of a minor victim for the lifetime
+23 of the minor victim, even if you do not file a criminal
+24 complaint, pursuant to section 709.10, subsection 6.
+25 [b] You have the right to be informed of any results of a
+26 sexual assault examination kit if such disclosure would not
+27 impede or compromise an ongoing investigation.
+28 [c] You have the right to be informed of the status and
+29 location of a sexual assault examination kit.
+30 [d] At least sixty days prior to the intended disposal of
+31 a sexual assault examination kit, you have the right to be
+32 notified in writing by a law enforcement agency of the intended
+33 disposal. This is so that you can make a written request for
+34 further preservation of the kit or its probative contents.
+35 [e] In order to notify a victim, the law enforcement
+LSB 5551XD (8) 91
+-8- as/js 8/18
+
+S.F. _____ H.F. _____
+1 office that has custody of the sexual assault examination kit
+2 must verify the victim’s physical address. A victim must
+3 notify the law enforcement office with custody of the sexual
+4 assault examination kit of any change to the victim’s contact
+5 information.
+6 [9] You have the right to request the presence of a victim
+7 counselor, as defined in section 915.20A, at any proceeding
+8 related to an assault including a medical examination.
+9 [10] If you believe that police protection is needed for your
+10 physical safety, you have the right to request that the officer
+11 present remain at the scene until you and other affected
+12 parties can leave or until safety is otherwise ensured.
+13 DIVISION V
+14 MENTAL COMPETENCY
+15 Sec. 10. Section 812.8, subsections 4 and 8, Code 2026, are
+16 amended to read as follows:
+17 4. a. Upon receiving a notification under this section, the
+18 court shall schedule a hearing to be held within fourteen days.
+19 Within ten days of receiving notice, a party may request a
+20 separate independent psychiatric evaluation to be performed by
+21 a psychiatrist or licensed, doctorate-level psychologist of the
+22 party’s own choosing. The requesting party must file notice
+23 of intent to seek such evaluation before the scheduled hearing
+24 and proceedings shall be stayed until such separate evaluation
+25 is completed. Upon receipt of the independent expert’s report,
+26 the requesting party shall file notice of receipt of that
+27 report with the court. The court shall schedule a hearing to
+28 be held within fourteen days of receipt of notice. The court
+29 shall also issue an order to transport the defendant to the
+30 hearing if the defendant is in custody or is being held in
+31 an inpatient facility. The defendant shall be transported
+32 by the sheriff of the county where the court’s motion or the
+33 application pursuant to section 812.3 was filed.
+34 b. Following the submission of an initial evaluation finding
+35 that there is no substantial probability that the defendant
+LSB 5551XD (8) 91
+-9- as/js 9/18
+
+S.F. _____ H.F. _____
+1 will be restored to competency in a reasonable amount of time
+2 and provided the defendant is otherwise eligible for pretrial
+3 release, the defendant may request a bond review hearing. In
+4 determining the conditions, if any, of the defendant’s release,
+5 the court shall consider whether the defendant is likely to
+6 voluntarily participate in the second evaluation as a factor in
+7 setting bond or other conditions of release.
+8 c. Upon receipt of the second evaluation, or upon expiration
+9 of the time period for obtaining a second evaluation, the court
+10 shall schedule and hold a hearing to determine the defendant’s
+11 competency status. At the hearing, the court shall make one of
+12 the following findings:
+13 (1) The defendant is competent to stand trial.
+14 (2) The defendant is not currently competent but there is a
+15 substantial probability that the defendant will be restored to
+16 competency within a reasonable period of time.
+17 (3) The defendant is not competent and there is no
+18 substantial probability that the defendant will be restored to
+19 competency within a reasonable period of time.
+20 8. If the court finds by a preponderance of the evidence
+21 that there is no substantial probability the defendant’s
+22 competency will be restored in a reasonable amount of time,
+23 the court shall terminate the commitment under section 812.6
+24 in accordance with the provisions of section 812.9 and, if the
+25 person is charged with a forcible felony, set the matter for
+26 commencement of civil proceedings. A charge of a forcible
+27 felony shall be deemed a recent overt act for purposes of civil
+28 commitment proceedings under chapter 229.
+29 DIVISION VI
+30 RESTITUTION
+31 Sec. 11. Section 602.8107, subsection 2, paragraph c, Code
+32 2026, is amended to read as follows:
+33 c. Payments received under this section shall be applied in
+34 the following priority order:
+35 (1) Pecuniary damages as defined in section 910.1,
+LSB 5551XD (8) 91
+-10- as/js 10/18
+
+S.F. _____ H.F. _____
+1 subsection 6.
+2 (2) Fines or penalties and the crime services surcharge.
+3 (3) Crime victim compensation program reimbursement.
+4 (4) (3) Court costs, court-appointed attorney fees, or
+5 public defender expenses.
+6 Sec. 12. Section 910.1, subsections 1 and 2, Code 2026, are
+7 amended to read as follows:
+8 1. “Category “A” restitution” means fines, penalties,
+9 payment of crime victim compensation program reimbursements,
+10 and surcharges.
+11 2. “Category “B” restitution” means the contribution of
+12 funds to a local anticrime organization which that provided
+13 assistance to law enforcement in an offender’s case, the
+14 payment of crime victim compensation program reimbursements,
+15 payment of restitution to public agencies pursuant to
+16 section 321J.2, subsection 13, paragraph “b”, court costs,
+17 court-appointed attorney fees ordered pursuant to section
+18 815.9, including the expense of a public defender, and payment
+19 to the medical assistance program pursuant to chapter 249A for
+20 expenditures paid on behalf of the victim resulting from the
+21 offender’s criminal activities including investigative costs
+22 incurred by the Medicaid fraud control unit pursuant to section
+23 249A.50.
+24 Sec. 13. Section 910.1, Code 2026, is amended by adding the
+25 following new subsections:
+26 NEW SUBSECTION. 2A. “Crime victim compensation program”
+27 means the program established in sections 915.80 through
+28 915.94 that provides financial assistance to crime victims for
+29 out-of-pocket expenses resulting from criminal acts.
+30 NEW SUBSECTION. 2B. “Crime victim compensation program
+31 reimbursements” means amounts a court has ordered a defendant
+32 to pay to the crime victim compensation program to reimburse
+33 the program for amounts the program expended to assist the
+34 defendant’s victim with out-of-pocket expenses incurred as a
+35 result of the defendant’s criminal actions. Reimbursements
+LSB 5551XD (8) 91
+-11- as/js 11/18
+
+S.F. _____ H.F. _____
+1 shall be made in accordance with this chapter and chapter 915.
+2 Sec. 14. Section 910.2, subsection 1, paragraph c, Code
+3 2026, is amended to read as follows:
+4 c. In structuring a plan of restitution, the plan of payment
+5 shall provide for payments in the following order of priority:
+6 (1) Pecuniary damages to the victim.
+7 (2) Category “A” restitution.
+8 (3) Category “B” restitution in the following order:
+9 (a) Crime victim compensation program reimbursement.
+10 (b) (a) Public agencies.
+11 (c) (b) Court costs.
+12 (d) (c) Court-appointed attorney fees ordered pursuant to
+13 section 815.9, including the expense of a public defender.
+14 (e) (d) Contribution to a local anticrime organization.
+15 (f) (e) The medical assistance program.
+16 Sec. 15. Section 910.3, subsection 5, Code 2026, is amended
+17 to read as follows:
+18 5. The statement of pecuniary damages shall ordinarily be
+19 provided no later than thirty days after sentencing. However,
+20 a prosecuting attorney may file a statement of pecuniary
+21 damages within a reasonable time after the prosecuting attorney
+22 is notified by a victim or the crime victim compensation
+23 program of any pecuniary damages incurred.
+24 Sec. 16. Section 915.80, Code 2026, is amended by adding the
+25 following new subsection:
+26 NEW SUBSECTION. 2A. “Crime victim compensation program”
+27 means the same as defined in section 910.1.
+28 DIVISION VII
+29 VICTIM RIGHTS
+30 Sec. 17. Section 915.46, subsection 1, paragraph e, Code
+31 2026, is amended to read as follows:
+32 e. “Sexual assault nurse examiner” means a registered
+33 nurse, an advanced registered nurse practitioner, or an
+34 advanced practice registered nurse, licensed pursuant to
+35 chapter 152 or 152E who has completed a sexual assault forensic
+LSB 5551XD (8) 91
+-12- as/js 12/18
+
+S.F. _____ H.F. _____
+1 examiner program that meets the sexual assault nurse examiner
+2 education guidelines established approved by the international
+3 association of forensic nurses department of justice.
+4 Sec. 18. Section 915.46, subsection 2, Code 2026, is amended
+5 to read as follows:
+6 2. A sexual assault forensic examiner program is
+7 established within the department of justice. The sexual
+8 assault forensic examiner program shall maintain a list of
+9 sexual assault examiners and sexual assault nurse examiners who
+10 have completed didactic and clinical training approved by the
+11 department of justice and consistent with the sexual assault
+12 forensic examiner education guidelines established approved by
+13 the international association of forensic nurses department of
+14 justice.
+15 Sec. 19. Section 915.46, subsection 4, paragraph b, Code
+16 2026, is amended to read as follows:
+17 b. The sexual assault forensic examiner program shall
+18 provide didactic and clinical training opportunities consistent
+19 with the sexual assault forensic examiner education guidelines
+20 established approved by the international association of
+21 forensic nurses department of justice, in collaboration with
+22 the department of health and human services and the Iowa
+23 coalition against sexual assault, in sufficient numbers and
+24 geographical locations across the state to assist treatment
+25 facilities with training sexual assault examiners and sexual
+26 assault nurse examiners.
+27 Sec. 20. Section 915.80, subsection 7, Code 2026, is amended
+28 to read as follows:
+29 7. “Secondary victim” means the victim’s spouse, children,
+30 parents, and siblings, foster parents, custodians, and any
+31 person who resides in the victim’s household at the time of the
+32 crime or at the time of the discovery of the crime. “Secondary
+33 victim” does not include persons who are the survivors of a
+34 victim who dies as a result of a crime.
+35 EXPLANATION
+LSB 5551XD (8) 91
+-13- as/js 13/18
+
+S.F. _____ H.F. _____
+1 The inclusion of this explanation does not constitute agreement with
+2 the explanation’s substance by the members of the general assembly.
+3 This bill relates to victim protections including victim
+4 counselors, protective orders, sex offender registration,
+5 rights of sexual abuse victims, mental competency and civil
+6 commitment, restitution, and victim rights.
+7 DIVISION I. The bill provides that a victim counselor, or a
+8 clerk, secretary, stenographer, or any other employee who types
+9 or otherwise prepares or manages the confidential reports or
+10 working papers of a victim counselor, must not be compelled to
+11 produce confidential communications or confidential information
+12 or be examined or required to give evidence concerning any
+13 confidential communication or confidential information made by
+14 a victim to the counselor, except under any of the following
+15 circumstances: the victim waives the privilege in writing,
+16 disclosure of the information is compelled by a court, or
+17 failure to disclose is likely to result in a clear, imminent
+18 risk of serious physical injury or death of the victim or
+19 another person.
+20 The bill provides that a victim counselor or crime victim
+21 center participating in good faith in the disclosing of records
+22 and communications under the bill shall have immunity from any
+23 liability, civil or criminal, arising out of a disclosure under
+24 the bill. The good faith of the victim counselor or crime
+25 victim center shall be presumed.
+26 DIVISION II. The bill provides that in the sentencing
+27 proceeding for a person convicted of certain sexual offenses a
+28 prosecutor may request that the criminal court grant the victim
+29 an order of protection to remain in effect for the duration of
+30 the criminal court’s jurisdiction over the person. After the
+31 expiration of a criminal court’s jurisdiction over a person
+32 against whom an order of protection was granted pursuant to a
+33 request under this paragraph, the victim may file a petition
+34 for an order of protection against the person, or submit
+35 evidence of the person’s conviction for a sexual offense as
+LSB 5551XD (8) 91
+-14- as/js 14/18
+
+S.F. _____ H.F. _____
+1 cause for the court to grant the order of protection.
+2 A court may take judicial notice of the facts that led to a
+3 person’s conviction for a sexual offense and a victim is not
+4 required to appear before the court on the victim’s petition
+5 for an order of protection. Another person may appear on the
+6 victim’s behalf.
+7 The bill provides that a court may grant an order of
+8 protection for any length of time, including for a victim’s
+9 lifetime. An order of protection continues until the
+10 expiration provided in the order, if any, or until modified or
+11 rescinded upon a motion by the victim.
+12 DIVISION III. The bill provides that a sex offender must
+13 appear in person to register with the sheriff of each county
+14 where the offender has a residence, maintains employment, or
+15 is in attendance as a student, within three business days of
+16 being required to register. A sex offender must also notify
+17 the sheriff, within three business days of the following: a
+18 change of residence or employment, a change of attendance as a
+19 student, the establishment of a new residence or employment,
+20 and attendance of school in another jurisdiction.
+21 The bill requires a sex offender to appear in person to
+22 notify the sheriff of the county of principal residence of any
+23 location in which the offender is staying when away from the
+24 principal residence of the offender for more than five days by
+25 identifying the location and the period of time the offender is
+26 staying in such location.
+27 The bill provides that a sex offender appear in person
+28 to notify the sheriff of the county of the sex offender’s
+29 principal residence of the following: the name, address, and
+30 telephone number of the sex offender’s place of employment, and
+31 any changes to such information, and the license plate number
+32 and a physical description, including make, model, and color,
+33 of any vehicle owned or regularly operated by the sex offender.
+34 DIVISION IV. The bill provides that a law enforcement agency
+35 shall store a sexual abuse evidence collection kit in a clean,
+LSB 5551XD (8) 91
+-15- as/js 15/18
+
+S.F. _____ H.F. _____
+1 dry location for a minimum of 20 years, or in the case of a
+2 minor victim for the lifetime of the minor victim, even if
+3 the reported victim of sexual abuse has not filed a criminal
+4 complaint. Prior to the disposal of a kit by a law enforcement
+5 agency, the law enforcement agency shall notify the reported
+6 victim in writing not fewer than 60 days before the intended
+7 date of disposal of the kit, the reason for disposal of the
+8 kit, and the options that remain available for retention and
+9 analysis of the kit, if any. Upon written request of the
+10 reported victim, the law enforcement agency shall grant further
+11 preservation of the kit or its probative contents.
+12 The bill adds additional information to be included in the
+13 document provided to victims explaining the victim’s rights
+14 including the following: the right not to be prevented from
+15 receiving a sexual assault examination; the right to have
+16 a sexual assault examination kit or its probative contents
+17 preserved, without charge, for 20 years, or in the case of a
+18 minor victim for the lifetime of the minor victim, even if the
+19 minor victim does not file a criminal complaint; the right to
+20 be informed of any results of a sexual assault examination kit
+21 if such disclosure would not impede or compromise an ongoing
+22 investigation; the right to be informed of the status and
+23 location of a sexual assault examination kit; and the right
+24 to be notified in writing by a law enforcement agency of the
+25 intended disposal of a kit.
+26 For notification purposes, the bill requires a victim to
+27 submit the victim’s physical address to the law enforcement
+28 office that has custody of the sexual assault examination kit.
+29 A victim must also notify the law enforcement office that has
+30 custody of the sexual assault examination kit of any change to
+31 the victim’s contact information.
+32 DIVISION V. The bill provides that upon a finding by
+33 an evaluating psychiatrist or licensed doctorate-level
+34 psychologist that there is no substantial probability that
+35 the defendant will be restored to competency in a reasonable
+LSB 5551XD (8) 91
+-16- as/js 16/18
+
+S.F. _____ H.F. _____
+1 amount of time, the court shall schedule a hearing to be held
+2 within 14 days. Within 10 days of receiving notice, a party
+3 may request a separate independent psychiatric evaluation to
+4 be performed by a psychiatrist or licensed, doctorate-level
+5 psychologist of the party’s own choosing. The requesting party
+6 must file notice of intent to seek such evaluation before the
+7 scheduled hearing. The requesting party must file notice
+8 of receipt of that report with the court. The court shall
+9 schedule a hearing to be held within 14 days of receipt of
+10 notice.
+11 The bill provides that following an initial evaluation
+12 finding that there is no substantial probability that the
+13 defendant will be restored to competency in a reasonable amount
+14 of time and provided the defendant is otherwise eligible for
+15 pretrial release, the defendant may request a bond review
+16 hearing. In determining the conditions, if any, of the
+17 defendant’s release, the court shall consider whether the
+18 defendant is likely to voluntarily participate in the second
+19 evaluation as a factor in setting bond or other conditions of
+20 release.
+21 The bill provides that after the receipt of a second
+22 evaluation, or upon expiration of the time period for obtaining
+23 a second evaluation, the court shall hold a hearing to
+24 determine the defendant’s competency status. At the hearing,
+25 the court shall make one of the following findings: the
+26 defendant is competent to stand trial; the defendant is not
+27 currently competent but there is a substantial probability
+28 that the defendant will be restored to competency within a
+29 reasonable period of time; or the defendant is not competent
+30 and there is no substantial probability that the defendant will
+31 be restored to competency within a reasonable period of time.
+32 The bill provides that if the court finds by a preponderance
+33 of the evidence that there is no substantial probability the
+34 defendant’s competency will be restored in a reasonable amount
+35 of time, the court shall terminate the commitment and, if the
+LSB 5551XD (8) 91
+-17- as/js 17/18
+
+S.F. _____ H.F. _____
+1 person is charged with a forcible felony, set the matter for
+2 commencement of civil proceedings. A charge of a forcible
+3 felony shall be deemed a recent overt act for purposes of civil
+4 commitment proceedings under Code chapter 229.
+5 DIVISION VI. The bill reclassifies the payment of crime
+6 victim compensation program reimbursements as category “A”
+7 restitution rather than category “B” restitution. Category
+8 “A” restitution is ordered without regard to an offender’s
+9 reasonable ability to make payments.
+10 The bill defines the “crime victim compensation program”
+11 as the program established in Code sections 915.80 through
+12 915.94 that provides financial assistance to crime victims for
+13 out-of-pocket expenses resulting from criminal acts.
+14 The bill defines “crime victim compensation program
+15 reimbursements” as the amounts a court has ordered a defendant
+16 to pay to the crime victim compensation program to reimburse
+17 the program for amounts the program expended to assist the
+18 defendant’s victim with out-of-pocket expenses incurred as a
+19 result of the defendant’s criminal actions.
+20 DIVISION VII. The bill provides that a sexual assault nurse
+21 examiner, as defined in Code section 915.46 shall complete a
+22 sexual assault forensic examiner program that meets the sexual
+23 assault nurse examiner education guidelines approved by the
+24 department of justice.
+25 The sexual assault forensic examiner program shall maintain
+26 a list of sexual assault examiners and sexual assault nurse
+27 examiners who have completed didactic and clinical training
+28 approved by the department of justice and consistent with the
+29 sexual assault forensic examiner education guidelines approved
+30 by the department of justice.
+31 The bill provides that a foster parent or custodian of a
+32 victim may qualify as a secondary victim.
+LSB 5551XD (8) 91
+-18- as/js 18/18
