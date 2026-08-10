@@ -19,7 +19,66 @@
       "identifier": "ocd-bill-ia-2025_2026-sf422"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, placed on calendar.",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-10T07:17:51Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-10T07:17:51Z"
+      }
+    },
+    {
+      "description": "Amendment S-3055 filed.",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-10T07:17:51Z"
+      }
+    },
+    {
+      "description": "Referred to Natural Resources and Environment.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-10T07:17:51Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Costello, Bennett, and Evans.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-10T07:17:51Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "COMMITTEE ON NATURAL RESOURCES AND ENVIRONMENT",
@@ -46,6 +105,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment S-3055",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S3055.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -64,7 +134,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:56:29Z",
+    "logs_latest_update": "2026-08-10T07:17:51Z",
     "text_extraction_latest_update": "2026-08-09T07:54:26.686946Z"
   }
 }
