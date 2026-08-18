@@ -20,7 +20,106 @@
       "identifier": "ocd-bill-ia-2025_2026-sf395"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, placed on calendar.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Fiscal note.",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 48, nays 0.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2025-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Read first time, passed on file.",
+      "date": "2025-03-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Placed on calendar under unfinished business.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    },
+    {
+      "description": "Rereferred to Public Safety.",
+      "date": "2025-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T06:38:43Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "COMMITTEE ON JUDICIARY",
@@ -49,7 +148,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal note 02/26/2025",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/FN/1523289.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -65,7 +176,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-17T06:52:38Z",
+    "logs_latest_update": "2026-08-18T06:38:44Z",
     "text_extraction_latest_update": "2026-08-17T06:53:40.438103Z"
   }
 }
