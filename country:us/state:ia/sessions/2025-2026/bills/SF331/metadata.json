@@ -20,7 +20,65 @@
       "identifier": "ocd-bill-ia-2025_2026-sf331"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, referred to Natural Resources and Environment.",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T06:40:57Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Costello, Sires, and Staed.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T06:40:57Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/19/2025 4:00PM Room 217 Conference Room.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T06:40:57Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T06:40:57Z"
+      }
+    },
+    {
+      "description": "Committee report approving bill, renumbered as SF 423.",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T06:40:57Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "COSTELLO",
@@ -65,7 +123,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-20T06:32:00Z",
+    "logs_latest_update": "2026-08-21T06:40:57Z",
     "text_extraction_latest_update": "2026-08-20T06:33:15.528546Z"
   }
 }
