@@ -19,7 +19,51 @@
       "identifier": "ocd-bill-ia-2025_2026-sf356"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, referred to State Government.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T06:40:39Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Reichman, Campbell, and Winckler.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T06:40:39Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 02/25/2025 3:30PM Senate Lounge.",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T06:40:39Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends amendment and passage.",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-23T06:40:39Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "REICHMAN",
@@ -64,7 +108,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T06:41:41Z",
+    "logs_latest_update": "2026-08-23T06:40:39Z",
     "text_extraction_latest_update": "2026-08-22T06:42:41.296745Z"
   }
 }
