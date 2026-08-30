@@ -23,7 +23,89 @@
       "identifier": "ocd-bill-ia-2025_2026-sf394"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, placed on calendar.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    },
+    {
+      "description": "Amendment S-3056 filed, adopted.",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-introduction",
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 26, nays 21.",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    },
+    {
+      "description": "Read first time, referred to Judiciary.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-30T11:28:20Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "COMMITTEE ON JUDICIARY",
@@ -80,6 +162,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment S-3056",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/S3056.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -98,7 +191,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-29T12:43:48Z",
+    "logs_latest_update": "2026-08-30T11:28:20Z",
     "text_extraction_latest_update": "2026-08-29T12:44:51.967970Z"
   }
 }
