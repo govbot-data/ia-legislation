@@ -22,65 +22,7 @@
       "identifier": "ocd-bill-ia-2025_2026-sf376"
     }
   ],
-  "actions": [
-    {
-      "description": "Introduced, referred to Commerce.",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
-      }
-    },
-    {
-      "description": "Subcommittee: Klimesh, Bousselot, and Knox.",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
-      }
-    },
-    {
-      "description": "Subcommittee Meeting: 03/04/2025 12:00PM Senate Lounge.",
-      "date": "2025-02-28",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
-      }
-    },
-    {
-      "description": "Subcommittee recommends passage.",
-      "date": "2025-03-04",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:25Z"
-      }
-    },
-    {
-      "description": "Committee report approving bill, renumbered as SF 2447.",
-      "date": "2026-02-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-09T06:56:29Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "KLIMESH",
@@ -125,7 +67,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T06:56:29Z",
+    "logs_latest_update": "2026-09-04T10:34:15Z",
     "text_extraction_latest_update": "2026-08-09T07:25:09.037552Z"
   }
 }
