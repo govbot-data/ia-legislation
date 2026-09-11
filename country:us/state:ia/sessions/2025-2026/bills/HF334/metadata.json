@@ -20,99 +20,7 @@
       "identifier": "ocd-bill-ia-2025_2026-hf334"
     }
   ],
-  "actions": [
-    {
-      "description": "Introduced, referred to Education.",
-      "date": "2025-02-12",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction",
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Subcommittee: Kniff McCulla, Hayes and Levin.",
-      "date": "2025-02-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Subcommittee Meeting: 02/25/2025 12:30PM RM 19.",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Subcommittee recommends passage.",
-      "date": "2025-02-25",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Committee report, recommending amendment and passage.",
-      "date": "2025-03-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Committee vote: Yeas, 14. Nays, 9.",
-      "date": "2025-03-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Committee report approving bill, renumbered as HF 884.",
-      "date": "2025-03-07",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "committee-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    },
-    {
-      "description": "Withdrawn.",
-      "date": "2025-03-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "withdrawal"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "KNIFF MCCULLA",
@@ -157,7 +65,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-09-11T10:36:40Z",
     "text_extraction_latest_update": "2026-07-21T23:23:32.548721Z"
   }
 }
