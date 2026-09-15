@@ -22,7 +22,51 @@
       "identifier": "ocd-bill-ia-2025_2026-sf360"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, referred to Health and Human Services.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T11:14:12Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Campbell, Donahue, and Guth.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T11:14:12Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 03/03/2025 1:30PM Room G15.",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T11:14:12Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends amendment and passage.",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T11:14:12Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "CAMPBELL",
@@ -67,7 +111,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-14T11:30:57Z",
+    "logs_latest_update": "2026-09-15T11:14:12Z",
     "text_extraction_latest_update": "2026-09-14T11:31:59.060246Z"
   }
 }
