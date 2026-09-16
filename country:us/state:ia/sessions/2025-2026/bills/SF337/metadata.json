@@ -24,7 +24,31 @@
       "identifier": "ocd-bill-ia-2025_2026-sf337"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, referred to Judiciary.",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:47:18Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Schultz, Bousselot, and Petersen.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T10:47:18Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "PETERSEN",
@@ -69,7 +93,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T11:14:12Z",
+    "logs_latest_update": "2026-09-16T10:47:18Z",
     "text_extraction_latest_update": "2026-09-15T11:15:18.261844Z"
   }
 }
