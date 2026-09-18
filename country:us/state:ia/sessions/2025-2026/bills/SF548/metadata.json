@@ -20,7 +20,228 @@
       "identifier": "ocd-bill-ia-2025_2026-sf548"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, placed on calendar.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Referred to Natural Resources and Environment.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Evans, Hardman, and Pike.",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 01/21/2026 5:00PM Room 217 Conference Room.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Placed on calendar.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Passed Senate, yeas 29, nays 17.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Immediate message.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Message from Senate.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Read first time, referred to Natural Resources.",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Fisher, Gjerde and Smith.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee Meeting: 03/18/2026 8:15AM House Lounge.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee recommends passage.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Committee report, recommending passage.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Committee vote: Yeas, 13. Nays, 6. Excused, 2.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Placed on calendar.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Placed on calendar under unfinished business.",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    },
+    {
+      "description": "Amendment H-8358 filed.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T10:24:44Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "COMMITTEE ON NATURAL RESOURCES AND ENVIRONMENT",
@@ -47,6 +268,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment H-8358",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/AMDI/91/H8358.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -65,7 +297,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-17T10:49:40Z",
+    "logs_latest_update": "2026-09-18T10:24:44Z",
     "text_extraction_latest_update": "2026-09-17T10:50:41.416821Z"
   }
 }
