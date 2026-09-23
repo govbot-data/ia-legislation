@@ -19,7 +19,64 @@
       "identifier": "ocd-bill-ia-2025_2026-sf388"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, placed on calendar.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:00:11Z"
+      }
+    },
+    {
+      "description": "Committee report, approving bill.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:00:11Z"
+      }
+    },
+    {
+      "description": "Attached to HF 259.",
+      "date": "2025-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:00:11Z"
+      }
+    },
+    {
+      "description": "Placed on calendar under unfinished business.",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:00:11Z"
+      }
+    },
+    {
+      "description": "Referred to State Government.",
+      "date": "2025-06-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:00:11Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "COMMITTEE ON STATE GOVERNMENT",
@@ -64,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-22T10:47:32Z",
+    "logs_latest_update": "2026-09-23T11:00:11Z",
     "text_extraction_latest_update": "2026-09-22T10:48:40.489198Z"
   }
 }
