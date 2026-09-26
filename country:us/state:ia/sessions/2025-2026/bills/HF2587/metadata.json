@@ -17,20 +17,7 @@
       "identifier": "ocd-bill-ia-2025_2026-hf2587"
     }
   ],
-  "actions": [
-    {
-      "description": "Introduced, placed on calendar. H.J. 02/18.",
-      "date": "2026-02-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:54:23Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "COMMITTEE ON PUBLIC SAFETY",
@@ -75,7 +62,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:23Z",
+    "logs_latest_update": "2026-09-26T10:50:45Z",
     "text_extraction_latest_update": "2026-07-21T21:32:08.682144Z"
   }
 }
