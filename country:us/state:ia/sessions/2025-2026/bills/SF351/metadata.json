@@ -20,7 +20,31 @@
       "identifier": "ocd-bill-ia-2025_2026-sf351"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Introduced, referred to Judiciary.",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T12:13:47Z"
+      }
+    },
+    {
+      "description": "Subcommittee: Schultz, Blake, and Bousselot.",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-29T12:13:47Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "TRONE GARRIOTT",
@@ -65,7 +89,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-28T12:31:04Z",
+    "logs_latest_update": "2026-09-29T12:13:47Z",
     "text_extraction_latest_update": "2026-09-28T12:32:10.128508Z"
   }
 }
